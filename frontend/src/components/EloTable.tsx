@@ -128,7 +128,7 @@ export default function EloTable() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-[100px] text-white">Rank</TableHead>
+            <TableHead className="text-white">Rank</TableHead>
             {/*<TableHead className="text-white">Logo</TableHead>*/}
             <TableHead className="text-white">Team</TableHead>
             <TableHead className="text-white">Elo</TableHead>
