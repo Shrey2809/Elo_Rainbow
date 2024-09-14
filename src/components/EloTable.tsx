@@ -104,7 +104,7 @@ export default function EloTable() {
         />
       </div>
       <Table className="text-xl table-fixed">
-        <TableCaption className="text-white">
+        <TableCaption className="text-white text-xl">
           Matchup data to calculate Elo provided by Liquipedia.
           <div className="pagination p-4 flex items-center justify-center">
             <button
@@ -128,11 +128,19 @@ export default function EloTable() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-1/4 text-white text-center">Rank</TableHead>
-            {/*<TableHead className="text-white">Logo</TableHead>*/}
-            <TableHead className="w-1/4 text-white text-center">Team</TableHead>
-            <TableHead className="w-1/4 text-white text-center">Elo</TableHead>
-            <TableHead className="w-1/4 text-white text-center">
+            <TableHead className="w-1/5 text-white text-center font-bold">
+              Rank
+            </TableHead>
+            <TableHead className="w-1/5 text-white text-center font-bold">
+              Logo
+            </TableHead>
+            <TableHead className="w-1/5 text-white text-center font-bold">
+              Team
+            </TableHead>
+            <TableHead className="w-1/5 text-white text-center font-bold">
+              Elo
+            </TableHead>
+            <TableHead className="w-1/5 text-white text-center font-bold">
               Region
             </TableHead>
           </TableRow>
@@ -140,13 +148,29 @@ export default function EloTable() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow key={data.id}>
-              <TableCell className="w-1/4 text-center">{data.rank}</TableCell>
-              {/*<TableCell></TableCell>*/}
-              <TableCell className="w-1/4 text-center">{data.team}</TableCell>
-              <TableCell className="w-1/4 text-center">
+              <TableCell className="w-1/5 text-center font-semibold">
+                {data.rank}
+              </TableCell>
+              <TableCell className="w-1/5 text-center font-semibold">
+                <img
+                  src={`/team_logos/${data.team.toLowerCase()}.png`}
+                  alt={data.team}
+                  className="w-10 h-10 mx-auto"
+                  loading="lazy"
+                  onError={(e) => {
+                    e.currentTarget.src = "/team_logos/no_org.png";
+                  }}
+                />
+              </TableCell>
+              <TableCell className="w-1/5 text-center font-semibold">
+                {data.team}
+              </TableCell>
+              <TableCell className="w-1/5 text-center font-semibold">
                 {Math.round(data.elo)}
               </TableCell>
-              <TableCell className="w-1/4 text-center">{data.region}</TableCell>
+              <TableCell className="w-1/5 text-center font-semibold">
+                {data.region}
+              </TableCell>
             </TableRow>
           ))}
         </TableBody>
