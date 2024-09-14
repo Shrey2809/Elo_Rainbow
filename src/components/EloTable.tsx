@@ -105,7 +105,7 @@ export default function EloTable() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchup data to calculate Elo provided by Liquipedia.
+          Matchups data and logos provided by Liquipedia. Coded by Axon319
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
