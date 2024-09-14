@@ -9,12 +9,11 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
-import Teams from "../../public/Sample.json"; // Use relative path if necessary
+import Teams from "../data.json";
 
-// Define the type for the JSON data structure
 type TeamJSON = {
   ID: number;
-  LastGameUpdated: number; // Not used for rank but kept for data structure consistency
+  LastGameUpdated: number;
   TeamName: string;
   Elo: number;
   Region: string;
@@ -32,7 +31,6 @@ type EloData = {
   region: string;
 };
 
-// Transform function with sorting by Elo rating
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
   const sortedTeams = data.Teams.map((team) => ({
@@ -42,14 +40,12 @@ const transformData = (data: TeamsData): EloData[] => {
     region: team.Region,
   })).sort((a, b) => b.elo - a.elo);
 
-  // Assign ranks based on the sorted order
   return sortedTeams.map((team, index) => ({
     ...team,
-    rank: index + 1, // Rank is 1-based
+    rank: index + 1,
   }));
 };
 
-// Example usage
 const transformedData = transformData(Teams);
 
 const rowsPerPage = 16;
@@ -67,17 +63,16 @@ export default function EloTable() {
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
     setSearchQuery(event.target.value.toLowerCase());
-    setCurrentPage(1); // Reset to first page when search query changes
+    setCurrentPage(1);
   };
 
   const handleSearchRegionChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
     setSearchRegion(event.target.value.toLowerCase());
-    setCurrentPage(1); // Reset to first page when search region changes
+    setCurrentPage(1);
   };
 
-  // Filter the transformed data based on search queries
   const filteredData = transformedData.filter(
     (data) =>
       data.team.toLowerCase().includes(searchQuery) &&
@@ -87,7 +82,6 @@ export default function EloTable() {
   const startIndex = (currentPage - 1) * rowsPerPage;
   const endIndex = startIndex + rowsPerPage;
 
-  // Use `slice` on the filtered data array
   const currentRows = filteredData.slice(startIndex, endIndex);
   const totalPages = Math.ceil(filteredData.length / rowsPerPage);
 
@@ -147,7 +141,7 @@ export default function EloTable() {
               <TableCell>{data.rank}</TableCell>
               {/*<TableCell></TableCell>*/}
               <TableCell>{data.team}</TableCell>
-              <TableCell>{data.elo}</TableCell>
+              <TableCell>{Math.round(data.elo)}</TableCell>
               <TableCell>{data.region}</TableCell>
             </TableRow>
           ))}

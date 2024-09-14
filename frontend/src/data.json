@@ -1,0 +1,668 @@
+{
+"Teams": [
+	{
+		"ID" : 1,
+		"TeamName" : "FURY",
+		"Elo" : 1491.7537923338598,
+		"LastGameUpdated" : 15,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 2,
+		"TeamName" : "NoCap",
+		"Elo" : 1482.8664718191983,
+		"LastGameUpdated" : 13,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 3,
+		"TeamName" : "DW",
+		"Elo" : 1382.7283093919928,
+		"LastGameUpdated" : 14,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 4,
+		"TeamName" : "DAY",
+		"Elo" : 1245.6186355255409,
+		"LastGameUpdated" : 24,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 5,
+		"TeamName" : "ELV",
+		"Elo" : 1543.4964690821112,
+		"LastGameUpdated" : 15,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 6,
+		"TeamName" : "KNOCK",
+		"Elo" : 1216.2771854489883,
+		"LastGameUpdated" : 16,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 7,
+		"TeamName" : "Bleed",
+		"Elo" : 1637.1579998976251,
+		"LastGameUpdated" : 14,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 8,
+		"TeamName" : "HW",
+		"Elo" : 1222.9393781250635,
+		"LastGameUpdated" : 16,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 9,
+		"TeamName" : "FaZe",
+		"Elo" : 1657.2058682583197,
+		"LastGameUpdated" : 10,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 10,
+		"TeamName" : "w7m",
+		"Elo" : 1694.0876153283132,
+		"LastGameUpdated" : 7,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 11,
+		"TeamName" : "Liquid",
+		"Elo" : 1656.1552217558306,
+		"LastGameUpdated" : 9,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 12,
+		"TeamName" : "NIP",
+		"Elo" : 1444.7544701352624,
+		"LastGameUpdated" : 8,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 13,
+		"TeamName" : "BD",
+		"Elo" : 1416.598846259896,
+		"LastGameUpdated" : 9,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 14,
+		"TeamName" : "E1",
+		"Elo" : 1490.0372052185578,
+		"LastGameUpdated" : 6,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 15,
+		"TeamName" : "Fluxo",
+		"Elo" : 1363.1990521217467,
+		"LastGameUpdated" : 10,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 16,
+		"TeamName" : "KS",
+		"Elo" : 1468.0243965799398,
+		"LastGameUpdated" : 6,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 17,
+		"TeamName" : "FURIA",
+		"Elo" : 1607.6999997387602,
+		"LastGameUpdated" : 7,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 18,
+		"TeamName" : "MIBR",
+		"Elo" : 1393.7723324615818,
+		"LastGameUpdated" : 8,
+		"Region" : "BR"
+	},
+	{
+		"ID" : 19,
+		"TeamName" : "ENCE",
+		"Elo" : 1369.5643962143868,
+		"LastGameUpdated" : 11,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 20,
+		"TeamName" : "Secret",
+		"Elo" : 1534.197174270112,
+		"LastGameUpdated" : 10,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 21,
+		"TeamName" : "ITB",
+		"Elo" : 1574.472236406958,
+		"LastGameUpdated" : 9,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 22,
+		"TeamName" : "WOL",
+		"Elo" : 1529.2237092395214,
+		"LastGameUpdated" : 12,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 23,
+		"TeamName" : "FNC",
+		"Elo" : 1334.720572915179,
+		"LastGameUpdated" : 12,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 24,
+		"TeamName" : "G2",
+		"Elo" : 1492.6734904023576,
+		"LastGameUpdated" : 11,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 25,
+		"TeamName" : "BDS",
+		"Elo" : 1892.3693257742354,
+		"LastGameUpdated" : 9,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 26,
+		"TeamName" : "WYLDE",
+		"Elo" : 1392.131805302985,
+		"LastGameUpdated" : 5,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 27,
+		"TeamName" : "VP",
+		"Elo" : 1471.0753767281615,
+		"LastGameUpdated" : 10,
+		"Region" : "EU"
+	},
+	{
+		"ID" : 28,
+		"TeamName" : "FB",
+		"Elo" : 1188.0419261064853,
+		"LastGameUpdated" : 8,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 29,
+		"TeamName" : "E36",
+		"Elo" : 1178.2218063055523,
+		"LastGameUpdated" : 5,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 30,
+		"TeamName" : "VIT",
+		"Elo" : 1329.101680730961,
+		"LastGameUpdated" : 7,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 31,
+		"TeamName" : "IGZ",
+		"Elo" : 1346.047242049136,
+		"LastGameUpdated" : 7,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 32,
+		"TeamName" : "CAG",
+		"Elo" : 1482.179826846889,
+		"LastGameUpdated" : 5,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 33,
+		"TeamName" : "CGL",
+		"Elo" : 1337.6597627351023,
+		"LastGameUpdated" : 6,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 34,
+		"TeamName" : "SZ",
+		"Elo" : 1567.637719161125,
+		"LastGameUpdated" : 8,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 35,
+		"TeamName" : "KNT",
+		"Elo" : 1402.134321445035,
+		"LastGameUpdated" : 6,
+		"Region" : "JAPAN"
+	},
+	{
+		"ID" : 36,
+		"TeamName" : "ME",
+		"Elo" : 1222.4883131466247,
+		"LastGameUpdated" : 7,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 37,
+		"TeamName" : "HWK",
+		"Elo" : 1048.163539814212,
+		"LastGameUpdated" : 45,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 38,
+		"TeamName" : "ALPHA",
+		"Elo" : 1338.5867248391232,
+		"LastGameUpdated" : 9,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 39,
+		"TeamName" : "KNI",
+		"Elo" : 1439.6109541729804,
+		"LastGameUpdated" : 9,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 40,
+		"TeamName" : "MvG",
+		"Elo" : 1045.3401985362157,
+		"LastGameUpdated" : 7,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 41,
+		"TeamName" : "VASCO",
+		"Elo" : 1413.4415195727272,
+		"LastGameUpdated" : 8,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 42,
+		"TeamName" : "NXT",
+		"Elo" : 1210.5638516935678,
+		"LastGameUpdated" : 57,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 43,
+		"TeamName" : "6K",
+		"Elo" : 1355.973798338831,
+		"LastGameUpdated" : 4,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 44,
+		"TeamName" : "CTY",
+		"Elo" : 1381.6794747033975,
+		"LastGameUpdated" : 11,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 45,
+		"TeamName" : "RVN",
+		"Elo" : 1300.4713081446853,
+		"LastGameUpdated" : 10,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 46,
+		"TeamName" : "CN",
+		"Elo" : 1192.0423324873875,
+		"LastGameUpdated" : 10,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 47,
+		"TeamName" : "ORGL",
+		"Elo" : 1092.1980084553245,
+		"LastGameUpdated" : 58,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 48,
+		"TeamName" : "VSN",
+		"Elo" : 1169.6340431229603,
+		"LastGameUpdated" : 26,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 49,
+		"TeamName" : "WINTERBEAR",
+		"Elo" : 1164.4134426008052,
+		"LastGameUpdated" : 5,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 50,
+		"TeamName" : "GK",
+		"Elo" : 1428.7011580527774,
+		"LastGameUpdated" : 7,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 51,
+		"TeamName" : "ROC",
+		"Elo" : 1351.0543918354986,
+		"LastGameUpdated" : 6,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 52,
+		"TeamName" : "OLD_TWM",
+		"Elo" : 1270.537056701874,
+		"LastGameUpdated" : 24,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 53,
+		"TeamName" : "FLCS",
+		"Elo" : 1315.8434950952667,
+		"LastGameUpdated" : 5,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 54,
+		"TeamName" : "ONYX",
+		"Elo" : 1365.9709403669347,
+		"LastGameUpdated" : 25,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 55,
+		"TeamName" : "PSSN",
+		"Elo" : 1103.4983481296158,
+		"LastGameUpdated" : 20,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 56,
+		"TeamName" : "WCG",
+		"Elo" : 1444.5663250881164,
+		"LastGameUpdated" : 15,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 57,
+		"TeamName" : "M80",
+		"Elo" : 1554.2792557365456,
+		"LastGameUpdated" : 14,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 58,
+		"TeamName" : "OXG",
+		"Elo" : 1374.0550759182972,
+		"LastGameUpdated" : 12,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 59,
+		"TeamName" : "LOS",
+		"Elo" : 1379.9521649778403,
+		"LastGameUpdated" : 13,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 60,
+		"TeamName" : "SQ",
+		"Elo" : 1554.915331409478,
+		"LastGameUpdated" : 16,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 61,
+		"TeamName" : "DZ",
+		"Elo" : 1674.8350885235664,
+		"LastGameUpdated" : 13,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 62,
+		"TeamName" : "LG",
+		"Elo" : 1542.6708054939463,
+		"LastGameUpdated" : 14,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 63,
+		"TeamName" : "SSG",
+		"Elo" : 1570.9275293800767,
+		"LastGameUpdated" : 16,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 64,
+		"TeamName" : "C9BC",
+		"Elo" : 1706.8114677588696,
+		"LastGameUpdated" : 15,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 65,
+		"TeamName" : "OLD_ANTC",
+		"Elo" : 1499.1083945732153,
+		"LastGameUpdated" : 16,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 66,
+		"TeamName" : "KK",
+		"Elo" : 1292.3857434726401,
+		"LastGameUpdated" : 25,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 67,
+		"TeamName" : "ANTC",
+		"Elo" : 1372.1362011676847,
+		"LastGameUpdated" : 1,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 68,
+		"TeamName" : "Panic",
+		"Elo" : 1339.1536390251479,
+		"LastGameUpdated" : 31,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 69,
+		"TeamName" : "Supernova",
+		"Elo" : 1368.5102242765506,
+		"LastGameUpdated" : 14,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 70,
+		"TeamName" : "6T",
+		"Elo" : 1321.3973107420513,
+		"LastGameUpdated" : 27,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 71,
+		"TeamName" : "GG",
+		"Elo" : 1522.3788378071017,
+		"LastGameUpdated" : 3,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 72,
+		"TeamName" : "CS",
+		"Elo" : 1282.140566514244,
+		"LastGameUpdated" : 2,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 73,
+		"TeamName" : "PSG",
+		"Elo" : 1529.2318812907974,
+		"LastGameUpdated" : 15,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 74,
+		"TeamName" : "ORG",
+		"Elo" : 1200.3117133093897,
+		"LastGameUpdated" : 14,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 75,
+		"TeamName" : "BLS",
+		"Elo" : 1192.2816444385492,
+		"LastGameUpdated" : 16,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 76,
+		"TeamName" : "BnA",
+		"Elo" : 1203.4140297788686,
+		"LastGameUpdated" : 15,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 77,
+		"TeamName" : "FOX",
+		"Elo" : 1500.5511365041652,
+		"LastGameUpdated" : 13,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 78,
+		"TeamName" : "DK",
+		"Elo" : 1462.465980840847,
+		"LastGameUpdated" : 16,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 79,
+		"TeamName" : "MIR",
+		"Elo" : 1279.2246162187457,
+		"LastGameUpdated" : 13,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 80,
+		"TeamName" : "WEBL",
+		"Elo" : 1332.75402773924,
+		"LastGameUpdated" : 14,
+		"Region" : "KOREA"
+	},
+	{
+		"ID" : 81,
+		"TeamName" : "Rival",
+		"Elo" : 1302.0508522652751,
+		"LastGameUpdated" : 13,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 82,
+		"TeamName" : "PRVL",
+		"Elo" : 1359.059746589735,
+		"LastGameUpdated" : 6,
+		"Region" : "SEA"
+	},
+	{
+		"ID" : 83,
+		"TeamName" : "TWM",
+		"Elo" : 1220.6836646137842,
+		"LastGameUpdated" : 7,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 84,
+		"TeamName" : "WC",
+		"Elo" : 1468.9150734893205,
+		"LastGameUpdated" : 1,
+		"Region" : "AMERICA"
+	},
+	{
+		"ID" : 85,
+		"TeamName" : "OUTLAST",
+		"Elo" : 1449.2651207622155,
+		"LastGameUpdated" : 1,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 86,
+		"TeamName" : "CHIEFS",
+		"Elo" : 1428.341432162775,
+		"LastGameUpdated" : 2,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 87,
+		"TeamName" : "SUPERNOVA",
+		"Elo" : 1379.379040176433,
+		"LastGameUpdated" : 3,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 88,
+		"TeamName" : "PRODIGY",
+		"Elo" : 1470.9490543877484,
+		"LastGameUpdated" : 4,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 89,
+		"TeamName" : "Odium",
+		"Elo" : 1329.0509456122516,
+		"LastGameUpdated" : 4,
+		"Region" : "OCE"
+	},
+	{
+		"ID" : 90,
+		"TeamName" : "7REX",
+		"Elo" : 1242.3687499181167,
+		"LastGameUpdated" : 8,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 91,
+		"TeamName" : "LYCUS",
+		"Elo" : 1134.027273865724,
+		"LastGameUpdated" : 11,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 92,
+		"TeamName" : "TSG",
+		"Elo" : 1204.9141962268516,
+		"LastGameUpdated" : 6,
+		"Region" : "LATAM"
+	},
+	{
+		"ID" : 93,
+		"TeamName" : "AKT",
+		"Elo" : 1108.6073632707069,
+		"LastGameUpdated" : 6,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 94,
+		"TeamName" : "VICIOUS",
+		"Elo" : 1229.3083896449805,
+		"LastGameUpdated" : 8,
+		"Region" : "MENA"
+	},
+	{
+		"ID" : 95,
+		"TeamName" : "EAST",
+		"Elo" : 1176.5815831005275,
+		"LastGameUpdated" : 8,
+		"Region" : "MENA"
+	}
+]}
