@@ -66,8 +66,8 @@
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1694.0876153283132,
-            "LastGameUpdated": 7,
+            "Elo": 1651.624968342173,
+            "LastGameUpdated": 11,
             "Region": "BR"
         },
         {
@@ -122,8 +122,8 @@
         {
             "ID": 18,
             "TeamName": "MIBR",
-            "Elo": 1393.7723324615818,
-            "LastGameUpdated": 8,
+            "Elo": 1436.234979447722,
+            "LastGameUpdated": 11,
             "Region": "BR"
         },
         {
@@ -199,8 +199,8 @@
         {
             "ID": 29,
             "TeamName": "E36",
-            "Elo": 1178.2218063055523,
-            "LastGameUpdated": 5,
+            "Elo": 1163.0995946446385,
+            "LastGameUpdated": 11,
             "Region": "JAPAN"
         },
         {
@@ -213,15 +213,15 @@
         {
             "ID": 31,
             "TeamName": "IGZ",
-            "Elo": 1346.047242049136,
-            "LastGameUpdated": 7,
+            "Elo": 1324.0997605155046,
+            "LastGameUpdated": 12,
             "Region": "JAPAN"
         },
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1482.179826846889,
-            "LastGameUpdated": 5,
+            "Elo": 1504.1273083805204,
+            "LastGameUpdated": 12,
             "Region": "JAPAN"
         },
         {
@@ -241,8 +241,8 @@
         {
             "ID": 35,
             "TeamName": "KNT",
-            "Elo": 1402.134321445035,
-            "LastGameUpdated": 6,
+            "Elo": 1417.2565331059488,
+            "LastGameUpdated": 11,
             "Region": "JAPAN"
         },
         {
