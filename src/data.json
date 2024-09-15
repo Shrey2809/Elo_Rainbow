@@ -73,7 +73,7 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1595.8275711690674,
+            "Elo": 1579.241904658376,
             "LastGameUpdated": 15,
             "Region": "BR"
         },
@@ -94,15 +94,15 @@
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1477.9422879221347,
+            "Elo": 1494.5279544328262,
             "LastGameUpdated": 15,
             "Region": "BR"
         },
         {
             "ID": 15,
             "TeamName": "Fluxo",
-            "Elo": 1382.7087224381746,
-            "LastGameUpdated": 12,
+            "Elo": 1375.19158038792,
+            "LastGameUpdated": 16,
             "Region": "BR"
         },
         {
@@ -115,8 +115,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1573.0282262092962,
-            "LastGameUpdated": 14,
+            "Elo": 1580.5453682595507,
+            "LastGameUpdated": 16,
             "Region": "BR"
         },
         {
@@ -192,57 +192,57 @@
         {
             "ID": 28,
             "TeamName": "FB",
-            "Elo": 1217.7092984698918,
-            "LastGameUpdated": 9,
+            "Elo": 1208.4826367952148,
+            "LastGameUpdated": 15,
             "Region": "JAPAN"
         },
         {
             "ID": 29,
             "TeamName": "E36",
-            "Elo": 1207.097850533183,
-            "LastGameUpdated": 11,
+            "Elo": 1200.7758236748334,
+            "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
         {
             "ID": 30,
             "TeamName": "VIT",
-            "Elo": 1353.0458266751048,
-            "LastGameUpdated": 9,
+            "Elo": 1336.9461644270968,
+            "LastGameUpdated": 13,
             "Region": "JAPAN"
         },
         {
             "ID": 31,
             "TeamName": "IGZ",
-            "Elo": 1331.1442640843222,
-            "LastGameUpdated": 12,
+            "Elo": 1360.8679183235565,
+            "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1475.8419683746333,
-            "LastGameUpdated": 12,
+            "Elo": 1485.0686300493103,
+            "LastGameUpdated": 15,
             "Region": "JAPAN"
         },
         {
             "ID": 33,
             "TeamName": "CGL",
-            "Elo": 1327.5292617869245,
-            "LastGameUpdated": 10,
+            "Elo": 1343.6289240349324,
+            "LastGameUpdated": 13,
             "Region": "JAPAN"
         },
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1521.7407989068242,
-            "LastGameUpdated": 10,
+            "Elo": 1528.0628257651738,
+            "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
         {
             "ID": 35,
             "TeamName": "KNT",
-            "Elo": 1397.589269020563,
-            "LastGameUpdated": 11,
+            "Elo": 1367.8656147813288,
+            "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
         {
