@@ -80,22 +80,22 @@
         {
             "ID": 12,
             "TeamName": "NIP",
-            "Elo": 1467.5206826906235,
-            "LastGameUpdated": 12,
+            "Elo": 1446.7661649193947,
+            "LastGameUpdated": 20,
             "Region": "BR"
         },
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1438.2288225948869,
-            "LastGameUpdated": 13,
+            "Elo": 1419.2199212459836,
+            "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1494.5279544328262,
-            "LastGameUpdated": 15,
+            "Elo": 1515.282472204055,
+            "LastGameUpdated": 20,
             "Region": "BR"
         },
         {
@@ -122,8 +122,8 @@
         {
             "ID": 18,
             "TeamName": "MIBR",
-            "Elo": 1455.4600837373657,
-            "LastGameUpdated": 11,
+            "Elo": 1474.468985086269,
+            "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
