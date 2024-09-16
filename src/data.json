@@ -465,8 +465,8 @@
         {
             "ID": 67,
             "TeamName": "ANTC",
-            "Elo": 1399.641372534738,
-            "LastGameUpdated": 1,
+            "Elo": 1420.7907870108766,
+            "LastGameUpdated": 5,
             "Region": "OCE"
         },
         {
@@ -493,15 +493,15 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1477.3940254314111,
-            "LastGameUpdated": 3,
+            "Elo": 1497.0161690760626,
+            "LastGameUpdated": 6,
             "Region": "OCE"
         },
         {
             "ID": 72,
             "TeamName": "CS",
-            "Elo": 1317.9342378056863,
-            "LastGameUpdated": 2,
+            "Elo": 1296.7848233295476,
+            "LastGameUpdated": 5,
             "Region": "OCE"
         },
         {
@@ -584,36 +584,36 @@
         {
             "ID": 84,
             "TeamName": "OUTLAST",
-            "Elo": 1418.408329288844,
-            "LastGameUpdated": 1,
+            "Elo": 1434.475153309914,
+            "LastGameUpdated": 8,
             "Region": "OCE"
         },
         {
             "ID": 85,
             "TeamName": "CHIEFS",
-            "Elo": 1412.0160340660584,
-            "LastGameUpdated": 2,
+            "Elo": 1437.9498708305246,
+            "LastGameUpdated": 7,
             "Region": "OCE"
         },
         {
             "ID": 86,
             "TeamName": "SUPERNOVA",
-            "Elo": 1389.8909554260636,
-            "LastGameUpdated": 3,
+            "Elo": 1373.8241314049935,
+            "LastGameUpdated": 8,
             "Region": "OCE"
         },
         {
             "ID": 87,
             "TeamName": "PRODIGY",
-            "Elo": 1425,
-            "LastGameUpdated": 4,
+            "Elo": 1399.0661632355338,
+            "LastGameUpdated": 7,
             "Region": "OCE"
         },
         {
             "ID": 88,
             "TeamName": "Odium",
-            "Elo": 1375,
-            "LastGameUpdated": 4,
+            "Elo": 1355.3778563553485,
+            "LastGameUpdated": 6,
             "Region": "OCE"
         },
         {
