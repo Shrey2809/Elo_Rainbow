@@ -3,21 +3,21 @@
         {
             "ID": 1,
             "TeamName": "FURY",
-            "Elo": 1468.2105780285426,
+            "Elo": 1468.2137912260912,
             "LastGameUpdated": 15,
             "Region": "SEA"
         },
         {
             "ID": 2,
             "TeamName": "NoCap",
-            "Elo": 1465.1822731830598,
+            "Elo": 1465.182284810752,
             "LastGameUpdated": 13,
             "Region": "SEA"
         },
         {
             "ID": 3,
             "TeamName": "DW",
-            "Elo": 1387.3525581238107,
+            "Elo": 1387.3567594970546,
             "LastGameUpdated": 14,
             "Region": "SEA"
         },
@@ -31,217 +31,217 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1511.9421030060848,
+            "Elo": 1511.9423674323143,
             "LastGameUpdated": 15,
             "Region": "SEA"
         },
         {
             "ID": 6,
             "TeamName": "KNOCK",
-            "Elo": 1253.1783355537898,
+            "Elo": 1253.1807512698192,
             "LastGameUpdated": 16,
             "Region": "SEA"
         },
         {
             "ID": 7,
             "TeamName": "Bleed",
-            "Elo": 1589.8632620337446,
+            "Elo": 1589.9249376273942,
             "LastGameUpdated": 14,
             "Region": "SEA"
         },
         {
             "ID": 8,
             "TeamName": "HW",
-            "Elo": 1266.9565842687725,
+            "Elo": 1266.9590653529906,
             "LastGameUpdated": 16,
             "Region": "SEA"
         },
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1642.8308994800325,
+            "Elo": 1643.90004083519,
             "LastGameUpdated": 17,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1601.9288422943232,
+            "Elo": 1602.7571397956983,
             "LastGameUpdated": 18,
             "Region": "BR"
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1595.9348264362582,
+            "Elo": 1612.1362521674569,
             "LastGameUpdated": 18,
             "Region": "BR"
         },
         {
             "ID": 12,
             "TeamName": "NIP",
-            "Elo": 1446.7661649193947,
+            "Elo": 1445.7062906502404,
             "LastGameUpdated": 20,
             "Region": "BR"
         },
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1419.2199212459836,
+            "Elo": 1419.2877719266578,
             "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1515.282472204055,
+            "Elo": 1499.7779333665728,
             "LastGameUpdated": 20,
             "Region": "BR"
         },
         {
             "ID": 15,
             "TeamName": "Fluxo",
-            "Elo": 1375.19158038792,
+            "Elo": 1375.2145347802616,
             "LastGameUpdated": 16,
             "Region": "BR"
         },
         {
             "ID": 16,
             "TeamName": "KS",
-            "Elo": 1490.7938909459392,
+            "Elo": 1490.8287346108928,
             "LastGameUpdated": 17,
             "Region": "BR"
         },
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1580.5453682595507,
+            "Elo": 1580.5676296642137,
             "LastGameUpdated": 16,
             "Region": "BR"
         },
         {
             "ID": 18,
             "TeamName": "MIBR",
-            "Elo": 1474.468985086269,
+            "Elo": 1474.477442088412,
             "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
             "ID": 19,
             "TeamName": "ENCE",
-            "Elo": 1415.7650220463365,
+            "Elo": 1415.7652335715652,
             "LastGameUpdated": 11,
             "Region": "EU"
         },
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1503.174629193601,
+            "Elo": 1503.1807959629352,
             "LastGameUpdated": 13,
             "Region": "EU"
         },
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1533.9002737985757,
+            "Elo": 1534.3100369508763,
             "LastGameUpdated": 9,
             "Region": "EU"
         },
         {
             "ID": 22,
             "TeamName": "WOL",
-            "Elo": 1494.6821740346086,
+            "Elo": 1498.2060513775768,
             "LastGameUpdated": 12,
             "Region": "EU"
         },
         {
             "ID": 23,
             "TeamName": "FNC",
-            "Elo": 1385.8068474896024,
+            "Elo": 1385.948061634332,
             "LastGameUpdated": 12,
             "Region": "EU"
         },
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1471.1547751806038,
+            "Elo": 1471.1570336379104,
             "LastGameUpdated": 11,
             "Region": "EU"
         },
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1815.2429551829769,
+            "Elo": 1815.3808534599577,
             "LastGameUpdated": 9,
             "Region": "EU"
         },
         {
             "ID": 26,
             "TeamName": "WYLDE",
-            "Elo": 1453.9776903991503,
+            "Elo": 1453.9791804417316,
             "LastGameUpdated": 13,
             "Region": "EU"
         },
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1470.7350922372361,
+            "Elo": 1470.9219584498994,
             "LastGameUpdated": 10,
             "Region": "EU"
         },
         {
             "ID": 28,
             "TeamName": "FB",
-            "Elo": 1208.4826367952148,
+            "Elo": 1209.480426575266,
             "LastGameUpdated": 15,
             "Region": "JAPAN"
         },
         {
             "ID": 29,
             "TeamName": "E36",
-            "Elo": 1200.7758236748334,
+            "Elo": 1187.4575391891908,
             "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
         {
             "ID": 30,
             "TeamName": "VIT",
-            "Elo": 1336.9461644270968,
+            "Elo": 1338.5969832330034,
             "LastGameUpdated": 13,
             "Region": "JAPAN"
         },
         {
             "ID": 31,
             "TeamName": "IGZ",
-            "Elo": 1360.8679183235565,
+            "Elo": 1379.6020188269677,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1485.0686300493103,
+            "Elo": 1508.5151441453486,
             "LastGameUpdated": 15,
             "Region": "JAPAN"
         },
         {
             "ID": 33,
             "TeamName": "CGL",
-            "Elo": 1343.6289240349324,
+            "Elo": 1329.7498955921142,
             "LastGameUpdated": 13,
             "Region": "JAPAN"
         },
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1528.0628257651738,
+            "Elo": 1548.4459976758124,
             "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
         {
             "ID": 35,
             "TeamName": "KNT",
-            "Elo": 1367.8656147813288,
+            "Elo": 1385.128917261114,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
@@ -395,7 +395,7 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1548.8961892871057,
+            "Elo": 1548.8995889910843,
             "LastGameUpdated": 14,
             "Region": "AMERICA"
         },
@@ -409,35 +409,35 @@
         {
             "ID": 59,
             "TeamName": "LOS",
-            "Elo": 1414.5176760088818,
+            "Elo": 1414.5788330142193,
             "LastGameUpdated": 13,
             "Region": "AMERICA"
         },
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1520.7476330623278,
+            "Elo": 1520.8463915364246,
             "LastGameUpdated": 16,
             "Region": "AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1631.3499404165907,
+            "Elo": 1633.249828813496,
             "LastGameUpdated": 13,
             "Region": "AMERICA"
         },
         {
             "ID": 62,
             "TeamName": "LG",
-            "Elo": 1511.4900638027334,
+            "Elo": 1511.4902343447973,
             "LastGameUpdated": 14,
             "Region": "AMERICA"
         },
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1533.5097681244713,
+            "Elo": 1533.593918077717,
             "LastGameUpdated": 16,
             "Region": "AMERICA"
         },
@@ -478,9 +478,9 @@
         },
         {
             "ID": 69,
-            "TeamName": "Supernova",
-            "Elo": 1371.6574060240384,
-            "LastGameUpdated": 14,
+            "TeamName": "SUPERNOVA",
+            "Elo": 1347.8048861740087,
+            "LastGameUpdated": 8,
             "Region": "OCE"
         },
         {
@@ -493,7 +493,7 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1497.0161690760626,
+            "Elo": 1496.121153745604,
             "LastGameUpdated": 6,
             "Region": "OCE"
         },
@@ -563,7 +563,7 @@
         {
             "ID": 81,
             "TeamName": "Rival",
-            "Elo": 1329.7694080250567,
+            "Elo": 1329.7695028028427,
             "LastGameUpdated": 13,
             "Region": "SEA"
         },
@@ -576,83 +576,90 @@
         },
         {
             "ID": 83,
+            "TeamName": "DOPENESS",
+            "Elo": 1314.9082440905602,
+            "LastGameUpdated": 1,
+            "Region": "JAPAN"
+        },
+        {
+            "ID": 84,
+            "TeamName": "REALIZE",
+            "Elo": 1321.4909248400818,
+            "LastGameUpdated": 8,
+            "Region": "JAPAN"
+        },
+        {
+            "ID": 85,
             "TeamName": "TWM",
             "Elo": 1229.7943649630831,
             "LastGameUpdated": 7,
             "Region": "MENA"
         },
         {
-            "ID": 84,
+            "ID": 86,
             "TeamName": "OUTLAST",
-            "Elo": 1434.475153309914,
+            "Elo": 1433.1170029386785,
             "LastGameUpdated": 8,
             "Region": "OCE"
         },
         {
-            "ID": 85,
+            "ID": 87,
             "TeamName": "CHIEFS",
             "Elo": 1437.9498708305246,
             "LastGameUpdated": 7,
             "Region": "OCE"
         },
         {
-            "ID": 86,
-            "TeamName": "SUPERNOVA",
-            "Elo": 1373.8241314049935,
-            "LastGameUpdated": 8,
-            "Region": "OCE"
-        },
-        {
-            "ID": 87,
+            "ID": 88,
             "TeamName": "PRODIGY",
             "Elo": 1399.0661632355338,
             "LastGameUpdated": 7,
             "Region": "OCE"
         },
         {
-            "ID": 88,
+            "ID": 89,
             "TeamName": "Odium",
-            "Elo": 1355.3778563553485,
+            "Elo": 1355.3076733120658,
             "LastGameUpdated": 6,
             "Region": "OCE"
         },
         {
-            "ID": 89,
+            "ID": 90,
             "TeamName": "7REX",
             "Elo": 1246.834259419854,
             "LastGameUpdated": 8,
             "Region": "LATAM"
         },
         {
-            "ID": 90,
+            "ID": 91,
             "TeamName": "LYCUS",
             "Elo": 1206.103360055228,
             "LastGameUpdated": 11,
             "Region": "LATAM"
         },
         {
-            "ID": 91,
+            "ID": 92,
             "TeamName": "TSG",
             "Elo": 1231.8769607685438,
             "LastGameUpdated": 6,
             "Region": "LATAM"
         },
         {
-            "ID": 92,
+            "ID": 93,
             "TeamName": "AKT",
             "Elo": 1196.5828278827955,
             "LastGameUpdated": 6,
             "Region": "MENA"
         },
         {
-            "ID": 93,
+            "ID": 94,
             "TeamName": "VICIOUS",
             "Elo": 1243.3062077817494,
             "LastGameUpdated": 8,
             "Region": "MENA"
         },
         {
-            "ID": 94,
+            "ID": 95,
             "TeamName": "EAST",
             "Elo": 1219.9592879369436,
             "LastGameUpdated": 8,
