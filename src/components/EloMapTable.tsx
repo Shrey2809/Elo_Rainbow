@@ -9,34 +9,37 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
-import Teams from "../data.json";
+import TeamsMaps from "../mapData.json";
 
-type TeamJSON = {
+type TeamMapsJSON = {
   ID: number;
   LastGameUpdated: number;
   TeamName: string;
+  MapName: string;
   Elo: number;
   Region: string;
 };
 
-type TeamsData = {
-  Teams: TeamJSON[];
+type TeamsMapsData = {
+    TeamsMaps: TeamMapsJSON[];
 };
 
-type EloData = {
+type EloMapsData = {
   id: number;
   rank: number;
   team: string;
+  map: string;
   elo: number;
   region: string;
 };
 
-const transformData = (data: TeamsData): EloData[] => {
+const transformData = (data: TeamsMapsData): EloMapsData[] => {
   // Sort the teams by Elo rating in descending order
-  const sortedTeams = data.Teams.map((team) => ({
+  const sortedTeams = data.TeamsMaps.map((team) => ({
     id: team.ID,
     elo: team.Elo,
     team: team.TeamName,
+    map: team.MapName,
     region: team.Region,
   })).sort((a, b) => b.elo - a.elo);
 
@@ -46,7 +49,8 @@ const transformData = (data: TeamsData): EloData[] => {
   }));
 };
 
-const transformedData = transformData(Teams);
+
+const transformedData = transformData(TeamsMaps);
 
 const rowsPerPage = 20;
 
@@ -54,6 +58,7 @@ export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
+  const [searchMap, setSearchMap] = useState("");
 
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
@@ -73,10 +78,18 @@ export default function EloTable() {
     setCurrentPage(1);
   };
 
+  const handleSearchMapChange = (
+    event: React.ChangeEvent<HTMLInputElement>,
+  ) => {
+    setSearchMap(event.target.value.toLowerCase());
+    setCurrentPage(1);
+  };
+
   const filteredData = transformedData.filter(
     (data) =>
       data.team.toLowerCase().includes(searchQuery) &&
-      data.region.toLowerCase().includes(searchRegion),
+      data.region.toLowerCase().includes(searchRegion) &&
+      data.map.toLowerCase().includes(searchMap),
   );
 
   const startIndex = (currentPage - 1) * rowsPerPage;
@@ -100,6 +113,13 @@ export default function EloTable() {
           placeholder="Search by region"
           value={searchRegion}
           onChange={handleSearchRegionChange}
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
+        />
+        <input
+          type="text"
+          placeholder="Search by map"
+          value={searchMap}
+          onChange={handleSearchMapChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
         />
       </div>
@@ -128,19 +148,22 @@ export default function EloTable() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Rank
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Logo
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Elo
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
+              Map
+            </TableHead>
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Region
             </TableHead>
           </TableRow>
@@ -148,10 +171,10 @@ export default function EloTable() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow key={data.id}>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/6 text-center font-semibold">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/6 text-center font-semibold">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -162,13 +185,16 @@ export default function EloTable() {
                   }}
                 />
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/6 text-center font-semibold">
                 {data.team}
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/6 text-center font-semibold">
                 {Math.round(data.elo)}
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/6 text-center font-semibold">
+                {data.map}
+              </TableCell>
+              <TableCell className="w-1/6 text-center font-semibold">
                 {data.region}
               </TableCell>
             </TableRow>
