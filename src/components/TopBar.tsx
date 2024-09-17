@@ -19,9 +19,12 @@ const TopBar = () => {
   return (
     <div className="flex flex-col items-center justify-center bg-myColor text-white font-sans ">
       <div className="w-full max-w-7xl p-4 gap-4">
-        <h1 className="pt-10 text-white text-2xl md:text-3xl lg:text-4xl text-center">
-          Elo Rankings for Rainbow Six Siege
+        <h1 className="pt-30 text-white text-2xl md:text-3xl lg:text-6xl text-center">
+          EloRainbow6
         </h1>
+        <h2 className="text-white text-lg md:text-xl lg:text-xl text-center">
+        Team Skill Rankings
+        </h2>
         <Tabs defaultValue={currentTab} className="w-full mt-6" onValueChange={handleTabChange}>
           <TabsList className="grid w-full grid-cols-2 bg-myColor rounded">
             <TabsTrigger
