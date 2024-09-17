@@ -248,8 +248,8 @@
         {
             "ID": 36,
             "TeamName": "ME",
-            "Elo": 1233.531138657409,
-            "LastGameUpdated": 7,
+            "Elo": 1215.7197747588089,
+            "LastGameUpdated": 14,
             "Region": "LATAM"
         },
         {
@@ -262,29 +262,29 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1305.9074678134289,
-            "LastGameUpdated": 9,
+            "Elo": 1324.618317971084,
+            "LastGameUpdated": 13,
             "Region": "LATAM"
         },
         {
             "ID": 39,
             "TeamName": "KNI",
-            "Elo": 1395.3150388798092,
-            "LastGameUpdated": 9,
+            "Elo": 1402.5569188514312,
+            "LastGameUpdated": 15,
             "Region": "LATAM"
         },
         {
             "ID": 40,
             "TeamName": "MvG",
-            "Elo": 1108.451422781729,
-            "LastGameUpdated": 7,
+            "Elo": 1101.209542810107,
+            "LastGameUpdated": 15,
             "Region": "LATAM"
         },
         {
             "ID": 41,
             "TeamName": "VASCO",
-            "Elo": 1361.4163683223471,
-            "LastGameUpdated": 8,
+            "Elo": 1379.2277322209472,
+            "LastGameUpdated": 14,
             "Region": "LATAM"
         },
         {
@@ -297,8 +297,8 @@
         {
             "ID": 43,
             "TeamName": "6K",
-            "Elo": 1336.502512726587,
-            "LastGameUpdated": 4,
+            "Elo": 1350.6554654782424,
+            "LastGameUpdated": 12,
             "Region": "LATAM"
         },
         {
@@ -626,22 +626,22 @@
         {
             "ID": 90,
             "TeamName": "7REX",
-            "Elo": 1246.834259419854,
-            "LastGameUpdated": 8,
+            "Elo": 1228.123409262199,
+            "LastGameUpdated": 13,
             "Region": "LATAM"
         },
         {
             "ID": 91,
             "TeamName": "LYCUS",
-            "Elo": 1206.103360055228,
-            "LastGameUpdated": 11,
+            "Elo": 1231.9392212234336,
+            "LastGameUpdated": 16,
             "Region": "LATAM"
         },
         {
             "ID": 92,
             "TeamName": "TSG",
-            "Elo": 1231.8769607685438,
-            "LastGameUpdated": 6,
+            "Elo": 1191.8881468486827,
+            "LastGameUpdated": 16,
             "Region": "LATAM"
         },
         {
