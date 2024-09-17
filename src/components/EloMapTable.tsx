@@ -49,14 +49,16 @@ const transformData = (data: TeamsMapsData): EloMapsData[] => {
   }));
 };
 
+
 const transformedData = transformData(TeamsMaps);
 
-const rowsPerPage = 16;
+const rowsPerPage = 20;
 
 export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
+  const [searchMap, setSearchMap] = useState("");
 
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
@@ -79,7 +81,7 @@ export default function EloTable() {
   const handleSearchMapChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchRegion(event.target.value.toLowerCase());
+    setSearchMap(event.target.value.toLowerCase());
     setCurrentPage(1);
   };
 
@@ -87,7 +89,7 @@ export default function EloTable() {
     (data) =>
       data.team.toLowerCase().includes(searchQuery) &&
       data.region.toLowerCase().includes(searchRegion) &&
-      data.map.toLowerCase().includes(searchRegion),
+      data.map.toLowerCase().includes(searchMap),
   );
 
   const startIndex = (currentPage - 1) * rowsPerPage;
@@ -116,7 +118,7 @@ export default function EloTable() {
         <input
           type="text"
           placeholder="Search by map"
-          value={searchRegion}
+          value={searchMap}
           onChange={handleSearchMapChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
         />
@@ -146,22 +148,22 @@ export default function EloTable() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Rank
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Logo
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Elo
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Map
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-1/6 text-white text-center font-bold">
               Region
             </TableHead>
           </TableRow>

@@ -48,7 +48,7 @@ const transformData = (data: TeamsData): EloData[] => {
 
 const transformedData = transformData(Teams);
 
-const rowsPerPage = 16;
+const rowsPerPage = 20;
 
 export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
