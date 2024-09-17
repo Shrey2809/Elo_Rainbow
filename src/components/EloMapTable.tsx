@@ -1,5 +1,11 @@
 import { useState } from "react";
 import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover"
+
+import {
   Table,
   TableBody,
   TableCaption,
@@ -33,22 +39,52 @@ type EloMapsData = {
   region: string;
 };
 
+
+const maps = ["BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
+const regions = ["BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "NA", "OCE", "SEA"];
+
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
-  // Sort the teams by Elo rating in descending order
-  const sortedTeams = data.TeamsMaps.map((team) => ({
-    id: team.ID,
-    elo: team.Elo,
-    team: team.TeamName,
-    map: team.MapName,
-    region: team.Region,
-  })).sort((a, b) => b.elo - a.elo);
+  // Create a map to group teams by MapName
+  const teamsByMap: { [map: string]: TeamMapsJSON[] } = {};
 
-  return sortedTeams.map((team, index) => ({
-    ...team,
-    rank: index + 1,
-  }));
+  data.TeamsMaps.forEach((team) => {
+    if (!teamsByMap[team.MapName]) {
+      teamsByMap[team.MapName] = [];
+    }
+    teamsByMap[team.MapName].push(team);
+  });
+
+  // Get map names and sort them alphabetically
+  const mapNames = Object.keys(teamsByMap).sort();
+
+  // Transform and rank the data within each map
+  const rankedTeams: EloMapsData[] = [];
+
+  mapNames.forEach((map) => {
+    const teams = teamsByMap[map];
+
+    // Sort teams within the current map by Elo in descending order
+    const sortedTeams = teams
+      .map((team) => ({
+        id: team.ID,
+        elo: team.Elo,
+        team: team.TeamName,
+        map: team.MapName,
+        region: team.Region,
+      }))
+      .sort((a, b) => b.elo - a.elo);
+
+    // Assign ranks to the sorted teams
+    sortedTeams.forEach((team, index) => {
+      rankedTeams.push({
+        ...team,
+        rank: index + 1, // Rank is 1-based index
+      });
+    });
+  });
+
+  return rankedTeams;
 };
-
 
 const transformedData = transformData(TeamsMaps);
 
@@ -59,6 +95,22 @@ export default function EloTable() {
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
   const [searchMap, setSearchMap] = useState("");
+
+  const [selectedMap, setSelectedMap] = useState<string>("");
+  const [selectedRegion, setSelectedRegion] = useState<string>("");
+
+  // Handle map selection
+  const handleMapSelect = (map: string) => {
+    setSelectedMap(map);
+    setSearchMap(map.toLowerCase()); // Update the searchMap state to filter data by selected map
+  };
+
+  // Handle region selection
+  const handleRegionSelect = (region: string) => {
+    setSelectedRegion(region);
+    setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+  }
+
 
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
@@ -161,10 +213,40 @@ export default function EloTable() {
               Elo
             </TableHead>
             <TableHead className="w-1/6 text-white text-center font-bold">
-              Map
+              <Popover>
+                <PopoverTrigger className="cursor-pointer">Map</PopoverTrigger>
+                <PopoverContent className="p-4 bg-myDarkColor">
+                  <div className="flex flex-col">
+                    {maps.map((map) => (
+                      <button
+                        key={map}
+                        onClick={() => handleMapSelect(map)}
+                        className="px-4 py-2 bg-myDarkColor text-white rounded"
+                      >
+                        {map}
+                      </button>
+                    ))}
+                  </div>
+                </PopoverContent>
+              </Popover>
             </TableHead>
             <TableHead className="w-1/6 text-white text-center font-bold">
-              Region
+              <Popover>
+                <PopoverTrigger className="cursor-pointer">Region</PopoverTrigger>
+                <PopoverContent className="p-4 bg-myDarkColor">
+                  <div className="flex flex-col">
+                    {regions.map((region) => (
+                      <button
+                        key={region}
+                        onClick={() => handleRegionSelect(region)}
+                        className="py-2 px-4 text-white text-xl hover:bg-gray-600"
+                      >
+                        {region}
+                      </button>
+                    ))}
+                  </div>
+                </PopoverContent>
+              </Popover>
             </TableHead>
           </TableRow>
         </TableHeader>

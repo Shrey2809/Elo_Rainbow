@@ -8,6 +8,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 
 import Teams from "../data.json";
 
@@ -30,6 +31,8 @@ type EloData = {
   elo: number;
   region: string;
 };
+
+const regions = ["BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "NA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
@@ -54,6 +57,13 @@ export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
+
+  const [selectedRegion, setSelectedRegion] = useState<string>("");
+  // Handle region selection
+  const handleRegionSelect = (region: string) => {
+    setSelectedRegion(region);
+    setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+  }
 
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
@@ -141,7 +151,22 @@ export default function EloTable() {
               Elo
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
-              Region
+            <Popover>
+                <PopoverTrigger className="cursor-pointer">Region</PopoverTrigger>
+                <PopoverContent className="p-4 bg-myDarkColor">
+                  <div className="flex flex-col">
+                    {regions.map((region) => (
+                      <button
+                        key={region}
+                        onClick={() => handleRegionSelect(region)}
+                        className="py-2 px-4 text-white text-xl hover:bg-gray-600"
+                      >
+                        {region}
+                      </button>
+                    ))}
+                  </div>
+                </PopoverContent>
+              </Popover>
             </TableHead>
           </TableRow>
         </TableHeader>
