@@ -63,7 +63,7 @@ export default function EloTable() {
   // Handle region selection
   const handleRegionSelect = (region: string) => {
     setSelectedRegion(region);
-    setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+    setSearchRegion(region); // Update the searchRegion state to filter data by selected region
     setPopoverOpen(false);
   }
 
@@ -74,21 +74,21 @@ export default function EloTable() {
   const handleSearchQueryChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchQuery(event.target.value.toLowerCase());
+    setSearchQuery(event.target.value);
     setCurrentPage(1);
   };
 
   const handleSearchRegionChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchRegion(event.target.value.toLowerCase());
+    setSearchRegion(event.target.value);
     setCurrentPage(1);
   };
 
   const filteredData = transformedData.filter(
     (data) =>
-      data.team.toLowerCase().includes(searchQuery) &&
-      data.region.toLowerCase().includes(searchRegion),
+      data.team.toLowerCase().includes(searchQuery.toLowerCase()) &&
+      data.region.toLowerCase().includes(searchRegion.toLowerCase()),
   );
 
   const startIndex = (currentPage - 1) * rowsPerPage;
@@ -102,14 +102,14 @@ export default function EloTable() {
       <div className="p-4 flex gap-4 font-sans">
         <input
           type="text"
-          placeholder="Search by team name"
+          placeholder="Search Team Name"
           value={searchQuery}
           onChange={handleSearchQueryChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
         />
         <input
           type="text"
-          placeholder="Search by region"
+          placeholder="Search Region"
           value={searchRegion}
           onChange={handleSearchRegionChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"

@@ -104,14 +104,14 @@ export default function EloTable() {
   // Handle map selection
   const handleMapSelect = (map: string) => {
     setSelectedMap(map);
-    setSearchMap(map.toLowerCase()); // Update the searchMap state to filter data by selected map
+    setSearchMap(map); // Update the searchMap state to filter data by selected map
     setPopoverMapOpen(false);
   };
 
   // Handle region selection
   const handleRegionSelect = (region: string) => {
     setSelectedRegion(region);
-    setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+    setSearchRegion(region); // Update the searchRegion state to filter data by selected region
     setPopoverOpen(false);
   }
 
@@ -123,29 +123,29 @@ export default function EloTable() {
   const handleSearchQueryChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchQuery(event.target.value.toLowerCase());
+    setSearchQuery(event.target.value);
     setCurrentPage(1);
   };
 
   const handleSearchRegionChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchRegion(event.target.value.toLowerCase());
+    setSearchRegion(event.target.value);
     setCurrentPage(1);
   };
 
   const handleSearchMapChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchMap(event.target.value.toLowerCase());
+    setSearchMap(event.target.value);
     setCurrentPage(1);
   };
 
   const filteredData = transformedData.filter(
     (data) =>
-      data.team.toLowerCase().includes(searchQuery) &&
-      data.region.toLowerCase().includes(searchRegion) &&
-      data.map.toLowerCase().includes(searchMap),
+      data.team.toLowerCase().includes(searchQuery.toLowerCase()) &&
+      data.region.toLowerCase().includes(searchRegion.toLowerCase()) &&
+      data.map.toLowerCase().includes(searchMap.toLowerCase()),
   );
 
   const startIndex = (currentPage - 1) * rowsPerPage;
@@ -159,25 +159,26 @@ export default function EloTable() {
       <div className="p-4 flex gap-4 font-sans">
         <input
           type="text"
-          placeholder="Search by team name"
+          placeholder="Search Team Name"
           value={searchQuery}
           onChange={handleSearchQueryChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
         />
         <input
           type="text"
-          placeholder="Search by region"
-          value={searchRegion}
-          onChange={handleSearchRegionChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
-        />
-        <input
-          type="text"
-          placeholder="Search by map"
+          placeholder="Search Map"
           value={searchMap}
           onChange={handleSearchMapChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
         />
+        <input
+          type="text"
+          placeholder="Search Region"
+          value={searchRegion}
+          onChange={handleSearchRegionChange}
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
+        />
+
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
