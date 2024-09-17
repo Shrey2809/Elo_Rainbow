@@ -58,7 +58,7 @@ export default function EloTable() {
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
 
-  const [selectedRegion, setSelectedRegion] = useState<string>("");
+  const [, setSelectedRegion] = useState<string>("");
   // Handle region selection
   const handleRegionSelect = (region: string) => {
     setSelectedRegion(region);

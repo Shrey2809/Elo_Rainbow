@@ -96,8 +96,8 @@ export default function EloTable() {
   const [searchRegion, setSearchRegion] = useState("");
   const [searchMap, setSearchMap] = useState("");
 
-  const [selectedMap, setSelectedMap] = useState<string>("");
-  const [selectedRegion, setSelectedRegion] = useState<string>("");
+  const [, setSelectedMap] = useState<string>("");
+  const [, setSelectedRegion] = useState<string>("");
 
   // Handle map selection
   const handleMapSelect = (map: string) => {
