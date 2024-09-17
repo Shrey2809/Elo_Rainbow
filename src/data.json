@@ -129,8 +129,8 @@
         {
             "ID": 19,
             "TeamName": "ENCE",
-            "Elo": 1404.9091271422424,
-            "LastGameUpdated": 16,
+            "Elo": 1402.3743881764842,
+            "LastGameUpdated": 19,
             "Region": "EU"
         },
         {
@@ -143,15 +143,15 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1534.3100369508763,
-            "LastGameUpdated": 9,
+            "Elo": 1515.5749493592987,
+            "LastGameUpdated": 17,
             "Region": "EU"
         },
         {
             "ID": 22,
             "TeamName": "WOL",
-            "Elo": 1494.737581765684,
-            "LastGameUpdated": 15,
+            "Elo": 1510.1939860102264,
+            "LastGameUpdated": 18,
             "Region": "EU"
         },
         {
@@ -171,22 +171,22 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1818.8493230718507,
-            "LastGameUpdated": 15,
+            "Elo": 1821.3840620376088,
+            "LastGameUpdated": 19,
             "Region": "EU"
         },
         {
             "ID": 26,
             "TeamName": "WYLDE",
-            "Elo": 1453.9791804417316,
-            "LastGameUpdated": 13,
+            "Elo": 1438.5227761971892,
+            "LastGameUpdated": 18,
             "Region": "EU"
         },
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1445.9388734668073,
-            "LastGameUpdated": 14,
+            "Elo": 1464.673961058385,
+            "LastGameUpdated": 17,
             "Region": "EU"
         },
         {
