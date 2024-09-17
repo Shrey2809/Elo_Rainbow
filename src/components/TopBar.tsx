@@ -23,16 +23,16 @@ const TopBar = () => {
           Elo Rankings for Rainbow Six Siege
         </h1>
         <Tabs defaultValue={currentTab} className="w-full mt-6" onValueChange={handleTabChange}>
-          <TabsList className="grid w-full grid-cols-2 bg-myColor text-white rounded">
+          <TabsList className="grid w-full grid-cols-2 bg-myColor rounded">
             <TabsTrigger
               value="elo"
-              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "elo" ? "bg-white text-myDarkColor border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
+              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "elo" ? " text-myDarkColor border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
             >
               Elo Rankings
             </TabsTrigger>
             <TabsTrigger
               value="map-elo"
-              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "map-elo" ? "bg-white text-myDarkColor border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
+              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "map-elo" ? "bg-myDarkColor text-white border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
             >
               Map Elo Rankings
             </TabsTrigger>

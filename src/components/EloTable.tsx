@@ -57,12 +57,14 @@ export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
+  const [popoverOpen, setPopoverOpen] = useState(false);
 
   const [, setSelectedRegion] = useState<string>("");
   // Handle region selection
   const handleRegionSelect = (region: string) => {
     setSelectedRegion(region);
     setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+    setPopoverOpen(false);
   }
 
   const handlePageChange = (newPage: number) => {
@@ -151,15 +153,17 @@ export default function EloTable() {
               Elo
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
-            <Popover>
-                <PopoverTrigger className="cursor-pointer">Region</PopoverTrigger>
+            <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
+            <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
+                  Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
+                </PopoverTrigger>
                 <PopoverContent className="p-4 bg-myDarkColor">
                   <div className="flex flex-col">
                     {regions.map((region) => (
                       <button
                         key={region}
                         onClick={() => handleRegionSelect(region)}
-                        className="py-2 px-4 text-white text-xl hover:bg-gray-600"
+                        className="py-2 px-4 text-white text-xl hover:bg-myColor"
                       >
                         {region}
                       </button>

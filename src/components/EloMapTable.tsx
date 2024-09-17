@@ -95,6 +95,8 @@ export default function EloTable() {
   const [searchQuery, setSearchQuery] = useState("");
   const [searchRegion, setSearchRegion] = useState("");
   const [searchMap, setSearchMap] = useState("");
+  const [popoverOpen, setPopoverOpen] = useState(false);
+  const [popoverMapOpen, setPopoverMapOpen] = useState(false);
 
   const [, setSelectedMap] = useState<string>("");
   const [, setSelectedRegion] = useState<string>("");
@@ -103,12 +105,14 @@ export default function EloTable() {
   const handleMapSelect = (map: string) => {
     setSelectedMap(map);
     setSearchMap(map.toLowerCase()); // Update the searchMap state to filter data by selected map
+    setPopoverMapOpen(false);
   };
 
   // Handle region selection
   const handleRegionSelect = (region: string) => {
     setSelectedRegion(region);
     setSearchRegion(region.toLowerCase()); // Update the searchRegion state to filter data by selected region
+    setPopoverOpen(false);
   }
 
 
@@ -213,17 +217,19 @@ export default function EloTable() {
               Elo
             </TableHead>
             <TableHead className="w-1/6 text-white text-center font-bold">
-              <Popover>
-                <PopoverTrigger className="cursor-pointer">Map</PopoverTrigger>
+              <Popover open={popoverMapOpen} onOpenChange={setPopoverMapOpen}>
+                <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
+                  Map <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
+                </PopoverTrigger>
                 <PopoverContent className="p-4 bg-myDarkColor">
                   <div className="flex flex-col">
                     {maps.map((map) => (
                       <button
                         key={map}
                         onClick={() => handleMapSelect(map)}
-                        className="px-4 py-2 bg-myDarkColor text-white rounded"
+                        className="px-4 py-2 bg-myDarkColor text-white rounded hover:bg-myColor"
                       >
-                        {map}
+                      {map} 
                       </button>
                     ))}
                   </div>
@@ -231,15 +237,17 @@ export default function EloTable() {
               </Popover>
             </TableHead>
             <TableHead className="w-1/6 text-white text-center font-bold">
-              <Popover>
-                <PopoverTrigger className="cursor-pointer">Region</PopoverTrigger>
+              <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
+              <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
+                  Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
+                </PopoverTrigger>
                 <PopoverContent className="p-4 bg-myDarkColor">
                   <div className="flex flex-col">
                     {regions.map((region) => (
                       <button
                         key={region}
                         onClick={() => handleRegionSelect(region)}
-                        className="py-2 px-4 text-white text-xl hover:bg-gray-600"
+                        className="py-2 px-4 text-white text-xl hover:bg-myColor"
                       >
                         {region}
                       </button>
