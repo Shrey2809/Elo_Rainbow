@@ -129,8 +129,8 @@
         {
             "ID": 19,
             "TeamName": "ENCE",
-            "Elo": 1402.3743881764842,
-            "LastGameUpdated": 19,
+            "Elo": 1417.0920778185016,
+            "LastGameUpdated": 22,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1464.673961058385,
-            "LastGameUpdated": 17,
+            "Elo": 1449.9562714163676,
+            "LastGameUpdated": 22,
             "Region": "EU"
         },
         {
@@ -339,8 +339,8 @@
         {
             "ID": 49,
             "TeamName": "WINTERBEAR",
-            "Elo": 1185.9986793106239,
-            "LastGameUpdated": 5,
+            "Elo": 1210.6909976775128,
+            "LastGameUpdated": 10,
             "Region": "MENA"
         },
         {
@@ -661,8 +661,8 @@
         {
             "ID": 95,
             "TeamName": "EAST",
-            "Elo": 1219.9592879369436,
-            "LastGameUpdated": 8,
+            "Elo": 1195.2669695700547,
+            "LastGameUpdated": 10,
             "Region": "MENA"
         }
     ]

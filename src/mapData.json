@@ -1068,8 +1068,8 @@
             "ID": 134,
             "TeamName": "VP",
             "MapName": "BORDER",
-            "Elo": 1486.6916271864134,
-            "LastGameUpdated": 16,
+            "Elo": 1474.6702003494765,
+            "LastGameUpdated": 22,
             "Region": "EU"
         },
         {
@@ -2276,8 +2276,8 @@
             "ID": 285,
             "TeamName": "WINTERBEAR",
             "MapName": "CHALET",
-            "Elo": 1217.2373201134276,
-            "LastGameUpdated": 21,
+            "Elo": 1241.8527713642638,
+            "LastGameUpdated": 10,
             "Region": "MENA"
         },
         {
@@ -4950,6 +4950,22 @@
             "MapName": "LABS",
             "Elo": 1226.7957963472552,
             "LastGameUpdated": 9,
+            "Region": "MENA"
+        },
+        {
+            "ID": 620,
+            "TeamName": "ENCE",
+            "MapName": "BORDER",
+            "Elo": 1512.0214268369368,
+            "LastGameUpdated": 22,
+            "Region": "EU"
+        },
+        {
+            "ID": 621,
+            "TeamName": "EAST",
+            "MapName": "CHALET",
+            "Elo": 1225.3845487491637,
+            "LastGameUpdated": 10,
             "Region": "MENA"
         }
     ]
