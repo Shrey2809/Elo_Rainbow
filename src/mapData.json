@@ -4116,8 +4116,8 @@
             "ID": 515,
             "TeamName": "TWM",
             "MapName": "BANK",
-            "Elo": 1291.739923270681,
-            "LastGameUpdated": 6,
+            "Elo": 1309.3486733415564,
+            "LastGameUpdated": 12,
             "Region": "MENA"
         },
         {
@@ -4966,6 +4966,14 @@
             "MapName": "CHALET",
             "Elo": 1225.3845487491637,
             "LastGameUpdated": 10,
+            "Region": "MENA"
+        },
+        {
+            "ID": 622,
+            "TeamName": "VICIOUS",
+            "MapName": "BANK",
+            "Elo": 1232.3912499291246,
+            "LastGameUpdated": 12,
             "Region": "MENA"
         }
     ]
