@@ -465,8 +465,8 @@
         {
             "ID": 67,
             "TeamName": "ANTC",
-            "Elo": 1404.1543717178731,
-            "LastGameUpdated": 10,
+            "Elo": 1420.595354925334,
+            "LastGameUpdated": 15,
             "Region": "OCE"
         },
         {
@@ -479,8 +479,8 @@
         {
             "ID": 69,
             "TeamName": "SUPERNOVA",
-            "Elo": 1358.4823734087263,
-            "LastGameUpdated": 12,
+            "Elo": 1344.760152393863,
+            "LastGameUpdated": 14,
             "Region": "OCE"
         },
         {
@@ -493,15 +493,15 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1507.036648564922,
-            "LastGameUpdated": 9,
+            "Elo": 1524.0400925367117,
+            "LastGameUpdated": 16,
             "Region": "OCE"
         },
         {
             "ID": 72,
             "TeamName": "CS",
-            "Elo": 1286.10733609483,
-            "LastGameUpdated": 12,
+            "Elo": 1325.488420609549,
+            "LastGameUpdated": 13,
             "Region": "OCE"
         },
         {
@@ -598,29 +598,29 @@
         {
             "ID": 86,
             "TeamName": "OUTLAST",
-            "Elo": 1446.7620549216572,
-            "LastGameUpdated": 11,
+            "Elo": 1407.3809704069383,
+            "LastGameUpdated": 13,
             "Region": "OCE"
         },
         {
             "ID": 87,
             "TeamName": "CHIEFS",
-            "Elo": 1454.586286123528,
-            "LastGameUpdated": 10,
+            "Elo": 1437.5828421517383,
+            "LastGameUpdated": 16,
             "Region": "OCE"
         },
         {
             "ID": 88,
             "TeamName": "PRODIGY",
-            "Elo": 1388.150668416216,
-            "LastGameUpdated": 9,
+            "Elo": 1401.872889431079,
+            "LastGameUpdated": 14,
             "Region": "OCE"
         },
         {
             "ID": 89,
             "TeamName": "Odium",
-            "Elo": 1341.6626213290872,
-            "LastGameUpdated": 11,
+            "Elo": 1325.2216381216263,
+            "LastGameUpdated": 15,
             "Region": "OCE"
         },
         {

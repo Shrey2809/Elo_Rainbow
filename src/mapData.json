@@ -2988,8 +2988,8 @@
             "ID": 374,
             "TeamName": "GG",
             "MapName": "LABS",
-            "Elo": 1471.7337462587464,
-            "LastGameUpdated": 15,
+            "Elo": 1488.4266535950278,
+            "LastGameUpdated": 16,
             "Region": "OCE"
         },
         {
@@ -3020,8 +3020,8 @@
             "ID": 378,
             "TeamName": "ANTC",
             "MapName": "CLUB",
-            "Elo": 1436.3867805199166,
-            "LastGameUpdated": 5,
+            "Elo": 1453.3094443045225,
+            "LastGameUpdated": 15,
             "Region": "OCE"
         },
         {
@@ -3076,8 +3076,8 @@
             "ID": 385,
             "TeamName": "CS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1403.0369560688764,
-            "LastGameUpdated": 16,
+            "Elo": 1431.8352893216406,
+            "LastGameUpdated": 13,
             "Region": "OCE"
         },
         {
@@ -4460,16 +4460,16 @@
             "ID": 558,
             "TeamName": "OUTLAST",
             "MapName": "SKYSCRAPER",
-            "Elo": 1419.452329821875,
-            "LastGameUpdated": 1,
+            "Elo": 1390.6539965691109,
+            "LastGameUpdated": 13,
             "Region": "OCE"
         },
         {
             "ID": 559,
             "TeamName": "CHIEFS",
             "MapName": "LABS",
-            "Elo": 1413.751298161113,
-            "LastGameUpdated": 2,
+            "Elo": 1397.0583908248316,
+            "LastGameUpdated": 16,
             "Region": "OCE"
         },
         {
@@ -4916,8 +4916,8 @@
             "ID": 615,
             "TeamName": "Odium",
             "MapName": "CLUB",
-            "Elo": 1382.5,
-            "LastGameUpdated": 11,
+            "Elo": 1365.577336215394,
+            "LastGameUpdated": 15,
             "Region": "OCE"
         },
         {
@@ -4932,8 +4932,16 @@
             "ID": 617,
             "TeamName": "SUPERNOVA",
             "MapName": "LABS",
-            "Elo": 1410.9699692001263,
-            "LastGameUpdated": 12,
+            "Elo": 1395.496514880812,
+            "LastGameUpdated": 14,
+            "Region": "OCE"
+        },
+        {
+            "ID": 618,
+            "TeamName": "PRODIGY",
+            "MapName": "LABS",
+            "Elo": 1415.4734543193144,
+            "LastGameUpdated": 14,
             "Region": "OCE"
         }
     ]
