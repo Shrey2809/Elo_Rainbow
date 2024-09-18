@@ -4820,8 +4820,8 @@
             "ID": 603,
             "TeamName": "GK",
             "MapName": "LABS",
-            "Elo": 1275,
-            "LastGameUpdated": 7,
+            "Elo": 1298.2042036527448,
+            "LastGameUpdated": 9,
             "Region": "MENA"
         },
         {
@@ -4943,6 +4943,14 @@
             "Elo": 1415.4734543193144,
             "LastGameUpdated": 14,
             "Region": "OCE"
+        },
+        {
+            "ID": 619,
+            "TeamName": "AKT",
+            "MapName": "LABS",
+            "Elo": 1226.7957963472552,
+            "LastGameUpdated": 9,
+            "Region": "MENA"
         }
     ]
 }
