@@ -2004,8 +2004,8 @@
             "ID": 251,
             "TeamName": "VASCO",
             "MapName": "CONS",
-            "Elo": 1275,
-            "LastGameUpdated": 33,
+            "Elo": 1298.2042036527448,
+            "LastGameUpdated": 19,
             "Region": "LATAM"
         },
         {
@@ -4975,6 +4975,14 @@
             "Elo": 1232.3912499291246,
             "LastGameUpdated": 12,
             "Region": "MENA"
+        },
+        {
+            "ID": 623,
+            "TeamName": "MvG",
+            "MapName": "CONS",
+            "Elo": 1226.7957963472552,
+            "LastGameUpdated": 19,
+            "Region": "LATAM"
         }
     ]
 }
