@@ -948,8 +948,8 @@
             "ID": 119,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1516.0380171718057,
-            "LastGameUpdated": 14,
+            "Elo": 1529.6309419979127,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -964,8 +964,8 @@
             "ID": 121,
             "TeamName": "ITB",
             "MapName": "CHALET",
-            "Elo": 1546.4934617682347,
-            "LastGameUpdated": 27,
+            "Elo": 1532.9005369421277,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -2172,7 +2172,7 @@
             "ID": 272,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1281.7451025603511,
+            "Elo": 1293.6431151105733,
             "LastGameUpdated": 11,
             "Region": "MENA"
         },
@@ -2332,8 +2332,8 @@
             "ID": 292,
             "TeamName": "ROC",
             "MapName": "LABS",
-            "Elo": 1265,
-            "LastGameUpdated": 15,
+            "Elo": 1253.1019874497779,
+            "LastGameUpdated": 11,
             "Region": "MENA"
         },
         {

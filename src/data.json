@@ -143,8 +143,8 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1515.5749493592987,
-            "LastGameUpdated": 17,
+            "Elo": 1501.850926376371,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1481.4440474940109,
-            "LastGameUpdated": 20,
+            "Elo": 1495.1680704769385,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -353,8 +353,8 @@
         {
             "ID": 51,
             "TeamName": "ROC",
-            "Elo": 1294.557646191459,
-            "LastGameUpdated": 6,
+            "Elo": 1281.2209728320927,
+            "LastGameUpdated": 11,
             "Region": "MENA"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1271.2676157733104,
-            "LastGameUpdated": 5,
+            "Elo": 1284.6042891326767,
+            "LastGameUpdated": 11,
             "Region": "MENA"
         },
         {
