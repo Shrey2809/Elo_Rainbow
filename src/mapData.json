@@ -2156,8 +2156,8 @@
             "ID": 270,
             "TeamName": "ROC",
             "MapName": "CHALET",
-            "Elo": 1225,
-            "LastGameUpdated": 1,
+            "Elo": 1243.7570574430786,
+            "LastGameUpdated": 16,
             "Region": "MENA"
         },
         {
@@ -2172,8 +2172,8 @@
             "ID": 272,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1293.6431151105733,
-            "LastGameUpdated": 11,
+            "Elo": 1313.9056573906128,
+            "LastGameUpdated": 15,
             "Region": "MENA"
         },
         {
@@ -2340,8 +2340,8 @@
             "ID": 293,
             "TeamName": "WINTERBEAR",
             "MapName": "LABS",
-            "Elo": 1247.4100568221093,
-            "LastGameUpdated": 18,
+            "Elo": 1266.2247951227807,
+            "LastGameUpdated": 13,
             "Region": "MENA"
         },
         {
@@ -4164,8 +4164,8 @@
             "ID": 521,
             "TeamName": "TWM",
             "MapName": "CHALET",
-            "Elo": 1233.3745907794466,
-            "LastGameUpdated": 5,
+            "Elo": 1218.0296937354494,
+            "LastGameUpdated": 14,
             "Region": "MENA"
         },
         {
@@ -4820,8 +4820,8 @@
             "ID": 603,
             "TeamName": "GK",
             "MapName": "LABS",
-            "Elo": 1298.2042036527448,
-            "LastGameUpdated": 9,
+            "Elo": 1277.9416613727053,
+            "LastGameUpdated": 15,
             "Region": "MENA"
         },
         {
@@ -4948,8 +4948,8 @@
             "ID": 619,
             "TeamName": "AKT",
             "MapName": "LABS",
-            "Elo": 1226.7957963472552,
-            "LastGameUpdated": 9,
+            "Elo": 1207.9810580465837,
+            "LastGameUpdated": 13,
             "Region": "MENA"
         },
         {
@@ -4964,8 +4964,8 @@
             "ID": 621,
             "TeamName": "EAST",
             "MapName": "CHALET",
-            "Elo": 1225.3845487491637,
-            "LastGameUpdated": 10,
+            "Elo": 1240.729445793161,
+            "LastGameUpdated": 14,
             "Region": "MENA"
         },
         {
@@ -5063,6 +5063,14 @@
             "Elo": 1330,
             "LastGameUpdated": 20,
             "Region": "KOREA"
+        },
+        {
+            "ID": 634,
+            "TeamName": "VICIOUS",
+            "MapName": "CHALET",
+            "Elo": 1231.2429425569214,
+            "LastGameUpdated": 16,
+            "Region": "MENA"
         }
     ]
 }

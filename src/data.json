@@ -339,22 +339,22 @@
         {
             "ID": 49,
             "TeamName": "WINTERBEAR",
-            "Elo": 1210.6909976775128,
-            "LastGameUpdated": 10,
+            "Elo": 1229.0767180209507,
+            "LastGameUpdated": 13,
             "Region": "MENA"
         },
         {
             "ID": 50,
             "TeamName": "GK",
-            "Elo": 1374.71955711214,
-            "LastGameUpdated": 9,
+            "Elo": 1349.645385069916,
+            "LastGameUpdated": 15,
             "Region": "MENA"
         },
         {
             "ID": 51,
             "TeamName": "ROC",
-            "Elo": 1281.2209728320927,
-            "LastGameUpdated": 11,
+            "Elo": 1295.79250759097,
+            "LastGameUpdated": 16,
             "Region": "MENA"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1284.6042891326767,
-            "LastGameUpdated": 11,
+            "Elo": 1309.6784611749006,
+            "LastGameUpdated": 15,
             "Region": "MENA"
         },
         {
@@ -591,8 +591,8 @@
         {
             "ID": 85,
             "TeamName": "TWM",
-            "Elo": 1250.571777266921,
-            "LastGameUpdated": 12,
+            "Elo": 1233.2040412056324,
+            "LastGameUpdated": 14,
             "Region": "MENA"
         },
         {
@@ -647,22 +647,22 @@
         {
             "ID": 93,
             "TeamName": "AKT",
-            "Elo": 1182.5869511534995,
-            "LastGameUpdated": 9,
+            "Elo": 1164.2012308100616,
+            "LastGameUpdated": 13,
             "Region": "MENA"
         },
         {
             "ID": 94,
             "TeamName": "VICIOUS",
-            "Elo": 1222.5287954779117,
-            "LastGameUpdated": 12,
+            "Elo": 1207.9572607190344,
+            "LastGameUpdated": 16,
             "Region": "MENA"
         },
         {
             "ID": 95,
             "TeamName": "EAST",
-            "Elo": 1195.2669695700547,
-            "LastGameUpdated": 10,
+            "Elo": 1212.6347056313432,
+            "LastGameUpdated": 14,
             "Region": "MENA"
         }
     ]
