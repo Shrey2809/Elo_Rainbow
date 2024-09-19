@@ -248,8 +248,8 @@
         {
             "ID": 36,
             "TeamName": "ME",
-            "Elo": 1215.7197747588089,
-            "LastGameUpdated": 14,
+            "Elo": 1203.5320571864518,
+            "LastGameUpdated": 20,
             "Region": "LATAM"
         },
         {
@@ -262,15 +262,15 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1324.618317971084,
-            "LastGameUpdated": 13,
+            "Elo": 1336.806035543441,
+            "LastGameUpdated": 20,
             "Region": "LATAM"
         },
         {
             "ID": 39,
             "TeamName": "KNI",
-            "Elo": 1402.5569188514312,
-            "LastGameUpdated": 15,
+            "Elo": 1410.6008834199338,
+            "LastGameUpdated": 21,
             "Region": "LATAM"
         },
         {
@@ -626,8 +626,8 @@
         {
             "ID": 90,
             "TeamName": "7REX",
-            "Elo": 1228.123409262199,
-            "LastGameUpdated": 13,
+            "Elo": 1220.0794446936964,
+            "LastGameUpdated": 21,
             "Region": "LATAM"
         },
         {

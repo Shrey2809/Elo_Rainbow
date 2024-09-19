@@ -1604,8 +1604,8 @@
             "ID": 201,
             "TeamName": "ME",
             "MapName": "KAFE",
-            "Elo": 1267.5,
-            "LastGameUpdated": 0,
+            "Elo": 1247.937712779156,
+            "LastGameUpdated": 20,
             "Region": "LATAM"
         },
         {
@@ -1628,8 +1628,8 @@
             "ID": 204,
             "TeamName": "KNI",
             "MapName": "CLUB",
-            "Elo": 1331.4898651425756,
-            "LastGameUpdated": 46,
+            "Elo": 1343.03479072621,
+            "LastGameUpdated": 21,
             "Region": "LATAM"
         },
         {
@@ -2060,8 +2060,8 @@
             "ID": 258,
             "TeamName": "ALPHA",
             "MapName": "KAFE",
-            "Elo": 1226.365330186747,
-            "LastGameUpdated": 43,
+            "Elo": 1245.927617407591,
+            "LastGameUpdated": 20,
             "Region": "LATAM"
         },
         {
@@ -4982,6 +4982,14 @@
             "MapName": "CONS",
             "Elo": 1226.7957963472552,
             "LastGameUpdated": 19,
+            "Region": "LATAM"
+        },
+        {
+            "ID": 624,
+            "TeamName": "7REX",
+            "MapName": "CLUB",
+            "Elo": 1238.4550744163655,
+            "LastGameUpdated": 21,
             "Region": "LATAM"
         }
     ]
