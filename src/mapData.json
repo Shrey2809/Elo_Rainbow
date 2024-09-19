@@ -2084,8 +2084,8 @@
             "ID": 261,
             "TeamName": "RVN",
             "MapName": "KAFE",
-            "Elo": 1279.0812810140749,
-            "LastGameUpdated": 50,
+            "Elo": 1262.8286651525843,
+            "LastGameUpdated": 23,
             "Region": "LATAM"
         },
         {
@@ -4998,6 +4998,14 @@
             "MapName": "LABS",
             "Elo": 1269.1370666779542,
             "LastGameUpdated": 22,
+            "Region": "LATAM"
+        },
+        {
+            "ID": 626,
+            "TeamName": "TSG",
+            "MapName": "KAFE",
+            "Elo": 1266.2526158614905,
+            "LastGameUpdated": 23,
             "Region": "LATAM"
         }
     ]
