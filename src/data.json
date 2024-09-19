@@ -3,22 +3,22 @@
         {
             "ID": 1,
             "TeamName": "FURY",
-            "Elo": 1468.2137912260912,
-            "LastGameUpdated": 15,
+            "Elo": 1447.5341448011775,
+            "LastGameUpdated": 17,
             "Region": "SEA"
         },
         {
             "ID": 2,
             "TeamName": "NoCap",
-            "Elo": 1465.182284810752,
-            "LastGameUpdated": 13,
+            "Elo": 1450.4305330292902,
+            "LastGameUpdated": 18,
             "Region": "SEA"
         },
         {
             "ID": 3,
             "TeamName": "DW",
-            "Elo": 1387.3567594970546,
-            "LastGameUpdated": 14,
+            "Elo": 1401.5751693926522,
+            "LastGameUpdated": 19,
             "Region": "SEA"
         },
         {
@@ -31,29 +31,29 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1511.9423674323143,
-            "LastGameUpdated": 15,
+            "Elo": 1521.7521993696078,
+            "LastGameUpdated": 20,
             "Region": "SEA"
         },
         {
             "ID": 6,
             "TeamName": "KNOCK",
-            "Elo": 1253.1807512698192,
-            "LastGameUpdated": 16,
+            "Elo": 1238.9623413742215,
+            "LastGameUpdated": 19,
             "Region": "SEA"
         },
         {
             "ID": 7,
             "TeamName": "Bleed",
-            "Elo": 1589.9249376273942,
-            "LastGameUpdated": 14,
+            "Elo": 1604.676689408856,
+            "LastGameUpdated": 18,
             "Region": "SEA"
         },
         {
             "ID": 8,
             "TeamName": "HW",
-            "Elo": 1266.9590653529906,
-            "LastGameUpdated": 16,
+            "Elo": 1257.1492334156972,
+            "LastGameUpdated": 20,
             "Region": "SEA"
         },
         {
@@ -507,64 +507,64 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1479.096946725412,
-            "LastGameUpdated": 15,
+            "Elo": 1496.836167089339,
+            "LastGameUpdated": 20,
             "Region": "KOREA"
         },
         {
             "ID": 74,
             "TeamName": "ORG",
-            "Elo": 1243.2871191777253,
-            "LastGameUpdated": 14,
+            "Elo": 1228.2002172443767,
+            "LastGameUpdated": 17,
             "Region": "KOREA"
         },
         {
             "ID": 75,
             "TeamName": "BLS",
-            "Elo": 1235.158773233065,
-            "LastGameUpdated": 16,
+            "Elo": 1226.6499953343682,
+            "LastGameUpdated": 18,
             "Region": "KOREA"
         },
         {
             "ID": 76,
             "TeamName": "BnA",
-            "Elo": 1241.2742417175796,
-            "LastGameUpdated": 15,
+            "Elo": 1256.3611436509282,
+            "LastGameUpdated": 17,
             "Region": "KOREA"
         },
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1462.4877041689354,
-            "LastGameUpdated": 13,
+            "Elo": 1470.996482067632,
+            "LastGameUpdated": 18,
             "Region": "KOREA"
         },
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1439.6546100213352,
-            "LastGameUpdated": 16,
+            "Elo": 1421.9153896574082,
+            "LastGameUpdated": 20,
             "Region": "KOREA"
         },
         {
             "ID": 79,
             "TeamName": "MIR",
-            "Elo": 1282.5216445568126,
-            "LastGameUpdated": 13,
+            "Elo": 1299.903848192392,
+            "LastGameUpdated": 19,
             "Region": "KOREA"
         },
         {
             "ID": 80,
             "TeamName": "WEBL",
-            "Elo": 1338.1701722773032,
-            "LastGameUpdated": 14,
+            "Elo": 1320.7879686417239,
+            "LastGameUpdated": 19,
             "Region": "KOREA"
         },
         {
             "ID": 81,
             "TeamName": "Rival",
-            "Elo": 1329.7695028028427,
-            "LastGameUpdated": 13,
+            "Elo": 1350.4491492277564,
+            "LastGameUpdated": 17,
             "Region": "SEA"
         },
         {
