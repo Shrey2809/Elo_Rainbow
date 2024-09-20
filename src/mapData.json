@@ -140,8 +140,8 @@
             "ID": 18,
             "TeamName": "Bleed",
             "MapName": "CLUB",
-            "Elo": 1504.4629047981896,
-            "LastGameUpdated": 14,
+            "Elo": 1523.807601696157,
+            "LastGameUpdated": 22,
             "Region": "SEA"
         },
         {
@@ -204,8 +204,8 @@
             "ID": 26,
             "TeamName": "HW",
             "MapName": "CLUB",
-            "Elo": 1377.5,
-            "LastGameUpdated": 15,
+            "Elo": 1360.968453690346,
+            "LastGameUpdated": 24,
             "Region": "SEA"
         },
         {
@@ -3388,8 +3388,8 @@
             "ID": 424,
             "TeamName": "BLS",
             "MapName": "CLUB",
-            "Elo": 1334.1549839777085,
-            "LastGameUpdated": 11,
+            "Elo": 1311.704210744329,
+            "LastGameUpdated": 23,
             "Region": "KOREA"
         },
         {
@@ -3420,16 +3420,16 @@
             "ID": 428,
             "TeamName": "FOX",
             "MapName": "CLUB",
-            "Elo": 1345.6736992181593,
-            "LastGameUpdated": 6,
+            "Elo": 1361.400698511141,
+            "LastGameUpdated": 24,
             "Region": "KOREA"
         },
         {
             "ID": 429,
             "TeamName": "ORG",
             "MapName": "CHALET",
-            "Elo": 1300.4196720946231,
-            "LastGameUpdated": 14,
+            "Elo": 1286.4452843017573,
+            "LastGameUpdated": 22,
             "Region": "KOREA"
         },
         {
@@ -3508,8 +3508,8 @@
             "ID": 439,
             "TeamName": "WEBL",
             "MapName": "CLUB",
-            "Elo": 1334.9151243231981,
-            "LastGameUpdated": 12,
+            "Elo": 1357.3658975565777,
+            "LastGameUpdated": 23,
             "Region": "KOREA"
         },
         {
@@ -3604,16 +3604,16 @@
             "ID": 451,
             "TeamName": "PSG",
             "MapName": "CHALET",
-            "Elo": 1371.3860157856554,
-            "LastGameUpdated": 34,
+            "Elo": 1385.3604035785213,
+            "LastGameUpdated": 22,
             "Region": "KOREA"
         },
         {
             "ID": 452,
             "TeamName": "DK",
             "MapName": "CLUB",
-            "Elo": 1310.3523111891861,
-            "LastGameUpdated": 3,
+            "Elo": 1294.6253118962045,
+            "LastGameUpdated": 24,
             "Region": "KOREA"
         },
         {
@@ -3860,8 +3860,8 @@
             "ID": 483,
             "TeamName": "DW",
             "MapName": "LABS",
-            "Elo": 1421.5019974384584,
-            "LastGameUpdated": 11,
+            "Elo": 1405.0156221650466,
+            "LastGameUpdated": 21,
             "Region": "SEA"
         },
         {
@@ -3908,16 +3908,16 @@
             "ID": 489,
             "TeamName": "ELV",
             "MapName": "CLUB",
-            "Elo": 1398.2380234715777,
-            "LastGameUpdated": 2,
+            "Elo": 1378.8933265736102,
+            "LastGameUpdated": 22,
             "Region": "SEA"
         },
         {
             "ID": 490,
             "TeamName": "NoCap",
             "MapName": "LABS",
-            "Elo": 1386.9606666737213,
-            "LastGameUpdated": 9,
+            "Elo": 1403.4470419471331,
+            "LastGameUpdated": 21,
             "Region": "SEA"
         },
         {
@@ -4244,8 +4244,8 @@
             "ID": 531,
             "TeamName": "MIR",
             "MapName": "BANK",
-            "Elo": 1342.0809274535563,
-            "LastGameUpdated": 0,
+            "Elo": 1357.4227621041846,
+            "LastGameUpdated": 21,
             "Region": "KOREA"
         },
         {
@@ -4524,8 +4524,8 @@
             "ID": 566,
             "TeamName": "Rival",
             "MapName": "CLUB",
-            "Elo": 1396.7468226888527,
-            "LastGameUpdated": 10,
+            "Elo": 1413.2783689985067,
+            "LastGameUpdated": 24,
             "Region": "SEA"
         },
         {
@@ -5071,6 +5071,30 @@
             "Elo": 1231.2429425569214,
             "LastGameUpdated": 16,
             "Region": "MENA"
+        },
+        {
+            "ID": 635,
+            "TeamName": "FURY",
+            "MapName": "LAIR",
+            "Elo": 1420,
+            "LastGameUpdated": 23,
+            "Region": "SEA"
+        },
+        {
+            "ID": 636,
+            "TeamName": "KNOCK",
+            "MapName": "LAIR",
+            "Elo": 1380,
+            "LastGameUpdated": 23,
+            "Region": "SEA"
+        },
+        {
+            "ID": 637,
+            "TeamName": "BnA",
+            "MapName": "BANK",
+            "Elo": 1334.6581653493718,
+            "LastGameUpdated": 21,
+            "Region": "KOREA"
         }
     ]
 }
