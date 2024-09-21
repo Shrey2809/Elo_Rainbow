@@ -4668,8 +4668,8 @@
             "ID": 584,
             "TeamName": "IGZ",
             "MapName": "LABS",
-            "Elo": 1373.6811151733505,
-            "LastGameUpdated": 7,
+            "Elo": 1354.9901636411373,
+            "LastGameUpdated": 18,
             "Region": "JAPAN"
         },
         {
@@ -5111,6 +5111,14 @@
             "Elo": 1487.5,
             "LastGameUpdated": 24,
             "Region": "AMERICA"
+        },
+        {
+            "ID": 640,
+            "TeamName": "FB",
+            "MapName": "LABS",
+            "Elo": 1368.6909515322131,
+            "LastGameUpdated": 18,
+            "Region": "JAPAN"
         }
     ]
 }
