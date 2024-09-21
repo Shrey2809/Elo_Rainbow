@@ -404,8 +404,8 @@
             "ID": 51,
             "TeamName": "MIBR",
             "MapName": "CHALET",
-            "Elo": 1492.6872213089741,
-            "LastGameUpdated": 11,
+            "Elo": 1480.4502808264142,
+            "LastGameUpdated": 21,
             "Region": "BR"
         },
         {
@@ -1268,8 +1268,8 @@
             "ID": 159,
             "TeamName": "CGL",
             "MapName": "LABS",
-            "Elo": 1335,
-            "LastGameUpdated": 2,
+            "Elo": 1318.2550666567902,
+            "LastGameUpdated": 19,
             "Region": "JAPAN"
         },
         {
@@ -1580,8 +1580,8 @@
             "ID": 198,
             "TeamName": "VIT",
             "MapName": "BORDER",
-            "Elo": 1366.5586756163377,
-            "LastGameUpdated": 40,
+            "Elo": 1351.7676822255899,
+            "LastGameUpdated": 20,
             "Region": "JAPAN"
         },
         {
@@ -3740,8 +3740,8 @@
             "ID": 468,
             "TeamName": "SZ",
             "MapName": "BORDER",
-            "Elo": 1490.6143160944105,
-            "LastGameUpdated": 8,
+            "Elo": 1505.4053094851583,
+            "LastGameUpdated": 20,
             "Region": "JAPAN"
         },
         {
@@ -5118,6 +5118,22 @@
             "MapName": "LABS",
             "Elo": 1368.6909515322131,
             "LastGameUpdated": 18,
+            "Region": "JAPAN"
+        },
+        {
+            "ID": 641,
+            "TeamName": "KS",
+            "MapName": "CHALET",
+            "Elo": 1512.23694048256,
+            "LastGameUpdated": 21,
+            "Region": "BR"
+        },
+        {
+            "ID": 642,
+            "TeamName": "E36",
+            "MapName": "LABS",
+            "Elo": 1366.7449333432098,
+            "LastGameUpdated": 19,
             "Region": "JAPAN"
         }
     ]
