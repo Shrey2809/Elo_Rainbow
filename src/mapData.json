@@ -5095,6 +5095,22 @@
             "Elo": 1334.6581653493718,
             "LastGameUpdated": 21,
             "Region": "KOREA"
+        },
+        {
+            "ID": 638,
+            "TeamName": "SQ",
+            "MapName": "LAIR",
+            "Elo": 1512.5,
+            "LastGameUpdated": 24,
+            "Region": "AMERICA"
+        },
+        {
+            "ID": 639,
+            "TeamName": "OXG",
+            "MapName": "LAIR",
+            "Elo": 1487.5,
+            "LastGameUpdated": 24,
+            "Region": "AMERICA"
         }
     ]
 }
