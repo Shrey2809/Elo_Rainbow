@@ -788,8 +788,8 @@
             "ID": 99,
             "TeamName": "E1",
             "MapName": "LABS",
-            "Elo": 1496.7507978177123,
-            "LastGameUpdated": 3,
+            "Elo": 1484.367693855313,
+            "LastGameUpdated": 23,
             "Region": "BR"
         },
         {
@@ -5135,6 +5135,14 @@
             "Elo": 1366.7449333432098,
             "LastGameUpdated": 19,
             "Region": "JAPAN"
+        },
+        {
+            "ID": 643,
+            "TeamName": "Fluxo",
+            "MapName": "LABS",
+            "Elo": 1512.3831039623992,
+            "LastGameUpdated": 23,
+            "Region": "BR"
         }
     ]
 }
