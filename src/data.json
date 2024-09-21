@@ -388,15 +388,15 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1441.618347916294,
-            "LastGameUpdated": 17,
+            "Elo": 1455.1863439110703,
+            "LastGameUpdated": 22,
             "Region": "AMERICA"
         },
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1557.107501530686,
-            "LastGameUpdated": 18,
+            "Elo": 1538.424949605228,
+            "LastGameUpdated": 21,
             "Region": "AMERICA"
         },
         {
@@ -409,8 +409,8 @@
         {
             "ID": 59,
             "TeamName": "LOS",
-            "Elo": 1408.3484177563098,
-            "LastGameUpdated": 19,
+            "Elo": 1394.7804217615335,
+            "LastGameUpdated": 22,
             "Region": "AMERICA"
         },
         {
@@ -423,8 +423,8 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1639.6526956046603,
-            "LastGameUpdated": 17,
+            "Elo": 1659.5019062726974,
+            "LastGameUpdated": 23,
             "Region": "AMERICA"
         },
         {
@@ -437,15 +437,15 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1533.593918077717,
-            "LastGameUpdated": 16,
+            "Elo": 1552.276470003175,
+            "LastGameUpdated": 21,
             "Region": "AMERICA"
         },
         {
             "ID": 64,
             "TeamName": "C9BC",
-            "Elo": 1686.5758882566392,
-            "LastGameUpdated": 19,
+            "Elo": 1666.7266775886021,
+            "LastGameUpdated": 23,
             "Region": "AMERICA"
         },
         {
