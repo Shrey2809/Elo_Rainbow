@@ -59,8 +59,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1643.90004083519,
-            "LastGameUpdated": 17,
+            "Elo": 1649.9539430208201,
+            "LastGameUpdated": 24,
             "Region": "BR"
         },
         {
@@ -80,8 +80,8 @@
         {
             "ID": 12,
             "TeamName": "NIP",
-            "Elo": 1445.7062906502404,
-            "LastGameUpdated": 20,
+            "Elo": 1439.6523884646103,
+            "LastGameUpdated": 24,
             "Region": "BR"
         },
         {
@@ -192,15 +192,15 @@
         {
             "ID": 28,
             "TeamName": "FB",
-            "Elo": 1234.9243423533676,
-            "LastGameUpdated": 18,
+            "Elo": 1258.2592204938635,
+            "LastGameUpdated": 21,
             "Region": "JAPAN"
         },
         {
             "ID": 29,
             "TeamName": "E36",
-            "Elo": 1211.749128155362,
-            "LastGameUpdated": 19,
+            "Elo": 1188.4142500148662,
+            "LastGameUpdated": 21,
             "Region": "JAPAN"
         },
         {
@@ -220,15 +220,15 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1524.99212298538,
-            "LastGameUpdated": 17,
+            "Elo": 1533.8053648897078,
+            "LastGameUpdated": 22,
             "Region": "JAPAN"
         },
         {
             "ID": 33,
             "TeamName": "CGL",
-            "Elo": 1305.458306625943,
-            "LastGameUpdated": 19,
+            "Elo": 1296.6450647216152,
+            "LastGameUpdated": 22,
             "Region": "JAPAN"
         },
         {
