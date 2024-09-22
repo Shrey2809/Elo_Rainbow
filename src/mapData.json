@@ -516,8 +516,8 @@
             "ID": 65,
             "TeamName": "FaZe",
             "MapName": "SKYSCRAPER",
-            "Elo": 1538.4301664156383,
-            "LastGameUpdated": 6,
+            "Elo": 1547.328546342251,
+            "LastGameUpdated": 28,
             "Region": "BR"
         },
         {
@@ -5151,6 +5151,14 @@
             "Elo": 1336.9238703673666,
             "LastGameUpdated": 23,
             "Region": "JAPAN"
+        },
+        {
+            "ID": 645,
+            "TeamName": "FURIA",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1491.1016200733873,
+            "LastGameUpdated": 28,
+            "Region": "BR"
         }
     ]
 }
