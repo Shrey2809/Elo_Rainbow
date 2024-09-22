@@ -1540,8 +1540,8 @@
             "ID": 193,
             "TeamName": "KNT",
             "MapName": "CHALET",
-            "Elo": 1394.808189078371,
-            "LastGameUpdated": 11,
+            "Elo": 1407.8843187110044,
+            "LastGameUpdated": 23,
             "Region": "JAPAN"
         },
         {
@@ -5143,6 +5143,14 @@
             "Elo": 1512.3831039623992,
             "LastGameUpdated": 23,
             "Region": "BR"
+        },
+        {
+            "ID": 644,
+            "TeamName": "VIT",
+            "MapName": "CHALET",
+            "Elo": 1336.9238703673666,
+            "LastGameUpdated": 23,
+            "Region": "JAPAN"
         }
     ]
 }
