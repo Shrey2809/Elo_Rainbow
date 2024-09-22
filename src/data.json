@@ -73,8 +73,8 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1628.0505321077615,
-            "LastGameUpdated": 22,
+            "Elo": 1636.227979687168,
+            "LastGameUpdated": 26,
             "Region": "BR"
         },
         {
@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1419.2877719266578,
-            "LastGameUpdated": 19,
+            "Elo": 1405.80850941459,
+            "LastGameUpdated": 27,
             "Region": "BR"
         },
         {
@@ -101,15 +101,15 @@
         {
             "ID": 15,
             "TeamName": "Fluxo",
-            "Elo": 1392.0134317236175,
-            "LastGameUpdated": 23,
+            "Elo": 1405.4926942356853,
+            "LastGameUpdated": 27,
             "Region": "BR"
         },
         {
             "ID": 16,
             "TeamName": "KS",
-            "Elo": 1502.740883521025,
-            "LastGameUpdated": 21,
+            "Elo": 1494.5634359416183,
+            "LastGameUpdated": 26,
             "Region": "BR"
         },
         {
@@ -213,8 +213,8 @@
         {
             "ID": 31,
             "TeamName": "IGZ",
-            "Elo": 1354.158103048866,
-            "LastGameUpdated": 18,
+            "Elo": 1343.5646058581767,
+            "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1558.7985734423978,
-            "LastGameUpdated": 20,
+            "Elo": 1569.392070633087,
+            "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
         {
