@@ -143,8 +143,8 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1501.850926376371,
-            "LastGameUpdated": 23,
+            "Elo": 1511.7101156534316,
+            "LastGameUpdated": 25,
             "Region": "EU"
         },
         {
@@ -178,8 +178,8 @@
         {
             "ID": 26,
             "TeamName": "WYLDE",
-            "Elo": 1427.3277559659405,
-            "LastGameUpdated": 24,
+            "Elo": 1417.46856668888,
+            "LastGameUpdated": 25,
             "Region": "EU"
         },
         {
@@ -465,8 +465,8 @@
         {
             "ID": 67,
             "TeamName": "ANTC",
-            "Elo": 1420.595354925334,
-            "LastGameUpdated": 15,
+            "Elo": 1432.3723087011854,
+            "LastGameUpdated": 18,
             "Region": "OCE"
         },
         {
@@ -479,8 +479,8 @@
         {
             "ID": 69,
             "TeamName": "SUPERNOVA",
-            "Elo": 1344.760152393863,
-            "LastGameUpdated": 14,
+            "Elo": 1332.9831986180118,
+            "LastGameUpdated": 18,
             "Region": "OCE"
         },
         {
@@ -493,15 +493,15 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1524.0400925367117,
-            "LastGameUpdated": 16,
+            "Elo": 1533.7112196427925,
+            "LastGameUpdated": 17,
             "Region": "OCE"
         },
         {
             "ID": 72,
             "TeamName": "CS",
-            "Elo": 1325.488420609549,
-            "LastGameUpdated": 13,
+            "Elo": 1315.8172935034681,
+            "LastGameUpdated": 17,
             "Region": "OCE"
         },
         {
@@ -598,29 +598,29 @@
         {
             "ID": 86,
             "TeamName": "OUTLAST",
-            "Elo": 1407.3809704069383,
-            "LastGameUpdated": 13,
+            "Elo": 1389.6035568476755,
+            "LastGameUpdated": 19,
             "Region": "OCE"
         },
         {
             "ID": 87,
             "TeamName": "CHIEFS",
-            "Elo": 1437.5828421517383,
-            "LastGameUpdated": 16,
+            "Elo": 1456.4869095491727,
+            "LastGameUpdated": 20,
             "Region": "OCE"
         },
         {
             "ID": 88,
             "TeamName": "PRODIGY",
-            "Elo": 1401.872889431079,
-            "LastGameUpdated": 14,
+            "Elo": 1419.650302990342,
+            "LastGameUpdated": 19,
             "Region": "OCE"
         },
         {
             "ID": 89,
             "TeamName": "Odium",
-            "Elo": 1325.2216381216263,
-            "LastGameUpdated": 15,
+            "Elo": 1306.317570724192,
+            "LastGameUpdated": 20,
             "Region": "OCE"
         },
         {

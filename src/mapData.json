@@ -1100,8 +1100,8 @@
             "ID": 138,
             "TeamName": "WYLDE",
             "MapName": "CLUB",
-            "Elo": 1459.481486914335,
-            "LastGameUpdated": 24,
+            "Elo": 1449.6154501596868,
+            "LastGameUpdated": 25,
             "Region": "EU"
         },
         {
@@ -1116,8 +1116,8 @@
             "ID": 140,
             "TeamName": "ITB",
             "MapName": "CLUB",
-            "Elo": 1533.8054652580395,
-            "LastGameUpdated": 14,
+            "Elo": 1543.6715020126876,
+            "LastGameUpdated": 25,
             "Region": "EU"
         },
         {
@@ -3276,8 +3276,8 @@
             "ID": 410,
             "TeamName": "GG",
             "MapName": "KAFE",
-            "Elo": 1443.5624718053866,
-            "LastGameUpdated": 38,
+            "Elo": 1461.067873086771,
+            "LastGameUpdated": 17,
             "Region": "OCE"
         },
         {
@@ -4236,8 +4236,8 @@
             "ID": 530,
             "TeamName": "ANTC",
             "MapName": "LABS",
-            "Elo": 1382.5125609699985,
-            "LastGameUpdated": 11,
+            "Elo": 1398.0728625103222,
+            "LastGameUpdated": 18,
             "Region": "OCE"
         },
         {
@@ -4492,8 +4492,8 @@
             "ID": 562,
             "TeamName": "Odium",
             "MapName": "BANK",
-            "Elo": 1382.590196646321,
-            "LastGameUpdated": 6,
+            "Elo": 1356.4670540871634,
+            "LastGameUpdated": 20,
             "Region": "OCE"
         },
         {
@@ -4932,16 +4932,16 @@
             "ID": 617,
             "TeamName": "SUPERNOVA",
             "MapName": "LABS",
-            "Elo": 1395.496514880812,
-            "LastGameUpdated": 14,
+            "Elo": 1379.9362133404882,
+            "LastGameUpdated": 18,
             "Region": "OCE"
         },
         {
             "ID": 618,
             "TeamName": "PRODIGY",
             "MapName": "LABS",
-            "Elo": 1415.4734543193144,
-            "LastGameUpdated": 14,
+            "Elo": 1432.194586028174,
+            "LastGameUpdated": 19,
             "Region": "OCE"
         },
         {
@@ -5159,6 +5159,30 @@
             "Elo": 1491.1016200733873,
             "LastGameUpdated": 28,
             "Region": "BR"
+        },
+        {
+            "ID": 646,
+            "TeamName": "CS",
+            "MapName": "KAFE",
+            "Elo": 1382.4945987186156,
+            "LastGameUpdated": 17,
+            "Region": "OCE"
+        },
+        {
+            "ID": 647,
+            "TeamName": "OUTLAST",
+            "MapName": "LABS",
+            "Elo": 1383.2788682911405,
+            "LastGameUpdated": 19,
+            "Region": "OCE"
+        },
+        {
+            "ID": 648,
+            "TeamName": "CHIEFS",
+            "MapName": "BANK",
+            "Elo": 1426.1231425591575,
+            "LastGameUpdated": 20,
+            "Region": "OCE"
         }
     ]
 }
