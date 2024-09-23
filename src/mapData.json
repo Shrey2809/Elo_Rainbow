@@ -1924,8 +1924,8 @@
             "ID": 241,
             "TeamName": "VASCO",
             "MapName": "KAFE",
-            "Elo": 1292.628139893721,
-            "LastGameUpdated": 43,
+            "Elo": 1312.3813023559148,
+            "LastGameUpdated": 25,
             "Region": "LATAM"
         },
         {
@@ -5191,6 +5191,14 @@
             "Elo": 1512.9269245176847,
             "LastGameUpdated": 28,
             "Region": "EU"
+        },
+        {
+            "ID": 650,
+            "TeamName": "KNI",
+            "MapName": "KAFE",
+            "Elo": 1230.2468375378062,
+            "LastGameUpdated": 25,
+            "Region": "LATAM"
         }
     ]
 }
