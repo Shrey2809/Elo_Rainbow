@@ -940,8 +940,8 @@
             "ID": 118,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1591.679400675657,
-            "LastGameUpdated": 19,
+            "Elo": 1603.9204045871522,
+            "LastGameUpdated": 26,
             "Region": "EU"
         },
         {
@@ -1108,8 +1108,8 @@
             "ID": 139,
             "TeamName": "Secret",
             "MapName": "SKYSCRAPER",
-            "Elo": 1502.7153752752338,
-            "LastGameUpdated": 35,
+            "Elo": 1512.2777213220375,
+            "LastGameUpdated": 27,
             "Region": "EU"
         },
         {
@@ -1124,8 +1124,8 @@
             "ID": 141,
             "TeamName": "FNC",
             "MapName": "SKYSCRAPER",
-            "Elo": 1487.5,
-            "LastGameUpdated": 23,
+            "Elo": 1477.9376539531963,
+            "LastGameUpdated": 27,
             "Region": "EU"
         },
         {
@@ -1156,8 +1156,8 @@
             "ID": 145,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1483.9449748863085,
-            "LastGameUpdated": 14,
+            "Elo": 1471.7039709748133,
+            "LastGameUpdated": 26,
             "Region": "EU"
         },
         {
@@ -4364,8 +4364,8 @@
             "ID": 546,
             "TeamName": "WOL",
             "MapName": "LAIR",
-            "Elo": 1511.8709188002927,
-            "LastGameUpdated": 12,
+            "Elo": 1498.943994282608,
+            "LastGameUpdated": 28,
             "Region": "EU"
         },
         {
@@ -5183,6 +5183,14 @@
             "Elo": 1426.1231425591575,
             "LastGameUpdated": 20,
             "Region": "OCE"
+        },
+        {
+            "ID": 649,
+            "TeamName": "G2",
+            "MapName": "LAIR",
+            "Elo": 1512.9269245176847,
+            "LastGameUpdated": 28,
+            "Region": "EU"
         }
     ]
 }

@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1543.4245723234433,
-            "LastGameUpdated": 21,
+            "Elo": 1549.7128186188108,
+            "LastGameUpdated": 27,
             "Region": "EU"
         },
         {
@@ -150,29 +150,29 @@
         {
             "ID": 22,
             "TeamName": "WOL",
-            "Elo": 1510.1939860102264,
-            "LastGameUpdated": 18,
+            "Elo": 1497.1537220364476,
+            "LastGameUpdated": 28,
             "Region": "EU"
         },
         {
             "ID": 23,
             "TeamName": "FNC",
-            "Elo": 1407.9991882949034,
-            "LastGameUpdated": 24,
+            "Elo": 1401.7109419995359,
+            "LastGameUpdated": 27,
             "Region": "EU"
         },
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1495.1680704769385,
-            "LastGameUpdated": 23,
+            "Elo": 1508.2083344507173,
+            "LastGameUpdated": 28,
             "Region": "EU"
         },
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1795.8363568040925,
-            "LastGameUpdated": 21,
+            "Elo": 1800.0414760288863,
+            "LastGameUpdated": 26,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1449.9562714163676,
-            "LastGameUpdated": 22,
+            "Elo": 1445.7511521915737,
+            "LastGameUpdated": 26,
             "Region": "EU"
         },
         {
