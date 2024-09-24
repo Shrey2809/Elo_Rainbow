@@ -76,7 +76,7 @@
             "ID": 10,
             "TeamName": "Bleed",
             "MapName": "SKYSCRAPER",
-            "Elo": 1437.0573144146886,
+            "Elo": 1434.184526401383,
             "LastGameUpdated": 18,
             "Region": "SEA"
         },
@@ -108,7 +108,7 @@
             "ID": 14,
             "TeamName": "KNOCK",
             "MapName": "SKYSCRAPER",
-            "Elo": 1370.0341067674071,
+            "Elo": 1371.7659372520704,
             "LastGameUpdated": 8,
             "Region": "SEA"
         },
@@ -124,7 +124,7 @@
             "ID": 16,
             "TeamName": "NoCap",
             "MapName": "CHALET",
-            "Elo": 1425.700399303647,
+            "Elo": 1425.929338230443,
             "LastGameUpdated": 13,
             "Region": "SEA"
         },
@@ -132,7 +132,7 @@
             "ID": 17,
             "TeamName": "DW",
             "MapName": "CLUB",
-            "Elo": 1367.9258034042207,
+            "Elo": 1368.6907168829932,
             "LastGameUpdated": 19,
             "Region": "SEA"
         },
@@ -140,7 +140,7 @@
             "ID": 18,
             "TeamName": "Bleed",
             "MapName": "CLUB",
-            "Elo": 1521.1196798121841,
+            "Elo": 1515.5816433516104,
             "LastGameUpdated": 22,
             "Region": "SEA"
         },
@@ -148,7 +148,7 @@
             "ID": 19,
             "TeamName": "FURY",
             "MapName": "CONS",
-            "Elo": 1380.2469430403737,
+            "Elo": 1383.1123282873357,
             "LastGameUpdated": 17,
             "Region": "SEA"
         },
@@ -156,7 +156,7 @@
             "ID": 20,
             "TeamName": "ELV",
             "MapName": "CONS",
-            "Elo": 1394.1065623397644,
+            "Elo": 1392.8671695027247,
             "LastGameUpdated": 20,
             "Region": "SEA"
         },
@@ -180,7 +180,7 @@
             "ID": 23,
             "TeamName": "ELV",
             "MapName": "CHALET",
-            "Elo": 1495.7786833647774,
+            "Elo": 1493.7104276657676,
             "LastGameUpdated": 12,
             "Region": "SEA"
         },
@@ -204,7 +204,7 @@
             "ID": 26,
             "TeamName": "HW",
             "MapName": "CLUB",
-            "Elo": 1361.0420678529363,
+            "Elo": 1363.7936038503954,
             "LastGameUpdated": 24,
             "Region": "SEA"
         },
@@ -220,7 +220,7 @@
             "ID": 28,
             "TeamName": "NoCap",
             "MapName": "BANK",
-            "Elo": 1459.8920308060647,
+            "Elo": 1455.3350538192776,
             "LastGameUpdated": 5,
             "Region": "SEA"
         },
@@ -236,7 +236,7 @@
             "ID": 30,
             "TeamName": "HW",
             "MapName": "BANK",
-            "Elo": 1398.191857771286,
+            "Elo": 1400.6053755498754,
             "LastGameUpdated": 3,
             "Region": "SEA"
         },
@@ -268,7 +268,7 @@
             "ID": 34,
             "TeamName": "KNOCK",
             "MapName": "CLUB",
-            "Elo": 1348.331675825764,
+            "Elo": 1354.1129423616474,
             "LastGameUpdated": 19,
             "Region": "SEA"
         },
@@ -284,7 +284,7 @@
             "ID": 36,
             "TeamName": "ELV",
             "MapName": "BANK",
-            "Elo": 1415.7860686155846,
+            "Elo": 1413.3839848198977,
             "LastGameUpdated": 15,
             "Region": "SEA"
         },
@@ -332,7 +332,7 @@
             "ID": 42,
             "TeamName": "Bleed",
             "MapName": "LABS",
-            "Elo": 1556.268277206654,
+            "Elo": 1554.881086586055,
             "LastGameUpdated": 4,
             "Region": "SEA"
         },
@@ -1260,7 +1260,7 @@
             "ID": 158,
             "TeamName": "VIT",
             "MapName": "SKYSCRAPER",
-            "Elo": 1304.7674439261125,
+            "Elo": 1307.1528248815782,
             "LastGameUpdated": 13,
             "Region": "JAPAN"
         },
@@ -1284,7 +1284,7 @@
             "ID": 161,
             "TeamName": "CGL",
             "MapName": "LABS",
-            "Elo": 1314.3625118046184,
+            "Elo": 1317.7017765651426,
             "LastGameUpdated": 19,
             "Region": "JAPAN"
         },
@@ -1292,7 +1292,7 @@
             "ID": 162,
             "TeamName": "SZ",
             "MapName": "BANK",
-            "Elo": 1358.129256696407,
+            "Elo": 1355.5562408684514,
             "LastGameUpdated": 4,
             "Region": "JAPAN"
         },
@@ -1300,7 +1300,7 @@
             "ID": 163,
             "TeamName": "KNT",
             "MapName": "BANK",
-            "Elo": 1304.4707042499035,
+            "Elo": 1309.1425132846389,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
@@ -1340,7 +1340,7 @@
             "ID": 168,
             "TeamName": "IGZ",
             "MapName": "CONS",
-            "Elo": 1340.0903334392951,
+            "Elo": 1341.0965117649719,
             "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
@@ -1348,7 +1348,7 @@
             "ID": 169,
             "TeamName": "SZ",
             "MapName": "CONS",
-            "Elo": 1387.1920353511334,
+            "Elo": 1384.6192338807314,
             "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
@@ -1396,7 +1396,7 @@
             "ID": 175,
             "TeamName": "VIT",
             "MapName": "LABS",
-            "Elo": 1342.9400969163125,
+            "Elo": 1345.186786650851,
             "LastGameUpdated": 7,
             "Region": "JAPAN"
         },
@@ -1412,7 +1412,7 @@
             "ID": 177,
             "TeamName": "IGZ",
             "MapName": "BANK",
-            "Elo": 1382.6405047061508,
+            "Elo": 1380.541711499371,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
@@ -1436,7 +1436,7 @@
             "ID": 180,
             "TeamName": "E36",
             "MapName": "CLUB",
-            "Elo": 1284.3462794788477,
+            "Elo": 1288.8755801750303,
             "LastGameUpdated": 21,
             "Region": "JAPAN"
         },
@@ -1444,7 +1444,7 @@
             "ID": 181,
             "TeamName": "CAG",
             "MapName": "CLUB",
-            "Elo": 1426.3331650797948,
+            "Elo": 1422.5319617611447,
             "LastGameUpdated": 15,
             "Region": "JAPAN"
         },
@@ -1452,7 +1452,7 @@
             "ID": 182,
             "TeamName": "VIT",
             "MapName": "BANK",
-            "Elo": 1351.212838868235,
+            "Elo": 1348.4713280678416,
             "LastGameUpdated": 1,
             "Region": "JAPAN"
         },
@@ -1484,7 +1484,7 @@
             "ID": 186,
             "TeamName": "IGZ",
             "MapName": "CLUB",
-            "Elo": 1331.6427320912555,
+            "Elo": 1333.8859144312007,
             "LastGameUpdated": 12,
             "Region": "JAPAN"
         },
@@ -1508,7 +1508,7 @@
             "ID": 189,
             "TeamName": "FB",
             "MapName": "CONS",
-            "Elo": 1342.6469883755283,
+            "Elo": 1345.09266490085,
             "LastGameUpdated": 9,
             "Region": "JAPAN"
         },
@@ -1516,7 +1516,7 @@
             "ID": 190,
             "TeamName": "SZ",
             "MapName": "CLUB",
-            "Elo": 1428.3636243047383,
+            "Elo": 1424.218110521274,
             "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
@@ -1540,7 +1540,7 @@
             "ID": 193,
             "TeamName": "CAG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1371.8339042994962,
+            "Elo": 1369.2328698285603,
             "LastGameUpdated": 22,
             "Region": "JAPAN"
         },
@@ -1548,7 +1548,7 @@
             "ID": 194,
             "TeamName": "FB",
             "MapName": "BORDER",
-            "Elo": 1315.6423477414812,
+            "Elo": 1317.2274859937102,
             "LastGameUpdated": 8,
             "Region": "JAPAN"
         },
@@ -1556,7 +1556,7 @@
             "ID": 195,
             "TeamName": "KNT",
             "MapName": "CHALET",
-            "Elo": 1404.5467073078298,
+            "Elo": 1400.8439929220863,
             "LastGameUpdated": 23,
             "Region": "JAPAN"
         },
@@ -1596,7 +1596,7 @@
             "ID": 200,
             "TeamName": "VIT",
             "MapName": "BORDER",
-            "Elo": 1349.0553971429308,
+            "Elo": 1350.6661082184028,
             "LastGameUpdated": 20,
             "Region": "JAPAN"
         },
@@ -1604,7 +1604,7 @@
             "ID": 201,
             "TeamName": "FB",
             "MapName": "CLUB",
-            "Elo": 1322.7934444568987,
+            "Elo": 1324.1713376500425,
             "LastGameUpdated": 21,
             "Region": "JAPAN"
         },
@@ -1612,7 +1612,7 @@
             "ID": 202,
             "TeamName": "CAG",
             "MapName": "CHALET",
-            "Elo": 1441.8083717631912,
+            "Elo": 1439.9569872925701,
             "LastGameUpdated": 5,
             "Region": "JAPAN"
         },
@@ -1620,7 +1620,7 @@
             "ID": 203,
             "TeamName": "ME",
             "MapName": "KAFE",
-            "Elo": 1225.2582615819852,
+            "Elo": 1230.4940762329365,
             "LastGameUpdated": 26,
             "Region": "LATAM"
         },
@@ -1636,7 +1636,7 @@
             "ID": 205,
             "TeamName": "ALPHA",
             "MapName": "CLUB",
-            "Elo": 1255.0466877561826,
+            "Elo": 1252.5415002277177,
             "LastGameUpdated": 27,
             "Region": "LATAM"
         },
@@ -1644,7 +1644,7 @@
             "ID": 206,
             "TeamName": "KNI",
             "MapName": "CLUB",
-            "Elo": 1333.8714318704144,
+            "Elo": 1332.2171088541347,
             "LastGameUpdated": 21,
             "Region": "LATAM"
         },
@@ -1660,7 +1660,7 @@
             "ID": 208,
             "TeamName": "VASCO",
             "MapName": "LABS",
-            "Elo": 1297.806826695995,
+            "Elo": 1295.9423582123413,
             "LastGameUpdated": 14,
             "Region": "LATAM"
         },
@@ -1700,7 +1700,7 @@
             "ID": 213,
             "TeamName": "CN",
             "MapName": "BANK",
-            "Elo": 1282.5013911601102,
+            "Elo": 1280.4449425180946,
             "LastGameUpdated": 5,
             "Region": "LATAM"
         },
@@ -1724,7 +1724,7 @@
             "ID": 216,
             "TeamName": "6K",
             "MapName": "CHALET",
-            "Elo": 1309.570879346065,
+            "Elo": 1307.2539855748735,
             "LastGameUpdated": 24,
             "Region": "LATAM"
         },
@@ -1732,7 +1732,7 @@
             "ID": 217,
             "TeamName": "CTY",
             "MapName": "CHALET",
-            "Elo": 1278.8552128732497,
+            "Elo": 1276.6598865564872,
             "LastGameUpdated": 6,
             "Region": "LATAM"
         },
@@ -1748,7 +1748,7 @@
             "ID": 219,
             "TeamName": "CN",
             "MapName": "CLUB",
-            "Elo": 1203.944548675894,
+            "Elo": 1205.2067819746335,
             "LastGameUpdated": 18,
             "Region": "LATAM"
         },
@@ -1788,7 +1788,7 @@
             "ID": 224,
             "TeamName": "MvG",
             "MapName": "CHALET",
-            "Elo": 1150.4358680110597,
+            "Elo": 1153.2358650198787,
             "LastGameUpdated": 15,
             "Region": "LATAM"
         },
@@ -1796,7 +1796,7 @@
             "ID": 225,
             "TeamName": "VASCO",
             "MapName": "CHALET",
-            "Elo": 1309.2841230298072,
+            "Elo": 1307.1403440260644,
             "LastGameUpdated": 8,
             "Region": "LATAM"
         },
@@ -1836,7 +1836,7 @@
             "ID": 230,
             "TeamName": "CTY",
             "MapName": "SKYSCRAPER",
-            "Elo": 1279.447279903961,
+            "Elo": 1277.5514946558544,
             "LastGameUpdated": 11,
             "Region": "LATAM"
         },
@@ -1900,7 +1900,7 @@
             "ID": 238,
             "TeamName": "6K",
             "MapName": "BANK",
-            "Elo": 1280.5441451245829,
+            "Elo": 1277.9983862869876,
             "LastGameUpdated": 4,
             "Region": "LATAM"
         },
@@ -1940,7 +1940,7 @@
             "ID": 243,
             "TeamName": "VASCO",
             "MapName": "KAFE",
-            "Elo": 1316.3265189626604,
+            "Elo": 1313.0530799130363,
             "LastGameUpdated": 25,
             "Region": "LATAM"
         },
@@ -1956,7 +1956,7 @@
             "ID": 245,
             "TeamName": "KNI",
             "MapName": "BANK",
-            "Elo": 1273.0064198945267,
+            "Elo": 1269.7586106421843,
             "LastGameUpdated": 9,
             "Region": "LATAM"
         },
@@ -1964,7 +1964,7 @@
             "ID": 246,
             "TeamName": "VASCO",
             "MapName": "BANK",
-            "Elo": 1270.2115103680449,
+            "Elo": 1272.3715825995737,
             "LastGameUpdated": 3,
             "Region": "LATAM"
         },
@@ -2020,7 +2020,7 @@
             "ID": 253,
             "TeamName": "VASCO",
             "MapName": "CONS",
-            "Elo": 1285.9766961067658,
+            "Elo": 1284.8795540268925,
             "LastGameUpdated": 19,
             "Region": "LATAM"
         },
@@ -2036,7 +2036,7 @@
             "ID": 255,
             "TeamName": "ME",
             "MapName": "CHALET",
-            "Elo": 1253.2144529724708,
+            "Elo": 1251.2070929259291,
             "LastGameUpdated": 7,
             "Region": "LATAM"
         },
@@ -2044,7 +2044,7 @@
             "ID": 256,
             "TeamName": "ALPHA",
             "MapName": "BORDER",
-            "Elo": 1282.7597180925977,
+            "Elo": 1280.6480355488707,
             "LastGameUpdated": 13,
             "Region": "LATAM"
         },
@@ -2076,7 +2076,7 @@
             "ID": 260,
             "TeamName": "ALPHA",
             "MapName": "KAFE",
-            "Elo": 1247.9111398186471,
+            "Elo": 1245.150057912623,
             "LastGameUpdated": 20,
             "Region": "LATAM"
         },
@@ -2084,7 +2084,7 @@
             "ID": 261,
             "TeamName": "MvG",
             "MapName": "CLUB",
-            "Elo": 1210.6742460743424,
+            "Elo": 1213.1794336028072,
             "LastGameUpdated": 27,
             "Region": "LATAM"
         },
@@ -2092,7 +2092,7 @@
             "ID": 262,
             "TeamName": "CTY",
             "MapName": "BANK",
-            "Elo": 1270.8701288836342,
+            "Elo": 1268.4514104506,
             "LastGameUpdated": 17,
             "Region": "LATAM"
         },
@@ -2100,7 +2100,7 @@
             "ID": 263,
             "TeamName": "RVN",
             "MapName": "KAFE",
-            "Elo": 1264.9873148724798,
+            "Elo": 1268.0949428821089,
             "LastGameUpdated": 23,
             "Region": "LATAM"
         },
@@ -2172,7 +2172,7 @@
             "ID": 272,
             "TeamName": "ROC",
             "MapName": "CHALET",
-            "Elo": 1244.138910152593,
+            "Elo": 1241.9317336500114,
             "LastGameUpdated": 16,
             "Region": "MENA"
         },
@@ -2188,7 +2188,7 @@
             "ID": 274,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1314.776945534859,
+            "Elo": 1309.003287929206,
             "LastGameUpdated": 15,
             "Region": "MENA"
         },
@@ -2268,7 +2268,7 @@
             "ID": 284,
             "TeamName": "ROC",
             "MapName": "CLUB",
-            "Elo": 1279.689103932437,
+            "Elo": 1277.4822291796183,
             "LastGameUpdated": 4,
             "Region": "MENA"
         },
@@ -2292,7 +2292,7 @@
             "ID": 287,
             "TeamName": "WINTERBEAR",
             "MapName": "CHALET",
-            "Elo": 1242.6169760008308,
+            "Elo": 1240.7054523958884,
             "LastGameUpdated": 10,
             "Region": "MENA"
         },
@@ -2348,7 +2348,7 @@
             "ID": 294,
             "TeamName": "ROC",
             "MapName": "LABS",
-            "Elo": 1250.5199640916267,
+            "Elo": 1252.9159712733012,
             "LastGameUpdated": 11,
             "Region": "MENA"
         },
@@ -2356,7 +2356,7 @@
             "ID": 295,
             "TeamName": "WINTERBEAR",
             "MapName": "LABS",
-            "Elo": 1263.3413062832901,
+            "Elo": 1261.633381685412,
             "LastGameUpdated": 13,
             "Region": "MENA"
         },
@@ -2364,7 +2364,7 @@
             "ID": 296,
             "TeamName": "FLCS",
             "MapName": "KAFE",
-            "Elo": 1299.1417219161278,
+            "Elo": 1294.6003768039914,
             "LastGameUpdated": 5,
             "Region": "MENA"
         },
@@ -2452,7 +2452,7 @@
             "ID": 307,
             "TeamName": "GK",
             "MapName": "CONS",
-            "Elo": 1257.30534845312,
+            "Elo": 1254.9612497489086,
             "LastGameUpdated": 3,
             "Region": "MENA"
         },
@@ -3004,7 +3004,7 @@
             "ID": 376,
             "TeamName": "GG",
             "MapName": "LABS",
-            "Elo": 1460.7720443151513,
+            "Elo": 1458.1592613255605,
             "LastGameUpdated": 16,
             "Region": "OCE"
         },
@@ -3012,7 +3012,7 @@
             "ID": 377,
             "TeamName": "CS",
             "MapName": "LABS",
-            "Elo": 1348.6009053124353,
+            "Elo": 1353.0299321682166,
             "LastGameUpdated": 12,
             "Region": "OCE"
         },
@@ -3036,7 +3036,7 @@
             "ID": 380,
             "TeamName": "ANTC",
             "MapName": "CLUB",
-            "Elo": 1462.1699407916824,
+            "Elo": 1458.8329860741474,
             "LastGameUpdated": 15,
             "Region": "OCE"
         },
@@ -3092,7 +3092,7 @@
             "ID": 387,
             "TeamName": "CS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1433.691425445963,
+            "Elo": 1430.5762132938153,
             "LastGameUpdated": 13,
             "Region": "OCE"
         },
@@ -3164,7 +3164,7 @@
             "ID": 396,
             "TeamName": "GG",
             "MapName": "BORDER",
-            "Elo": 1398.4075459772416,
+            "Elo": 1395.2889768471778,
             "LastGameUpdated": 9,
             "Region": "OCE"
         },
@@ -3196,7 +3196,7 @@
             "ID": 400,
             "TeamName": "CS",
             "MapName": "CLUB",
-            "Elo": 1344.2829236018447,
+            "Elo": 1346.3637963946999,
             "LastGameUpdated": 5,
             "Region": "OCE"
         },
@@ -3204,7 +3204,7 @@
             "ID": 401,
             "TeamName": "SUPERNOVA",
             "MapName": "CONS",
-            "Elo": 1350.5703116848297,
+            "Elo": 1353.8826305834152,
             "LastGameUpdated": 8,
             "Region": "OCE"
         },
@@ -3252,7 +3252,7 @@
             "ID": 407,
             "TeamName": "ANTC",
             "MapName": "SKYSCRAPER",
-            "Elo": 1415.9317744939754,
+            "Elo": 1418.4228095340331,
             "LastGameUpdated": 1,
             "Region": "OCE"
         },
@@ -3300,7 +3300,7 @@
             "ID": 413,
             "TeamName": "GG",
             "MapName": "KAFE",
-            "Elo": 1453.4800086480873,
+            "Elo": 1451.8083517731288,
             "LastGameUpdated": 17,
             "Region": "OCE"
         },
@@ -3316,7 +3316,7 @@
             "ID": 415,
             "TeamName": "GG",
             "MapName": "BANK",
-            "Elo": 1441.6611123112543,
+            "Elo": 1439.915748754306,
             "LastGameUpdated": 6,
             "Region": "OCE"
         },
@@ -3348,7 +3348,7 @@
             "ID": 419,
             "TeamName": "ORG",
             "MapName": "LABS",
-            "Elo": 1285.727628829759,
+            "Elo": 1287.7577647444637,
             "LastGameUpdated": 7,
             "Region": "KOREA"
         },
@@ -3356,7 +3356,7 @@
             "ID": 420,
             "TeamName": "BLS",
             "MapName": "LABS",
-            "Elo": 1344.1957024231374,
+            "Elo": 1346.7761321808237,
             "LastGameUpdated": 8,
             "Region": "KOREA"
         },
@@ -3372,7 +3372,7 @@
             "ID": 422,
             "TeamName": "FOX",
             "MapName": "CONS",
-            "Elo": 1350.051527740954,
+            "Elo": 1348.5480432024208,
             "LastGameUpdated": 18,
             "Region": "KOREA"
         },
@@ -3428,7 +3428,7 @@
             "ID": 429,
             "TeamName": "BLS",
             "MapName": "CLUB",
-            "Elo": 1294.6565176991123,
+            "Elo": 1296.2233676947887,
             "LastGameUpdated": 23,
             "Region": "KOREA"
         },
@@ -3436,7 +3436,7 @@
             "ID": 430,
             "TeamName": "DK",
             "MapName": "LABS",
-            "Elo": 1405.5498883138064,
+            "Elo": 1400.9525429979537,
             "LastGameUpdated": 10,
             "Region": "KOREA"
         },
@@ -3460,7 +3460,7 @@
             "ID": 433,
             "TeamName": "FOX",
             "MapName": "CLUB",
-            "Elo": 1360.558171651534,
+            "Elo": 1358.2733223485618,
             "LastGameUpdated": 24,
             "Region": "KOREA"
         },
@@ -3468,7 +3468,7 @@
             "ID": 434,
             "TeamName": "ORG",
             "MapName": "CHALET",
-            "Elo": 1271.4474656194275,
+            "Elo": 1275.4060328261864,
             "LastGameUpdated": 22,
             "Region": "KOREA"
         },
@@ -3476,7 +3476,7 @@
             "ID": 435,
             "TeamName": "WEBL",
             "MapName": "CHALET",
-            "Elo": 1356.7116238625154,
+            "Elo": 1354.4050443034619,
             "LastGameUpdated": 14,
             "Region": "KOREA"
         },
@@ -3516,7 +3516,7 @@
             "ID": 440,
             "TeamName": "PSG",
             "MapName": "CLUB",
-            "Elo": 1462.8532987632948,
+            "Elo": 1456.9100681915274,
             "LastGameUpdated": 15,
             "Region": "KOREA"
         },
@@ -3524,7 +3524,7 @@
             "ID": 441,
             "TeamName": "PSG",
             "MapName": "CONS",
-            "Elo": 1325.740037355505,
+            "Elo": 1323.0620990772877,
             "LastGameUpdated": 1,
             "Region": "KOREA"
         },
@@ -3532,7 +3532,7 @@
             "ID": 442,
             "TeamName": "MIR",
             "MapName": "LABS",
-            "Elo": 1359.307002175769,
+            "Elo": 1359.2937818192306,
             "LastGameUpdated": 10,
             "Region": "KOREA"
         },
@@ -3548,7 +3548,7 @@
             "ID": 444,
             "TeamName": "WEBL",
             "MapName": "CLUB",
-            "Elo": 1353.1676088725997,
+            "Elo": 1354.9953494630165,
             "LastGameUpdated": 23,
             "Region": "KOREA"
         },
@@ -3580,7 +3580,7 @@
             "ID": 448,
             "TeamName": "MIR",
             "MapName": "CONS",
-            "Elo": 1322.5017245346837,
+            "Elo": 1322.8444235195943,
             "LastGameUpdated": 19,
             "Region": "KOREA"
         },
@@ -3604,7 +3604,7 @@
             "ID": 451,
             "TeamName": "BnA",
             "MapName": "CLUB",
-            "Elo": 1369.9996378531464,
+            "Elo": 1367.218392200665,
             "LastGameUpdated": 17,
             "Region": "KOREA"
         },
@@ -3620,7 +3620,7 @@
             "ID": 453,
             "TeamName": "DK",
             "MapName": "CHALET",
-            "Elo": 1389.5473401682434,
+            "Elo": 1387.9751538839657,
             "LastGameUpdated": 4,
             "Region": "KOREA"
         },
@@ -3636,7 +3636,7 @@
             "ID": 455,
             "TeamName": "ORG",
             "MapName": "CLUB",
-            "Elo": 1336.0810220254332,
+            "Elo": 1341.4109076635887,
             "LastGameUpdated": 17,
             "Region": "KOREA"
         },
@@ -3652,7 +3652,7 @@
             "ID": 457,
             "TeamName": "PSG",
             "MapName": "CHALET",
-            "Elo": 1404.511590944805,
+            "Elo": 1402.8596032970995,
             "LastGameUpdated": 22,
             "Region": "KOREA"
         },
@@ -3668,7 +3668,7 @@
             "ID": 459,
             "TeamName": "DK",
             "MapName": "CLUB",
-            "Elo": 1298.595730439472,
+            "Elo": 1300.880579742444,
             "LastGameUpdated": 24,
             "Region": "KOREA"
         },
@@ -3676,7 +3676,7 @@
             "ID": 460,
             "TeamName": "FOX",
             "MapName": "CHALET",
-            "Elo": 1341.0293757451932,
+            "Elo": 1339.3046611950463,
             "LastGameUpdated": 6,
             "Region": "KOREA"
         },
@@ -3684,7 +3684,7 @@
             "ID": 461,
             "TeamName": "FOX",
             "MapName": "BANK",
-            "Elo": 1431.675155491703,
+            "Elo": 1430.4757674814712,
             "LastGameUpdated": 9,
             "Region": "KOREA"
         },
@@ -3724,7 +3724,7 @@
             "ID": 466,
             "TeamName": "CAG",
             "MapName": "CONS",
-            "Elo": 1430.0793352351282,
+            "Elo": 1427.3520162695925,
             "LastGameUpdated": 17,
             "Region": "JAPAN"
         },
@@ -3756,7 +3756,7 @@
             "ID": 470,
             "TeamName": "Bleed",
             "MapName": "KAFE",
-            "Elo": 1444.5318700479463,
+            "Elo": 1443.030263409685,
             "LastGameUpdated": 7,
             "Region": "SEA"
         },
@@ -3804,7 +3804,7 @@
             "ID": 476,
             "TeamName": "SZ",
             "MapName": "BORDER",
-            "Elo": 1495.9005502671391,
+            "Elo": 1492.7047009394382,
             "LastGameUpdated": 20,
             "Region": "JAPAN"
         },
@@ -3916,7 +3916,7 @@
             "ID": 490,
             "TeamName": "DW",
             "MapName": "LABS",
-            "Elo": 1400.313486053399,
+            "Elo": 1401.5031848407873,
             "LastGameUpdated": 21,
             "Region": "SEA"
         },
@@ -3924,7 +3924,7 @@
             "ID": 491,
             "TeamName": "KNOCK",
             "MapName": "LABS",
-            "Elo": 1378.4241118539796,
+            "Elo": 1378.093151389519,
             "LastGameUpdated": 16,
             "Region": "SEA"
         },
@@ -3932,7 +3932,7 @@
             "ID": 492,
             "TeamName": "FURY",
             "MapName": "BANK",
-            "Elo": 1380.1142052653768,
+            "Elo": 1384.6597482692614,
             "LastGameUpdated": 15,
             "Region": "SEA"
         },
@@ -3948,7 +3948,7 @@
             "ID": 494,
             "TeamName": "FURY",
             "MapName": "CLUB",
-            "Elo": 1438.1817258368458,
+            "Elo": 1438.5539985877167,
             "LastGameUpdated": 9,
             "Region": "SEA"
         },
@@ -3964,7 +3964,7 @@
             "ID": 496,
             "TeamName": "ELV",
             "MapName": "CLUB",
-            "Elo": 1378.584787976693,
+            "Elo": 1378.066065851583,
             "LastGameUpdated": 22,
             "Region": "SEA"
         },
@@ -3972,7 +3972,7 @@
             "ID": 497,
             "TeamName": "NoCap",
             "MapName": "LABS",
-            "Elo": 1405.7963855717098,
+            "Elo": 1403.0479515117054,
             "LastGameUpdated": 21,
             "Region": "SEA"
         },
@@ -4100,7 +4100,7 @@
             "ID": 513,
             "TeamName": "CGL",
             "MapName": "CLUB",
-            "Elo": 1332.0372540157675,
+            "Elo": 1331.8335948886106,
             "LastGameUpdated": 10,
             "Region": "JAPAN"
         },
@@ -4116,7 +4116,7 @@
             "ID": 515,
             "TeamName": "CGL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1329.485082013641,
+            "Elo": 1329.7007355291112,
             "LastGameUpdated": 22,
             "Region": "JAPAN"
         },
@@ -4124,7 +4124,7 @@
             "ID": 516,
             "TeamName": "E36",
             "MapName": "CHALET",
-            "Elo": 1293.9921136606906,
+            "Elo": 1297.8000593193144,
             "LastGameUpdated": 11,
             "Region": "JAPAN"
         },
@@ -4148,7 +4148,7 @@
             "ID": 519,
             "TeamName": "CAG",
             "MapName": "BANK",
-            "Elo": 1341.0174433061736,
+            "Elo": 1343.758954106567,
             "LastGameUpdated": 1,
             "Region": "JAPAN"
         },
@@ -4172,7 +4172,7 @@
             "ID": 522,
             "TeamName": "MIR",
             "MapName": "BANK",
-            "Elo": 1354.4158600726673,
+            "Elo": 1352.5779031388756,
             "LastGameUpdated": 21,
             "Region": "KOREA"
         },
@@ -4180,7 +4180,7 @@
             "ID": 523,
             "TeamName": "FOX",
             "MapName": "KAFE",
-            "Elo": 1341.474395275827,
+            "Elo": 1344.3051435837417,
             "LastGameUpdated": 13,
             "Region": "KOREA"
         },
@@ -4260,7 +4260,7 @@
             "ID": 533,
             "TeamName": "RVN",
             "MapName": "CHALET",
-            "Elo": 1252.3337618595797,
+            "Elo": 1249.9208603980453,
             "LastGameUpdated": 29,
             "Region": "LATAM"
         },
@@ -4316,7 +4316,7 @@
             "ID": 540,
             "TeamName": "TWM",
             "MapName": "BANK",
-            "Elo": 1318.0753748569098,
+            "Elo": 1316.235644732036,
             "LastGameUpdated": 12,
             "Region": "MENA"
         },
@@ -4388,7 +4388,7 @@
             "ID": 549,
             "TeamName": "ROC",
             "MapName": "KAFE",
-            "Elo": 1257.6649431380295,
+            "Elo": 1255.7334471336867,
             "LastGameUpdated": 6,
             "Region": "MENA"
         },
@@ -4396,7 +4396,7 @@
             "ID": 550,
             "TeamName": "TWM",
             "MapName": "CHALET",
-            "Elo": 1217.6244848362253,
+            "Elo": 1220.8641444499583,
             "LastGameUpdated": 14,
             "Region": "MENA"
         },
@@ -4508,7 +4508,7 @@
             "ID": 564,
             "TeamName": "GG",
             "MapName": "CONS",
-            "Elo": 1514.2499584471761,
+            "Elo": 1512.668296029523,
             "LastGameUpdated": 3,
             "Region": "OCE"
         },
@@ -4708,7 +4708,7 @@
             "ID": 589,
             "TeamName": "OUTLAST",
             "MapName": "SKYSCRAPER",
-            "Elo": 1407.1866717605585,
+            "Elo": 1405.082787521179,
             "LastGameUpdated": 13,
             "Region": "OCE"
         },
@@ -4716,7 +4716,7 @@
             "ID": 590,
             "TeamName": "CHIEFS",
             "MapName": "LABS",
-            "Elo": 1407.5918656618921,
+            "Elo": 1405.8285072825604,
             "LastGameUpdated": 16,
             "Region": "OCE"
         },
@@ -4724,7 +4724,7 @@
             "ID": 591,
             "TeamName": "PRODIGY",
             "MapName": "BORDER",
-            "Elo": 1428.6183563404804,
+            "Elo": 1427.4120592801444,
             "LastGameUpdated": 9,
             "Region": "OCE"
         },
@@ -4732,7 +4732,7 @@
             "ID": 592,
             "TeamName": "Odium",
             "MapName": "BORDER",
-            "Elo": 1353.573155870419,
+            "Elo": 1357.898022060819,
             "LastGameUpdated": 4,
             "Region": "OCE"
         },
@@ -4740,7 +4740,7 @@
             "ID": 593,
             "TeamName": "Odium",
             "MapName": "BANK",
-            "Elo": 1313.2394643105583,
+            "Elo": 1320.0054523007004,
             "LastGameUpdated": 20,
             "Region": "OCE"
         },
@@ -4748,7 +4748,7 @@
             "ID": 594,
             "TeamName": "PRODIGY",
             "MapName": "CHALET",
-            "Elo": 1377.0439385471677,
+            "Elo": 1379.0398177249,
             "LastGameUpdated": 7,
             "Region": "OCE"
         },
@@ -4756,7 +4756,7 @@
             "ID": 595,
             "TeamName": "CHIEFS",
             "MapName": "CHALET",
-            "Elo": 1461.415242224781,
+            "Elo": 1454.6761662517238,
             "LastGameUpdated": 7,
             "Region": "OCE"
         },
@@ -4764,7 +4764,7 @@
             "ID": 596,
             "TeamName": "OUTLAST",
             "MapName": "CONS",
-            "Elo": 1449.3326666424546,
+            "Elo": 1442.7657051875328,
             "LastGameUpdated": 8,
             "Region": "OCE"
         },
@@ -4772,7 +4772,7 @@
             "ID": 597,
             "TeamName": "CHIEFS",
             "MapName": "BORDER",
-            "Elo": 1472.1559120021516,
+            "Elo": 1463.2798560476438,
             "LastGameUpdated": 10,
             "Region": "OCE"
         },
@@ -4780,7 +4780,7 @@
             "ID": 598,
             "TeamName": "ANTC",
             "MapName": "BORDER",
-            "Elo": 1402.4670091289402,
+            "Elo": 1407.1356894671653,
             "LastGameUpdated": 10,
             "Region": "OCE"
         },
@@ -4788,7 +4788,7 @@
             "ID": 599,
             "TeamName": "Odium",
             "MapName": "CLUB",
-            "Elo": 1314.5907646554379,
+            "Elo": 1322.7895120790404,
             "LastGameUpdated": 15,
             "Region": "OCE"
         },
@@ -4796,7 +4796,7 @@
             "ID": 600,
             "TeamName": "OUTLAST",
             "MapName": "CLUB",
-            "Elo": 1461.000427927399,
+            "Elo": 1453.3461177177414,
             "LastGameUpdated": 11,
             "Region": "OCE"
         },
@@ -4804,7 +4804,7 @@
             "ID": 601,
             "TeamName": "SUPERNOVA",
             "MapName": "LABS",
-            "Elo": 1372.9301307636185,
+            "Elo": 1377.261848248504,
             "LastGameUpdated": 18,
             "Region": "OCE"
         },
@@ -4812,7 +4812,7 @@
             "ID": 602,
             "TeamName": "PRODIGY",
             "MapName": "LABS",
-            "Elo": 1433.6209064636694,
+            "Elo": 1428.4076955958662,
             "LastGameUpdated": 19,
             "Region": "OCE"
         },
@@ -4820,7 +4820,7 @@
             "ID": 603,
             "TeamName": "CS",
             "MapName": "KAFE",
-            "Elo": 1328.294414537539,
+            "Elo": 1333.273328757016,
             "LastGameUpdated": 17,
             "Region": "OCE"
         },
@@ -4828,7 +4828,7 @@
             "ID": 604,
             "TeamName": "ANTC",
             "MapName": "LABS",
-            "Elo": 1458.4635068590915,
+            "Elo": 1455.6217359214065,
             "LastGameUpdated": 18,
             "Region": "OCE"
         },
@@ -4836,7 +4836,7 @@
             "ID": 605,
             "TeamName": "OUTLAST",
             "MapName": "LABS",
-            "Elo": 1377.121279330307,
+            "Elo": 1379.7615340862853,
             "LastGameUpdated": 19,
             "Region": "OCE"
         },
@@ -4844,7 +4844,7 @@
             "ID": 606,
             "TeamName": "CHIEFS",
             "MapName": "BANK",
-            "Elo": 1475.028098126493,
+            "Elo": 1468.502597438673,
             "LastGameUpdated": 20,
             "Region": "OCE"
         },
@@ -4852,7 +4852,7 @@
             "ID": 607,
             "TeamName": "Rival",
             "MapName": "CLUB",
-            "Elo": 1369.9456859074178,
+            "Elo": 1368.2029154984218,
             "LastGameUpdated": 24,
             "Region": "SEA"
         },
@@ -4860,7 +4860,7 @@
             "ID": 608,
             "TeamName": "DW",
             "MapName": "BORDER",
-            "Elo": 1388.9118919416876,
+            "Elo": 1386.2169366169328,
             "LastGameUpdated": 6,
             "Region": "SEA"
         },
@@ -4868,7 +4868,7 @@
             "ID": 609,
             "TeamName": "Rival",
             "MapName": "BORDER",
-            "Elo": 1321.674379372141,
+            "Elo": 1327.9883786276826,
             "LastGameUpdated": 6,
             "Region": "SEA"
         },
@@ -4876,7 +4876,7 @@
             "ID": 610,
             "TeamName": "HW",
             "MapName": "KAFE",
-            "Elo": 1291.494173760745,
+            "Elo": 1295.769228139774,
             "LastGameUpdated": 7,
             "Region": "SEA"
         },
@@ -4884,7 +4884,7 @@
             "ID": 611,
             "TeamName": "ELV",
             "MapName": "SKYSCRAPER",
-            "Elo": 1489.337676229524,
+            "Elo": 1484.667736091009,
             "LastGameUpdated": 8,
             "Region": "SEA"
         },
@@ -4892,7 +4892,7 @@
             "ID": 612,
             "TeamName": "HW",
             "MapName": "LABS",
-            "Elo": 1268.8522863414692,
+            "Elo": 1276.7787331050395,
             "LastGameUpdated": 16,
             "Region": "SEA"
         },
@@ -4900,7 +4900,7 @@
             "ID": 613,
             "TeamName": "Rival",
             "MapName": "CHALET",
-            "Elo": 1308.818322261431,
+            "Elo": 1314.4977731401475,
             "LastGameUpdated": 13,
             "Region": "SEA"
         },
@@ -4908,7 +4908,7 @@
             "ID": 614,
             "TeamName": "Rival",
             "MapName": "CONS",
-            "Elo": 1365.7366670135177,
+            "Elo": 1363.3623862291172,
             "LastGameUpdated": 17,
             "Region": "SEA"
         },
@@ -4916,7 +4916,7 @@
             "ID": 615,
             "TeamName": "NoCap",
             "MapName": "SKYSCRAPER",
-            "Elo": 1423.45801625145,
+            "Elo": 1424.3251379879,
             "LastGameUpdated": 18,
             "Region": "SEA"
         },
@@ -4924,7 +4924,7 @@
             "ID": 616,
             "TeamName": "HW",
             "MapName": "CONS",
-            "Elo": 1245.0522965424366,
+            "Elo": 1254.1783938925198,
             "LastGameUpdated": 20,
             "Region": "SEA"
         },
@@ -4932,7 +4932,7 @@
             "ID": 617,
             "TeamName": "FURY",
             "MapName": "LAIR",
-            "Elo": 1456.2932631930296,
+            "Elo": 1462.1323112634764,
             "LastGameUpdated": 23,
             "Region": "SEA"
         },
@@ -4940,7 +4940,7 @@
             "ID": 618,
             "TeamName": "KNOCK",
             "MapName": "LAIR",
-            "Elo": 1224.1404858588458,
+            "Elo": 1229.5253213435597,
             "LastGameUpdated": 23,
             "Region": "SEA"
         },
@@ -4948,7 +4948,7 @@
             "ID": 619,
             "TeamName": "FOX",
             "MapName": "LAIR",
-            "Elo": 1484.8929668422002,
+            "Elo": 1481.7150449491087,
             "LastGameUpdated": 3,
             "Region": "KOREA"
         },
@@ -4956,7 +4956,7 @@
             "ID": 620,
             "TeamName": "WEBL",
             "MapName": "LAIR",
-            "Elo": 1318.3104131744794,
+            "Elo": 1321.488335067571,
             "LastGameUpdated": 3,
             "Region": "KOREA"
         },
@@ -4964,7 +4964,7 @@
             "ID": 621,
             "TeamName": "BnA",
             "MapName": "CHALET",
-            "Elo": 1220.810065079076,
+            "Elo": 1225.4815181360107,
             "LastGameUpdated": 6,
             "Region": "KOREA"
         },
@@ -4972,7 +4972,7 @@
             "ID": 622,
             "TeamName": "ORG",
             "MapName": "BANK",
-            "Elo": 1246.3225154230531,
+            "Elo": 1252.5891409197184,
             "LastGameUpdated": 9,
             "Region": "KOREA"
         },
@@ -4980,7 +4980,7 @@
             "ID": 623,
             "TeamName": "MIR",
             "MapName": "KAFE",
-            "Elo": 1312.5594158806948,
+            "Elo": 1305.5439128022667,
             "LastGameUpdated": 13,
             "Region": "KOREA"
         },
@@ -4988,7 +4988,7 @@
             "ID": 624,
             "TeamName": "BLS",
             "MapName": "BORDER",
-            "Elo": 1209.3319450226668,
+            "Elo": 1211.7644274557829,
             "LastGameUpdated": 16,
             "Region": "KOREA"
         },
@@ -4996,7 +4996,7 @@
             "ID": 625,
             "TeamName": "DK",
             "MapName": "BORDER",
-            "Elo": 1484.0487145793988,
+            "Elo": 1478.6477115289033,
             "LastGameUpdated": 16,
             "Region": "KOREA"
         },
@@ -5004,7 +5004,7 @@
             "ID": 626,
             "TeamName": "BLS",
             "MapName": "CONS",
-            "Elo": 1196.7050750803046,
+            "Elo": 1200.8928022547175,
             "LastGameUpdated": 18,
             "Region": "KOREA"
         },
@@ -5012,7 +5012,7 @@
             "ID": 627,
             "TeamName": "WEBL",
             "MapName": "CONS",
-            "Elo": 1289.0728118425059,
+            "Elo": 1297.9150718953026,
             "LastGameUpdated": 19,
             "Region": "KOREA"
         },
@@ -5020,7 +5020,7 @@
             "ID": 628,
             "TeamName": "PSG",
             "MapName": "LAIR",
-            "Elo": 1511.69283436446,
+            "Elo": 1502.1861822174612,
             "LastGameUpdated": 20,
             "Region": "KOREA"
         },
@@ -5028,7 +5028,7 @@
             "ID": 629,
             "TeamName": "DK",
             "MapName": "LAIR",
-            "Elo": 1437.8235807501583,
+            "Elo": 1437.5760246007608,
             "LastGameUpdated": 20,
             "Region": "KOREA"
         },
@@ -5036,7 +5036,7 @@
             "ID": 630,
             "TeamName": "BnA",
             "MapName": "BANK",
-            "Elo": 1239.3887663820467,
+            "Elo": 1241.5050447901963,
             "LastGameUpdated": 21,
             "Region": "KOREA"
         },
@@ -5044,7 +5044,7 @@
             "ID": 631,
             "TeamName": "E36",
             "MapName": "CONS",
-            "Elo": 1217.373814243723,
+            "Elo": 1220.7651916767948,
             "LastGameUpdated": 2,
             "Region": "JAPAN"
         },
@@ -5052,7 +5052,7 @@
             "ID": 632,
             "TeamName": "CGL",
             "MapName": "CONS",
-            "Elo": 1314.7201432469997,
+            "Elo": 1316.8315074481573,
             "LastGameUpdated": 6,
             "Region": "JAPAN"
         },
@@ -5060,7 +5060,7 @@
             "ID": 633,
             "TeamName": "KNT",
             "MapName": "CONS",
-            "Elo": 1387.8938441124185,
+            "Elo": 1388.1236711075087,
             "LastGameUpdated": 17,
             "Region": "JAPAN"
         },
@@ -5068,7 +5068,7 @@
             "ID": 634,
             "TeamName": "IGZ",
             "MapName": "LABS",
-            "Elo": 1362.123544229643,
+            "Elo": 1359.0781507009924,
             "LastGameUpdated": 18,
             "Region": "JAPAN"
         },
@@ -5076,7 +5076,7 @@
             "ID": 635,
             "TeamName": "VIT",
             "MapName": "CONS",
-            "Elo": 1375.234741310223,
+            "Elo": 1370.512439619498,
             "LastGameUpdated": 9,
             "Region": "JAPAN"
         },
@@ -5084,7 +5084,7 @@
             "ID": 636,
             "TeamName": "FB",
             "MapName": "LABS",
-            "Elo": 1264.3377647109648,
+            "Elo": 1261.8050191236598,
             "LastGameUpdated": 18,
             "Region": "JAPAN"
         },
@@ -5092,7 +5092,7 @@
             "ID": 637,
             "TeamName": "E36",
             "MapName": "LABS",
-            "Elo": 1244.5816671650452,
+            "Elo": 1242.1180579759591,
             "LastGameUpdated": 19,
             "Region": "JAPAN"
         },
@@ -5100,7 +5100,7 @@
             "ID": 638,
             "TeamName": "VIT",
             "MapName": "CHALET",
-            "Elo": 1302.851903971887,
+            "Elo": 1308.4510137083146,
             "LastGameUpdated": 23,
             "Region": "JAPAN"
         },
@@ -5108,7 +5108,7 @@
             "ID": 639,
             "TeamName": "KNI",
             "MapName": "LABS",
-            "Elo": 1380.0211950012977,
+            "Elo": 1377.0355377222204,
             "LastGameUpdated": 1,
             "Region": "LATAM"
         },
@@ -5116,7 +5116,7 @@
             "ID": 640,
             "TeamName": "ME",
             "MapName": "LABS",
-            "Elo": 1192.3136032860464,
+            "Elo": 1197.1637290487772,
             "LastGameUpdated": 14,
             "Region": "LATAM"
         },
@@ -5124,7 +5124,7 @@
             "ID": 641,
             "TeamName": "7REX",
             "MapName": "BANK",
-            "Elo": 1269.82096289729,
+            "Elo": 1266.624914520079,
             "LastGameUpdated": 2,
             "Region": "LATAM"
         },
@@ -5132,7 +5132,7 @@
             "ID": 642,
             "TeamName": "MvG",
             "MapName": "BANK",
-            "Elo": 1117.6293906851452,
+            "Elo": 1120.825439062356,
             "LastGameUpdated": 2,
             "Region": "LATAM"
         },
@@ -5140,7 +5140,7 @@
             "ID": 643,
             "TeamName": "ALPHA",
             "MapName": "BANK",
-            "Elo": 1316.5879956293552,
+            "Elo": 1314.5958975057122,
             "LastGameUpdated": 9,
             "Region": "LATAM"
         },
@@ -5148,7 +5148,7 @@
             "ID": 644,
             "TeamName": "RVN",
             "MapName": "BANK",
-            "Elo": 1251.2302741168055,
+            "Elo": 1258.3908278262784,
             "LastGameUpdated": 17,
             "Region": "LATAM"
         },
@@ -5156,7 +5156,7 @@
             "ID": 645,
             "TeamName": "LYCUS",
             "MapName": "BANK",
-            "Elo": 1203.7563537191397,
+            "Elo": 1208.728608485683,
             "LastGameUpdated": 5,
             "Region": "LATAM"
         },
@@ -5164,7 +5164,7 @@
             "ID": 646,
             "TeamName": "TSG",
             "MapName": "CHALET",
-            "Elo": 1190.947339153662,
+            "Elo": 1197.4755312861541,
             "LastGameUpdated": 16,
             "Region": "LATAM"
         },
@@ -5172,7 +5172,7 @@
             "ID": 647,
             "TeamName": "7REX",
             "MapName": "CHALET",
-            "Elo": 1231.649909959477,
+            "Elo": 1234.2044115160986,
             "LastGameUpdated": 8,
             "Region": "LATAM"
         },
@@ -5180,7 +5180,7 @@
             "ID": 648,
             "TeamName": "RVN",
             "MapName": "LABS",
-            "Elo": 1306.1032429464397,
+            "Elo": 1304.1877414948797,
             "LastGameUpdated": 10,
             "Region": "LATAM"
         },
@@ -5188,7 +5188,7 @@
             "ID": 649,
             "TeamName": "CN",
             "MapName": "LABS",
-            "Elo": 1183.313546764979,
+            "Elo": 1185.5655308313624,
             "LastGameUpdated": 22,
             "Region": "LATAM"
         },
@@ -5196,7 +5196,7 @@
             "ID": 650,
             "TeamName": "LYCUS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1192.10385019496,
+            "Elo": 1198.5162122708973,
             "LastGameUpdated": 11,
             "Region": "LATAM"
         },
@@ -5204,7 +5204,7 @@
             "ID": 651,
             "TeamName": "6K",
             "MapName": "CONS",
-            "Elo": 1372.9781800277826,
+            "Elo": 1368.0548682293497,
             "LastGameUpdated": 12,
             "Region": "LATAM"
         },
@@ -5212,7 +5212,7 @@
             "ID": 652,
             "TeamName": "TSG",
             "MapName": "CONS",
-            "Elo": 1206.9712138460793,
+            "Elo": 1211.8350557525657,
             "LastGameUpdated": 12,
             "Region": "LATAM"
         },
@@ -5220,7 +5220,7 @@
             "ID": 653,
             "TeamName": "7REX",
             "MapName": "BORDER",
-            "Elo": 1207.5317835213962,
+            "Elo": 1212.0876188398518,
             "LastGameUpdated": 13,
             "Region": "LATAM"
         },
@@ -5228,7 +5228,7 @@
             "ID": 654,
             "TeamName": "KNI",
             "MapName": "CHALET",
-            "Elo": 1402.309836502333,
+            "Elo": 1397.1717064440904,
             "LastGameUpdated": 15,
             "Region": "LATAM"
         },
@@ -5236,7 +5236,7 @@
             "ID": 655,
             "TeamName": "LYCUS",
             "MapName": "CHALET",
-            "Elo": 1220.445357843296,
+            "Elo": 1224.865805139999,
             "LastGameUpdated": 29,
             "Region": "LATAM"
         },
@@ -5244,7 +5244,7 @@
             "ID": 656,
             "TeamName": "6K",
             "MapName": "CLUB",
-            "Elo": 1380.9671127414472,
+            "Elo": 1374.6531492920135,
             "LastGameUpdated": 18,
             "Region": "LATAM"
         },
@@ -5252,7 +5252,7 @@
             "ID": 657,
             "TeamName": "MvG",
             "MapName": "CONS",
-            "Elo": 1085.8286552848324,
+            "Elo": 1091.8064880855468,
             "LastGameUpdated": 19,
             "Region": "LATAM"
         },
@@ -5260,7 +5260,7 @@
             "ID": 658,
             "TeamName": "7REX",
             "MapName": "CLUB",
-            "Elo": 1208.783176961667,
+            "Elo": 1214.0769967056183,
             "LastGameUpdated": 21,
             "Region": "LATAM"
         },
@@ -5268,7 +5268,7 @@
             "ID": 659,
             "TeamName": "CTY",
             "MapName": "LABS",
-            "Elo": 1388.457708714615,
+            "Elo": 1378.1170464548507,
             "LastGameUpdated": 28,
             "Region": "LATAM"
         },
@@ -5276,7 +5276,7 @@
             "ID": 660,
             "TeamName": "TSG",
             "MapName": "KAFE",
-            "Elo": 1230.1632920562338,
+            "Elo": 1230.0835661127824,
             "LastGameUpdated": 23,
             "Region": "LATAM"
         },
@@ -5284,7 +5284,7 @@
             "ID": 661,
             "TeamName": "KNI",
             "MapName": "KAFE",
-            "Elo": 1349.3973762754074,
+            "Elo": 1350.0054781855163,
             "LastGameUpdated": 25,
             "Region": "LATAM"
         },
@@ -5292,7 +5292,7 @@
             "ID": 662,
             "TeamName": "7REX",
             "MapName": "KAFE",
-            "Elo": 1258.8907787367818,
+            "Elo": 1257.6468534605917,
             "LastGameUpdated": 26,
             "Region": "LATAM"
         },
@@ -5300,7 +5300,7 @@
             "ID": 663,
             "TeamName": "6K",
             "MapName": "LABS",
-            "Elo": 1350.3872171692271,
+            "Elo": 1349.09652118151,
             "LastGameUpdated": 28,
             "Region": "LATAM"
         },
@@ -5308,7 +5308,7 @@
             "ID": 664,
             "TeamName": "CN",
             "MapName": "LAIR",
-            "Elo": 1153.2162399031047,
+            "Elo": 1159.3266445398795,
             "LastGameUpdated": 30,
             "Region": "LATAM"
         },
@@ -5316,7 +5316,7 @@
             "ID": 665,
             "TeamName": "TSG",
             "MapName": "LAIR",
-            "Elo": 1242.7018604452853,
+            "Elo": 1241.4609448867893,
             "LastGameUpdated": 30,
             "Region": "LATAM"
         },
@@ -5324,7 +5324,7 @@
             "ID": 666,
             "TeamName": "WINTERBEAR",
             "MapName": "KAFE",
-            "Elo": 1210.9379524192877,
+            "Elo": 1207.5440195232534,
             "LastGameUpdated": 5,
             "Region": "MENA"
         },
@@ -5332,7 +5332,7 @@
             "ID": 667,
             "TeamName": "TWM",
             "MapName": "KAFE",
-            "Elo": 1252.0429341142421,
+            "Elo": 1257.8521062886325,
             "LastGameUpdated": 1,
             "Region": "MENA"
         },
@@ -5340,7 +5340,7 @@
             "ID": 668,
             "TeamName": "AKT",
             "MapName": "KAFE",
-            "Elo": 1173.705506326138,
+            "Elo": 1180.1488545334232,
             "LastGameUpdated": 6,
             "Region": "MENA"
         },
@@ -5348,7 +5348,7 @@
             "ID": 669,
             "TeamName": "VICIOUS",
             "MapName": "CONS",
-            "Elo": 1200.789914140059,
+            "Elo": 1205.120612158623,
             "LastGameUpdated": 3,
             "Region": "MENA"
         },
@@ -5356,7 +5356,7 @@
             "ID": 670,
             "TeamName": "EAST",
             "MapName": "CLUB",
-            "Elo": 1222.6794516029347,
+            "Elo": 1227.1519088167433,
             "LastGameUpdated": 4,
             "Region": "MENA"
         },
@@ -5364,7 +5364,7 @@
             "ID": 671,
             "TeamName": "GK",
             "MapName": "LABS",
-            "Elo": 1367.5248160957165,
+            "Elo": 1365.300605822654,
             "LastGameUpdated": 15,
             "Region": "MENA"
         },
@@ -5372,7 +5372,7 @@
             "ID": 672,
             "TeamName": "TWM",
             "MapName": "LABS",
-            "Elo": 1232.596172673888,
+            "Elo": 1238.6032459928463,
             "LastGameUpdated": 7,
             "Region": "MENA"
         },
@@ -5380,7 +5380,7 @@
             "ID": 673,
             "TeamName": "VICIOUS",
             "MapName": "BORDER",
-            "Elo": 1257.5358482358595,
+            "Elo": 1254.8272571668183,
             "LastGameUpdated": 8,
             "Region": "MENA"
         },
@@ -5388,7 +5388,7 @@
             "ID": 674,
             "TeamName": "EAST",
             "MapName": "BORDER",
-            "Elo": 1207.0180645403211,
+            "Elo": 1213.978837384705,
             "LastGameUpdated": 8,
             "Region": "MENA"
         },
@@ -5396,7 +5396,7 @@
             "ID": 675,
             "TeamName": "AKT",
             "MapName": "LABS",
-            "Elo": 1159.5072531363644,
+            "Elo": 1167.0225551783965,
             "LastGameUpdated": 13,
             "Region": "MENA"
         },
@@ -5404,7 +5404,7 @@
             "ID": 676,
             "TeamName": "EAST",
             "MapName": "CHALET",
-            "Elo": 1193.55369634326,
+            "Elo": 1199.3808114958592,
             "LastGameUpdated": 14,
             "Region": "MENA"
         },
@@ -5412,7 +5412,7 @@
             "ID": 677,
             "TeamName": "VICIOUS",
             "MapName": "BANK",
-            "Elo": 1208.3109137140118,
+            "Elo": 1212.313298814906,
             "LastGameUpdated": 12,
             "Region": "MENA"
         },
@@ -5420,7 +5420,7 @@
             "ID": 678,
             "TeamName": "VICIOUS",
             "MapName": "CHALET",
-            "Elo": 1193.751658191632,
+            "Elo": 1199.8995670988868,
             "LastGameUpdated": 16,
             "Region": "MENA"
         }
