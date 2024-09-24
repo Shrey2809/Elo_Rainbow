@@ -4996,8 +4996,8 @@
             "ID": 625,
             "TeamName": "CTY",
             "MapName": "LABS",
-            "Elo": 1269.1370666779542,
-            "LastGameUpdated": 22,
+            "Elo": 1285.6741244590062,
+            "LastGameUpdated": 28,
             "Region": "LATAM"
         },
         {
@@ -5221,6 +5221,14 @@
             "TeamName": "CTY",
             "MapName": "LATAM",
             "Elo": 1267.5,
+            "LastGameUpdated": 28,
+            "Region": "LATAM"
+        },
+        {
+            "ID": 654,
+            "TeamName": "6K",
+            "MapName": "LABS",
+            "Elo": 1233.462942218948,
             "LastGameUpdated": 28,
             "Region": "LATAM"
         }
