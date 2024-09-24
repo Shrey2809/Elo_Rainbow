@@ -5209,22 +5209,6 @@
             "Region": "LATAM"
         },
         {
-            "ID": 652,
-            "TeamName": "6K",
-            "MapName": "LATAM",
-            "Elo": 1232.5,
-            "LastGameUpdated": 28,
-            "Region": "LATAM"
-        },
-        {
-            "ID": 653,
-            "TeamName": "CTY",
-            "MapName": "LATAM",
-            "Elo": 1267.5,
-            "LastGameUpdated": 28,
-            "Region": "LATAM"
-        },
-        {
             "ID": 654,
             "TeamName": "6K",
             "MapName": "LABS",
