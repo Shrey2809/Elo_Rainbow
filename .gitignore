@@ -131,3 +131,5 @@ dist
 .pnp.*
 
 node_modules/*
+
+Elo_Rainbow.code-workspace
