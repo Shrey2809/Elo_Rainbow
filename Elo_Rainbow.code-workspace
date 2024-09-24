@@ -1,19 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "Elo_Rainbow",
-			"path": "."
-		},
-		{
-			"name": "Elo System Test",
-			"path": ".."
-		},
-		{
-			"name": "LiquipediaAPIValorant",
-			"path": "../LiquipediaAPIValorant"
-		}
-	],
-	"settings": {
-		"powershell.cwd": "Elo System Test"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
