@@ -2988,8 +2988,8 @@
             "ID": 374,
             "TeamName": "SUPERNOVA",
             "MapName": "CLUB",
-            "Elo": 1401.9606666737213,
-            "LastGameUpdated": 357,
+            "Elo": 1391.564567483433,
+            "LastGameUpdated": 21,
             "Region": "OCE"
         },
         {
@@ -4508,8 +4508,8 @@
             "ID": 564,
             "TeamName": "GG",
             "MapName": "CONS",
-            "Elo": 1512.668296029523,
-            "LastGameUpdated": 3,
+            "Elo": 1524.690431648327,
+            "LastGameUpdated": 22,
             "Region": "OCE"
         },
         {
@@ -4764,8 +4764,8 @@
             "ID": 596,
             "TeamName": "OUTLAST",
             "MapName": "CONS",
-            "Elo": 1442.7657051875328,
-            "LastGameUpdated": 8,
+            "Elo": 1430.7435695687288,
+            "LastGameUpdated": 22,
             "Region": "OCE"
         },
         {
@@ -4812,24 +4812,24 @@
             "ID": 602,
             "TeamName": "PRODIGY",
             "MapName": "LABS",
-            "Elo": 1428.4076955958662,
-            "LastGameUpdated": 19,
+            "Elo": 1416.884801930823,
+            "LastGameUpdated": 24,
             "Region": "OCE"
         },
         {
             "ID": 603,
             "TeamName": "CS",
             "MapName": "KAFE",
-            "Elo": 1333.273328757016,
-            "LastGameUpdated": 17,
+            "Elo": 1342.4620549801302,
+            "LastGameUpdated": 23,
             "Region": "OCE"
         },
         {
             "ID": 604,
             "TeamName": "ANTC",
             "MapName": "LABS",
-            "Elo": 1455.6217359214065,
-            "LastGameUpdated": 18,
+            "Elo": 1467.1446295864498,
+            "LastGameUpdated": 24,
             "Region": "OCE"
         },
         {
@@ -5423,6 +5423,22 @@
             "Elo": 1199.8995670988868,
             "LastGameUpdated": 16,
             "Region": "MENA"
+        },
+        {
+            "ID": 679,
+            "TeamName": "CHIEFS",
+            "MapName": "CLUB",
+            "Elo": 1471.3961498813371,
+            "LastGameUpdated": 21,
+            "Region": "OCE"
+        },
+        {
+            "ID": 680,
+            "TeamName": "Odium",
+            "MapName": "KAFE",
+            "Elo": 1295.8359812240465,
+            "LastGameUpdated": 23,
+            "Region": "OCE"
         }
     ]
 }
