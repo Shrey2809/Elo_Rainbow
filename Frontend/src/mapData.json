@@ -5420,8 +5420,8 @@
             "ID": 678,
             "TeamName": "VICIOUS",
             "MapName": "CHALET",
-            "Elo": 1199.8995670988868,
-            "LastGameUpdated": 16,
+            "Elo": 1208.9732284142156,
+            "LastGameUpdated": 17,
             "Region": "MENA"
         },
         {
@@ -5439,6 +5439,14 @@
             "Elo": 1295.8359812240465,
             "LastGameUpdated": 23,
             "Region": "Oceania"
+        },
+        {
+            "ID": 681,
+            "TeamName": "AKT",
+            "MapName": "CHALET",
+            "Elo": 1158.5490683630446,
+            "LastGameUpdated": 17,
+            "Region": "MENA"
         }
     ]
 }
