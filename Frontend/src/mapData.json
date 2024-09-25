@@ -2172,8 +2172,8 @@
             "ID": 272,
             "TeamName": "ROC",
             "MapName": "CHALET",
-            "Elo": 1241.9317336500114,
-            "LastGameUpdated": 16,
+            "Elo": 1251.3261017890002,
+            "LastGameUpdated": 19,
             "Region": "MENA"
         },
         {
@@ -2252,8 +2252,8 @@
             "ID": 282,
             "TeamName": "FLCS",
             "MapName": "BANK",
-            "Elo": 1266.2332784067175,
-            "LastGameUpdated": 633,
+            "Elo": 1284.7379224935407,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         },
         {
@@ -4396,8 +4396,8 @@
             "ID": 550,
             "TeamName": "TWM",
             "MapName": "CHALET",
-            "Elo": 1220.8641444499583,
-            "LastGameUpdated": 14,
+            "Elo": 1211.4697763109696,
+            "LastGameUpdated": 19,
             "Region": "MENA"
         },
         {
@@ -5446,6 +5446,14 @@
             "MapName": "CHALET",
             "Elo": 1158.5490683630446,
             "LastGameUpdated": 17,
+            "Region": "MENA"
+        },
+        {
+            "ID": 682,
+            "TeamName": "EAST",
+            "MapName": "BANK",
+            "Elo": 1185.3730257708987,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         }
     ]

@@ -353,8 +353,8 @@
         {
             "ID": 51,
             "TeamName": "ROC",
-            "Elo": 1315.6720339447827,
-            "LastGameUpdated": 16,
+            "Elo": 1323.9847229060663,
+            "LastGameUpdated": 19,
             "Region": "MENA"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1337.8012892033032,
-            "LastGameUpdated": 15,
+            "Elo": 1352.8923461969484,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         },
         {
@@ -619,8 +619,8 @@
         {
             "ID": 89,
             "TeamName": "TWM",
-            "Elo": 1256.4828053160795,
-            "LastGameUpdated": 14,
+            "Elo": 1248.170116354796,
+            "LastGameUpdated": 19,
             "Region": "MENA"
         },
         {
@@ -703,8 +703,8 @@
         {
             "ID": 101,
             "TeamName": "EAST",
-            "Elo": 1218.9687268513671,
-            "LastGameUpdated": 14,
+            "Elo": 1203.877669857722,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         }
     ]
