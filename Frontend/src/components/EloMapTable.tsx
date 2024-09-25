@@ -41,7 +41,8 @@ type EloMapsData = {
 
 
 const maps = ["BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
-const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA",  "OCE", "SEA"];
+// const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA",  "OCE", "SEA"];
+const regions = ["North America", "Brazil", "Europe", "Japan", "Korea", "LATAM", "MENA", "Oceania", "Asia"];
 
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
   // Create a map to group teams by MapName
