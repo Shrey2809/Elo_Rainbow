@@ -3,15 +3,15 @@
         {
             "ID": 1,
             "TeamName": "FURY",
-            "Elo": 1454.332959050481,
-            "LastGameUpdated": 23,
+            "Elo": 1464.1113359527094,
+            "LastGameUpdated": 26,
             "Region": "SEA"
         },
         {
             "ID": 2,
             "TeamName": "NoCap",
-            "Elo": 1456.594504915038,
-            "LastGameUpdated": 21,
+            "Elo": 1462.1093100865364,
+            "LastGameUpdated": 27,
             "Region": "SEA"
         },
         {
@@ -38,22 +38,22 @@
         {
             "ID": 6,
             "TeamName": "KNOCK",
-            "Elo": 1237.3246735565551,
-            "LastGameUpdated": 23,
+            "Elo": 1231.8098683850567,
+            "LastGameUpdated": 27,
             "Region": "SEA"
         },
         {
             "ID": 7,
             "TeamName": "Bleed",
-            "Elo": 1598.4578565696524,
-            "LastGameUpdated": 22,
+            "Elo": 1606.5743434770952,
+            "LastGameUpdated": 25,
             "Region": "SEA"
         },
         {
             "ID": 8,
             "TeamName": "HW",
-            "Elo": 1258.3125541812933,
-            "LastGameUpdated": 24,
+            "Elo": 1248.5341772790648,
+            "LastGameUpdated": 26,
             "Region": "SEA"
         },
         {
@@ -563,8 +563,8 @@
         {
             "ID": 81,
             "TeamName": "Rival",
-            "Elo": 1360.7786262631641,
-            "LastGameUpdated": 24,
+            "Elo": 1352.6621393557214,
+            "LastGameUpdated": 25,
             "Region": "SEA"
         },
         {
