@@ -854,11 +854,11 @@
             "ID": 348,
             "TeamName": "C9BC",
             "MapName": "KAFE",
-            "Elo": 1523.8798302934456,
+            "Elo": 1535.075723322259,
             "Region": "North America",
-            "LastGameUpdated": 643,
+            "LastGameUpdated": 30,
             "MajorCount": 3,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 335,
@@ -4944,11 +4944,11 @@
             "ID": 364,
             "TeamName": "OXG",
             "MapName": "KAFE",
-            "Elo": 1487.5,
+            "Elo": 1476.3041069711867,
             "Region": "North America",
-            "LastGameUpdated": 337,
+            "LastGameUpdated": 30,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 366,
