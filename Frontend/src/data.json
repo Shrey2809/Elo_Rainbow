@@ -346,8 +346,8 @@
         {
             "ID": 50,
             "TeamName": "GK",
-            "Elo": 1429.0468077466505,
-            "LastGameUpdated": 18,
+            "Elo": 1440.465932204966,
+            "LastGameUpdated": 22,
             "Region": "MENA"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1448.17614180269,
-            "LastGameUpdated": 20,
+            "Elo": 1456.2230697778953,
+            "LastGameUpdated": 23,
             "Region": "MENA"
         },
         {
@@ -409,15 +409,15 @@
         {
             "ID": 59,
             "TeamName": "LOS",
-            "Elo": 1381.630537527087,
-            "LastGameUpdated": 25,
+            "Elo": 1373.372958133747,
+            "LastGameUpdated": 29,
             "Region": "North America"
         },
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1549.8125915084224,
-            "LastGameUpdated": 24,
+            "Elo": 1558.0701709017624,
+            "LastGameUpdated": 29,
             "Region": "North America"
         },
         {
@@ -682,15 +682,15 @@
         {
             "ID": 98,
             "TeamName": "VICIOUS",
-            "Elo": 1318.7288246175572,
-            "LastGameUpdated": 17,
+            "Elo": 1310.6818966423518,
+            "LastGameUpdated": 23,
             "Region": "MENA"
         },
         {
             "ID": 99,
             "TeamName": "EAST",
-            "Elo": 1303.0759598633667,
-            "LastGameUpdated": 20,
+            "Elo": 1291.6568354050512,
+            "LastGameUpdated": 22,
             "Region": "MENA"
         }
     ]

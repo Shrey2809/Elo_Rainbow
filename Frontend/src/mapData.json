@@ -1904,11 +1904,11 @@
             "ID": 678,
             "TeamName": "EAST",
             "MapName": "CHALET",
-            "Elo": 1299.089443793294,
+            "Elo": 1286.7044940356705,
             "Region": "MENA",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 22,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 672,
@@ -2229,6 +2229,16 @@
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 4
+        },
+        {
+            "ID": 688,
+            "TeamName": "FLCS",
+            "MapName": "LAIR",
+            "Elo": 1463.7730157414546,
+            "Region": "MENA",
+            "LastGameUpdated": 23,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 535,
@@ -2934,11 +2944,11 @@
             "ID": 271,
             "TeamName": "GK",
             "MapName": "CHALET",
-            "Elo": 1403.690766919658,
+            "Elo": 1416.0757166772817,
             "Region": "MENA",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 22,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 277,
@@ -3747,6 +3757,16 @@
             "Elo": 1487.5,
             "Region": "North America",
             "LastGameUpdated": 306,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 687,
+            "TeamName": "LOS",
+            "MapName": "BORDER",
+            "Elo": 1363.0565102225087,
+            "Region": "North America",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5524,11 +5544,11 @@
             "ID": 556,
             "TeamName": "SQ",
             "MapName": "BORDER",
-            "Elo": 1485.6022717796538,
+            "Elo": 1495.9187196908922,
             "Region": "North America",
-            "LastGameUpdated": 651,
+            "LastGameUpdated": 29,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 342,
@@ -6177,6 +6197,16 @@
             "Elo": 1300.7341391486527,
             "Region": "MENA",
             "LastGameUpdated": 3,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 689,
+            "TeamName": "VICIOUS",
+            "MapName": "LAIR",
+            "Elo": 1303.1319506787925,
+            "Region": "MENA",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
