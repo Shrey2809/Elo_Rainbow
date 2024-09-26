@@ -1692,8 +1692,8 @@
             "ID": 212,
             "TeamName": "RVN",
             "MapName": "CONS",
-            "Elo": 1298.577477808353,
-            "LastGameUpdated": 225,
+            "Elo": 1289.4725280410103,
+            "LastGameUpdated": 34,
             "Region": "LATAM"
         },
         {
@@ -1796,8 +1796,8 @@
             "ID": 225,
             "TeamName": "VASCO",
             "MapName": "CHALET",
-            "Elo": 1382.1403440260644,
-            "LastGameUpdated": 8,
+            "Elo": 1366.5248178904524,
+            "LastGameUpdated": 33,
             "Region": "LATAM"
         },
         {
@@ -1948,8 +1948,8 @@
             "ID": 244,
             "TeamName": "ALPHA",
             "MapName": "CHALET",
-            "Elo": 1367.87528800348,
-            "LastGameUpdated": 246,
+            "Elo": 1383.490814139092,
+            "LastGameUpdated": 33,
             "Region": "LATAM"
         },
         {
@@ -5220,8 +5220,8 @@
             "ID": 653,
             "TeamName": "6K",
             "MapName": "CONS",
-            "Elo": 1442.8838239846712,
-            "LastGameUpdated": 12,
+            "Elo": 1451.988773752014,
+            "LastGameUpdated": 34,
             "Region": "LATAM"
         },
         {
@@ -5455,6 +5455,22 @@
             "Elo": 1284.6215769114112,
             "LastGameUpdated": 20,
             "Region": "MENA"
+        },
+        {
+            "ID": 683,
+            "TeamName": "C9BC",
+            "MapName": "LAIR",
+            "Elo": 1649.9450683138818,
+            "LastGameUpdated": 28,
+            "Region": "North America"
+        },
+        {
+            "ID": 684,
+            "TeamName": "SSG",
+            "MapName": "LAIR",
+            "Elo": 1621.5941283744012,
+            "LastGameUpdated": 28,
+            "Region": "North America"
         }
     ]
 }

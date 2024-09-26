@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1411.885998257702,
-            "LastGameUpdated": 27,
+            "Elo": 1429.616232269811,
+            "LastGameUpdated": 33,
             "Region": "LATAM"
         },
         {
@@ -283,8 +283,8 @@
         {
             "ID": 41,
             "TeamName": "VASCO",
-            "Elo": 1475.8372733914068,
-            "LastGameUpdated": 25,
+            "Elo": 1458.107039379298,
+            "LastGameUpdated": 33,
             "Region": "LATAM"
         },
         {
@@ -297,8 +297,8 @@
         {
             "ID": 43,
             "TeamName": "6K",
-            "Elo": 1437.9673733761886,
-            "LastGameUpdated": 28,
+            "Elo": 1449.2046548139024,
+            "LastGameUpdated": 34,
             "Region": "LATAM"
         },
         {
@@ -311,8 +311,8 @@
         {
             "ID": 45,
             "TeamName": "RVN",
-            "Elo": 1348.9135708302715,
-            "LastGameUpdated": 29,
+            "Elo": 1337.6762893925577,
+            "LastGameUpdated": 34,
             "Region": "LATAM"
         },
         {
@@ -437,15 +437,15 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1591.4224504476604,
-            "LastGameUpdated": 21,
+            "Elo": 1607.0459256981724,
+            "LastGameUpdated": 28,
             "Region": "North America"
         },
         {
             "ID": 64,
             "TeamName": "C9BC",
-            "Elo": 1680.1167462406227,
-            "LastGameUpdated": 23,
+            "Elo": 1664.4932709901107,
+            "LastGameUpdated": 28,
             "Region": "North America"
         },
         {
