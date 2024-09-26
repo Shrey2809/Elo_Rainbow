@@ -1844,8 +1844,8 @@
             "ID": 231,
             "TeamName": "CN",
             "MapName": "SKYSCRAPER",
-            "Elo": 1289.4550728447427,
-            "LastGameUpdated": 254,
+            "Elo": 1306.0905724904064,
+            "LastGameUpdated": 35,
             "Region": "LATAM"
         },
         {
@@ -1924,8 +1924,8 @@
             "ID": 241,
             "TeamName": "CTY",
             "MapName": "CLUB",
-            "Elo": 1329.3285478628413,
-            "LastGameUpdated": 435,
+            "Elo": 1351.2156327820126,
+            "LastGameUpdated": 36,
             "Region": "LATAM"
         },
         {
@@ -5212,8 +5212,8 @@
             "ID": 652,
             "TeamName": "LYCUS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1272.2777658313007,
-            "LastGameUpdated": 11,
+            "Elo": 1255.642266185637,
+            "LastGameUpdated": 35,
             "Region": "LATAM"
         },
         {
@@ -5471,6 +5471,14 @@
             "Elo": 1621.5941283744012,
             "LastGameUpdated": 28,
             "Region": "North America"
+        },
+        {
+            "ID": 685,
+            "TeamName": "TSG",
+            "MapName": "CLUB",
+            "Elo": 1263.954279814672,
+            "LastGameUpdated": 36,
+            "Region": "LATAM"
         }
     ]
 }

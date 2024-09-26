@@ -304,8 +304,8 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1422.7746440498743,
-            "LastGameUpdated": 28,
+            "Elo": 1439.4512466725291,
+            "LastGameUpdated": 36,
             "Region": "LATAM"
         },
         {
@@ -318,8 +318,8 @@
         {
             "ID": 46,
             "TeamName": "CN",
-            "Elo": 1244.5673057141498,
-            "LastGameUpdated": 30,
+            "Elo": 1264.0915602296773,
+            "LastGameUpdated": 35,
             "Region": "LATAM"
         },
         {
@@ -668,15 +668,15 @@
         {
             "ID": 96,
             "TeamName": "LYCUS",
-            "Elo": 1284.9364584197867,
-            "LastGameUpdated": 29,
+            "Elo": 1265.4122039042593,
+            "LastGameUpdated": 35,
             "Region": "LATAM"
         },
         {
             "ID": 97,
             "TeamName": "TSG",
-            "Elo": 1302.517967356498,
-            "LastGameUpdated": 30,
+            "Elo": 1285.8413647338432,
+            "LastGameUpdated": 36,
             "Region": "LATAM"
         },
         {
