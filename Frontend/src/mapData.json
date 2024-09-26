@@ -6,6 +6,7 @@
             "MapName": "BANK",
             "Elo": 1352.9364496726405,
             "Region": "LATAM",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -15,6 +16,7 @@
             "MapName": "BORDER",
             "Elo": 1353.7008209279277,
             "Region": "LATAM",
+            "LastGameUpdated": 619,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -24,6 +26,7 @@
             "MapName": "CHALET",
             "Elo": 1382.1704712821897,
             "Region": "LATAM",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -33,6 +36,7 @@
             "MapName": "CLUB",
             "Elo": 1449.4903820497886,
             "Region": "LATAM",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -42,6 +46,7 @@
             "MapName": "CONS",
             "Elo": 1451.988773752014,
             "Region": "LATAM",
+            "LastGameUpdated": 34,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -51,6 +56,7 @@
             "MapName": "KAFE",
             "Elo": 1309.4951767447048,
             "Region": "LATAM",
+            "LastGameUpdated": 620,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -60,6 +66,7 @@
             "MapName": "LABS",
             "Elo": 1422.0465747572905,
             "Region": "LATAM",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -69,6 +76,7 @@
             "MapName": "OREGON",
             "Elo": 1364.9913476497004,
             "Region": "LATAM",
+            "LastGameUpdated": 616,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -78,6 +86,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1337.0504702906808,
             "Region": "LATAM",
+            "LastGameUpdated": 229,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -87,6 +96,7 @@
             "MapName": "BORDER",
             "Elo": 1366.2418376005853,
             "Region": "Oceania",
+            "LastGameUpdated": 360,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -96,6 +106,7 @@
             "MapName": "CHALET",
             "Elo": 1364.6403762325447,
             "Region": "Oceania",
+            "LastGameUpdated": 353,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -105,6 +116,7 @@
             "MapName": "CLUB",
             "Elo": 1359.9288838374248,
             "Region": "Oceania",
+            "LastGameUpdated": 366,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -114,6 +126,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1352.5,
             "Region": "Oceania",
+            "LastGameUpdated": 373,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -123,6 +136,7 @@
             "MapName": "BANK",
             "Elo": 1341.624914520079,
             "Region": "LATAM",
+            "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -132,6 +146,7 @@
             "MapName": "BORDER",
             "Elo": 1287.0876188398518,
             "Region": "LATAM",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -141,6 +156,7 @@
             "MapName": "CHALET",
             "Elo": 1309.2044115160986,
             "Region": "LATAM",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -150,6 +166,7 @@
             "MapName": "CLUB",
             "Elo": 1276.544704349011,
             "Region": "LATAM",
+            "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -159,6 +176,7 @@
             "MapName": "KAFE",
             "Elo": 1332.6468534605917,
             "Region": "LATAM",
+            "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -168,6 +186,7 @@
             "MapName": "BANK",
             "Elo": 1328.14742328747,
             "Region": "MENA",
+            "LastGameUpdated": 624,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -177,6 +196,7 @@
             "MapName": "CHALET",
             "Elo": 1223.6796110779496,
             "Region": "MENA",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -186,6 +206,7 @@
             "MapName": "KAFE",
             "Elo": 1244.81237262903,
             "Region": "MENA",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -195,6 +216,7 @@
             "MapName": "LABS",
             "Elo": 1230.208672863504,
             "Region": "MENA",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -204,6 +226,7 @@
             "MapName": "OREGON",
             "Elo": 1325,
             "Region": "MENA",
+            "LastGameUpdated": 625,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -213,6 +236,7 @@
             "MapName": "CHALET",
             "Elo": 1300.8990594186382,
             "Region": "LATAM",
+            "LastGameUpdated": 615,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -222,6 +246,7 @@
             "MapName": "OREGON",
             "Elo": 1303.709930323021,
             "Region": "LATAM",
+            "LastGameUpdated": 616,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -231,6 +256,7 @@
             "MapName": "BANK",
             "Elo": 1389.5958975057122,
             "Region": "LATAM",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -240,6 +266,7 @@
             "MapName": "BORDER",
             "Elo": 1355.6480355488707,
             "Region": "LATAM",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -249,6 +276,7 @@
             "MapName": "CHALET",
             "Elo": 1383.490814139092,
             "Region": "LATAM",
+            "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -258,6 +286,7 @@
             "MapName": "CLUB",
             "Elo": 1327.5415002277177,
             "Region": "LATAM",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -267,6 +296,7 @@
             "MapName": "KAFE",
             "Elo": 1320.150057912623,
             "Region": "LATAM",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -276,6 +306,7 @@
             "MapName": "OREGON",
             "Elo": 1352.0127906989762,
             "Region": "LATAM",
+            "LastGameUpdated": 251,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -285,6 +316,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1322.8777091994323,
             "Region": "LATAM",
+            "LastGameUpdated": 236,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -294,6 +326,7 @@
             "MapName": "BANK",
             "Elo": 1385.718318538902,
             "Region": "Oceania",
+            "LastGameUpdated": 381,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -303,6 +336,7 @@
             "MapName": "BORDER",
             "Elo": 1382.1356894671653,
             "Region": "Oceania",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -312,6 +346,7 @@
             "MapName": "CHALET",
             "Elo": 1352.9614496115173,
             "Region": "Oceania",
+            "LastGameUpdated": 361,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -321,6 +356,7 @@
             "MapName": "CLUB",
             "Elo": 1433.85711858172,
             "Region": "Oceania",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -330,6 +366,7 @@
             "MapName": "KAFE",
             "Elo": 1353.6323461594732,
             "Region": "Oceania",
+            "LastGameUpdated": 386,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -339,6 +376,7 @@
             "MapName": "LABS",
             "Elo": 1442.1925734744145,
             "Region": "Oceania",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -348,6 +386,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1393.4228095340331,
             "Region": "Oceania",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -357,6 +396,7 @@
             "MapName": "BANK",
             "Elo": 1502.6706321518914,
             "Region": "Brazil",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -366,6 +406,7 @@
             "MapName": "BORDER",
             "Elo": 1504.067928649572,
             "Region": "Brazil",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -375,6 +416,7 @@
             "MapName": "CHALET",
             "Elo": 1473.9879955262675,
             "Region": "Brazil",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -384,6 +426,7 @@
             "MapName": "CLUB",
             "Elo": 1489.456308585673,
             "Region": "Brazil",
+            "LastGameUpdated": 562,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -393,6 +436,7 @@
             "MapName": "CONS",
             "Elo": 1438.2377344098861,
             "Region": "Brazil",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -402,6 +446,7 @@
             "MapName": "KAFE",
             "Elo": 1533.5104109198205,
             "Region": "Brazil",
+            "LastGameUpdated": 561,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -411,6 +456,7 @@
             "MapName": "LABS",
             "Elo": 1466.9918800481598,
             "Region": "Brazil",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -420,6 +466,7 @@
             "MapName": "OREGON",
             "Elo": 1481.8603300563348,
             "Region": "Brazil",
+            "LastGameUpdated": 547,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -429,6 +476,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1490,
             "Region": "Brazil",
+            "LastGameUpdated": 59,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -438,6 +486,7 @@
             "MapName": "BANK",
             "Elo": 1708.9889193951294,
             "Region": "Europe",
+            "LastGameUpdated": 15,
             "MajorCount": 5,
             "RegionalCount": 3
         },
@@ -447,6 +496,7 @@
             "MapName": "BORDER",
             "Elo": 1489.2463128243971,
             "Region": "Europe",
+            "LastGameUpdated": 21,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -456,6 +506,7 @@
             "MapName": "CHALET",
             "Elo": 1608.4029241308983,
             "Region": "Europe",
+            "LastGameUpdated": 26,
             "MajorCount": 2,
             "RegionalCount": 7
         },
@@ -465,6 +516,7 @@
             "MapName": "CLUB",
             "Elo": 1579.4708721573406,
             "Region": "Europe",
+            "LastGameUpdated": 672,
             "MajorCount": 3,
             "RegionalCount": 3
         },
@@ -474,6 +526,7 @@
             "MapName": "CONS",
             "Elo": 1750.7741764155219,
             "Region": "Europe",
+            "LastGameUpdated": 673,
             "MajorCount": 2,
             "RegionalCount": 0
         },
@@ -483,6 +536,7 @@
             "MapName": "KAFE",
             "Elo": 1518.4791055273417,
             "Region": "Europe",
+            "LastGameUpdated": 9,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -492,6 +546,7 @@
             "MapName": "LABS",
             "Elo": 1669.098337973795,
             "Region": "Europe",
+            "LastGameUpdated": 4,
             "MajorCount": 2,
             "RegionalCount": 1
         },
@@ -501,6 +556,7 @@
             "MapName": "OREGON",
             "Elo": 1677.408578734263,
             "Region": "Europe",
+            "LastGameUpdated": 674,
             "MajorCount": 6,
             "RegionalCount": 1
         },
@@ -510,6 +566,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1527.5170331525196,
             "Region": "Europe",
+            "LastGameUpdated": 664,
             "MajorCount": 3,
             "RegionalCount": 3
         },
@@ -519,6 +576,7 @@
             "MapName": "BORDER",
             "Elo": 1225.3508344656907,
             "Region": "Korea",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -528,6 +586,7 @@
             "MapName": "CHALET",
             "Elo": 1350,
             "Region": "Korea",
+            "LastGameUpdated": 423,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -537,6 +596,7 @@
             "MapName": "CLUB",
             "Elo": 1321.0502307250747,
             "Region": "Korea",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 7
         },
@@ -546,6 +606,7 @@
             "MapName": "CONS",
             "Elo": 1224.9294774356422,
             "Region": "Korea",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -555,6 +616,7 @@
             "MapName": "KAFE",
             "Elo": 1365,
             "Region": "Korea",
+            "LastGameUpdated": 414,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -564,6 +626,7 @@
             "MapName": "LABS",
             "Elo": 1371.7761321808237,
             "Region": "Korea",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -573,6 +636,7 @@
             "MapName": "OREGON",
             "Elo": 1319.8591673426108,
             "Region": "Korea",
+            "LastGameUpdated": 410,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -582,6 +646,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1356.0065299195319,
             "Region": "Korea",
+            "LastGameUpdated": 420,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -591,6 +656,7 @@
             "MapName": "BANK",
             "Elo": 1483.281111645425,
             "Region": "Asia",
+            "LastGameUpdated": 449,
             "MajorCount": 1,
             "RegionalCount": 0
         },
@@ -600,6 +666,7 @@
             "MapName": "BORDER",
             "Elo": 1430.0930754129683,
             "Region": "Asia",
+            "LastGameUpdated": 541,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -609,6 +676,7 @@
             "MapName": "CHALET",
             "Elo": 1371.262023277079,
             "Region": "Asia",
+            "LastGameUpdated": 503,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -618,6 +686,7 @@
             "MapName": "CLUB",
             "Elo": 1509.5667979516254,
             "Region": "Asia",
+            "LastGameUpdated": 25,
             "MajorCount": 2,
             "RegionalCount": 8
         },
@@ -627,6 +696,7 @@
             "MapName": "CONS",
             "Elo": 1377.7505282709908,
             "Region": "Asia",
+            "LastGameUpdated": 660,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -636,6 +706,7 @@
             "MapName": "KAFE",
             "Elo": 1426.622268060308,
             "Region": "Asia",
+            "LastGameUpdated": 7,
             "MajorCount": 3,
             "RegionalCount": 1
         },
@@ -645,6 +716,7 @@
             "MapName": "LABS",
             "Elo": 1545.157608052109,
             "Region": "Asia",
+            "LastGameUpdated": 4,
             "MajorCount": 4,
             "RegionalCount": 4
         },
@@ -654,6 +726,7 @@
             "MapName": "OREGON",
             "Elo": 1468.8635462134866,
             "Region": "Asia",
+            "LastGameUpdated": 535,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -663,6 +736,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1413.2854010935323,
             "Region": "Asia",
+            "LastGameUpdated": 18,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -672,6 +746,7 @@
             "MapName": "BANK",
             "Elo": 1265.5815312229145,
             "Region": "Korea",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -681,6 +756,7 @@
             "MapName": "BORDER",
             "Elo": 1296.1478305657783,
             "Region": "Korea",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -690,6 +766,7 @@
             "MapName": "CHALET",
             "Elo": 1250.2327425345013,
             "Region": "Korea",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -699,6 +776,7 @@
             "MapName": "CLUB",
             "Elo": 1392.0250921995548,
             "Region": "Korea",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -708,6 +786,7 @@
             "MapName": "LABS",
             "Elo": 1318.5241205636275,
             "Region": "Korea",
+            "LastGameUpdated": 398,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -717,6 +796,7 @@
             "MapName": "OREGON",
             "Elo": 1327.6134108215267,
             "Region": "Korea",
+            "LastGameUpdated": 411,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -726,6 +806,7 @@
             "MapName": "BANK",
             "Elo": 1533.718846871072,
             "Region": "North America",
+            "LastGameUpdated": 518,
             "MajorCount": 2,
             "RegionalCount": 1
         },
@@ -735,6 +816,7 @@
             "MapName": "BORDER",
             "Elo": 1558.0875221301271,
             "Region": "North America",
+            "LastGameUpdated": 11,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -744,6 +826,7 @@
             "MapName": "CHALET",
             "Elo": 1526.243038920503,
             "Region": "North America",
+            "LastGameUpdated": 521,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -753,6 +836,7 @@
             "MapName": "CLUB",
             "Elo": 1477.7284061736473,
             "Region": "North America",
+            "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -762,6 +846,7 @@
             "MapName": "CONS",
             "Elo": 1513.636162336402,
             "Region": "North America",
+            "LastGameUpdated": 23,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -771,6 +856,7 @@
             "MapName": "KAFE",
             "Elo": 1523.8798302934456,
             "Region": "North America",
+            "LastGameUpdated": 643,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -780,6 +866,7 @@
             "MapName": "LABS",
             "Elo": 1590.871069468889,
             "Region": "North America",
+            "LastGameUpdated": 513,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -789,6 +876,7 @@
             "MapName": "LAIR",
             "Elo": 1649.9450683138818,
             "Region": "North America",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -798,6 +886,7 @@
             "MapName": "OREGON",
             "Elo": 1523.3091534767743,
             "Region": "North America",
+            "LastGameUpdated": 322,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -807,6 +896,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1591.8345224117668,
             "Region": "North America",
+            "LastGameUpdated": 644,
             "MajorCount": 4,
             "RegionalCount": 1
         },
@@ -816,6 +906,7 @@
             "MapName": "BANK",
             "Elo": 1368.758954106567,
             "Region": "Japan",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -825,6 +916,7 @@
             "MapName": "BORDER",
             "Elo": 1390.4685813122398,
             "Region": "Japan",
+            "LastGameUpdated": 470,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -834,6 +926,7 @@
             "MapName": "CHALET",
             "Elo": 1472.0014787035036,
             "Region": "Japan",
+            "LastGameUpdated": 5,
             "MajorCount": 2,
             "RegionalCount": 5
         },
@@ -843,6 +936,7 @@
             "MapName": "CLUB",
             "Elo": 1447.5319617611447,
             "Region": "Japan",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -852,6 +946,7 @@
             "MapName": "CONS",
             "Elo": 1460.3249362640274,
             "Region": "Japan",
+            "LastGameUpdated": 17,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -861,6 +956,7 @@
             "MapName": "KAFE",
             "Elo": 1371.6562220068595,
             "Region": "Japan",
+            "LastGameUpdated": 596,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -870,6 +966,7 @@
             "MapName": "LABS",
             "Elo": 1331.758252728455,
             "Region": "Japan",
+            "LastGameUpdated": 490,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -879,6 +976,7 @@
             "MapName": "OREGON",
             "Elo": 1441.5546229914607,
             "Region": "Japan",
+            "LastGameUpdated": 464,
             "MajorCount": 2,
             "RegionalCount": 0
         },
@@ -888,6 +986,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1392.7006091815547,
             "Region": "Japan",
+            "LastGameUpdated": 22,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -897,6 +996,7 @@
             "MapName": "BANK",
             "Elo": 1375.5239119552102,
             "Region": "Japan",
+            "LastGameUpdated": 182,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -906,6 +1006,7 @@
             "MapName": "BORDER",
             "Elo": 1388.6744931945923,
             "Region": "Japan",
+            "LastGameUpdated": 587,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -915,6 +1016,7 @@
             "MapName": "CHALET",
             "Elo": 1367.8902819375287,
             "Region": "Japan",
+            "LastGameUpdated": 181,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -924,6 +1026,7 @@
             "MapName": "CLUB",
             "Elo": 1356.6538500677002,
             "Region": "Japan",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -933,6 +1036,7 @@
             "MapName": "CONS",
             "Elo": 1341.8048238043937,
             "Region": "Japan",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -942,6 +1046,7 @@
             "MapName": "LABS",
             "Elo": 1342.6912125778226,
             "Region": "Japan",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -951,6 +1056,7 @@
             "MapName": "OREGON",
             "Elo": 1381.8791003721572,
             "Region": "Japan",
+            "LastGameUpdated": 187,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -960,6 +1066,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1354.6194762751634,
             "Region": "Japan",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -969,6 +1076,7 @@
             "MapName": "BANK",
             "Elo": 1443.9175231736613,
             "Region": "Oceania",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -978,6 +1086,7 @@
             "MapName": "BORDER",
             "Elo": 1438.2798560476438,
             "Region": "Oceania",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -987,6 +1096,7 @@
             "MapName": "CHALET",
             "Elo": 1429.6761662517238,
             "Region": "Oceania",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -996,6 +1106,7 @@
             "MapName": "CLUB",
             "Elo": 1446.7631424863107,
             "Region": "Oceania",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1005,6 +1116,7 @@
             "MapName": "LABS",
             "Elo": 1381.0527889486339,
             "Region": "Oceania",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1014,6 +1126,7 @@
             "MapName": "OREGON",
             "Elo": 1360.7106698602504,
             "Region": "Korea",
+            "LastGameUpdated": 600,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1023,6 +1136,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1355.5216068187158,
             "Region": "Korea",
+            "LastGameUpdated": 601,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1032,6 +1146,7 @@
             "MapName": "BANK",
             "Elo": 1355.4400946619578,
             "Region": "LATAM",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1041,6 +1156,7 @@
             "MapName": "BORDER",
             "Elo": 1318.00355144581,
             "Region": "LATAM",
+            "LastGameUpdated": 259,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1050,6 +1166,7 @@
             "MapName": "CHALET",
             "Elo": 1310,
             "Region": "LATAM",
+            "LastGameUpdated": 263,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1059,6 +1176,7 @@
             "MapName": "CLUB",
             "Elo": 1280.2007233789786,
             "Region": "LATAM",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1068,6 +1186,7 @@
             "MapName": "CONS",
             "Elo": 1320.1396985072631,
             "Region": "LATAM",
+            "LastGameUpdated": 617,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1077,6 +1196,7 @@
             "MapName": "KAFE",
             "Elo": 1328.5218150537974,
             "Region": "LATAM",
+            "LastGameUpdated": 618,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1086,6 +1206,7 @@
             "MapName": "LABS",
             "Elo": 1258.1985155853206,
             "Region": "LATAM",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1095,6 +1216,7 @@
             "MapName": "LAIR",
             "Elo": 1232.0462903826624,
             "Region": "LATAM",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1104,6 +1226,7 @@
             "MapName": "OREGON",
             "Elo": 1337.1693817587402,
             "Region": "LATAM",
+            "LastGameUpdated": 613,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1113,6 +1236,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1306.0905724904064,
             "Region": "LATAM",
+            "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1122,6 +1246,7 @@
             "MapName": "BANK",
             "Elo": 1350,
             "Region": "Oceania",
+            "LastGameUpdated": 352,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1131,6 +1256,7 @@
             "MapName": "BORDER",
             "Elo": 1401.2581623994147,
             "Region": "Oceania",
+            "LastGameUpdated": 360,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1140,6 +1266,7 @@
             "MapName": "CHALET",
             "Elo": 1362.0212128412097,
             "Region": "Oceania",
+            "LastGameUpdated": 374,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1149,6 +1276,7 @@
             "MapName": "CLUB",
             "Elo": 1321.3637963946999,
             "Region": "Oceania",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1158,6 +1286,7 @@
             "MapName": "CONS",
             "Elo": 1400.8990594186382,
             "Region": "Oceania",
+            "LastGameUpdated": 378,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1167,6 +1296,7 @@
             "MapName": "KAFE",
             "Elo": 1317.767477392165,
             "Region": "Oceania",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1176,6 +1306,7 @@
             "MapName": "LABS",
             "Elo": 1328.0364447568218,
             "Region": "Oceania",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -1185,6 +1316,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1405.5762132938153,
             "Region": "Oceania",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1194,6 +1326,7 @@
             "MapName": "BANK",
             "Elo": 1335.342500113116,
             "Region": "LATAM",
+            "LastGameUpdated": 17,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -1203,6 +1336,7 @@
             "MapName": "BORDER",
             "Elo": 1354.56924347878,
             "Region": "LATAM",
+            "LastGameUpdated": 695,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -1212,6 +1346,7 @@
             "MapName": "CHALET",
             "Elo": 1351.5931071569994,
             "Region": "LATAM",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1221,6 +1356,7 @@
             "MapName": "CLUB",
             "Elo": 1351.2156327820126,
             "Region": "LATAM",
+            "LastGameUpdated": 36,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -1230,6 +1366,7 @@
             "MapName": "CONS",
             "Elo": 1348.5176099924734,
             "Region": "LATAM",
+            "LastGameUpdated": 694,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -1239,6 +1376,7 @@
             "MapName": "KAFE",
             "Elo": 1338.0974712666123,
             "Region": "LATAM",
+            "LastGameUpdated": 618,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1248,6 +1386,7 @@
             "MapName": "LABS",
             "Elo": 1432.5334407399178,
             "Region": "LATAM",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1257,6 +1396,7 @@
             "MapName": "OREGON",
             "Elo": 1300.9339780104256,
             "Region": "LATAM",
+            "LastGameUpdated": 621,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -1266,6 +1406,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1352.4871951621415,
             "Region": "LATAM",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1275,6 +1416,7 @@
             "MapName": "BANK",
             "Elo": 1357.5,
             "Region": "Asia",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1284,6 +1426,7 @@
             "MapName": "BORDER",
             "Elo": 1351.0786666525573,
             "Region": "Asia",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1293,6 +1436,7 @@
             "MapName": "CHALET",
             "Elo": 1318.3277600318756,
             "Region": "Asia",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1302,6 +1446,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1365.5620078590005,
             "Region": "Asia",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1311,6 +1456,7 @@
             "MapName": "BORDER",
             "Elo": 1503.0967453803214,
             "Region": "Korea",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1320,6 +1466,7 @@
             "MapName": "CHALET",
             "Elo": 1412.9738936465587,
             "Region": "Korea",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1329,6 +1476,7 @@
             "MapName": "CLUB",
             "Elo": 1325.5006447802036,
             "Region": "Korea",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1338,6 +1486,7 @@
             "MapName": "CONS",
             "Elo": 1448.6890094904484,
             "Region": "Korea",
+            "LastGameUpdated": 602,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -1347,6 +1496,7 @@
             "MapName": "KAFE",
             "Elo": 1362.5,
             "Region": "Korea",
+            "LastGameUpdated": 606,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1356,6 +1506,7 @@
             "MapName": "LABS",
             "Elo": 1412.3158808132214,
             "Region": "Korea",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -1365,6 +1516,7 @@
             "MapName": "LAIR",
             "Elo": 1460.6242609372478,
             "Region": "Korea",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1374,6 +1526,7 @@
             "MapName": "OREGON",
             "Elo": 1414.7867334369023,
             "Region": "Korea",
+            "LastGameUpdated": 418,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1383,6 +1536,7 @@
             "MapName": "CHALET",
             "Elo": 1355.0080884828062,
             "Region": "Japan",
+            "LastGameUpdated": 585,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1392,6 +1546,7 @@
             "MapName": "CONS",
             "Elo": 1350.5988840394102,
             "Region": "Japan",
+            "LastGameUpdated": 584,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1401,6 +1556,7 @@
             "MapName": "BANK",
             "Elo": 1349.4984542502411,
             "Region": "Asia",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1410,6 +1566,7 @@
             "MapName": "BORDER",
             "Elo": 1362.9627584637028,
             "Region": "Asia",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1419,6 +1576,7 @@
             "MapName": "CHALET",
             "Elo": 1423.3358589679701,
             "Region": "Asia",
+            "LastGameUpdated": 528,
             "MajorCount": 0,
             "RegionalCount": 7
         },
@@ -1428,6 +1586,7 @@
             "MapName": "CLUB",
             "Elo": 1344.21800894242,
             "Region": "Asia",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -1437,6 +1596,7 @@
             "MapName": "KAFE",
             "Elo": 1352.1903352530933,
             "Region": "Asia",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1446,6 +1606,7 @@
             "MapName": "LABS",
             "Elo": 1359.5714822714888,
             "Region": "Asia",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -1455,6 +1616,7 @@
             "MapName": "OREGON",
             "Elo": 1360.303508616075,
             "Region": "Asia",
+            "LastGameUpdated": 535,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1464,6 +1626,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1351.0786666525573,
             "Region": "Asia",
+            "LastGameUpdated": 43,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1473,6 +1636,7 @@
             "MapName": "BANK",
             "Elo": 1509.1800256534134,
             "Region": "North America",
+            "LastGameUpdated": 689,
             "MajorCount": 2,
             "RegionalCount": 1
         },
@@ -1482,6 +1646,7 @@
             "MapName": "BORDER",
             "Elo": 1511.745052504215,
             "Region": "North America",
+            "LastGameUpdated": 683,
             "MajorCount": 2,
             "RegionalCount": 5
         },
@@ -1491,6 +1656,7 @@
             "MapName": "CHALET",
             "Elo": 1547.6161836758502,
             "Region": "North America",
+            "LastGameUpdated": 10,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -1500,6 +1666,7 @@
             "MapName": "CLUB",
             "Elo": 1522.5642726609833,
             "Region": "North America",
+            "LastGameUpdated": 17,
             "MajorCount": 1,
             "RegionalCount": 6
         },
@@ -1509,6 +1676,7 @@
             "MapName": "CONS",
             "Elo": 1523.5395413544757,
             "Region": "North America",
+            "LastGameUpdated": 23,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -1518,6 +1686,7 @@
             "MapName": "KAFE",
             "Elo": 1570.5631701221557,
             "Region": "North America",
+            "LastGameUpdated": 658,
             "MajorCount": 3,
             "RegionalCount": 1
         },
@@ -1527,6 +1696,7 @@
             "MapName": "LABS",
             "Elo": 1577.4691544424522,
             "Region": "North America",
+            "LastGameUpdated": 26,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -1536,6 +1706,7 @@
             "MapName": "OREGON",
             "Elo": 1596.0326275371667,
             "Region": "North America",
+            "LastGameUpdated": 516,
             "MajorCount": 1,
             "RegionalCount": 0
         },
@@ -1545,6 +1716,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1495.3185320447915,
             "Region": "North America",
+            "LastGameUpdated": 7,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -1554,6 +1726,7 @@
             "MapName": "BANK",
             "Elo": 1452.170538460834,
             "Region": "Brazil",
+            "LastGameUpdated": 15,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -1563,6 +1736,7 @@
             "MapName": "BORDER",
             "Elo": 1472.5608483651633,
             "Region": "Brazil",
+            "LastGameUpdated": 555,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1572,6 +1746,7 @@
             "MapName": "CHALET",
             "Elo": 1457.0350367109686,
             "Region": "Brazil",
+            "LastGameUpdated": 30,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -1581,6 +1756,7 @@
             "MapName": "CONS",
             "Elo": 1512.1615117829826,
             "Region": "Brazil",
+            "LastGameUpdated": 103,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1590,6 +1766,7 @@
             "MapName": "KAFE",
             "Elo": 1455.6344916794678,
             "Region": "Brazil",
+            "LastGameUpdated": 478,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -1599,6 +1776,7 @@
             "MapName": "LABS",
             "Elo": 1478.7009943263413,
             "Region": "Brazil",
+            "LastGameUpdated": 23,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -1608,6 +1786,7 @@
             "MapName": "LAIR",
             "Elo": 1534.5846253788682,
             "Region": "Brazil",
+            "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1617,6 +1796,7 @@
             "MapName": "OREGON",
             "Elo": 1497.6971080201863,
             "Region": "Brazil",
+            "LastGameUpdated": 551,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1626,6 +1806,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1538.1732680350985,
             "Region": "Brazil",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -1635,6 +1816,7 @@
             "MapName": "CHALET",
             "Elo": 1323.2447976840722,
             "Region": "Japan",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1644,6 +1826,7 @@
             "MapName": "CLUB",
             "Elo": 1313.7230746482617,
             "Region": "Japan",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1653,6 +1836,7 @@
             "MapName": "CONS",
             "Elo": 1245.7499427309951,
             "Region": "Japan",
+            "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1662,6 +1846,7 @@
             "MapName": "KAFE",
             "Elo": 1330.6663034647124,
             "Region": "Japan",
+            "LastGameUpdated": 589,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1671,6 +1856,7 @@
             "MapName": "LABS",
             "Elo": 1266.8559751075322,
             "Region": "Japan",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1680,6 +1866,7 @@
             "MapName": "OREGON",
             "Elo": 1331.4122171476108,
             "Region": "Japan",
+            "LastGameUpdated": 178,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1689,6 +1876,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1360,
             "Region": "Japan",
+            "LastGameUpdated": 186,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1698,6 +1886,7 @@
             "MapName": "BANK",
             "Elo": 1284.6215769114112,
             "Region": "MENA",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1707,6 +1896,7 @@
             "MapName": "BORDER",
             "Elo": 1313.5749833443863,
             "Region": "MENA",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1716,6 +1906,7 @@
             "MapName": "CHALET",
             "Elo": 1299.089443793294,
             "Region": "MENA",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1725,6 +1916,7 @@
             "MapName": "CLUB",
             "Elo": 1326.9651028947326,
             "Region": "MENA",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1734,6 +1926,7 @@
             "MapName": "BANK",
             "Elo": 1332.5,
             "Region": "MENA",
+            "LastGameUpdated": 629,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1743,6 +1936,7 @@
             "MapName": "BORDER",
             "Elo": 1334.2830344800652,
             "Region": "MENA",
+            "LastGameUpdated": 630,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1752,6 +1946,7 @@
             "MapName": "BANK",
             "Elo": 1399.9013681113445,
             "Region": "Asia",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1761,6 +1956,7 @@
             "MapName": "BORDER",
             "Elo": 1362.5,
             "Region": "Asia",
+            "LastGameUpdated": 538,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1770,6 +1966,7 @@
             "MapName": "CHALET",
             "Elo": 1468.7104276657676,
             "Region": "Asia",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -1779,6 +1976,7 @@
             "MapName": "CLUB",
             "Elo": 1353.6608205848654,
             "Region": "Asia",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1788,6 +1986,7 @@
             "MapName": "CONS",
             "Elo": 1367.9052389974427,
             "Region": "Asia",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1797,6 +1996,7 @@
             "MapName": "KAFE",
             "Elo": 1412.90133204665,
             "Region": "Asia",
+            "LastGameUpdated": 531,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1806,6 +2006,7 @@
             "MapName": "LABS",
             "Elo": 1372.8596237674553,
             "Region": "Asia",
+            "LastGameUpdated": 533,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1815,6 +2016,7 @@
             "MapName": "OREGON",
             "Elo": 1380.1940434384285,
             "Region": "Asia",
+            "LastGameUpdated": 41,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1824,6 +2026,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1459.772556772565,
             "Region": "Asia",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1833,6 +2036,7 @@
             "MapName": "BORDER",
             "Elo": 1433.8596432300221,
             "Region": "Europe",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1842,6 +2046,7 @@
             "MapName": "CHALET",
             "Elo": 1440.3895399055366,
             "Region": "Europe",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1851,6 +2056,7 @@
             "MapName": "CLUB",
             "Elo": 1501.7405614760123,
             "Region": "Europe",
+            "LastGameUpdated": 567,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1860,6 +2066,7 @@
             "MapName": "CONS",
             "Elo": 1459.0353473191285,
             "Region": "Europe",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1869,6 +2076,7 @@
             "MapName": "KAFE",
             "Elo": 1529.6544254603205,
             "Region": "Europe",
+            "LastGameUpdated": 126,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1878,6 +2086,7 @@
             "MapName": "LABS",
             "Elo": 1490,
             "Region": "Europe",
+            "LastGameUpdated": 138,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1887,6 +2096,7 @@
             "MapName": "OREGON",
             "Elo": 1470.6290811997073,
             "Region": "Europe",
+            "LastGameUpdated": 123,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1896,6 +2106,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1397.8585356459841,
             "Region": "Europe",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1905,6 +2116,7 @@
             "MapName": "BORDER",
             "Elo": 1342.138473077073,
             "Region": "Japan",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1914,6 +2126,7 @@
             "MapName": "CHALET",
             "Elo": 1307.8996748622778,
             "Region": "Japan",
+            "LastGameUpdated": 205,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1923,6 +2136,7 @@
             "MapName": "CLUB",
             "Elo": 1349.1607889285065,
             "Region": "Japan",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1932,6 +2146,7 @@
             "MapName": "CONS",
             "Elo": 1370.091841574156,
             "Region": "Japan",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -1941,6 +2156,7 @@
             "MapName": "KAFE",
             "Elo": 1390,
             "Region": "Japan",
+            "LastGameUpdated": 180,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1950,6 +2166,7 @@
             "MapName": "LABS",
             "Elo": 1286.4436150064216,
             "Region": "Japan",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1959,6 +2176,7 @@
             "MapName": "OREGON",
             "Elo": 1345.4856261135556,
             "Region": "Japan",
+            "LastGameUpdated": 183,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -1968,6 +2186,7 @@
             "MapName": "BANK",
             "Elo": 1384.687661358673,
             "Region": "MENA",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -1977,6 +2196,7 @@
             "MapName": "CHALET",
             "Elo": 1334.449631554942,
             "Region": "MENA",
+            "LastGameUpdated": 280,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1986,6 +2206,7 @@
             "MapName": "CLUB",
             "Elo": 1335.6471999915343,
             "Region": "MENA",
+            "LastGameUpdated": 288,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1995,6 +2216,7 @@
             "MapName": "KAFE",
             "Elo": 1391.8757532202883,
             "Region": "MENA",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2004,6 +2226,7 @@
             "MapName": "LABS",
             "Elo": 1407.1291973135048,
             "Region": "MENA",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2013,6 +2236,7 @@
             "MapName": "OREGON",
             "Elo": 1358.922522191647,
             "Region": "MENA",
+            "LastGameUpdated": 634,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2022,6 +2246,7 @@
             "MapName": "BANK",
             "Elo": 1464.6020447609278,
             "Region": "Europe",
+            "LastGameUpdated": 160,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2031,6 +2256,7 @@
             "MapName": "CHALET",
             "Elo": 1483.9910781018007,
             "Region": "Europe",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -2040,6 +2266,7 @@
             "MapName": "CLUB",
             "Elo": 1502.1793822739971,
             "Region": "Europe",
+            "LastGameUpdated": 572,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2049,6 +2276,7 @@
             "MapName": "CONS",
             "Elo": 1474.4982448970727,
             "Region": "Europe",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2058,6 +2286,7 @@
             "MapName": "LABS",
             "Elo": 1525.7193592083,
             "Region": "Europe",
+            "LastGameUpdated": 147,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2067,6 +2296,7 @@
             "MapName": "LAIR",
             "Elo": 1391.4700639208588,
             "Region": "Europe",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2076,6 +2306,7 @@
             "MapName": "OREGON",
             "Elo": 1479.3740434387878,
             "Region": "Europe",
+            "LastGameUpdated": 161,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2085,6 +2316,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1477.9376539531963,
             "Region": "Europe",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2094,6 +2326,7 @@
             "MapName": "BANK",
             "Elo": 1462.2920238434695,
             "Region": "Korea",
+            "LastGameUpdated": 9,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2103,6 +2336,7 @@
             "MapName": "BORDER",
             "Elo": 1348.1652521362194,
             "Region": "Korea",
+            "LastGameUpdated": 608,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2112,6 +2346,7 @@
             "MapName": "CHALET",
             "Elo": 1359.7600597394621,
             "Region": "Korea",
+            "LastGameUpdated": 6,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2121,6 +2356,7 @@
             "MapName": "CLUB",
             "Elo": 1395.429899739857,
             "Region": "Korea",
+            "LastGameUpdated": 26,
             "MajorCount": 1,
             "RegionalCount": 6
         },
@@ -2130,6 +2366,7 @@
             "MapName": "CONS",
             "Elo": 1370.1242716503093,
             "Region": "Korea",
+            "LastGameUpdated": 18,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -2139,6 +2376,7 @@
             "MapName": "KAFE",
             "Elo": 1369.2448601678157,
             "Region": "Korea",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2148,6 +2386,7 @@
             "MapName": "LAIR",
             "Elo": 1500.810677036642,
             "Region": "Korea",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2157,6 +2396,7 @@
             "MapName": "OREGON",
             "Elo": 1491.3299387583838,
             "Region": "Korea",
+            "LastGameUpdated": 600,
             "MajorCount": 1,
             "RegionalCount": 6
         },
@@ -2166,6 +2406,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1403.5416869808241,
             "Region": "Korea",
+            "LastGameUpdated": 601,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -2175,6 +2416,7 @@
             "MapName": "BANK",
             "Elo": 1526.878280521469,
             "Region": "Brazil",
+            "LastGameUpdated": 16,
             "MajorCount": 1,
             "RegionalCount": 6
         },
@@ -2184,6 +2426,7 @@
             "MapName": "BORDER",
             "Elo": 1604.4257509536992,
             "Region": "Brazil",
+            "LastGameUpdated": 683,
             "MajorCount": 3,
             "RegionalCount": 3
         },
@@ -2193,6 +2436,7 @@
             "MapName": "CHALET",
             "Elo": 1539.7305541138462,
             "Region": "Brazil",
+            "LastGameUpdated": 31,
             "MajorCount": 3,
             "RegionalCount": 4
         },
@@ -2202,6 +2446,7 @@
             "MapName": "CLUB",
             "Elo": 1524.0934241257744,
             "Region": "Brazil",
+            "LastGameUpdated": 22,
             "MajorCount": 2,
             "RegionalCount": 6
         },
@@ -2211,6 +2456,7 @@
             "MapName": "CONS",
             "Elo": 1641.3156363952337,
             "Region": "Brazil",
+            "LastGameUpdated": 489,
             "MajorCount": 1,
             "RegionalCount": 0
         },
@@ -2220,6 +2466,7 @@
             "MapName": "KAFE",
             "Elo": 1465.2627414453423,
             "Region": "Brazil",
+            "LastGameUpdated": 510,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -2229,6 +2476,7 @@
             "MapName": "LABS",
             "Elo": 1508.10001260978,
             "Region": "Brazil",
+            "LastGameUpdated": 7,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -2238,6 +2486,7 @@
             "MapName": "OREGON",
             "Elo": 1462.9382253644474,
             "Region": "Brazil",
+            "LastGameUpdated": 670,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -2247,6 +2496,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1518.7724046634137,
             "Region": "Brazil",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2256,6 +2506,7 @@
             "MapName": "BANK",
             "Elo": 1359.6597482692614,
             "Region": "Asia",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2265,6 +2516,7 @@
             "MapName": "BORDER",
             "Elo": 1371.3282579344743,
             "Region": "Asia",
+            "LastGameUpdated": 541,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2274,6 +2526,7 @@
             "MapName": "CHALET",
             "Elo": 1388.6389481055746,
             "Region": "Asia",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2283,6 +2536,7 @@
             "MapName": "CLUB",
             "Elo": 1439.1476304260825,
             "Region": "Asia",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -2292,6 +2546,7 @@
             "MapName": "CONS",
             "Elo": 1358.1882882594439,
             "Region": "Asia",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -2301,6 +2556,7 @@
             "MapName": "LABS",
             "Elo": 1376.4531566870019,
             "Region": "Asia",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2310,6 +2566,7 @@
             "MapName": "LAIR",
             "Elo": 1439.3919994293303,
             "Region": "Asia",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2319,6 +2576,7 @@
             "MapName": "OREGON",
             "Elo": 1402.5598110157773,
             "Region": "Asia",
+            "LastGameUpdated": 41,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2328,6 +2586,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1414.410768746535,
             "Region": "Asia",
+            "LastGameUpdated": 44,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2337,6 +2596,7 @@
             "MapName": "BANK",
             "Elo": 1536.950696605823,
             "Region": "Brazil",
+            "LastGameUpdated": 687,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -2346,6 +2606,7 @@
             "MapName": "CHALET",
             "Elo": 1544.7049109874588,
             "Region": "Brazil",
+            "LastGameUpdated": 685,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2355,6 +2616,7 @@
             "MapName": "CLUB",
             "Elo": 1546.3087595001625,
             "Region": "Brazil",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2364,6 +2626,7 @@
             "MapName": "CONS",
             "Elo": 1575.5102501676672,
             "Region": "Brazil",
+            "LastGameUpdated": 13,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2373,6 +2636,7 @@
             "MapName": "KAFE",
             "Elo": 1490.0257301615557,
             "Region": "Brazil",
+            "LastGameUpdated": 4,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2382,6 +2646,7 @@
             "MapName": "LABS",
             "Elo": 1506.5764269813653,
             "Region": "Brazil",
+            "LastGameUpdated": 684,
             "MajorCount": 3,
             "RegionalCount": 1
         },
@@ -2391,6 +2656,7 @@
             "MapName": "LAIR",
             "Elo": 1602.4445143597077,
             "Region": "Brazil",
+            "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2400,6 +2666,7 @@
             "MapName": "OREGON",
             "Elo": 1580.024406806889,
             "Region": "Brazil",
+            "LastGameUpdated": 558,
             "MajorCount": 1,
             "RegionalCount": 5
         },
@@ -2409,6 +2676,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1553.2949834231867,
             "Region": "Brazil",
+            "LastGameUpdated": 28,
             "MajorCount": 3,
             "RegionalCount": 4
         },
@@ -2418,6 +2686,7 @@
             "MapName": "BANK",
             "Elo": 1485.862291810945,
             "Region": "Brazil",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2427,6 +2696,7 @@
             "MapName": "BORDER",
             "Elo": 1458.8975455475513,
             "Region": "Brazil",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2436,6 +2706,7 @@
             "MapName": "CHALET",
             "Elo": 1460.8332784237748,
             "Region": "Brazil",
+            "LastGameUpdated": 34,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -2445,6 +2716,7 @@
             "MapName": "CLUB",
             "Elo": 1459.1244105287808,
             "Region": "Brazil",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -2454,6 +2726,7 @@
             "MapName": "KAFE",
             "Elo": 1482.5,
             "Region": "Brazil",
+            "LastGameUpdated": 73,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2463,6 +2736,7 @@
             "MapName": "LABS",
             "Elo": 1487.7978113617348,
             "Region": "Brazil",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2472,6 +2746,7 @@
             "MapName": "OREGON",
             "Elo": 1486.2870111354216,
             "Region": "Brazil",
+            "LastGameUpdated": 558,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2481,6 +2756,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1491.250926528951,
             "Region": "Brazil",
+            "LastGameUpdated": 559,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2490,6 +2766,7 @@
             "MapName": "BANK",
             "Elo": 1518.662743772932,
             "Region": "Europe",
+            "LastGameUpdated": 7,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -2499,6 +2776,7 @@
             "MapName": "CHALET",
             "Elo": 1517.5144293761655,
             "Region": "Europe",
+            "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -2508,6 +2786,7 @@
             "MapName": "CLUB",
             "Elo": 1440.7474543321196,
             "Region": "Europe",
+            "LastGameUpdated": 20,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -2517,6 +2796,7 @@
             "MapName": "CONS",
             "Elo": 1536.756792774764,
             "Region": "Europe",
+            "LastGameUpdated": 3,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -2526,6 +2806,7 @@
             "MapName": "KAFE",
             "Elo": 1518.3132900522198,
             "Region": "Europe",
+            "LastGameUpdated": 139,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2535,6 +2816,7 @@
             "MapName": "LABS",
             "Elo": 1460.8408173150492,
             "Region": "Europe",
+            "LastGameUpdated": 575,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -2544,6 +2826,7 @@
             "MapName": "LAIR",
             "Elo": 1533.8284257996438,
             "Region": "Europe",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2553,6 +2836,7 @@
             "MapName": "OREGON",
             "Elo": 1498.1585376529304,
             "Region": "Europe",
+            "LastGameUpdated": 161,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2562,6 +2846,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1452.9268538782403,
             "Region": "Europe",
+            "LastGameUpdated": 11,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -2571,6 +2856,7 @@
             "MapName": "BANK",
             "Elo": 1418.9773019917536,
             "Region": "Oceania",
+            "LastGameUpdated": 6,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -2580,6 +2866,7 @@
             "MapName": "BORDER",
             "Elo": 1370.2079156847512,
             "Region": "Oceania",
+            "LastGameUpdated": 9,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2589,6 +2876,7 @@
             "MapName": "CHALET",
             "Elo": 1365.6995090680837,
             "Region": "Oceania",
+            "LastGameUpdated": 700,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -2598,6 +2886,7 @@
             "MapName": "CLUB",
             "Elo": 1403.6164829821062,
             "Region": "Oceania",
+            "LastGameUpdated": 501,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -2607,6 +2896,7 @@
             "MapName": "CONS",
             "Elo": 1511.8469908213115,
             "Region": "Oceania",
+            "LastGameUpdated": 22,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2616,6 +2906,7 @@
             "MapName": "KAFE",
             "Elo": 1426.8231062697184,
             "Region": "Oceania",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2625,6 +2916,7 @@
             "MapName": "LABS",
             "Elo": 1437.4048891184223,
             "Region": "Oceania",
+            "LastGameUpdated": 16,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2634,6 +2926,7 @@
             "MapName": "BANK",
             "Elo": 1464.1508050481154,
             "Region": "MENA",
+            "LastGameUpdated": 639,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -2643,6 +2936,7 @@
             "MapName": "CHALET",
             "Elo": 1403.690766919658,
             "Region": "MENA",
+            "LastGameUpdated": 18,
             "MajorCount": 3,
             "RegionalCount": 5
         },
@@ -2652,6 +2946,7 @@
             "MapName": "CLUB",
             "Elo": 1362.5566463268024,
             "Region": "MENA",
+            "LastGameUpdated": 637,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -2661,6 +2956,7 @@
             "MapName": "CONS",
             "Elo": 1337.9553932842223,
             "Region": "MENA",
+            "LastGameUpdated": 3,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -2670,6 +2966,7 @@
             "MapName": "KAFE",
             "Elo": 1367.5,
             "Region": "MENA",
+            "LastGameUpdated": 636,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2679,6 +2976,7 @@
             "MapName": "LABS",
             "Elo": 1427.8444774685436,
             "Region": "MENA",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2688,6 +2986,7 @@
             "MapName": "OREGON",
             "Elo": 1396.922302622175,
             "Region": "MENA",
+            "LastGameUpdated": 640,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2697,6 +2996,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1346.7757912712989,
             "Region": "MENA",
+            "LastGameUpdated": 679,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -2706,6 +3006,7 @@
             "MapName": "BANK",
             "Elo": 1375.6053755498754,
             "Region": "Asia",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2715,6 +3016,7 @@
             "MapName": "BORDER",
             "Elo": 1348.0393333262787,
             "Region": "Asia",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2724,6 +3026,7 @@
             "MapName": "CHALET",
             "Elo": 1335.8994409071363,
             "Region": "Asia",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2733,6 +3036,7 @@
             "MapName": "CLUB",
             "Elo": 1323.1534643010998,
             "Region": "Asia",
+            "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2742,6 +3046,7 @@
             "MapName": "CONS",
             "Elo": 1229.7855183717372,
             "Region": "Asia",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2751,6 +3056,7 @@
             "MapName": "KAFE",
             "Elo": 1271.76314560972,
             "Region": "Asia",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2760,6 +3066,7 @@
             "MapName": "LABS",
             "Elo": 1252.4419159896834,
             "Region": "Asia",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2769,6 +3076,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1357.975265790433,
             "Region": "Asia",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2778,6 +3086,7 @@
             "MapName": "CLUB",
             "Elo": 1286.1991514064136,
             "Region": "LATAM",
+            "LastGameUpdated": 250,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2787,6 +3096,7 @@
             "MapName": "CONS",
             "Elo": 1302.5,
             "Region": "LATAM",
+            "LastGameUpdated": 239,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2796,6 +3106,7 @@
             "MapName": "KAFE",
             "Elo": 1293.2550666567902,
             "Region": "LATAM",
+            "LastGameUpdated": 230,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2805,6 +3116,7 @@
             "MapName": "OREGON",
             "Elo": 1292.5841686428228,
             "Region": "LATAM",
+            "LastGameUpdated": 251,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2814,6 +3126,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1276.5917902813762,
             "Region": "LATAM",
+            "LastGameUpdated": 244,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2823,6 +3136,7 @@
             "MapName": "BANK",
             "Elo": 1405.531873888204,
             "Region": "Japan",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2832,6 +3146,7 @@
             "MapName": "BORDER",
             "Elo": 1330.5433336619005,
             "Region": "Japan",
+            "LastGameUpdated": 587,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2841,6 +3156,7 @@
             "MapName": "CLUB",
             "Elo": 1358.8859144312007,
             "Region": "Japan",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -2850,6 +3166,7 @@
             "MapName": "CONS",
             "Elo": 1366.0266204990808,
             "Region": "Japan",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -2859,6 +3176,7 @@
             "MapName": "KAFE",
             "Elo": 1367.5718675413598,
             "Region": "Japan",
+            "LastGameUpdated": 593,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2868,6 +3186,7 @@
             "MapName": "LABS",
             "Elo": 1383.5789513447005,
             "Region": "Japan",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -2877,6 +3196,7 @@
             "MapName": "OREGON",
             "Elo": 1384.666220523285,
             "Region": "Japan",
+            "LastGameUpdated": 203,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -2886,6 +3206,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1373.3785209173386,
             "Region": "Japan",
+            "LastGameUpdated": 594,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -2895,6 +3216,7 @@
             "MapName": "BANK",
             "Elo": 1447.1792136409074,
             "Region": "Europe",
+            "LastGameUpdated": 687,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -2904,6 +3226,7 @@
             "MapName": "BORDER",
             "Elo": 1513.5553895291775,
             "Region": "Europe",
+            "LastGameUpdated": 676,
             "MajorCount": 1,
             "RegionalCount": 5
         },
@@ -2913,6 +3236,7 @@
             "MapName": "CHALET",
             "Elo": 1531.3593450250137,
             "Region": "Europe",
+            "LastGameUpdated": 30,
             "MajorCount": 2,
             "RegionalCount": 6
         },
@@ -2922,6 +3246,7 @@
             "MapName": "CLUB",
             "Elo": 1532.8235499642944,
             "Region": "Europe",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 8
         },
@@ -2931,6 +3256,7 @@
             "MapName": "CONS",
             "Elo": 1506.2187214181827,
             "Region": "Europe",
+            "LastGameUpdated": 17,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -2940,6 +3266,7 @@
             "MapName": "KAFE",
             "Elo": 1511.363088042924,
             "Region": "Europe",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2949,6 +3276,7 @@
             "MapName": "LABS",
             "Elo": 1478.1925400733132,
             "Region": "Europe",
+            "LastGameUpdated": 1,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -2958,6 +3286,7 @@
             "MapName": "LAIR",
             "Elo": 1540.0128151191595,
             "Region": "Europe",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2967,6 +3296,7 @@
             "MapName": "OREGON",
             "Elo": 1477.1917192031297,
             "Region": "Europe",
+            "LastGameUpdated": 482,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -2976,6 +3306,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1510.8133102524614,
             "Region": "Europe",
+            "LastGameUpdated": 686,
             "MajorCount": 2,
             "RegionalCount": 0
         },
@@ -2985,6 +3316,7 @@
             "MapName": "BANK",
             "Elo": 1392.5,
             "Region": "Oceania",
+            "LastGameUpdated": 367,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2994,6 +3326,7 @@
             "MapName": "CLUB",
             "Elo": 1322.0538194821997,
             "Region": "Oceania",
+            "LastGameUpdated": 363,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3003,6 +3336,7 @@
             "MapName": "OREGON",
             "Elo": 1360,
             "Region": "Oceania",
+            "LastGameUpdated": 371,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3012,6 +3346,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1340.8807136795904,
             "Region": "Oceania",
+            "LastGameUpdated": 355,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3021,6 +3356,7 @@
             "MapName": "BANK",
             "Elo": 1344.7586106421843,
             "Region": "LATAM",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3030,6 +3366,7 @@
             "MapName": "CHALET",
             "Elo": 1472.1717064440904,
             "Region": "LATAM",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3039,6 +3376,7 @@
             "MapName": "CLUB",
             "Elo": 1385.644661674365,
             "Region": "LATAM",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -3048,6 +3386,7 @@
             "MapName": "KAFE",
             "Elo": 1425.0054781855163,
             "Region": "LATAM",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3057,6 +3396,7 @@
             "MapName": "LABS",
             "Elo": 1452.0355377222204,
             "Region": "LATAM",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3066,6 +3406,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1390.9560279277232,
             "Region": "LATAM",
+            "LastGameUpdated": 245,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3075,6 +3416,7 @@
             "MapName": "BORDER",
             "Elo": 1386.9606666737213,
             "Region": "Asia",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3084,6 +3426,7 @@
             "MapName": "CHALET",
             "Elo": 1300.9070985941644,
             "Region": "Asia",
+            "LastGameUpdated": 528,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3093,6 +3436,7 @@
             "MapName": "CLUB",
             "Elo": 1329.2122835580458,
             "Region": "Asia",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3102,6 +3446,7 @@
             "MapName": "LABS",
             "Elo": 1353.8137773582132,
             "Region": "Asia",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3111,6 +3456,7 @@
             "MapName": "LAIR",
             "Elo": 1205.4071381251756,
             "Region": "Asia",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3120,6 +3466,7 @@
             "MapName": "OREGON",
             "Elo": 1316.2541898730362,
             "Region": "Asia",
+            "LastGameUpdated": 527,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3129,6 +3476,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1336.1896224779578,
             "Region": "Asia",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3138,6 +3486,7 @@
             "MapName": "BANK",
             "Elo": 1333.9992772374078,
             "Region": "Japan",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3147,6 +3496,7 @@
             "MapName": "BORDER",
             "Elo": 1373.5062697362293,
             "Region": "Japan",
+            "LastGameUpdated": 193,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3156,6 +3506,7 @@
             "MapName": "CHALET",
             "Elo": 1426.1759127156372,
             "Region": "Japan",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3165,6 +3516,7 @@
             "MapName": "CLUB",
             "Elo": 1354.767554365051,
             "Region": "Japan",
+            "LastGameUpdated": 200,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3174,6 +3526,7 @@
             "MapName": "CONS",
             "Elo": 1413.3304730672596,
             "Region": "Japan",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3183,6 +3536,7 @@
             "MapName": "KAFE",
             "Elo": 1359.214999364751,
             "Region": "Japan",
+            "LastGameUpdated": 596,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3192,6 +3546,7 @@
             "MapName": "OREGON",
             "Elo": 1430.1240809787541,
             "Region": "Japan",
+            "LastGameUpdated": 197,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3201,6 +3556,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1408.4202703410924,
             "Region": "Japan",
+            "LastGameUpdated": 198,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3210,6 +3566,7 @@
             "MapName": "BANK",
             "Elo": 1468.29478680037,
             "Region": "Brazil",
+            "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -3219,6 +3576,7 @@
             "MapName": "CHALET",
             "Elo": 1513.8418930057596,
             "Region": "Brazil",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3228,6 +3586,7 @@
             "MapName": "CLUB",
             "Elo": 1510.0843519101882,
             "Region": "Brazil",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3237,6 +3596,7 @@
             "MapName": "CONS",
             "Elo": 1516.6635402267427,
             "Region": "Brazil",
+            "LastGameUpdated": 106,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3246,6 +3606,7 @@
             "MapName": "KAFE",
             "Elo": 1498.035301221767,
             "Region": "Brazil",
+            "LastGameUpdated": 107,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3255,6 +3616,7 @@
             "MapName": "LABS",
             "Elo": 1476.4889563270754,
             "Region": "Brazil",
+            "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3264,6 +3626,7 @@
             "MapName": "LAIR",
             "Elo": 1481.7993642641181,
             "Region": "Brazil",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3273,6 +3636,7 @@
             "MapName": "OREGON",
             "Elo": 1506.3126509776275,
             "Region": "Brazil",
+            "LastGameUpdated": 92,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3282,6 +3646,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1497.5411236321327,
             "Region": "Brazil",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3291,6 +3656,7 @@
             "MapName": "BANK",
             "Elo": 1486.5479881950391,
             "Region": "North America",
+            "LastGameUpdated": 645,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3300,6 +3666,7 @@
             "MapName": "BORDER",
             "Elo": 1471.812453934324,
             "Region": "North America",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3309,6 +3676,7 @@
             "MapName": "CHALET",
             "Elo": 1480,
             "Region": "North America",
+            "LastGameUpdated": 311,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3318,6 +3686,7 @@
             "MapName": "CLUB",
             "Elo": 1478.2579992756275,
             "Region": "North America",
+            "LastGameUpdated": 702,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -3327,6 +3696,7 @@
             "MapName": "CONS",
             "Elo": 1500.0231419890733,
             "Region": "North America",
+            "LastGameUpdated": 8,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -3336,6 +3706,7 @@
             "MapName": "KAFE",
             "Elo": 1480.2004212611196,
             "Region": "North America",
+            "LastGameUpdated": 20,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -3345,6 +3716,7 @@
             "MapName": "LABS",
             "Elo": 1521.6859320526246,
             "Region": "North America",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3354,6 +3726,7 @@
             "MapName": "OREGON",
             "Elo": 1518.5533785446955,
             "Region": "North America",
+            "LastGameUpdated": 319,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3363,6 +3736,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1528.0786008026842,
             "Region": "North America",
+            "LastGameUpdated": 27,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -3372,6 +3746,7 @@
             "MapName": "BANK",
             "Elo": 1487.5,
             "Region": "North America",
+            "LastGameUpdated": 306,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3381,6 +3756,7 @@
             "MapName": "CHALET",
             "Elo": 1462.678836730972,
             "Region": "North America",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3390,6 +3766,7 @@
             "MapName": "CLUB",
             "Elo": 1473.3218226250924,
             "Region": "North America",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3399,6 +3776,7 @@
             "MapName": "CONS",
             "Elo": 1450.8256301468318,
             "Region": "North America",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3408,6 +3786,7 @@
             "MapName": "LABS",
             "Elo": 1439.0360598603115,
             "Region": "North America",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3417,6 +3796,7 @@
             "MapName": "LAIR",
             "Elo": 1369.3178730697164,
             "Region": "North America",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3426,6 +3806,7 @@
             "MapName": "OREGON",
             "Elo": 1469.9246658051952,
             "Region": "North America",
+            "LastGameUpdated": 313,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3435,6 +3816,7 @@
             "MapName": "BANK",
             "Elo": 1283.648339658422,
             "Region": "LATAM",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3444,6 +3826,7 @@
             "MapName": "CHALET",
             "Elo": 1298.6942949310915,
             "Region": "LATAM",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3453,6 +3836,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1255.642266185637,
             "Region": "LATAM",
+            "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3462,6 +3846,7 @@
             "MapName": "BANK",
             "Elo": 1465.614612834484,
             "Region": "Brazil",
+            "LastGameUpdated": 15,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -3471,6 +3856,7 @@
             "MapName": "BORDER",
             "Elo": 1481.0965257524524,
             "Region": "Brazil",
+            "LastGameUpdated": 32,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -3480,6 +3866,7 @@
             "MapName": "CHALET",
             "Elo": 1587.5072727026861,
             "Region": "Brazil",
+            "LastGameUpdated": 18,
             "MajorCount": 4,
             "RegionalCount": 4
         },
@@ -3489,6 +3876,7 @@
             "MapName": "CLUB",
             "Elo": 1599.917172084838,
             "Region": "Brazil",
+            "LastGameUpdated": 22,
             "MajorCount": 3,
             "RegionalCount": 4
         },
@@ -3498,6 +3886,7 @@
             "MapName": "CONS",
             "Elo": 1588.4708133237243,
             "Region": "Brazil",
+            "LastGameUpdated": 699,
             "MajorCount": 6,
             "RegionalCount": 1
         },
@@ -3507,6 +3896,7 @@
             "MapName": "KAFE",
             "Elo": 1579.5312394529485,
             "Region": "Brazil",
+            "LastGameUpdated": 658,
             "MajorCount": 3,
             "RegionalCount": 1
         },
@@ -3516,6 +3906,7 @@
             "MapName": "LABS",
             "Elo": 1486.5272971548702,
             "Region": "Brazil",
+            "LastGameUpdated": 26,
             "MajorCount": 5,
             "RegionalCount": 1
         },
@@ -3525,6 +3916,7 @@
             "MapName": "OREGON",
             "Elo": 1490.8694915684798,
             "Region": "Brazil",
+            "LastGameUpdated": 543,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -3534,6 +3926,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1446.8131922149605,
             "Region": "Brazil",
+            "LastGameUpdated": 517,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -3543,6 +3936,7 @@
             "MapName": "BANK",
             "Elo": 1496.109105538884,
             "Region": "North America",
+            "LastGameUpdated": 21,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -3552,6 +3946,7 @@
             "MapName": "BORDER",
             "Elo": 1486.4458062826375,
             "Region": "North America",
+            "LastGameUpdated": 646,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3561,6 +3956,7 @@
             "MapName": "CHALET",
             "Elo": 1478.4318600442275,
             "Region": "North America",
+            "LastGameUpdated": 509,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -3570,6 +3966,7 @@
             "MapName": "CLUB",
             "Elo": 1538.4364031061766,
             "Region": "North America",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -3579,6 +3976,7 @@
             "MapName": "CONS",
             "Elo": 1529.7749662241772,
             "Region": "North America",
+            "LastGameUpdated": 333,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3588,6 +3986,7 @@
             "MapName": "KAFE",
             "Elo": 1486.405708957738,
             "Region": "North America",
+            "LastGameUpdated": 647,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -3597,6 +3996,7 @@
             "MapName": "LABS",
             "Elo": 1499.2409072016771,
             "Region": "North America",
+            "LastGameUpdated": 14,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -3606,6 +4006,7 @@
             "MapName": "LAIR",
             "Elo": 1563.5541927321613,
             "Region": "North America",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3615,6 +4016,7 @@
             "MapName": "OREGON",
             "Elo": 1553.1814811223094,
             "Region": "North America",
+            "LastGameUpdated": 497,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -3624,6 +4026,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1503.0394356511829,
             "Region": "North America",
+            "LastGameUpdated": 308,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3633,6 +4036,7 @@
             "MapName": "BANK",
             "Elo": 1279.1623416036073,
             "Region": "LATAM",
+            "LastGameUpdated": 241,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3642,6 +4046,7 @@
             "MapName": "CHALET",
             "Elo": 1326.2070929259291,
             "Region": "LATAM",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3651,6 +4056,7 @@
             "MapName": "CLUB",
             "Elo": 1346.4285380951449,
             "Region": "LATAM",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3660,6 +4066,7 @@
             "MapName": "KAFE",
             "Elo": 1305.4940762329365,
             "Region": "LATAM",
+            "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3669,6 +4076,7 @@
             "MapName": "LABS",
             "Elo": 1272.1637290487772,
             "Region": "LATAM",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3678,6 +4086,7 @@
             "MapName": "OREGON",
             "Elo": 1337.5,
             "Region": "LATAM",
+            "LastGameUpdated": 234,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3687,6 +4096,7 @@
             "MapName": "BANK",
             "Elo": 1514.0571389527902,
             "Region": "Brazil",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3696,6 +4106,7 @@
             "MapName": "BORDER",
             "Elo": 1473.4180058397712,
             "Region": "Brazil",
+            "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3705,6 +4116,7 @@
             "MapName": "CHALET",
             "Elo": 1490.227857225775,
             "Region": "Brazil",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -3714,6 +4126,7 @@
             "MapName": "CONS",
             "Elo": 1416.1763731252618,
             "Region": "Brazil",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3723,6 +4136,7 @@
             "MapName": "KAFE",
             "Elo": 1515,
             "Region": "Brazil",
+            "LastGameUpdated": 54,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3732,6 +4146,7 @@
             "MapName": "OREGON",
             "Elo": 1459.848241356514,
             "Region": "Brazil",
+            "LastGameUpdated": 82,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3741,6 +4156,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1482.5,
             "Region": "Brazil",
+            "LastGameUpdated": 67,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3750,6 +4166,7 @@
             "MapName": "BANK",
             "Elo": 1386.540040286715,
             "Region": "Korea",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3759,6 +4176,7 @@
             "MapName": "CLUB",
             "Elo": 1318.7125479938318,
             "Region": "Korea",
+            "LastGameUpdated": 416,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3768,6 +4186,7 @@
             "MapName": "CONS",
             "Elo": 1347.6076868746989,
             "Region": "Korea",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3777,6 +4196,7 @@
             "MapName": "KAFE",
             "Elo": 1329.140214460398,
             "Region": "Korea",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3786,6 +4206,7 @@
             "MapName": "LABS",
             "Elo": 1384.2937818192306,
             "Region": "Korea",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3795,6 +4216,7 @@
             "MapName": "OREGON",
             "Elo": 1346.384085361245,
             "Region": "Korea",
+            "LastGameUpdated": 605,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3804,6 +4226,7 @@
             "MapName": "BANK",
             "Elo": 1195.825439062356,
             "Region": "LATAM",
+            "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3813,6 +4236,7 @@
             "MapName": "CHALET",
             "Elo": 1228.2358650198787,
             "Region": "LATAM",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 6
         },
@@ -3822,6 +4246,7 @@
             "MapName": "CLUB",
             "Elo": 1300.7117259594145,
             "Region": "LATAM",
+            "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3831,6 +4256,7 @@
             "MapName": "CONS",
             "Elo": 1166.8064880855468,
             "Region": "LATAM",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3840,6 +4266,7 @@
             "MapName": "LABS",
             "Elo": 1300,
             "Region": "LATAM",
+            "LastGameUpdated": 208,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3849,6 +4276,7 @@
             "MapName": "OREGON",
             "Elo": 1317.903040658201,
             "Region": "LATAM",
+            "LastGameUpdated": 247,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3858,6 +4286,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1317.9316676564938,
             "Region": "LATAM",
+            "LastGameUpdated": 237,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3867,6 +4296,7 @@
             "MapName": "BANK",
             "Elo": 1484.872768793231,
             "Region": "Brazil",
+            "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3876,6 +4306,7 @@
             "MapName": "BORDER",
             "Elo": 1534.1804359303792,
             "Region": "Brazil",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3885,6 +4316,7 @@
             "MapName": "CHALET",
             "Elo": 1469.407260332828,
             "Region": "Brazil",
+            "LastGameUpdated": 553,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3894,6 +4326,7 @@
             "MapName": "CLUB",
             "Elo": 1483.593640655598,
             "Region": "Brazil",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -3903,6 +4336,7 @@
             "MapName": "CONS",
             "Elo": 1499.6903669849282,
             "Region": "Brazil",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3912,6 +4346,7 @@
             "MapName": "KAFE",
             "Elo": 1479.9804446054827,
             "Region": "Brazil",
+            "LastGameUpdated": 554,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3921,6 +4356,7 @@
             "MapName": "LAIR",
             "Elo": 1425.134204054834,
             "Region": "Brazil",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3930,6 +4366,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1488.0966733111554,
             "Region": "Brazil",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3939,6 +4376,7 @@
             "MapName": "BANK",
             "Elo": 1307.5,
             "Region": "LATAM",
+            "LastGameUpdated": 224,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3948,6 +4386,7 @@
             "MapName": "CHALET",
             "Elo": 1340,
             "Region": "LATAM",
+            "LastGameUpdated": 263,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3957,6 +4396,7 @@
             "MapName": "CLUB",
             "Elo": 1305.8776779102723,
             "Region": "LATAM",
+            "LastGameUpdated": 260,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3966,6 +4406,7 @@
             "MapName": "CONS",
             "Elo": 1294.805569912029,
             "Region": "LATAM",
+            "LastGameUpdated": 614,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3975,6 +4416,7 @@
             "MapName": "OREGON",
             "Elo": 1303.6389910548464,
             "Region": "LATAM",
+            "LastGameUpdated": 613,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -3984,6 +4426,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1353.4944568645765,
             "Region": "LATAM",
+            "LastGameUpdated": 254,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -3993,6 +4436,7 @@
             "MapName": "BANK",
             "Elo": 1430.3350538192776,
             "Region": "Asia",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -4002,6 +4446,7 @@
             "MapName": "CHALET",
             "Elo": 1401.049428922238,
             "Region": "Asia",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -4011,6 +4456,7 @@
             "MapName": "CLUB",
             "Elo": 1388.3755583238583,
             "Region": "Asia",
+            "LastGameUpdated": 532,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -4020,6 +4466,7 @@
             "MapName": "KAFE",
             "Elo": 1359.9083327002568,
             "Region": "Asia",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4029,6 +4476,7 @@
             "MapName": "LABS",
             "Elo": 1395.514275388139,
             "Region": "Asia",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4038,6 +4486,7 @@
             "MapName": "OREGON",
             "Elo": 1400.067152568194,
             "Region": "Asia",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4047,6 +4496,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1411.1010380967539,
             "Region": "Asia",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4056,6 +4506,7 @@
             "MapName": "BANK",
             "Elo": 1350,
             "Region": "Oceania",
+            "LastGameUpdated": 385,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4065,6 +4516,7 @@
             "MapName": "BORDER",
             "Elo": 1357.5,
             "Region": "Oceania",
+            "LastGameUpdated": 354,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4074,6 +4526,7 @@
             "MapName": "CHALET",
             "Elo": 1377.6081086186136,
             "Region": "Oceania",
+            "LastGameUpdated": 384,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4083,6 +4536,7 @@
             "MapName": "CLUB",
             "Elo": 1372.7174069144999,
             "Region": "Oceania",
+            "LastGameUpdated": 379,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4092,6 +4546,7 @@
             "MapName": "CONS",
             "Elo": 1376.6397560100058,
             "Region": "Oceania",
+            "LastGameUpdated": 389,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4101,6 +4556,7 @@
             "MapName": "KAFE",
             "Elo": 1357.5,
             "Region": "Oceania",
+            "LastGameUpdated": 383,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4110,6 +4566,7 @@
             "MapName": "LABS",
             "Elo": 1376.6534836694284,
             "Region": "Oceania",
+            "LastGameUpdated": 380,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4119,6 +4576,7 @@
             "MapName": "OREGON",
             "Elo": 1407.28419223751,
             "Region": "Oceania",
+            "LastGameUpdated": 388,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4128,6 +4586,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1392.5,
             "Region": "Oceania",
+            "LastGameUpdated": 346,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4137,6 +4596,7 @@
             "MapName": "BORDER",
             "Elo": 1366.6192863204096,
             "Region": "MENA",
+            "LastGameUpdated": 274,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4146,6 +4606,7 @@
             "MapName": "CLUB",
             "Elo": 1359.365412646283,
             "Region": "MENA",
+            "LastGameUpdated": 289,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4155,6 +4616,7 @@
             "MapName": "LABS",
             "Elo": 1325.0719545423126,
             "Region": "MENA",
+            "LastGameUpdated": 284,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4164,6 +4626,7 @@
             "MapName": "OREGON",
             "Elo": 1353.0394356511829,
             "Region": "MENA",
+            "LastGameUpdated": 290,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4173,6 +4636,7 @@
             "MapName": "BANK",
             "Elo": 1332.5,
             "Region": "MENA",
+            "LastGameUpdated": 628,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4182,6 +4646,7 @@
             "MapName": "BORDER",
             "Elo": 1395.3956772345177,
             "Region": "MENA",
+            "LastGameUpdated": 626,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4191,6 +4656,7 @@
             "MapName": "CHALET",
             "Elo": 1361.9115391592059,
             "Region": "MENA",
+            "LastGameUpdated": 287,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4200,6 +4666,7 @@
             "MapName": "CLUB",
             "Elo": 1337.5,
             "Region": "MENA",
+            "LastGameUpdated": 627,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4209,6 +4676,7 @@
             "MapName": "KAFE",
             "Elo": 1385.431667656494,
             "Region": "MENA",
+            "LastGameUpdated": 291,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4218,6 +4686,7 @@
             "MapName": "OREGON",
             "Elo": 1362.5,
             "Region": "MENA",
+            "LastGameUpdated": 278,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4227,6 +4696,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1337.5,
             "Region": "MENA",
+            "LastGameUpdated": 283,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4236,6 +4706,7 @@
             "MapName": "BANK",
             "Elo": 1268.6500278713954,
             "Region": "Korea",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4245,6 +4716,7 @@
             "MapName": "CHALET",
             "Elo": 1300.4060328261864,
             "Region": "Korea",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -4254,6 +4726,7 @@
             "MapName": "CLUB",
             "Elo": 1366.403693626791,
             "Region": "Korea",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4263,6 +4736,7 @@
             "MapName": "CONS",
             "Elo": 1339.094341207681,
             "Region": "Korea",
+            "LastGameUpdated": 602,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4272,6 +4746,7 @@
             "MapName": "KAFE",
             "Elo": 1385,
             "Region": "Korea",
+            "LastGameUpdated": 414,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4281,6 +4756,7 @@
             "MapName": "LABS",
             "Elo": 1312.7577647444637,
             "Region": "Korea",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -4290,6 +4766,7 @@
             "MapName": "OREGON",
             "Elo": 1370.2872252416432,
             "Region": "Korea",
+            "LastGameUpdated": 424,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4299,6 +4776,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1411.4934700804681,
             "Region": "Korea",
+            "LastGameUpdated": 420,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4308,6 +4786,7 @@
             "MapName": "BANK",
             "Elo": 1293.2192475349107,
             "Region": "LATAM",
+            "LastGameUpdated": 255,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4317,6 +4796,7 @@
             "MapName": "BORDER",
             "Elo": 1280.7193592083,
             "Region": "LATAM",
+            "LastGameUpdated": 264,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4326,6 +4806,7 @@
             "MapName": "CLUB",
             "Elo": 1301.8985128636657,
             "Region": "LATAM",
+            "LastGameUpdated": 260,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4335,6 +4816,7 @@
             "MapName": "KAFE",
             "Elo": 1290.8807136795904,
             "Region": "LATAM",
+            "LastGameUpdated": 226,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4344,6 +4826,7 @@
             "MapName": "OREGON",
             "Elo": 1311.6916271864134,
             "Region": "LATAM",
+            "LastGameUpdated": 212,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4353,6 +4836,7 @@
             "MapName": "CLUB",
             "Elo": 1428.4006657768778,
             "Region": "Oceania",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4362,6 +4846,7 @@
             "MapName": "CONS",
             "Elo": 1406.28777445544,
             "Region": "Oceania",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4371,6 +4856,7 @@
             "MapName": "LABS",
             "Elo": 1354.8133569213794,
             "Region": "Oceania",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4380,6 +4866,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1380.082787521179,
             "Region": "Oceania",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4389,6 +4876,7 @@
             "MapName": "BANK",
             "Elo": 1465.8807136795904,
             "Region": "North America",
+            "LastGameUpdated": 342,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4398,6 +4886,7 @@
             "MapName": "BORDER",
             "Elo": 1484.6783283566192,
             "Region": "North America",
+            "LastGameUpdated": 650,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4407,6 +4896,7 @@
             "MapName": "CHALET",
             "Elo": 1518.1974984148867,
             "Region": "North America",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4416,6 +4906,7 @@
             "MapName": "CLUB",
             "Elo": 1500.014872290982,
             "Region": "North America",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -4425,6 +4916,7 @@
             "MapName": "CONS",
             "Elo": 1464.576576704924,
             "Region": "North America",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4434,6 +4926,7 @@
             "MapName": "KAFE",
             "Elo": 1487.5,
             "Region": "North America",
+            "LastGameUpdated": 337,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4443,6 +4936,7 @@
             "MapName": "LABS",
             "Elo": 1453.7047625876075,
             "Region": "North America",
+            "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4452,6 +4946,7 @@
             "MapName": "LAIR",
             "Elo": 1395.0680174117056,
             "Region": "North America",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4461,6 +4956,7 @@
             "MapName": "OREGON",
             "Elo": 1531.7449333432098,
             "Region": "North America",
+            "LastGameUpdated": 298,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4470,6 +4966,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1489.5148046967395,
             "Region": "North America",
+            "LastGameUpdated": 649,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4479,6 +4976,7 @@
             "MapName": "BANK",
             "Elo": 1295.8116026719408,
             "Region": "Oceania",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4488,6 +4986,7 @@
             "MapName": "BORDER",
             "Elo": 1332.898022060819,
             "Region": "Oceania",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4497,6 +4996,7 @@
             "MapName": "CLUB",
             "Elo": 1298.2957269731598,
             "Region": "Oceania",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4506,6 +5006,7 @@
             "MapName": "KAFE",
             "Elo": 1271.3389782137679,
             "Region": "Oceania",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4515,6 +5016,7 @@
             "MapName": "BORDER",
             "Elo": 1402.4091303652594,
             "Region": "Oceania",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4524,6 +5026,7 @@
             "MapName": "CHALET",
             "Elo": 1354.0398177249,
             "Region": "Oceania",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4533,6 +5036,7 @@
             "MapName": "LABS",
             "Elo": 1392.1326615033668,
             "Region": "Oceania",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4542,6 +5046,7 @@
             "MapName": "BANK",
             "Elo": 1352.5,
             "Region": "Asia",
+            "LastGameUpdated": 529,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4551,6 +5056,7 @@
             "MapName": "CLUB",
             "Elo": 1362.5,
             "Region": "Asia",
+            "LastGameUpdated": 530,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4560,6 +5066,7 @@
             "MapName": "BANK",
             "Elo": 1529.8299504350282,
             "Region": "Korea",
+            "LastGameUpdated": 609,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -4569,6 +5076,7 @@
             "MapName": "BORDER",
             "Elo": 1478.0169385305007,
             "Region": "Korea",
+            "LastGameUpdated": 608,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -4578,6 +5086,7 @@
             "MapName": "CHALET",
             "Elo": 1427.8596032970995,
             "Region": "Korea",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4587,6 +5096,7 @@
             "MapName": "CLUB",
             "Elo": 1462.6596100810525,
             "Region": "Korea",
+            "LastGameUpdated": 26,
             "MajorCount": 1,
             "RegionalCount": 9
         },
@@ -4596,6 +5106,7 @@
             "MapName": "CONS",
             "Elo": 1344.3444689314133,
             "Region": "Korea",
+            "LastGameUpdated": 1,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -4605,6 +5116,7 @@
             "MapName": "LABS",
             "Elo": 1417.4239803903831,
             "Region": "Korea",
+            "LastGameUpdated": 394,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4614,6 +5126,7 @@
             "MapName": "LAIR",
             "Elo": 1513.3055977399342,
             "Region": "Korea",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4623,6 +5136,7 @@
             "MapName": "OREGON",
             "Elo": 1406.1523132392056,
             "Region": "Korea",
+            "LastGameUpdated": 605,
             "MajorCount": 3,
             "RegionalCount": 3
         },
@@ -4632,6 +5146,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1363.291282108472,
             "Region": "Korea",
+            "LastGameUpdated": 696,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -4641,6 +5156,7 @@
             "MapName": "BORDER",
             "Elo": 1315.8807136795904,
             "Region": "MENA",
+            "LastGameUpdated": 274,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4650,6 +5166,7 @@
             "MapName": "CLUB",
             "Elo": 1335,
             "Region": "MENA",
+            "LastGameUpdated": 273,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4659,6 +5176,7 @@
             "MapName": "KAFE",
             "Elo": 1327.5,
             "Region": "MENA",
+            "LastGameUpdated": 282,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4668,6 +5186,7 @@
             "MapName": "OREGON",
             "Elo": 1325,
             "Region": "MENA",
+            "LastGameUpdated": 286,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4677,6 +5196,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1335,
             "Region": "MENA",
+            "LastGameUpdated": 279,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4686,6 +5206,7 @@
             "MapName": "BANK",
             "Elo": 1357.5,
             "Region": "Oceania",
+            "LastGameUpdated": 367,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4695,6 +5216,7 @@
             "MapName": "BORDER",
             "Elo": 1354.2807524650893,
             "Region": "Oceania",
+            "LastGameUpdated": 376,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4704,6 +5226,7 @@
             "MapName": "CHALET",
             "Elo": 1362.7044374188783,
             "Region": "Oceania",
+            "LastGameUpdated": 377,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -4713,6 +5236,7 @@
             "MapName": "CLUB",
             "Elo": 1399.6567810856775,
             "Region": "Oceania",
+            "LastGameUpdated": 375,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4722,6 +5246,7 @@
             "MapName": "OREGON",
             "Elo": 1350,
             "Region": "Oceania",
+            "LastGameUpdated": 359,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4731,6 +5256,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1388.0974712666123,
             "Region": "Oceania",
+            "LastGameUpdated": 362,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4740,6 +5266,7 @@
             "MapName": "BANK",
             "Elo": 1404.4802079907988,
             "Region": "MENA",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4749,6 +5276,7 @@
             "MapName": "BORDER",
             "Elo": 1349.0976791995251,
             "Region": "MENA",
+            "LastGameUpdated": 630,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4758,6 +5286,7 @@
             "MapName": "CHALET",
             "Elo": 1351.1628181988401,
             "Region": "MENA",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4767,6 +5296,7 @@
             "MapName": "CLUB",
             "Elo": 1377.282990105273,
             "Region": "MENA",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -4776,6 +5306,7 @@
             "MapName": "KAFE",
             "Elo": 1352.704343669993,
             "Region": "MENA",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4785,6 +5316,7 @@
             "MapName": "LABS",
             "Elo": 1352.9159712733012,
             "Region": "MENA",
+            "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4794,6 +5326,7 @@
             "MapName": "OREGON",
             "Elo": 1334.4605643488171,
             "Region": "MENA",
+            "LastGameUpdated": 290,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4803,6 +5336,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1373.4707999873015,
             "Region": "MENA",
+            "LastGameUpdated": 285,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4812,6 +5346,7 @@
             "MapName": "BANK",
             "Elo": 1331.0262424657965,
             "Region": "LATAM",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4821,6 +5356,7 @@
             "MapName": "BORDER",
             "Elo": 1321.6135342053117,
             "Region": "LATAM",
+            "LastGameUpdated": 622,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4830,6 +5366,7 @@
             "MapName": "CHALET",
             "Elo": 1324.8771391370533,
             "Region": "LATAM",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4839,6 +5376,7 @@
             "MapName": "CLUB",
             "Elo": 1387.6197896061235,
             "Region": "LATAM",
+            "LastGameUpdated": 262,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -4848,6 +5386,7 @@
             "MapName": "CONS",
             "Elo": 1289.4725280410103,
             "Region": "LATAM",
+            "LastGameUpdated": 34,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4857,6 +5396,7 @@
             "MapName": "KAFE",
             "Elo": 1343.0486051750274,
             "Region": "LATAM",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -4866,6 +5406,7 @@
             "MapName": "LABS",
             "Elo": 1377.078594094179,
             "Region": "LATAM",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4875,6 +5416,7 @@
             "MapName": "OREGON",
             "Elo": 1328.1053894198972,
             "Region": "LATAM",
+            "LastGameUpdated": 621,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4884,6 +5426,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1307.5,
             "Region": "LATAM",
+            "LastGameUpdated": 219,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4893,6 +5436,7 @@
             "MapName": "CHALET",
             "Elo": 1355.4816365265167,
             "Region": "Japan",
+            "LastGameUpdated": 592,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4902,6 +5446,7 @@
             "MapName": "CONS",
             "Elo": 1365.0429936943328,
             "Region": "Japan",
+            "LastGameUpdated": 591,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4911,6 +5456,7 @@
             "MapName": "BORDER",
             "Elo": 1305.0885651908955,
             "Region": "Asia",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4920,6 +5466,7 @@
             "MapName": "CHALET",
             "Elo": 1291.3202368146463,
             "Region": "Asia",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4929,6 +5476,7 @@
             "MapName": "CLUB",
             "Elo": 1324.242770541414,
             "Region": "Asia",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -4938,6 +5486,7 @@
             "MapName": "CONS",
             "Elo": 1340.2499015813735,
             "Region": "Asia",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4947,6 +5496,7 @@
             "MapName": "LABS",
             "Elo": 1345.3211873330736,
             "Region": "Asia",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4956,6 +5506,7 @@
             "MapName": "OREGON",
             "Elo": 1356.3199091607146,
             "Region": "Asia",
+            "LastGameUpdated": 525,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4965,6 +5516,7 @@
             "MapName": "BANK",
             "Elo": 1497.392068186531,
             "Region": "North America",
+            "LastGameUpdated": 321,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4974,6 +5526,7 @@
             "MapName": "BORDER",
             "Elo": 1485.6022717796538,
             "Region": "North America",
+            "LastGameUpdated": 651,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4983,6 +5536,7 @@
             "MapName": "CHALET",
             "Elo": 1469.8111462785241,
             "Region": "North America",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -4992,6 +5546,7 @@
             "MapName": "CLUB",
             "Elo": 1525.6283210317713,
             "Region": "North America",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5001,6 +5556,7 @@
             "MapName": "CONS",
             "Elo": 1487.5,
             "Region": "North America",
+            "LastGameUpdated": 303,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5010,6 +5566,7 @@
             "MapName": "KAFE",
             "Elo": 1533.5801816525282,
             "Region": "North America",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5019,6 +5576,7 @@
             "MapName": "LABS",
             "Elo": 1484.8744173020725,
             "Region": "North America",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5028,6 +5586,7 @@
             "MapName": "LAIR",
             "Elo": 1557.3109131683696,
             "Region": "North America",
+            "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5037,6 +5596,7 @@
             "MapName": "OREGON",
             "Elo": 1473.3461191984686,
             "Region": "North America",
+            "LastGameUpdated": 655,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5046,6 +5606,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1542.611833600056,
             "Region": "North America",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5055,6 +5616,7 @@
             "MapName": "BANK",
             "Elo": 1560.7325930386962,
             "Region": "North America",
+            "LastGameUpdated": 21,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -5064,6 +5626,7 @@
             "MapName": "BORDER",
             "Elo": 1548.0993819822625,
             "Region": "North America",
+            "LastGameUpdated": 701,
             "MajorCount": 4,
             "RegionalCount": 2
         },
@@ -5073,6 +5636,7 @@
             "MapName": "CHALET",
             "Elo": 1489.9392940105768,
             "Region": "North America",
+            "LastGameUpdated": 16,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -5082,6 +5646,7 @@
             "MapName": "CLUB",
             "Elo": 1477.4287995487707,
             "Region": "North America",
+            "LastGameUpdated": 648,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -5091,6 +5656,7 @@
             "MapName": "CONS",
             "Elo": 1492.4096510264578,
             "Region": "North America",
+            "LastGameUpdated": 8,
             "MajorCount": 2,
             "RegionalCount": 6
         },
@@ -5100,6 +5666,7 @@
             "MapName": "KAFE",
             "Elo": 1503.4423297074263,
             "Region": "North America",
+            "LastGameUpdated": 691,
             "MajorCount": 2,
             "RegionalCount": 2
         },
@@ -5109,6 +5676,7 @@
             "MapName": "LABS",
             "Elo": 1499.4957938769742,
             "Region": "North America",
+            "LastGameUpdated": 656,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5118,6 +5686,7 @@
             "MapName": "LAIR",
             "Elo": 1621.5941283744012,
             "Region": "North America",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5127,6 +5696,7 @@
             "MapName": "OREGON",
             "Elo": 1483.9880476030341,
             "Region": "North America",
+            "LastGameUpdated": 666,
             "MajorCount": 3,
             "RegionalCount": 2
         },
@@ -5136,6 +5706,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1493.6145368963073,
             "Region": "North America",
+            "LastGameUpdated": 649,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5145,6 +5716,7 @@
             "MapName": "BANK",
             "Elo": 1389.281681461098,
             "Region": "Oceania",
+            "LastGameUpdated": 381,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5154,6 +5726,7 @@
             "MapName": "BORDER",
             "Elo": 1383.2192475349107,
             "Region": "Oceania",
+            "LastGameUpdated": 376,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5163,6 +5736,7 @@
             "MapName": "CHALET",
             "Elo": 1401.6424796856804,
             "Region": "Oceania",
+            "LastGameUpdated": 377,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5172,6 +5746,7 @@
             "MapName": "CLUB",
             "Elo": 1366.5778592682616,
             "Region": "Oceania",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5181,6 +5756,7 @@
             "MapName": "CONS",
             "Elo": 1329.188814866155,
             "Region": "Oceania",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5190,6 +5766,7 @@
             "MapName": "LABS",
             "Elo": 1352.4781797143376,
             "Region": "Oceania",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5199,6 +5776,7 @@
             "MapName": "OREGON",
             "Elo": 1382.71580776249,
             "Region": "Oceania",
+            "LastGameUpdated": 388,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5208,6 +5786,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1363.3083728135866,
             "Region": "Oceania",
+            "LastGameUpdated": 382,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5217,6 +5796,7 @@
             "MapName": "BANK",
             "Elo": 1377.6668222391852,
             "Region": "Japan",
+            "LastGameUpdated": 4,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -5226,6 +5806,7 @@
             "MapName": "BORDER",
             "Elo": 1516.2867567843925,
             "Region": "Japan",
+            "LastGameUpdated": 20,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -5235,6 +5816,7 @@
             "MapName": "CHALET",
             "Elo": 1493.8425887555989,
             "Region": "Japan",
+            "LastGameUpdated": 682,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -5244,6 +5826,7 @@
             "MapName": "CLUB",
             "Elo": 1446.39644281566,
             "Region": "Japan",
+            "LastGameUpdated": 14,
             "MajorCount": 1,
             "RegionalCount": 5
         },
@@ -5253,6 +5836,7 @@
             "MapName": "CONS",
             "Elo": 1408.4809459373466,
             "Region": "Japan",
+            "LastGameUpdated": 24,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -5262,6 +5846,7 @@
             "MapName": "KAFE",
             "Elo": 1396.443062745903,
             "Region": "Japan",
+            "LastGameUpdated": 678,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -5271,6 +5856,7 @@
             "MapName": "LABS",
             "Elo": 1437.3661305840558,
             "Region": "Japan",
+            "LastGameUpdated": 681,
             "MajorCount": 3,
             "RegionalCount": 0
         },
@@ -5280,6 +5866,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1398.8270465244038,
             "Region": "Japan",
+            "LastGameUpdated": 688,
             "MajorCount": 1,
             "RegionalCount": 2
         },
@@ -5289,6 +5876,7 @@
             "MapName": "BANK",
             "Elo": 1523.2942947733493,
             "Region": "Europe",
+            "LastGameUpdated": 578,
             "MajorCount": 3,
             "RegionalCount": 4
         },
@@ -5298,6 +5886,7 @@
             "MapName": "BORDER",
             "Elo": 1508.8798340821033,
             "Region": "Europe",
+            "LastGameUpdated": 21,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -5307,6 +5896,7 @@
             "MapName": "CHALET",
             "Elo": 1601.5995656546158,
             "Region": "Europe",
+            "LastGameUpdated": 30,
             "MajorCount": 2,
             "RegionalCount": 4
         },
@@ -5316,6 +5906,7 @@
             "MapName": "CLUB",
             "Elo": 1535.8733674870375,
             "Region": "Europe",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 7
         },
@@ -5325,6 +5916,7 @@
             "MapName": "CONS",
             "Elo": 1486.2735746131843,
             "Region": "Europe",
+            "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -5334,6 +5926,7 @@
             "MapName": "LABS",
             "Elo": 1478.3090369043905,
             "Region": "Europe",
+            "LastGameUpdated": 583,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5343,6 +5936,7 @@
             "MapName": "LAIR",
             "Elo": 1476.7662388737058,
             "Region": "Europe",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5352,6 +5946,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1512.2777213220375,
             "Region": "Europe",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5361,6 +5956,7 @@
             "MapName": "CHALET",
             "Elo": 1271.206807355472,
             "Region": "LATAM",
+            "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5370,6 +5966,7 @@
             "MapName": "CLUB",
             "Elo": 1263.954279814672,
             "Region": "LATAM",
+            "LastGameUpdated": 36,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5379,6 +5976,7 @@
             "MapName": "CONS",
             "Elo": 1285.6099347369307,
             "Region": "LATAM",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5388,6 +5986,7 @@
             "MapName": "KAFE",
             "Elo": 1303.79123543192,
             "Region": "LATAM",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5397,6 +5996,7 @@
             "MapName": "LAIR",
             "Elo": 1315.0389826879855,
             "Region": "LATAM",
+            "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5406,6 +6006,7 @@
             "MapName": "BANK",
             "Elo": 1415.8836126885678,
             "Region": "MENA",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5415,6 +6016,7 @@
             "MapName": "BORDER",
             "Elo": 1338.723609085892,
             "Region": "MENA",
+            "LastGameUpdated": 626,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5424,6 +6026,7 @@
             "MapName": "CHALET",
             "Elo": 1311.0234309053,
             "Region": "MENA",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5433,6 +6036,7 @@
             "MapName": "CLUB",
             "Elo": 1362.5,
             "Region": "MENA",
+            "LastGameUpdated": 627,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5442,6 +6046,7 @@
             "MapName": "KAFE",
             "Elo": 1352.9977193191007,
             "Region": "MENA",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5451,6 +6056,7 @@
             "MapName": "LABS",
             "Elo": 1329.057779868153,
             "Region": "MENA",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5460,6 +6066,7 @@
             "MapName": "OREGON",
             "Elo": 1344.155175186178,
             "Region": "MENA",
+            "LastGameUpdated": 640,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5469,6 +6076,7 @@
             "MapName": "BANK",
             "Elo": 1347.3715825995737,
             "Region": "LATAM",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5478,6 +6086,7 @@
             "MapName": "BORDER",
             "Elo": 1312.5,
             "Region": "LATAM",
+            "LastGameUpdated": 243,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5487,6 +6096,7 @@
             "MapName": "CHALET",
             "Elo": 1366.5248178904524,
             "Region": "LATAM",
+            "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5496,6 +6106,7 @@
             "MapName": "CONS",
             "Elo": 1359.8795540268925,
             "Region": "LATAM",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5505,6 +6116,7 @@
             "MapName": "KAFE",
             "Elo": 1388.0530799130363,
             "Region": "LATAM",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5514,6 +6126,7 @@
             "MapName": "LABS",
             "Elo": 1370.9423582123413,
             "Region": "LATAM",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5523,6 +6136,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1316.6428049349745,
             "Region": "LATAM",
+            "LastGameUpdated": 245,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5532,6 +6146,7 @@
             "MapName": "BANK",
             "Elo": 1309.0393656173298,
             "Region": "MENA",
+            "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5541,6 +6156,7 @@
             "MapName": "BORDER",
             "Elo": 1351.7182220032132,
             "Region": "MENA",
+            "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5550,6 +6166,7 @@
             "MapName": "CHALET",
             "Elo": 1304.6260907154895,
             "Region": "MENA",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5559,6 +6176,7 @@
             "MapName": "CONS",
             "Elo": 1300.7341391486527,
             "Region": "MENA",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5568,6 +6186,7 @@
             "MapName": "BANK",
             "Elo": 1373.4713280678416,
             "Region": "Japan",
+            "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5577,6 +6196,7 @@
             "MapName": "BORDER",
             "Elo": 1375.5886748331038,
             "Region": "Japan",
+            "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5586,6 +6206,7 @@
             "MapName": "CHALET",
             "Elo": 1333.0330816338446,
             "Region": "Japan",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5595,6 +6216,7 @@
             "MapName": "CLUB",
             "Elo": 1355.557774664266,
             "Region": "Japan",
+            "LastGameUpdated": 201,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5604,6 +6226,7 @@
             "MapName": "CONS",
             "Elo": 1395.4969016648051,
             "Region": "Japan",
+            "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5613,6 +6236,7 @@
             "MapName": "KAFE",
             "Elo": 1399.5504702906808,
             "Region": "Japan",
+            "LastGameUpdated": 175,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5622,6 +6246,7 @@
             "MapName": "LABS",
             "Elo": 1370.1559702414372,
             "Region": "Japan",
+            "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5631,6 +6256,7 @@
             "MapName": "OREGON",
             "Elo": 1376.4327548646374,
             "Region": "Japan",
+            "LastGameUpdated": 203,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5640,6 +6266,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1332.1528248815782,
             "Region": "Japan",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5649,6 +6276,7 @@
             "MapName": "BANK",
             "Elo": 1516.6192863204096,
             "Region": "Europe",
+            "LastGameUpdated": 141,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5658,6 +6286,7 @@
             "MapName": "BORDER",
             "Elo": 1471.7849504352503,
             "Region": "Europe",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5667,6 +6296,7 @@
             "MapName": "CHALET",
             "Elo": 1499.9832033289588,
             "Region": "Europe",
+            "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -5676,6 +6306,7 @@
             "MapName": "CLUB",
             "Elo": 1454.7442087768013,
             "Region": "Europe",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -5685,6 +6316,7 @@
             "MapName": "CONS",
             "Elo": 1501.7283992036137,
             "Region": "Europe",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5694,6 +6326,7 @@
             "MapName": "KAFE",
             "Elo": 1489.8603250462857,
             "Region": "Europe",
+            "LastGameUpdated": 569,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5703,6 +6336,7 @@
             "MapName": "OREGON",
             "Elo": 1479.25956385579,
             "Region": "Europe",
+            "LastGameUpdated": 571,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5712,6 +6346,7 @@
             "MapName": "CLUB",
             "Elo": 1348.134587353717,
             "Region": "MENA",
+            "LastGameUpdated": 289,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5721,6 +6356,7 @@
             "MapName": "CONS",
             "Elo": 1335,
             "Region": "MENA",
+            "LastGameUpdated": 292,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5730,6 +6366,7 @@
             "MapName": "KAFE",
             "Elo": 1335,
             "Region": "MENA",
+            "LastGameUpdated": 271,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5739,6 +6376,7 @@
             "MapName": "LABS",
             "Elo": 1338.0393333262787,
             "Region": "MENA",
+            "LastGameUpdated": 277,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5748,6 +6386,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1341.5292000126985,
             "Region": "MENA",
+            "LastGameUpdated": 285,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5757,6 +6396,7 @@
             "MapName": "BANK",
             "Elo": 1525.107931813469,
             "Region": "North America",
+            "LastGameUpdated": 321,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5766,6 +6406,7 @@
             "MapName": "BORDER",
             "Elo": 1476.908627831221,
             "Region": "North America",
+            "LastGameUpdated": 641,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5775,6 +6416,7 @@
             "MapName": "CHALET",
             "Elo": 1513.2251612025561,
             "Region": "North America",
+            "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5784,6 +6426,7 @@
             "MapName": "CLUB",
             "Elo": 1423.2488384822118,
             "Region": "North America",
+            "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5793,6 +6436,7 @@
             "MapName": "CONS",
             "Elo": 1431.6418424099643,
             "Region": "North America",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5802,6 +6446,7 @@
             "MapName": "LABS",
             "Elo": 1477.5,
             "Region": "North America",
+            "LastGameUpdated": 325,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5811,6 +6456,7 @@
             "MapName": "OREGON",
             "Elo": 1502.3851450589714,
             "Region": "North America",
+            "LastGameUpdated": 319,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5820,6 +6466,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1501.4255191234613,
             "Region": "North America",
+            "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5829,6 +6476,7 @@
             "MapName": "BORDER",
             "Elo": 1387.5,
             "Region": "Korea",
+            "LastGameUpdated": 395,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5838,6 +6486,7 @@
             "MapName": "CHALET",
             "Elo": 1379.4050443034619,
             "Region": "Korea",
+            "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5847,6 +6496,7 @@
             "MapName": "CLUB",
             "Elo": 1379.7597396832905,
             "Region": "Korea",
+            "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5856,6 +6506,7 @@
             "MapName": "CONS",
             "Elo": 1321.6264993390455,
             "Region": "Korea",
+            "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5865,6 +6516,7 @@
             "MapName": "LABS",
             "Elo": 1407.90833948825,
             "Region": "Korea",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5874,6 +6526,7 @@
             "MapName": "LAIR",
             "Elo": 1345.7591559517632,
             "Region": "Korea",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5883,6 +6536,7 @@
             "MapName": "OREGON",
             "Elo": 1359.2795948189794,
             "Region": "Korea",
+            "LastGameUpdated": 430,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5892,6 +6546,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1365,
             "Region": "Korea",
+            "LastGameUpdated": 412,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5901,6 +6556,7 @@
             "MapName": "BANK",
             "Elo": 1327.2155595579372,
             "Region": "MENA",
+            "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5910,6 +6566,7 @@
             "MapName": "CHALET",
             "Elo": 1323.2988199514605,
             "Region": "MENA",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5919,6 +6576,7 @@
             "MapName": "CLUB",
             "Elo": 1330,
             "Region": "MENA",
+            "LastGameUpdated": 266,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5928,6 +6586,7 @@
             "MapName": "KAFE",
             "Elo": 1307.0374244488128,
             "Region": "MENA",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5937,6 +6596,7 @@
             "MapName": "LABS",
             "Elo": 1359.8017411570117,
             "Region": "MENA",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -5946,6 +6606,7 @@
             "MapName": "BANK",
             "Elo": 1504.784934541269,
             "Region": "Europe",
+            "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 4
         },
@@ -5955,6 +6616,7 @@
             "MapName": "CHALET",
             "Elo": 1446.7941831851888,
             "Region": "Europe",
+            "LastGameUpdated": 682,
             "MajorCount": 1,
             "RegionalCount": 1
         },
@@ -5964,6 +6626,7 @@
             "MapName": "CLUB",
             "Elo": 1517.3017133142457,
             "Region": "Europe",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -5973,6 +6636,7 @@
             "MapName": "CONS",
             "Elo": 1553.0118758316364,
             "Region": "Europe",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 5
         },
@@ -5982,6 +6646,7 @@
             "MapName": "LABS",
             "Elo": 1477.0235095265948,
             "Region": "Europe",
+            "LastGameUpdated": 18,
             "MajorCount": 2,
             "RegionalCount": 5
         },
@@ -5991,6 +6656,7 @@
             "MapName": "LAIR",
             "Elo": 1493.0851650394102,
             "Region": "Europe",
+            "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -6000,6 +6666,7 @@
             "MapName": "OREGON",
             "Elo": 1547.075151547661,
             "Region": "Europe",
+            "LastGameUpdated": 148,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6009,6 +6676,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1455.619162045859,
             "Region": "Europe",
+            "LastGameUpdated": 153,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6018,6 +6686,7 @@
             "MapName": "BANK",
             "Elo": 1465.8807136795904,
             "Region": "Europe",
+            "LastGameUpdated": 141,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -6027,6 +6696,7 @@
             "MapName": "CHALET",
             "Elo": 1454.6824471644798,
             "Region": "Europe",
+            "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6036,6 +6706,7 @@
             "MapName": "CLUB",
             "Elo": 1449.2266102192277,
             "Region": "Europe",
+            "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6045,6 +6716,7 @@
             "MapName": "KAFE",
             "Elo": 1452.3157911474875,
             "Region": "Europe",
+            "LastGameUpdated": 139,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6054,6 +6726,7 @@
             "MapName": "LABS",
             "Elo": 1380.766929948429,
             "Region": "Europe",
+            "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -6063,6 +6736,7 @@
             "MapName": "LAIR",
             "Elo": 1479.752227451386,
             "Region": "Europe",
+            "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -6072,6 +6746,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1512.5,
             "Region": "Europe",
+            "LastGameUpdated": 131,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -6081,6 +6756,7 @@
             "MapName": "BANK",
             "Elo": 1477.6987720061918,
             "Region": "Brazil",
+            "LastGameUpdated": 101,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -6090,6 +6766,7 @@
             "MapName": "BORDER",
             "Elo": 1491.9514190932882,
             "Region": "Brazil",
+            "LastGameUpdated": 550,
             "MajorCount": 0,
             "RegionalCount": 3
         },
@@ -6099,6 +6776,7 @@
             "MapName": "CHALET",
             "Elo": 1562.5906623051394,
             "Region": "Brazil",
+            "LastGameUpdated": 34,
             "MajorCount": 1,
             "RegionalCount": 7
         },
@@ -6108,6 +6786,7 @@
             "MapName": "CLUB",
             "Elo": 1595.6400245271361,
             "Region": "Brazil",
+            "LastGameUpdated": 702,
             "MajorCount": 2,
             "RegionalCount": 0
         },
@@ -6117,6 +6796,7 @@
             "MapName": "CONS",
             "Elo": 1562.423700443551,
             "Region": "Brazil",
+            "LastGameUpdated": 673,
             "MajorCount": 2,
             "RegionalCount": 0
         },
@@ -6126,6 +6806,7 @@
             "MapName": "KAFE",
             "Elo": 1572.2451985097248,
             "Region": "Brazil",
+            "LastGameUpdated": 4,
             "MajorCount": 2,
             "RegionalCount": 5
         },
@@ -6135,6 +6816,7 @@
             "MapName": "LABS",
             "Elo": 1540.799384500001,
             "Region": "Brazil",
+            "LastGameUpdated": 25,
             "MajorCount": 2,
             "RegionalCount": 3
         },
@@ -6144,6 +6826,7 @@
             "MapName": "OREGON",
             "Elo": 1508.9758753665437,
             "Region": "Brazil",
+            "LastGameUpdated": 674,
             "MajorCount": 1,
             "RegionalCount": 4
         },
@@ -6153,6 +6836,7 @@
             "MapName": "SKYSCRAPER",
             "Elo": 1517.4519740754922,
             "Region": "Brazil",
+            "LastGameUpdated": 29,
             "MajorCount": 1,
             "RegionalCount": 3
         },
@@ -6162,6 +6846,7 @@
             "MapName": "BORDER",
             "Elo": 1308.2188974916087,
             "Region": "LATAM",
+            "LastGameUpdated": 612,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -6171,6 +6856,7 @@
             "MapName": "CHALET",
             "Elo": 1314.6403762325447,
             "Region": "LATAM",
+            "LastGameUpdated": 611,
             "MajorCount": 0,
             "RegionalCount": 1
         }

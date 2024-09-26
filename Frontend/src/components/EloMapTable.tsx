@@ -15,7 +15,15 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ui/hover-card"
+
+
 import TeamsMaps from "../mapData.json";
+import { Button } from "./ui/button";
 
 type TeamMapsJSON = {
   ID: number;
@@ -24,6 +32,8 @@ type TeamMapsJSON = {
   MapName: string;
   Elo: number;
   Region: string;
+  MajorCount: number;
+  RegionalCount: number;
 };
 
 type TeamsMapsData = {
@@ -37,6 +47,8 @@ type EloMapsData = {
   map: string;
   elo: number;
   region: string;
+  majorCount: number;
+  regionalCount: number;
 };
 
 
@@ -72,6 +84,8 @@ const transformData = (data: TeamsMapsData): EloMapsData[] => {
         team: team.TeamName,
         map: team.MapName,
         region: team.Region,
+        majorCount: team.MajorCount,
+        regionalCount: team.RegionalCount,
       }))
       .sort((a, b) => b.elo - a.elo);
 
@@ -284,7 +298,22 @@ export default function EloTable() {
                 {Math.round(data.elo)}
               </TableCell>
               <TableCell className="w-1/6 text-center font-semibold">
-                {data.map}
+              <HoverCard openDelay={0} closeDelay={1000}>
+                <HoverCardTrigger asChild>
+                  <Button variant="link">{data.map}</Button>
+                </HoverCardTrigger>
+                <HoverCardContent className="w-fit bg-myDarkColor text-white rounded">
+                  <div className="flex justify-between space-x-4 ">
+                    <div className="space-y-1">
+                      <h4 className="text-sm font-semibold">{data.team} has played this map:</h4>
+                      <p className="text-sm">
+                        <span className="font-semibold">Majors: {data.majorCount}</span> <br/>
+                        <span className="font-semibold">Regionals: {data.regionalCount}</span>
+                      </p>
+                    </div>
+                  </div>
+                </HoverCardContent>
+              </HoverCard>
               </TableCell>
               <TableCell className="w-1/6 text-center font-semibold">
                 {data.region}
