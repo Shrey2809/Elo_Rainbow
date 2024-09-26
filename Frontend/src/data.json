@@ -3,22 +3,22 @@
         {
             "ID": 1,
             "TeamName": "FURY",
-            "Elo": 1441.3541690466031,
-            "LastGameUpdated": 26,
+            "Elo": 1458.0540714959907,
+            "LastGameUpdated": 30,
             "Region": "Asia"
         },
         {
             "ID": 2,
             "TeamName": "NoCap",
-            "Elo": 1438.1617361437698,
-            "LastGameUpdated": 27,
+            "Elo": 1459.338787062563,
+            "LastGameUpdated": 29,
             "Region": "Asia"
         },
         {
             "ID": 3,
             "TeamName": "DW",
-            "Elo": 1343.5095626895827,
-            "LastGameUpdated": 28,
+            "Elo": 1322.3325117707896,
+            "LastGameUpdated": 29,
             "Region": "Asia"
         },
         {
@@ -507,64 +507,64 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1502.7748270188868,
-            "LastGameUpdated": 22,
+            "Elo": 1490.2166976486226,
+            "LastGameUpdated": 26,
             "Region": "Korea"
         },
         {
             "ID": 74,
             "TeamName": "ORG",
-            "Elo": 1249.2676094674662,
-            "LastGameUpdated": 22,
+            "Elo": 1239.8187893185723,
+            "LastGameUpdated": 25,
             "Region": "Korea"
         },
         {
             "ID": 75,
             "TeamName": "BLS",
-            "Elo": 1221.9980818296685,
-            "LastGameUpdated": 23,
+            "Elo": 1211.3831361807677,
+            "LastGameUpdated": 27,
             "Region": "Korea"
         },
         {
             "ID": 76,
             "TeamName": "BnA",
-            "Elo": 1274.7955747541596,
-            "LastGameUpdated": 21,
+            "Elo": 1285.4105204030604,
+            "LastGameUpdated": 27,
             "Region": "Korea"
         },
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1501.1591184283443,
-            "LastGameUpdated": 24,
+            "Elo": 1513.7172477986085,
+            "LastGameUpdated": 26,
             "Region": "Korea"
         },
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1462.5421497704626,
-            "LastGameUpdated": 24,
+            "Elo": 1446.0841566140998,
+            "LastGameUpdated": 28,
             "Region": "Korea"
         },
         {
             "ID": 79,
             "TeamName": "MIR",
-            "Elo": 1335.821914051477,
-            "LastGameUpdated": 21,
+            "Elo": 1345.270734200371,
+            "LastGameUpdated": 25,
             "Region": "Korea"
         },
         {
             "ID": 80,
             "TeamName": "WEBL",
-            "Elo": 1348.6153648259224,
-            "LastGameUpdated": 23,
+            "Elo": 1365.0733579822852,
+            "LastGameUpdated": 28,
             "Region": "Korea"
         },
         {
             "ID": 81,
             "TeamName": "Rival",
-            "Elo": 1330.0164406390845,
-            "LastGameUpdated": 25,
+            "Elo": 1313.316538189697,
+            "LastGameUpdated": 30,
             "Region": "Asia"
         },
         {
