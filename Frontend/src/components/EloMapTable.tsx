@@ -300,7 +300,7 @@ export default function EloTable() {
               <TableCell className="w-1/6 text-center font-semibold">
               <HoverCard openDelay={0} closeDelay={1000}>
                 <HoverCardTrigger asChild>
-                  <Button variant="link">{data.map}</Button>
+                  <Button variant="link" className="text-sm font-semibold">{data.map}</Button>
                 </HoverCardTrigger>
                 <HoverCardContent className="w-fit bg-myDarkColor text-white rounded">
                   <div className="flex justify-between space-x-4 ">
