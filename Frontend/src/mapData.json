@@ -3811,6 +3811,16 @@
             "RegionalCount": 3
         },
         {
+            "ID": 693,
+            "TeamName": "LOS",
+            "MapName": "KAFE",
+            "Elo": 1363.2534925989796,
+            "Region": "North America",
+            "LastGameUpdated": 33,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 576,
             "TeamName": "LOS",
             "MapName": "LABS",
@@ -5694,11 +5704,11 @@
             "ID": 321,
             "TeamName": "SSG",
             "MapName": "KAFE",
-            "Elo": 1512.311152399858,
+            "Elo": 1518.4140627016657,
             "Region": "North America",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 33,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 557,
