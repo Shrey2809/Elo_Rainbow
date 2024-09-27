@@ -1674,11 +1674,11 @@
             "ID": 345,
             "TeamName": "DZ",
             "MapName": "CONS",
-            "Elo": 1523.5395413544757,
+            "Elo": 1544.5189359240524,
             "Region": "North America",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 32,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 320,
@@ -3704,11 +3704,11 @@
             "ID": 351,
             "TeamName": "LG",
             "MapName": "CONS",
-            "Elo": 1500.0231419890733,
+            "Elo": 1479.0437474194966,
             "Region": "North America",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 32,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 554,
@@ -5684,11 +5684,11 @@
             "ID": 321,
             "TeamName": "SSG",
             "MapName": "KAFE",
-            "Elo": 1503.4423297074263,
+            "Elo": 1512.311152399858,
             "Region": "North America",
-            "LastGameUpdated": 691,
+            "LastGameUpdated": 31,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 557,
@@ -6467,6 +6467,16 @@
             "Elo": 1431.6418424099643,
             "Region": "North America",
             "LastGameUpdated": 15,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 690,
+            "TeamName": "WCG",
+            "MapName": "KAFE",
+            "Elo": 1455.1034557439832,
+            "Region": "North America",
+            "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 1
         },
