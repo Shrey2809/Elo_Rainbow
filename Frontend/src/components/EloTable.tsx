@@ -33,7 +33,7 @@ type EloData = {
 };
 
 // const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
-const regions = ["North America", "Brazil", "Europe", "Japan", "Korea", "LATAM", "MENA", "Oceania", "Asia"];
+const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order

@@ -250,140 +250,140 @@
             "TeamName": "ME",
             "Elo": 1290.3390391290577,
             "LastGameUpdated": 31,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 37,
             "TeamName": "HWK",
             "Elo": 1187.8329374985422,
             "LastGameUpdated": 251,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 38,
             "TeamName": "ALPHA",
             "Elo": 1429.616232269811,
             "LastGameUpdated": 33,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 39,
             "TeamName": "KNI",
             "Elo": 1423.8466220231358,
             "LastGameUpdated": 31,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 40,
             "TeamName": "MvG",
             "Elo": 1187.9586976492765,
             "LastGameUpdated": 32,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 41,
             "TeamName": "VASCO",
             "Elo": 1458.107039379298,
             "LastGameUpdated": 33,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 42,
             "TeamName": "NXT",
             "Elo": 1279.1940649799042,
             "LastGameUpdated": 614,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 43,
             "TeamName": "6K",
             "Elo": 1449.2046548139024,
             "LastGameUpdated": 34,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 44,
             "TeamName": "CTY",
             "Elo": 1439.4512466725291,
             "LastGameUpdated": 36,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 45,
             "TeamName": "RVN",
             "Elo": 1337.6762893925577,
             "LastGameUpdated": 34,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 46,
             "TeamName": "CN",
             "Elo": 1264.0915602296773,
             "LastGameUpdated": 35,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 47,
             "TeamName": "ORGL",
             "Elo": 1213.821505900919,
             "LastGameUpdated": 264,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 48,
             "TeamName": "VSN",
             "Elo": 1302.2169435875517,
             "LastGameUpdated": 292,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 49,
             "TeamName": "WINTERBEAR",
             "Elo": 1304.536909055354,
             "LastGameUpdated": 21,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 50,
             "TeamName": "GK",
             "Elo": 1440.465932204966,
             "LastGameUpdated": 22,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 51,
             "TeamName": "ROC",
             "Elo": 1427.5577683609126,
             "LastGameUpdated": 21,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 52,
             "TeamName": "OLD_TWM",
             "Elo": 1356.927396419789,
             "LastGameUpdated": 290,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 53,
             "TeamName": "FLCS",
             "Elo": 1456.2230697778953,
             "LastGameUpdated": 23,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 54,
             "TeamName": "ONYX",
             "Elo": 1397.1164776856506,
             "LastGameUpdated": 628,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 55,
             "TeamName": "PSSN",
             "Elo": 1255.2884910041541,
             "LastGameUpdated": 286,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 56,
@@ -600,35 +600,35 @@
             "TeamName": "yiyo",
             "Elo": 1298.5420816961973,
             "LastGameUpdated": 612,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 87,
             "TeamName": "AKV",
             "Elo": 1289.1043906921705,
             "LastGameUpdated": 616,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 88,
             "TeamName": "AKT",
             "Elo": 1231.8407340901176,
             "LastGameUpdated": 17,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 89,
             "TeamName": "TWM",
             "Elo": 1341.137205117514,
             "LastGameUpdated": 19,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 90,
             "TeamName": "EASTSIDE",
             "Elo": 1320.0665327659199,
             "LastGameUpdated": 630,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 91,
@@ -663,35 +663,35 @@
             "TeamName": "7REX",
             "Elo": 1297.2994320508787,
             "LastGameUpdated": 32,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 96,
             "TeamName": "LYCUS",
             "Elo": 1265.4122039042593,
             "LastGameUpdated": 35,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 97,
             "TeamName": "TSG",
             "Elo": 1285.8413647338432,
             "LastGameUpdated": 36,
-            "Region": "LATAM"
+            "Region": "Latin America"
         },
         {
             "ID": 98,
             "TeamName": "VICIOUS",
             "Elo": 1310.6818966423518,
             "LastGameUpdated": 23,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         },
         {
             "ID": 99,
             "TeamName": "EAST",
             "Elo": 1291.6568354050512,
             "LastGameUpdated": 22,
-            "Region": "MENA"
+            "Region": "Middle East & North Africa"
         }
     ]
 }

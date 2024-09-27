@@ -54,7 +54,7 @@ type EloMapsData = {
 
 const maps = ["BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
 // const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA",  "OCE", "SEA"];
-const regions = ["North America", "Brazil", "Europe", "Japan", "Korea", "LATAM", "MENA", "Oceania", "Asia"];
+const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
 
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
   // Create a map to group teams by MapName
@@ -298,11 +298,11 @@ export default function EloTable() {
                 {Math.round(data.elo)}
               </TableCell>
               <TableCell className="w-1/6 text-center font-semibold">
-              <HoverCard openDelay={0} closeDelay={1000}>
+              <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
-                  <Button variant="link" className="text-sm font-semibold">{data.map}</Button>
+                  <Button variant="link" className="text-lg font-bold">{data.map}</Button>
                 </HoverCardTrigger>
-                <HoverCardContent className="w-fit bg-myDarkColor text-white rounded">
+                <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
                   <div className="flex justify-between space-x-4 ">
                     <div className="space-y-1">
                       <h4 className="text-sm font-semibold">{data.team} has played this map:</h4>

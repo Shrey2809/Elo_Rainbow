@@ -5,7 +5,7 @@
             "TeamName": "6K",
             "MapName": "BANK",
             "Elo": 1352.9364496726405,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -15,7 +15,7 @@
             "TeamName": "6K",
             "MapName": "BORDER",
             "Elo": 1353.7008209279277,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 619,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -25,7 +25,7 @@
             "TeamName": "6K",
             "MapName": "CHALET",
             "Elo": 1382.1704712821897,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 24,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -35,7 +35,7 @@
             "TeamName": "6K",
             "MapName": "CLUB",
             "Elo": 1449.4903820497886,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -45,7 +45,7 @@
             "TeamName": "6K",
             "MapName": "CONS",
             "Elo": 1451.988773752014,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 34,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -55,7 +55,7 @@
             "TeamName": "6K",
             "MapName": "KAFE",
             "Elo": 1309.4951767447048,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 620,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -65,7 +65,7 @@
             "TeamName": "6K",
             "MapName": "LABS",
             "Elo": 1422.0465747572905,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -75,7 +75,7 @@
             "TeamName": "6K",
             "MapName": "OREGON",
             "Elo": 1364.9913476497004,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 616,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -85,7 +85,7 @@
             "TeamName": "6K",
             "MapName": "SKYSCRAPER",
             "Elo": 1337.0504702906808,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 229,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -135,7 +135,7 @@
             "TeamName": "7REX",
             "MapName": "BANK",
             "Elo": 1341.624914520079,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -145,7 +145,7 @@
             "TeamName": "7REX",
             "MapName": "BORDER",
             "Elo": 1287.0876188398518,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -155,7 +155,7 @@
             "TeamName": "7REX",
             "MapName": "CHALET",
             "Elo": 1309.2044115160986,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -165,7 +165,7 @@
             "TeamName": "7REX",
             "MapName": "CLUB",
             "Elo": 1276.544704349011,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -175,7 +175,7 @@
             "TeamName": "7REX",
             "MapName": "KAFE",
             "Elo": 1332.6468534605917,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -185,7 +185,7 @@
             "TeamName": "AKT",
             "MapName": "BANK",
             "Elo": 1328.14742328747,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 624,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -195,7 +195,7 @@
             "TeamName": "AKT",
             "MapName": "CHALET",
             "Elo": 1223.6796110779496,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -205,7 +205,7 @@
             "TeamName": "AKT",
             "MapName": "KAFE",
             "Elo": 1244.81237262903,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -215,7 +215,7 @@
             "TeamName": "AKT",
             "MapName": "LABS",
             "Elo": 1230.208672863504,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -225,7 +225,7 @@
             "TeamName": "AKT",
             "MapName": "OREGON",
             "Elo": 1325,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 625,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -235,7 +235,7 @@
             "TeamName": "AKV",
             "MapName": "CHALET",
             "Elo": 1300.8990594186382,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 615,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -245,7 +245,7 @@
             "TeamName": "AKV",
             "MapName": "OREGON",
             "Elo": 1303.709930323021,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 616,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -255,7 +255,7 @@
             "TeamName": "ALPHA",
             "MapName": "BANK",
             "Elo": 1389.5958975057122,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -265,7 +265,7 @@
             "TeamName": "ALPHA",
             "MapName": "BORDER",
             "Elo": 1355.6480355488707,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -275,7 +275,7 @@
             "TeamName": "ALPHA",
             "MapName": "CHALET",
             "Elo": 1383.490814139092,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -285,7 +285,7 @@
             "TeamName": "ALPHA",
             "MapName": "CLUB",
             "Elo": 1327.5415002277177,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -295,7 +295,7 @@
             "TeamName": "ALPHA",
             "MapName": "KAFE",
             "Elo": 1320.150057912623,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -305,7 +305,7 @@
             "TeamName": "ALPHA",
             "MapName": "OREGON",
             "Elo": 1352.0127906989762,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 251,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -315,7 +315,7 @@
             "TeamName": "ALPHA",
             "MapName": "SKYSCRAPER",
             "Elo": 1322.8777091994323,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 236,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1145,7 +1145,7 @@
             "TeamName": "CN",
             "MapName": "BANK",
             "Elo": 1355.4400946619578,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1155,7 +1155,7 @@
             "TeamName": "CN",
             "MapName": "BORDER",
             "Elo": 1318.00355144581,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 259,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1165,7 +1165,7 @@
             "TeamName": "CN",
             "MapName": "CHALET",
             "Elo": 1310,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 263,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1175,7 +1175,7 @@
             "TeamName": "CN",
             "MapName": "CLUB",
             "Elo": 1280.2007233789786,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -1185,7 +1185,7 @@
             "TeamName": "CN",
             "MapName": "CONS",
             "Elo": 1320.1396985072631,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 617,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1195,7 +1195,7 @@
             "TeamName": "CN",
             "MapName": "KAFE",
             "Elo": 1328.5218150537974,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 618,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1205,7 +1205,7 @@
             "TeamName": "CN",
             "MapName": "LABS",
             "Elo": 1258.1985155853206,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1215,7 +1215,7 @@
             "TeamName": "CN",
             "MapName": "LAIR",
             "Elo": 1232.0462903826624,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1225,7 +1225,7 @@
             "TeamName": "CN",
             "MapName": "OREGON",
             "Elo": 1337.1693817587402,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 613,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1235,7 +1235,7 @@
             "TeamName": "CN",
             "MapName": "SKYSCRAPER",
             "Elo": 1306.0905724904064,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -1325,7 +1325,7 @@
             "TeamName": "CTY",
             "MapName": "BANK",
             "Elo": 1335.342500113116,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 17,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -1335,7 +1335,7 @@
             "TeamName": "CTY",
             "MapName": "BORDER",
             "Elo": 1354.56924347878,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 695,
             "MajorCount": 1,
             "RegionalCount": 4
@@ -1345,7 +1345,7 @@
             "TeamName": "CTY",
             "MapName": "CHALET",
             "Elo": 1351.5931071569994,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -1355,7 +1355,7 @@
             "TeamName": "CTY",
             "MapName": "CLUB",
             "Elo": 1351.2156327820126,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 36,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -1365,7 +1365,7 @@
             "TeamName": "CTY",
             "MapName": "CONS",
             "Elo": 1348.5176099924734,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 694,
             "MajorCount": 2,
             "RegionalCount": 4
@@ -1375,7 +1375,7 @@
             "TeamName": "CTY",
             "MapName": "KAFE",
             "Elo": 1338.0974712666123,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 618,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1385,7 +1385,7 @@
             "TeamName": "CTY",
             "MapName": "LABS",
             "Elo": 1432.5334407399178,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 28,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1395,7 +1395,7 @@
             "TeamName": "CTY",
             "MapName": "OREGON",
             "Elo": 1300.9339780104256,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 621,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -1405,7 +1405,7 @@
             "TeamName": "CTY",
             "MapName": "SKYSCRAPER",
             "Elo": 1352.4871951621415,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -1885,7 +1885,7 @@
             "TeamName": "EAST",
             "MapName": "BANK",
             "Elo": 1284.6215769114112,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1895,7 +1895,7 @@
             "TeamName": "EAST",
             "MapName": "BORDER",
             "Elo": 1313.5749833443863,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1905,7 +1905,7 @@
             "TeamName": "EAST",
             "MapName": "CHALET",
             "Elo": 1286.7044940356705,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -1915,7 +1915,7 @@
             "TeamName": "EAST",
             "MapName": "CLUB",
             "Elo": 1326.9651028947326,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1925,7 +1925,7 @@
             "TeamName": "EASTSIDE",
             "MapName": "BANK",
             "Elo": 1332.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 629,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1935,7 +1935,7 @@
             "TeamName": "EASTSIDE",
             "MapName": "BORDER",
             "Elo": 1334.2830344800652,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 630,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -2185,7 +2185,7 @@
             "TeamName": "FLCS",
             "MapName": "BANK",
             "Elo": 1384.687661358673,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 20,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -2195,7 +2195,7 @@
             "TeamName": "FLCS",
             "MapName": "CHALET",
             "Elo": 1334.449631554942,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 280,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -2205,7 +2205,7 @@
             "TeamName": "FLCS",
             "MapName": "CLUB",
             "Elo": 1335.6471999915343,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 288,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -2215,7 +2215,7 @@
             "TeamName": "FLCS",
             "MapName": "KAFE",
             "Elo": 1391.8757532202883,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -2225,7 +2225,7 @@
             "TeamName": "FLCS",
             "MapName": "LABS",
             "Elo": 1407.1291973135048,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -2235,7 +2235,7 @@
             "TeamName": "FLCS",
             "MapName": "LAIR",
             "Elo": 1463.7730157414546,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -2245,7 +2245,7 @@
             "TeamName": "FLCS",
             "MapName": "OREGON",
             "Elo": 1358.922522191647,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 634,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -2935,7 +2935,7 @@
             "TeamName": "GK",
             "MapName": "BANK",
             "Elo": 1464.1508050481154,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 639,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -2945,7 +2945,7 @@
             "TeamName": "GK",
             "MapName": "CHALET",
             "Elo": 1416.0757166772817,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 22,
             "MajorCount": 3,
             "RegionalCount": 6
@@ -2955,7 +2955,7 @@
             "TeamName": "GK",
             "MapName": "CLUB",
             "Elo": 1362.5566463268024,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 637,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -2965,7 +2965,7 @@
             "TeamName": "GK",
             "MapName": "CONS",
             "Elo": 1337.9553932842223,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 3,
             "MajorCount": 3,
             "RegionalCount": 2
@@ -2975,7 +2975,7 @@
             "TeamName": "GK",
             "MapName": "KAFE",
             "Elo": 1367.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 636,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -2985,7 +2985,7 @@
             "TeamName": "GK",
             "MapName": "LABS",
             "Elo": 1427.8444774685436,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -2995,7 +2995,7 @@
             "TeamName": "GK",
             "MapName": "OREGON",
             "Elo": 1396.922302622175,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 640,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -3005,7 +3005,7 @@
             "TeamName": "GK",
             "MapName": "SKYSCRAPER",
             "Elo": 1346.7757912712989,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 679,
             "MajorCount": 1,
             "RegionalCount": 1
@@ -3095,7 +3095,7 @@
             "TeamName": "HWK",
             "MapName": "CLUB",
             "Elo": 1286.1991514064136,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 250,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -3105,7 +3105,7 @@
             "TeamName": "HWK",
             "MapName": "CONS",
             "Elo": 1302.5,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 239,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -3115,7 +3115,7 @@
             "TeamName": "HWK",
             "MapName": "KAFE",
             "Elo": 1293.2550666567902,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 230,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -3125,7 +3125,7 @@
             "TeamName": "HWK",
             "MapName": "OREGON",
             "Elo": 1292.5841686428228,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 251,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -3135,7 +3135,7 @@
             "TeamName": "HWK",
             "MapName": "SKYSCRAPER",
             "Elo": 1276.5917902813762,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 244,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -3365,7 +3365,7 @@
             "TeamName": "KNI",
             "MapName": "BANK",
             "Elo": 1344.7586106421843,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 9,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -3375,7 +3375,7 @@
             "TeamName": "KNI",
             "MapName": "CHALET",
             "Elo": 1472.1717064440904,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -3385,7 +3385,7 @@
             "TeamName": "KNI",
             "MapName": "CLUB",
             "Elo": 1385.644661674365,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 6
@@ -3395,7 +3395,7 @@
             "TeamName": "KNI",
             "MapName": "KAFE",
             "Elo": 1425.0054781855163,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -3405,7 +3405,7 @@
             "TeamName": "KNI",
             "MapName": "LABS",
             "Elo": 1452.0355377222204,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -3415,7 +3415,7 @@
             "TeamName": "KNI",
             "MapName": "SKYSCRAPER",
             "Elo": 1390.9560279277232,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 245,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -3835,7 +3835,7 @@
             "TeamName": "LYCUS",
             "MapName": "BANK",
             "Elo": 1283.648339658422,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -3845,7 +3845,7 @@
             "TeamName": "LYCUS",
             "MapName": "CHALET",
             "Elo": 1298.6942949310915,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -3855,7 +3855,7 @@
             "TeamName": "LYCUS",
             "MapName": "SKYSCRAPER",
             "Elo": 1255.642266185637,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4055,7 +4055,7 @@
             "TeamName": "ME",
             "MapName": "BANK",
             "Elo": 1279.1623416036073,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 241,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4065,7 +4065,7 @@
             "TeamName": "ME",
             "MapName": "CHALET",
             "Elo": 1326.2070929259291,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -4075,7 +4075,7 @@
             "TeamName": "ME",
             "MapName": "CLUB",
             "Elo": 1346.4285380951449,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 31,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4085,7 +4085,7 @@
             "TeamName": "ME",
             "MapName": "KAFE",
             "Elo": 1305.4940762329365,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4095,7 +4095,7 @@
             "TeamName": "ME",
             "MapName": "LABS",
             "Elo": 1272.1637290487772,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4105,7 +4105,7 @@
             "TeamName": "ME",
             "MapName": "OREGON",
             "Elo": 1337.5,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 234,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4245,7 +4245,7 @@
             "TeamName": "MvG",
             "MapName": "BANK",
             "Elo": 1195.825439062356,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4255,7 +4255,7 @@
             "TeamName": "MvG",
             "MapName": "CHALET",
             "Elo": 1228.2358650198787,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 6
@@ -4265,7 +4265,7 @@
             "TeamName": "MvG",
             "MapName": "CLUB",
             "Elo": 1300.7117259594145,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 32,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4275,7 +4275,7 @@
             "TeamName": "MvG",
             "MapName": "CONS",
             "Elo": 1166.8064880855468,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4285,7 +4285,7 @@
             "TeamName": "MvG",
             "MapName": "LABS",
             "Elo": 1300,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 208,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4295,7 +4295,7 @@
             "TeamName": "MvG",
             "MapName": "OREGON",
             "Elo": 1317.903040658201,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 247,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4305,7 +4305,7 @@
             "TeamName": "MvG",
             "MapName": "SKYSCRAPER",
             "Elo": 1317.9316676564938,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 237,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4395,7 +4395,7 @@
             "TeamName": "NXT",
             "MapName": "BANK",
             "Elo": 1307.5,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 224,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4405,7 +4405,7 @@
             "TeamName": "NXT",
             "MapName": "CHALET",
             "Elo": 1340,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 263,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4415,7 +4415,7 @@
             "TeamName": "NXT",
             "MapName": "CLUB",
             "Elo": 1305.8776779102723,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 260,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4425,7 +4425,7 @@
             "TeamName": "NXT",
             "MapName": "CONS",
             "Elo": 1294.805569912029,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 614,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4435,7 +4435,7 @@
             "TeamName": "NXT",
             "MapName": "OREGON",
             "Elo": 1303.6389910548464,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 613,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4445,7 +4445,7 @@
             "TeamName": "NXT",
             "MapName": "SKYSCRAPER",
             "Elo": 1353.4944568645765,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 254,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4615,7 +4615,7 @@
             "TeamName": "OLD_TWM",
             "MapName": "BORDER",
             "Elo": 1366.6192863204096,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 274,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4625,7 +4625,7 @@
             "TeamName": "OLD_TWM",
             "MapName": "CLUB",
             "Elo": 1359.365412646283,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 289,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4635,7 +4635,7 @@
             "TeamName": "OLD_TWM",
             "MapName": "LABS",
             "Elo": 1325.0719545423126,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 284,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4645,7 +4645,7 @@
             "TeamName": "OLD_TWM",
             "MapName": "OREGON",
             "Elo": 1353.0394356511829,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 290,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4655,7 +4655,7 @@
             "TeamName": "ONYX",
             "MapName": "BANK",
             "Elo": 1332.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 628,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4665,7 +4665,7 @@
             "TeamName": "ONYX",
             "MapName": "BORDER",
             "Elo": 1395.3956772345177,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 626,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4675,7 +4675,7 @@
             "TeamName": "ONYX",
             "MapName": "CHALET",
             "Elo": 1361.9115391592059,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 287,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4685,7 +4685,7 @@
             "TeamName": "ONYX",
             "MapName": "CLUB",
             "Elo": 1337.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 627,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4695,7 +4695,7 @@
             "TeamName": "ONYX",
             "MapName": "KAFE",
             "Elo": 1385.431667656494,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 291,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4705,7 +4705,7 @@
             "TeamName": "ONYX",
             "MapName": "OREGON",
             "Elo": 1362.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 278,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4715,7 +4715,7 @@
             "TeamName": "ONYX",
             "MapName": "SKYSCRAPER",
             "Elo": 1337.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 283,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4805,7 +4805,7 @@
             "TeamName": "ORGL",
             "MapName": "BANK",
             "Elo": 1293.2192475349107,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 255,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4815,7 +4815,7 @@
             "TeamName": "ORGL",
             "MapName": "BORDER",
             "Elo": 1280.7193592083,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 264,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4825,7 +4825,7 @@
             "TeamName": "ORGL",
             "MapName": "CLUB",
             "Elo": 1301.8985128636657,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 260,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4835,7 +4835,7 @@
             "TeamName": "ORGL",
             "MapName": "KAFE",
             "Elo": 1290.8807136795904,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 226,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4845,7 +4845,7 @@
             "TeamName": "ORGL",
             "MapName": "OREGON",
             "Elo": 1311.6916271864134,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 212,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5175,7 +5175,7 @@
             "TeamName": "PSSN",
             "MapName": "BORDER",
             "Elo": 1315.8807136795904,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 274,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5185,7 +5185,7 @@
             "TeamName": "PSSN",
             "MapName": "CLUB",
             "Elo": 1335,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 273,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5195,7 +5195,7 @@
             "TeamName": "PSSN",
             "MapName": "KAFE",
             "Elo": 1327.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 282,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5205,7 +5205,7 @@
             "TeamName": "PSSN",
             "MapName": "OREGON",
             "Elo": 1325,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 286,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5215,7 +5215,7 @@
             "TeamName": "PSSN",
             "MapName": "SKYSCRAPER",
             "Elo": 1335,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 279,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5285,7 +5285,7 @@
             "TeamName": "ROC",
             "MapName": "BANK",
             "Elo": 1404.4802079907988,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5295,7 +5295,7 @@
             "TeamName": "ROC",
             "MapName": "BORDER",
             "Elo": 1349.0976791995251,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 630,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5305,7 +5305,7 @@
             "TeamName": "ROC",
             "MapName": "CHALET",
             "Elo": 1351.1628181988401,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5315,7 +5315,7 @@
             "TeamName": "ROC",
             "MapName": "CLUB",
             "Elo": 1377.282990105273,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -5325,7 +5325,7 @@
             "TeamName": "ROC",
             "MapName": "KAFE",
             "Elo": 1352.704343669993,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5335,7 +5335,7 @@
             "TeamName": "ROC",
             "MapName": "LABS",
             "Elo": 1352.9159712733012,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5345,7 +5345,7 @@
             "TeamName": "ROC",
             "MapName": "OREGON",
             "Elo": 1334.4605643488171,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 290,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5355,7 +5355,7 @@
             "TeamName": "ROC",
             "MapName": "SKYSCRAPER",
             "Elo": 1373.4707999873015,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 285,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5365,7 +5365,7 @@
             "TeamName": "RVN",
             "MapName": "BANK",
             "Elo": 1331.0262424657965,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5375,7 +5375,7 @@
             "TeamName": "RVN",
             "MapName": "BORDER",
             "Elo": 1321.6135342053117,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 622,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5385,7 +5385,7 @@
             "TeamName": "RVN",
             "MapName": "CHALET",
             "Elo": 1324.8771391370533,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5395,7 +5395,7 @@
             "TeamName": "RVN",
             "MapName": "CLUB",
             "Elo": 1387.6197896061235,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 262,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -5405,7 +5405,7 @@
             "TeamName": "RVN",
             "MapName": "CONS",
             "Elo": 1289.4725280410103,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 34,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5415,7 +5415,7 @@
             "TeamName": "RVN",
             "MapName": "KAFE",
             "Elo": 1343.0486051750274,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5425,7 +5425,7 @@
             "TeamName": "RVN",
             "MapName": "LABS",
             "Elo": 1377.078594094179,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 10,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5435,7 +5435,7 @@
             "TeamName": "RVN",
             "MapName": "OREGON",
             "Elo": 1328.1053894198972,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 621,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5445,7 +5445,7 @@
             "TeamName": "RVN",
             "MapName": "SKYSCRAPER",
             "Elo": 1307.5,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 219,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5975,7 +5975,7 @@
             "TeamName": "TSG",
             "MapName": "CHALET",
             "Elo": 1271.206807355472,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 16,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5985,7 +5985,7 @@
             "TeamName": "TSG",
             "MapName": "CLUB",
             "Elo": 1263.954279814672,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 36,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -5995,7 +5995,7 @@
             "TeamName": "TSG",
             "MapName": "CONS",
             "Elo": 1285.6099347369307,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6005,7 +6005,7 @@
             "TeamName": "TSG",
             "MapName": "KAFE",
             "Elo": 1303.79123543192,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6015,7 +6015,7 @@
             "TeamName": "TSG",
             "MapName": "LAIR",
             "Elo": 1315.0389826879855,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 30,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6025,7 +6025,7 @@
             "TeamName": "TWM",
             "MapName": "BANK",
             "Elo": 1415.8836126885678,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6035,7 +6035,7 @@
             "TeamName": "TWM",
             "MapName": "BORDER",
             "Elo": 1338.723609085892,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 626,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6045,7 +6045,7 @@
             "TeamName": "TWM",
             "MapName": "CHALET",
             "Elo": 1311.0234309053,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6055,7 +6055,7 @@
             "TeamName": "TWM",
             "MapName": "CLUB",
             "Elo": 1362.5,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 627,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6065,7 +6065,7 @@
             "TeamName": "TWM",
             "MapName": "KAFE",
             "Elo": 1352.9977193191007,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6075,7 +6075,7 @@
             "TeamName": "TWM",
             "MapName": "LABS",
             "Elo": 1329.057779868153,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 7,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6085,7 +6085,7 @@
             "TeamName": "TWM",
             "MapName": "OREGON",
             "Elo": 1344.155175186178,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 640,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6095,7 +6095,7 @@
             "TeamName": "VASCO",
             "MapName": "BANK",
             "Elo": 1347.3715825995737,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6105,7 +6105,7 @@
             "TeamName": "VASCO",
             "MapName": "BORDER",
             "Elo": 1312.5,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 243,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6115,7 +6115,7 @@
             "TeamName": "VASCO",
             "MapName": "CHALET",
             "Elo": 1366.5248178904524,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 33,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6125,7 +6125,7 @@
             "TeamName": "VASCO",
             "MapName": "CONS",
             "Elo": 1359.8795540268925,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6135,7 +6135,7 @@
             "TeamName": "VASCO",
             "MapName": "KAFE",
             "Elo": 1388.0530799130363,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6145,7 +6145,7 @@
             "TeamName": "VASCO",
             "MapName": "LABS",
             "Elo": 1370.9423582123413,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6155,7 +6155,7 @@
             "TeamName": "VASCO",
             "MapName": "SKYSCRAPER",
             "Elo": 1316.6428049349745,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 245,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6165,7 +6165,7 @@
             "TeamName": "VICIOUS",
             "MapName": "BANK",
             "Elo": 1309.0393656173298,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6175,7 +6175,7 @@
             "TeamName": "VICIOUS",
             "MapName": "BORDER",
             "Elo": 1351.7182220032132,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 8,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6185,7 +6185,7 @@
             "TeamName": "VICIOUS",
             "MapName": "CHALET",
             "Elo": 1304.6260907154895,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 17,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6195,7 +6195,7 @@
             "TeamName": "VICIOUS",
             "MapName": "CONS",
             "Elo": 1300.7341391486527,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6205,7 +6205,7 @@
             "TeamName": "VICIOUS",
             "MapName": "LAIR",
             "Elo": 1303.1319506787925,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 23,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6375,7 +6375,7 @@
             "TeamName": "VSN",
             "MapName": "CLUB",
             "Elo": 1348.134587353717,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 289,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6385,7 +6385,7 @@
             "TeamName": "VSN",
             "MapName": "CONS",
             "Elo": 1335,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 292,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6395,7 +6395,7 @@
             "TeamName": "VSN",
             "MapName": "KAFE",
             "Elo": 1335,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 271,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6405,7 +6405,7 @@
             "TeamName": "VSN",
             "MapName": "LABS",
             "Elo": 1338.0393333262787,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 277,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6415,7 +6415,7 @@
             "TeamName": "VSN",
             "MapName": "SKYSCRAPER",
             "Elo": 1341.5292000126985,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 285,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6595,7 +6595,7 @@
             "TeamName": "WINTERBEAR",
             "MapName": "BANK",
             "Elo": 1327.2155595579372,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 21,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6605,7 +6605,7 @@
             "TeamName": "WINTERBEAR",
             "MapName": "CHALET",
             "Elo": 1323.2988199514605,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6615,7 +6615,7 @@
             "TeamName": "WINTERBEAR",
             "MapName": "CLUB",
             "Elo": 1330,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 266,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6625,7 +6625,7 @@
             "TeamName": "WINTERBEAR",
             "MapName": "KAFE",
             "Elo": 1307.0374244488128,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6635,7 +6635,7 @@
             "TeamName": "WINTERBEAR",
             "MapName": "LABS",
             "Elo": 1359.8017411570117,
-            "Region": "MENA",
+            "Region": "Middle East & North Africa",
             "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6885,7 +6885,7 @@
             "TeamName": "yiyo",
             "MapName": "BORDER",
             "Elo": 1308.2188974916087,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 612,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6895,7 +6895,7 @@
             "TeamName": "yiyo",
             "MapName": "CHALET",
             "Elo": 1314.6403762325447,
-            "Region": "LATAM",
+            "Region": "Latin America",
             "LastGameUpdated": 611,
             "MajorCount": 0,
             "RegionalCount": 1
