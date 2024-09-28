@@ -404,11 +404,11 @@
             "ID": 47,
             "TeamName": "BD",
             "MapName": "BANK",
-            "Elo": 1502.6706321518914,
+            "Elo": 1479.0190459909575,
             "Region": "Brazil",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 57,
@@ -4334,11 +4334,11 @@
             "ID": 81,
             "TeamName": "NIP",
             "MapName": "BANK",
-            "Elo": 1484.872768793231,
+            "Elo": 1508.524354954165,
             "Region": "Brazil",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 64,
