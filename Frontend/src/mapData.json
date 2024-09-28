@@ -2734,11 +2734,11 @@
             "ID": 59,
             "TeamName": "Fluxo",
             "MapName": "CLUB",
-            "Elo": 1459.1244105287808,
+            "Elo": 1446.8127818886783,
             "Region": "Brazil",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 84,
@@ -3914,11 +3914,11 @@
             "ID": 463,
             "TeamName": "Liquid",
             "MapName": "CLUB",
-            "Elo": 1599.917172084838,
+            "Elo": 1612.2288007249406,
             "Region": "Brazil",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 40,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 471,
