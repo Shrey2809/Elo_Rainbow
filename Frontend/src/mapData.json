@@ -2694,11 +2694,11 @@
             "ID": 66,
             "TeamName": "FaZe",
             "MapName": "SKYSCRAPER",
-            "Elo": 1553.2949834231867,
+            "Elo": 1561.2850803073352,
             "Region": "Brazil",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 38,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 96,
@@ -4194,11 +4194,11 @@
             "ID": 76,
             "TeamName": "MIBR",
             "MapName": "SKYSCRAPER",
-            "Elo": 1482.5,
+            "Elo": 1474.5099031158516,
             "Region": "Brazil",
-            "LastGameUpdated": 67,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 522,
