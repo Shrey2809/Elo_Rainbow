@@ -3594,11 +3594,11 @@
             "ID": 588,
             "TeamName": "KS",
             "MapName": "CHALET",
-            "Elo": 1513.8418930057596,
+            "Elo": 1498.7813347227432,
             "Region": "Brazil",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 36,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 70,
@@ -6844,11 +6844,11 @@
             "ID": 54,
             "TeamName": "w7m",
             "MapName": "CHALET",
-            "Elo": 1562.5906623051394,
+            "Elo": 1577.6512205881559,
             "Region": "Brazil",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 36,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 560,
