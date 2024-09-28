@@ -1784,11 +1784,11 @@
             "ID": 100,
             "TeamName": "E1",
             "MapName": "LABS",
-            "Elo": 1478.7009943263413,
+            "Elo": 1458.100349790802,
             "Region": "Brazil",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 37,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 587,
@@ -2494,11 +2494,11 @@
             "ID": 87,
             "TeamName": "FURIA",
             "MapName": "LABS",
-            "Elo": 1508.10001260978,
+            "Elo": 1528.7006571453192,
             "Region": "Brazil",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 37,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 77,
