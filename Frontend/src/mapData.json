@@ -1884,11 +1884,11 @@
             "ID": 187,
             "TeamName": "E36",
             "MapName": "SKYSCRAPER",
-            "Elo": 1360,
+            "Elo": 1371.5002572453354,
             "Region": "Japan",
-            "LastGameUpdated": 186,
+            "LastGameUpdated": 25,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 682,
@@ -6324,11 +6324,11 @@
             "ID": 158,
             "TeamName": "VIT",
             "MapName": "SKYSCRAPER",
-            "Elo": 1332.1528248815782,
+            "Elo": 1320.6525676362428,
             "Region": "Japan",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 25,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 150,
