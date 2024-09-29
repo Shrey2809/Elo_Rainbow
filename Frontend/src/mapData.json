@@ -464,11 +464,11 @@
             "ID": 99,
             "TeamName": "BD",
             "MapName": "LABS",
-            "Elo": 1466.9918800481598,
+            "Elo": 1452.4017996997457,
             "Region": "Brazil",
-            "LastGameUpdated": 25,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 500,
@@ -914,11 +914,11 @@
             "ID": 519,
             "TeamName": "CAG",
             "MapName": "BANK",
-            "Elo": 1368.758954106567,
+            "Elo": 1381.5793702190829,
             "Region": "Japan",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 28,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 171,
@@ -1074,11 +1074,11 @@
             "ID": 515,
             "TeamName": "CGL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1354.6194762751634,
+            "Elo": 1367.7937320824842,
             "Region": "Japan",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 26,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 606,
@@ -1761,6 +1761,16 @@
             "RegionalCount": 3
         },
         {
+            "ID": 694,
+            "TeamName": "E1",
+            "MapName": "CLUB",
+            "Elo": 1453.771366469806,
+            "Region": "Brazil",
+            "LastGameUpdated": 44,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 73,
             "TeamName": "E1",
             "MapName": "CONS",
@@ -2164,11 +2174,11 @@
             "ID": 183,
             "TeamName": "FB",
             "MapName": "KAFE",
-            "Elo": 1390,
+            "Elo": 1370.9534340878297,
             "Region": "Japan",
-            "LastGameUpdated": 180,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 638,
@@ -2514,11 +2524,11 @@
             "ID": 502,
             "TeamName": "FURIA",
             "MapName": "SKYSCRAPER",
-            "Elo": 1518.7724046634137,
+            "Elo": 1532.4514575580388,
             "Region": "Brazil",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 492,
@@ -2634,11 +2644,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1546.3087595001625,
+            "Elo": 1573.027255927049,
             "Region": "Brazil",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 45,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 105,
@@ -2714,11 +2724,11 @@
             "ID": 63,
             "TeamName": "Fluxo",
             "MapName": "BORDER",
-            "Elo": 1458.8975455475513,
+            "Elo": 1444.524079470233,
             "Region": "Brazil",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 78,
@@ -3224,11 +3234,11 @@
             "ID": 159,
             "TeamName": "IGZ",
             "MapName": "SKYSCRAPER",
-            "Elo": 1373.3785209173386,
+            "Elo": 1360.2042651100178,
             "Region": "Japan",
-            "LastGameUpdated": 594,
+            "LastGameUpdated": 26,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 151,
@@ -3554,11 +3564,11 @@
             "ID": 197,
             "TeamName": "KNT",
             "MapName": "KAFE",
-            "Elo": 1359.214999364751,
+            "Elo": 1378.2615652769214,
             "Region": "Japan",
-            "LastGameUpdated": 596,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 172,
@@ -3634,11 +3644,11 @@
             "ID": 106,
             "TeamName": "KS",
             "MapName": "LABS",
-            "Elo": 1476.4889563270754,
+            "Elo": 1491.0790366754895,
             "Region": "Brazil",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 583,
@@ -3914,11 +3924,11 @@
             "ID": 463,
             "TeamName": "Liquid",
             "MapName": "CLUB",
-            "Elo": 1612.2288007249406,
+            "Elo": 1585.510304298054,
             "Region": "Brazil",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 45,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 471,
@@ -4144,11 +4154,11 @@
             "ID": 585,
             "TeamName": "MIBR",
             "MapName": "BORDER",
-            "Elo": 1473.4180058397712,
+            "Elo": 1487.7914719170897,
             "Region": "Brazil",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 52,
@@ -4404,11 +4414,11 @@
             "ID": 46,
             "TeamName": "NIP",
             "MapName": "SKYSCRAPER",
-            "Elo": 1488.0966733111554,
+            "Elo": 1474.4176204165303,
             "Region": "Brazil",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 237,
@@ -5834,11 +5844,11 @@
             "ID": 162,
             "TeamName": "SZ",
             "MapName": "BANK",
-            "Elo": 1377.6668222391852,
+            "Elo": 1364.8464061266693,
             "Region": "Japan",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 28,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 476,
@@ -6854,11 +6864,11 @@
             "ID": 560,
             "TeamName": "w7m",
             "MapName": "CLUB",
-            "Elo": 1595.6400245271361,
+            "Elo": 1606.8526337229637,
             "Region": "Brazil",
-            "LastGameUpdated": 702,
+            "LastGameUpdated": 44,
             "MajorCount": 2,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 558,

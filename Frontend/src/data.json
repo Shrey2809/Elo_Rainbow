@@ -59,71 +59,71 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1613.158699118515,
-            "LastGameUpdated": 38,
+            "Elo": 1639.0310840790607,
+            "LastGameUpdated": 45,
             "Region": "Brazil"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1646.8193215921776,
-            "LastGameUpdated": 36,
+            "Elo": 1656.285801648383,
+            "LastGameUpdated": 44,
             "Region": "Brazil"
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1665.6289558948683,
-            "LastGameUpdated": 40,
+            "Elo": 1639.7565709343226,
+            "LastGameUpdated": 45,
             "Region": "Brazil"
         },
         {
             "ID": 12,
             "TeamName": "NIP",
-            "Elo": 1475.7473229515554,
-            "LastGameUpdated": 39,
+            "Elo": 1466.0755922617968,
+            "LastGameUpdated": 41,
             "Region": "Brazil"
         },
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1373.610135549229,
-            "LastGameUpdated": 39,
+            "Elo": 1362.173413802491,
+            "LastGameUpdated": 42,
             "Region": "Brazil"
         },
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1474.450455721839,
-            "LastGameUpdated": 37,
+            "Elo": 1464.9839756656336,
+            "LastGameUpdated": 44,
             "Region": "Brazil"
         },
         {
             "ID": 15,
             "TeamName": "Fluxo",
-            "Elo": 1383.9771367478918,
-            "LastGameUpdated": 40,
+            "Elo": 1372.0284944698972,
+            "LastGameUpdated": 43,
             "Region": "Brazil"
         },
         {
             "ID": 16,
             "TeamName": "KS",
-            "Elo": 1457.7513833969551,
-            "LastGameUpdated": 36,
+            "Elo": 1469.188105143693,
+            "LastGameUpdated": 42,
             "Region": "Brazil"
         },
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1604.7858071880871,
-            "LastGameUpdated": 37,
+            "Elo": 1614.4575378778457,
+            "LastGameUpdated": 41,
             "Region": "Brazil"
         },
         {
             "ID": 18,
             "TeamName": "MIBR",
-            "Elo": 1455.6536621006685,
-            "LastGameUpdated": 38,
+            "Elo": 1467.6023043786631,
+            "LastGameUpdated": 43,
             "Region": "Brazil"
         },
         {
@@ -192,8 +192,8 @@
         {
             "ID": 28,
             "TeamName": "FB",
-            "Elo": 1287.051156637978,
-            "LastGameUpdated": 21,
+            "Elo": 1275.2319036686808,
+            "LastGameUpdated": 27,
             "Region": "Japan"
         },
         {
@@ -213,36 +213,36 @@
         {
             "ID": 31,
             "TeamName": "IGZ",
-            "Elo": 1365.302454949426,
-            "LastGameUpdated": 24,
+            "Elo": 1351.4105110439514,
+            "LastGameUpdated": 26,
             "Region": "Japan"
         },
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1531.2154698060956,
-            "LastGameUpdated": 22,
+            "Elo": 1545.5362640539574,
+            "LastGameUpdated": 28,
             "Region": "Japan"
         },
         {
             "ID": 33,
             "TeamName": "CGL",
-            "Elo": 1326.452472240909,
-            "LastGameUpdated": 22,
+            "Elo": 1340.3444161463835,
+            "LastGameUpdated": 26,
             "Region": "Japan"
         },
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1582.1867302618382,
-            "LastGameUpdated": 24,
+            "Elo": 1567.8659360139764,
+            "LastGameUpdated": 28,
             "Region": "Japan"
         },
         {
             "ID": 35,
             "TeamName": "KNT",
-            "Elo": 1404.0661164602545,
-            "LastGameUpdated": 23,
+            "Elo": 1415.8853694295517,
+            "LastGameUpdated": 27,
             "Region": "Japan"
         },
         {
