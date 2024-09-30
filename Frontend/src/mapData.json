@@ -494,11 +494,11 @@
             "ID": 483,
             "TeamName": "BDS",
             "MapName": "BANK",
-            "Elo": 1708.9889193951294,
+            "Elo": 1713.9073856199998,
             "Region": "Europe",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 35,
             "MajorCount": 5,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 124,
@@ -2084,11 +2084,11 @@
             "ID": 108,
             "TeamName": "ENCE",
             "MapName": "CLUB",
-            "Elo": 1501.7405614760123,
+            "Elo": 1515.3558878465806,
             "Region": "Europe",
-            "LastGameUpdated": 567,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 507,
@@ -2284,11 +2284,11 @@
             "ID": 112,
             "TeamName": "FNC",
             "MapName": "BANK",
-            "Elo": 1464.6020447609278,
+            "Elo": 1459.6835785360574,
             "Region": "Europe",
-            "LastGameUpdated": 160,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 121,
@@ -3294,11 +3294,11 @@
             "ID": 141,
             "TeamName": "ITB",
             "MapName": "CLUB",
-            "Elo": 1532.8235499642944,
+            "Elo": 1519.2082235937262,
             "Region": "Europe",
-            "LastGameUpdated": 25,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 110,
@@ -6404,11 +6404,11 @@
             "ID": 146,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1499.9832033289588,
+            "Elo": 1483.0384207730788,
             "Region": "Europe",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 123,
@@ -6814,11 +6814,11 @@
             "ID": 564,
             "TeamName": "WYLDE",
             "MapName": "CHALET",
-            "Elo": 1454.6824471644798,
+            "Elo": 1471.6272297203598,
             "Region": "Europe",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 139,
