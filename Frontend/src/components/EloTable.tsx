@@ -9,8 +9,15 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-
 import Teams from "../data.json";
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ui/hover-card"
+
+import { Button } from "@/components/ui/button";
+
 
 type TeamJSON = {
   ID: number;
@@ -30,6 +37,30 @@ type EloData = {
   team: string;
   elo: number;
   region: string;
+};
+
+type PastGamesJSON = {
+  ID: number;
+  TeamName: string;
+  Opponent: string;
+  EloChange: number;
+  TeamScore: number;
+  OpponentScore: number;
+  League: string;
+}
+
+type GamesData = {
+  Games: PastGamesJSON[];
+}
+
+type MatchupData = {
+  id: number;
+  team: string;
+  opponent: string;
+  eloChange: number;
+  teamScore: number;
+  opponentScore: number;
+  league: string;
 };
 
 // const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
@@ -182,15 +213,31 @@ export default function EloTable() {
                 {data.rank}
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
-                <img
-                  src={`/team_logos/${data.team.toLowerCase()}.png`}
-                  alt={data.team}
-                  className="w-10 h-10 mx-auto"
-                  loading="lazy"
-                  onError={(e) => {
-                    e.currentTarget.src = "/team_logos/no_org.png";
-                  }}
-                />
+                
+                <HoverCard openDelay={0} closeDelay={0}>
+                  <HoverCardTrigger asChild>
+                    <Button variant="link" className="text-lg font-bold">
+                      <img src={`/team_logos/${data.team.toLowerCase()}.png`}
+                        alt={data.team}
+                        className="w-10 h-10 mx-auto"
+                        loading="lazy"
+                        onError={(e) => {
+                          e.currentTarget.src = "/team_logos/no_org.png";
+                        }}/>
+                    </Button>
+                  </HoverCardTrigger>
+                  <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
+                    <div className="flex justify-between space-x-4 ">
+                      <div className="space-y-1">
+                        <h4 className="text-sm font-semibold">{data.team} last 5 games:</h4>
+                        <p className="text-sm">
+                          <span className="font-semibold">Majors:</span> <br/>
+                          <span className="font-semibold">Regionals: </span>
+                        </p>
+                      </div>
+                    </div>
+                  </HoverCardContent>
+                </HoverCard>
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
                 {data.team}
