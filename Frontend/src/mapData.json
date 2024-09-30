@@ -5964,11 +5964,11 @@
             "ID": 129,
             "TeamName": "Secret",
             "MapName": "BANK",
-            "Elo": 1523.2942947733493,
+            "Elo": 1544.5967575094846,
             "Region": "Europe",
-            "LastGameUpdated": 578,
+            "LastGameUpdated": 36,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 155,
@@ -6724,11 +6724,11 @@
             "ID": 154,
             "TeamName": "WOL",
             "MapName": "BANK",
-            "Elo": 1504.784934541269,
+            "Elo": 1483.4824718051336,
             "Region": "Europe",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 36,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 509,
