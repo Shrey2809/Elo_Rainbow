@@ -3,22 +3,22 @@
         {
             "ID": 1,
             "TeamName": "FURY",
-            "Elo": 1458.0540714959907,
-            "LastGameUpdated": 30,
+            "Elo": 1438.5308768043255,
+            "LastGameUpdated": 31,
             "Region": "Asia"
         },
         {
             "ID": 2,
             "TeamName": "NoCap",
-            "Elo": 1459.338787062563,
-            "LastGameUpdated": 29,
+            "Elo": 1449.2385723723712,
+            "LastGameUpdated": 32,
             "Region": "Asia"
         },
         {
             "ID": 3,
             "TeamName": "DW",
-            "Elo": 1322.3325117707896,
-            "LastGameUpdated": 29,
+            "Elo": 1350.2991295250997,
+            "LastGameUpdated": 33,
             "Region": "Asia"
         },
         {
@@ -31,8 +31,8 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1474.995558895321,
-            "LastGameUpdated": 28,
+            "Elo": 1485.0957735855127,
+            "LastGameUpdated": 32,
             "Region": "Asia"
         },
         {
@@ -45,8 +45,8 @@
         {
             "ID": 7,
             "TeamName": "Bleed",
-            "Elo": 1595.415128160201,
-            "LastGameUpdated": 25,
+            "Elo": 1614.9383228518661,
+            "LastGameUpdated": 31,
             "Region": "Asia"
         },
         {
@@ -563,8 +563,8 @@
         {
             "ID": 81,
             "TeamName": "Rival",
-            "Elo": 1313.316538189697,
-            "LastGameUpdated": 30,
+            "Elo": 1285.3499204353868,
+            "LastGameUpdated": 33,
             "Region": "Asia"
         },
         {

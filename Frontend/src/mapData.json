@@ -704,11 +704,11 @@
             "ID": 18,
             "TeamName": "Bleed",
             "MapName": "CLUB",
-            "Elo": 1509.5667979516254,
+            "Elo": 1519.567396725169,
             "Region": "Asia",
-            "LastGameUpdated": 25,
+            "LastGameUpdated": 31,
             "MajorCount": 2,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 41,
@@ -739,6 +739,16 @@
             "LastGameUpdated": 4,
             "MajorCount": 4,
             "RegionalCount": 4
+        },
+        {
+            "ID": 704,
+            "TeamName": "Bleed",
+            "MapName": "LAIR",
+            "Elo": 1625.613400853457,
+            "Region": "Asia",
+            "LastGameUpdated": 31,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 472,
@@ -1614,11 +1624,21 @@
             "ID": 17,
             "TeamName": "DW",
             "MapName": "CLUB",
-            "Elo": 1344.21800894242,
+            "Elo": 1358.3565575395144,
             "Region": "Asia",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
+        },
+        {
+            "ID": 705,
+            "TeamName": "DW",
+            "MapName": "CONS",
+            "Elo": 1364.8653904273224,
+            "Region": "Asia",
+            "LastGameUpdated": 33,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 37,
@@ -1984,11 +2004,11 @@
             "ID": 36,
             "TeamName": "ELV",
             "MapName": "BANK",
-            "Elo": 1399.9013681113445,
+            "Elo": 1413.493516078827,
             "Region": "Asia",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 499,
@@ -2004,11 +2024,11 @@
             "ID": 23,
             "TeamName": "ELV",
             "MapName": "CHALET",
-            "Elo": 1468.7104276657676,
+            "Elo": 1478.8064415680108,
             "Region": "Asia",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 496,
@@ -2034,11 +2054,11 @@
             "ID": 11,
             "TeamName": "ELV",
             "MapName": "KAFE",
-            "Elo": 1412.90133204665,
+            "Elo": 1398.509404335414,
             "Region": "Asia",
-            "LastGameUpdated": 531,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 39,
@@ -2584,11 +2604,11 @@
             "ID": 494,
             "TeamName": "FURY",
             "MapName": "CLUB",
-            "Elo": 1439.1476304260825,
+            "Elo": 1429.147031652539,
             "Region": "Asia",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 31,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 19,
@@ -2614,11 +2634,11 @@
             "ID": 619,
             "TeamName": "FURY",
             "MapName": "LAIR",
-            "Elo": 1439.3919994293303,
+            "Elo": 1428.7169214277394,
             "Region": "Asia",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 31,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 1,
@@ -4534,21 +4554,21 @@
             "ID": 28,
             "TeamName": "NoCap",
             "MapName": "BANK",
-            "Elo": 1430.3350538192776,
+            "Elo": 1416.742905851795,
             "Region": "Asia",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 16,
             "TeamName": "NoCap",
             "MapName": "CHALET",
-            "Elo": 1401.049428922238,
+            "Elo": 1390.9534150199947,
             "Region": "Asia",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 27,
@@ -4564,11 +4584,11 @@
             "ID": 12,
             "TeamName": "NoCap",
             "MapName": "KAFE",
-            "Elo": 1359.9083327002568,
+            "Elo": 1374.3002604114927,
             "Region": "Asia",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 497,
@@ -5594,21 +5614,21 @@
             "ID": 609,
             "TeamName": "Rival",
             "MapName": "CLUB",
-            "Elo": 1324.242770541414,
+            "Elo": 1310.1042219443198,
             "Region": "Asia",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 616,
             "TeamName": "Rival",
             "MapName": "CONS",
-            "Elo": 1340.2499015813735,
+            "Elo": 1325.6836406791508,
             "Region": "Asia",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 488,
