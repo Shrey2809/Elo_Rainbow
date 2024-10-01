@@ -2834,11 +2834,11 @@
             "ID": 113,
             "TeamName": "G2",
             "MapName": "BANK",
-            "Elo": 1518.662743772932,
+            "Elo": 1501.0598179513813,
             "Region": "Europe",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 37,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 120,
@@ -2864,11 +2864,11 @@
             "ID": 136,
             "TeamName": "G2",
             "MapName": "CONS",
-            "Elo": 1536.756792774764,
+            "Elo": 1520.2495986945466,
             "Region": "Europe",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 37,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 149,
@@ -6454,11 +6454,11 @@
             "ID": 150,
             "TeamName": "VP",
             "MapName": "BANK",
-            "Elo": 1516.6192863204096,
+            "Elo": 1534.2222121419602,
             "Region": "Europe",
-            "LastGameUpdated": 141,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 135,
@@ -6494,11 +6494,11 @@
             "ID": 568,
             "TeamName": "VP",
             "MapName": "CONS",
-            "Elo": 1501.7283992036137,
+            "Elo": 1518.2355932838311,
             "Region": "Europe",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 508,
