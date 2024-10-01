@@ -6804,11 +6804,11 @@
             "ID": 509,
             "TeamName": "WOL",
             "MapName": "CHALET",
-            "Elo": 1446.7941831851888,
+            "Elo": 1462.8644899778255,
             "Region": "Europe",
-            "LastGameUpdated": 682,
+            "LastGameUpdated": 38,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 138,
@@ -6834,11 +6834,11 @@
             "ID": 148,
             "TeamName": "WOL",
             "MapName": "LABS",
-            "Elo": 1477.0235095265948,
+            "Elo": 1486.1463670603416,
             "Region": "Europe",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 38,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 570,
@@ -6864,11 +6864,11 @@
             "ID": 133,
             "TeamName": "WOL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1455.619162045859,
+            "Elo": 1438.864542653428,
             "Region": "Europe",
-            "LastGameUpdated": 153,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 130,
@@ -6884,11 +6884,11 @@
             "ID": 564,
             "TeamName": "WYLDE",
             "MapName": "CHALET",
-            "Elo": 1471.6272297203598,
+            "Elo": 1455.556922927723,
             "Region": "Europe",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 139,
@@ -6914,11 +6914,11 @@
             "ID": 563,
             "TeamName": "WYLDE",
             "MapName": "LABS",
-            "Elo": 1380.766929948429,
+            "Elo": 1371.6440724146821,
             "Region": "Europe",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 571,
@@ -6934,11 +6934,11 @@
             "ID": 143,
             "TeamName": "WYLDE",
             "MapName": "SKYSCRAPER",
-            "Elo": 1512.5,
+            "Elo": 1529.2546193924309,
             "Region": "Europe",
-            "LastGameUpdated": 131,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 103,
