@@ -1224,11 +1224,11 @@
             "ID": 239,
             "TeamName": "CN",
             "MapName": "KAFE",
-            "Elo": 1328.5218150537974,
+            "Elo": 1314.14862178018,
             "Region": "Latin America",
-            "LastGameUpdated": 618,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 651,
@@ -1364,11 +1364,11 @@
             "ID": 235,
             "TeamName": "CTY",
             "MapName": "BORDER",
-            "Elo": 1354.56924347878,
+            "Elo": 1372.394881835942,
             "Region": "Latin America",
-            "LastGameUpdated": 695,
+            "LastGameUpdated": 41,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 217,
@@ -3911,6 +3911,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 702,
+            "TeamName": "LYCUS",
+            "MapName": "BORDER",
+            "Elo": 1234.1576660743967,
+            "Region": "Latin America",
+            "LastGameUpdated": 41,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 657,
             "TeamName": "LYCUS",
             "MapName": "CHALET",
@@ -5504,11 +5514,11 @@
             "ID": 263,
             "TeamName": "RVN",
             "MapName": "KAFE",
-            "Elo": 1343.0486051750274,
+            "Elo": 1357.4217984486447,
             "Region": "Latin America",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 650,
