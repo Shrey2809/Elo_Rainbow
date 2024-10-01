@@ -181,6 +181,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 700,
+            "TeamName": "7REX",
+            "MapName": "LAIR",
+            "Elo": 1338.6862785445753,
+            "Region": "Latin America",
+            "LastGameUpdated": 38,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 534,
             "TeamName": "AKT",
             "MapName": "BANK",
@@ -274,11 +284,11 @@
             "ID": 256,
             "TeamName": "ALPHA",
             "MapName": "BORDER",
-            "Elo": 1355.6480355488707,
+            "Elo": 1378.4236576611559,
             "Region": "Latin America",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 244,
@@ -3411,6 +3421,16 @@
             "RegionalCount": 3
         },
         {
+            "ID": 701,
+            "TeamName": "KNI",
+            "MapName": "BORDER",
+            "Elo": 1381.403094847985,
+            "Region": "Latin America",
+            "LastGameUpdated": 39,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 656,
             "TeamName": "KNI",
             "MapName": "CHALET",
@@ -4114,11 +4134,11 @@
             "ID": 255,
             "TeamName": "ME",
             "MapName": "CHALET",
-            "Elo": 1326.2070929259291,
+            "Elo": 1337.0859900253245,
             "Region": "Latin America",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 220,
@@ -4304,11 +4324,11 @@
             "ID": 224,
             "TeamName": "MvG",
             "MapName": "CHALET",
-            "Elo": 1228.2358650198787,
+            "Elo": 1217.3569679204834,
             "Region": "Latin America",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 261,
@@ -6229,6 +6249,16 @@
             "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 699,
+            "TeamName": "VASCO",
+            "MapName": "LAIR",
+            "Elo": 1416.7201928856014,
+            "Region": "Latin America",
+            "LastGameUpdated": 38,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 258,
