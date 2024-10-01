@@ -14,11 +14,11 @@
             "ID": 232,
             "TeamName": "6K",
             "MapName": "BORDER",
-            "Elo": 1353.7008209279277,
+            "Elo": 1336.714314137605,
             "Region": "Latin America",
-            "LastGameUpdated": 619,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 216,
@@ -6069,6 +6069,16 @@
             "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 3
+        },
+        {
+            "ID": 703,
+            "TeamName": "TSG",
+            "MapName": "BORDER",
+            "Elo": 1324.4032528133193,
+            "Region": "Latin America",
+            "LastGameUpdated": 42,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 648,
