@@ -2594,11 +2594,11 @@
             "ID": 22,
             "TeamName": "FURY",
             "MapName": "CHALET",
-            "Elo": 1388.6389481055746,
+            "Elo": 1403.738870196552,
             "Region": "Asia",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 494,
@@ -2621,14 +2621,24 @@
             "RegionalCount": 6
         },
         {
+            "ID": 706,
+            "TeamName": "FURY",
+            "MapName": "KAFE",
+            "Elo": 1431.4484325390092,
+            "Region": "Asia",
+            "LastGameUpdated": 34,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 38,
             "TeamName": "FURY",
             "MapName": "LABS",
-            "Elo": 1376.4531566870019,
+            "Elo": 1392.2752666827123,
             "Region": "Asia",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 619,
@@ -4564,11 +4574,11 @@
             "ID": 16,
             "TeamName": "NoCap",
             "MapName": "CHALET",
-            "Elo": 1390.9534150199947,
+            "Elo": 1375.8534929290174,
             "Region": "Asia",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 27,
@@ -4584,21 +4594,21 @@
             "ID": 12,
             "TeamName": "NoCap",
             "MapName": "KAFE",
-            "Elo": 1374.3002604114927,
+            "Elo": 1386.263622383928,
             "Region": "Asia",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 497,
             "TeamName": "NoCap",
             "MapName": "LABS",
-            "Elo": 1395.514275388139,
+            "Elo": 1379.6921653924285,
             "Region": "Asia",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 2,
