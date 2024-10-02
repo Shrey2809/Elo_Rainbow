@@ -674,11 +674,11 @@
             "ID": 469,
             "TeamName": "Bleed",
             "MapName": "BANK",
-            "Elo": 1483.281111645425,
+            "Elo": 1465.3080166525601,
             "Region": "Asia",
-            "LastGameUpdated": 449,
+            "LastGameUpdated": 35,
             "MajorCount": 1,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 7,
@@ -714,11 +714,11 @@
             "ID": 41,
             "TeamName": "Bleed",
             "MapName": "CONS",
-            "Elo": 1377.7505282709908,
+            "Elo": 1364.8964102949676,
             "Region": "Asia",
-            "LastGameUpdated": 660,
+            "LastGameUpdated": 35,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 470,
@@ -734,11 +734,11 @@
             "ID": 42,
             "TeamName": "Bleed",
             "MapName": "LABS",
-            "Elo": 1545.157608052109,
+            "Elo": 1551.921392470535,
             "Region": "Asia",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 35,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 704,
@@ -2004,11 +2004,11 @@
             "ID": 36,
             "TeamName": "ELV",
             "MapName": "BANK",
-            "Elo": 1413.493516078827,
+            "Elo": 1431.4666110716917,
             "Region": "Asia",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 499,
@@ -2044,11 +2044,11 @@
             "ID": 20,
             "TeamName": "ELV",
             "MapName": "CONS",
-            "Elo": 1367.9052389974427,
+            "Elo": 1380.7593569734659,
             "Region": "Asia",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 11,
@@ -2064,11 +2064,11 @@
             "ID": 39,
             "TeamName": "ELV",
             "MapName": "LABS",
-            "Elo": 1372.8596237674553,
+            "Elo": 1366.0958393490293,
             "Region": "Asia",
-            "LastGameUpdated": 533,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 5,
