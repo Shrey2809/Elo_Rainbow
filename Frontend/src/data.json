@@ -339,22 +339,22 @@
         {
             "ID": 49,
             "TeamName": "WINTERBEAR",
-            "Elo": 1304.536909055354,
-            "LastGameUpdated": 21,
+            "Elo": 1319.8021818353943,
+            "LastGameUpdated": 25,
             "Region": "Middle East & North Africa"
         },
         {
             "ID": 50,
             "TeamName": "GK",
-            "Elo": 1440.465932204966,
-            "LastGameUpdated": 22,
+            "Elo": 1450.094576232259,
+            "LastGameUpdated": 28,
             "Region": "Middle East & North Africa"
         },
         {
             "ID": 51,
             "TeamName": "ROC",
-            "Elo": 1427.5577683609126,
-            "LastGameUpdated": 21,
+            "Elo": 1417.9291243336197,
+            "LastGameUpdated": 28,
             "Region": "Middle East & North Africa"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1456.2230697778953,
-            "LastGameUpdated": 23,
+            "Elo": 1469.0526159302246,
+            "LastGameUpdated": 27,
             "Region": "Middle East & North Africa"
         },
         {
@@ -612,15 +612,15 @@
         {
             "ID": 88,
             "TeamName": "AKT",
-            "Elo": 1211.7801855017242,
-            "LastGameUpdated": 24,
+            "Elo": 1224.039553107696,
+            "LastGameUpdated": 26,
             "Region": "Middle East & North Africa"
         },
         {
             "ID": 89,
             "TeamName": "TWM",
-            "Elo": 1361.1977537059074,
-            "LastGameUpdated": 24,
+            "Elo": 1348.368207553578,
+            "LastGameUpdated": 27,
             "Region": "Middle East & North Africa"
         },
         {
@@ -682,15 +682,15 @@
         {
             "ID": 98,
             "TeamName": "VICIOUS",
-            "Elo": 1310.6818966423518,
-            "LastGameUpdated": 23,
+            "Elo": 1295.4166238623116,
+            "LastGameUpdated": 25,
             "Region": "Middle East & North Africa"
         },
         {
             "ID": 99,
             "TeamName": "EAST",
-            "Elo": 1291.6568354050512,
-            "LastGameUpdated": 22,
+            "Elo": 1279.3974677990793,
+            "LastGameUpdated": 26,
             "Region": "Middle East & North Africa"
         }
     ]

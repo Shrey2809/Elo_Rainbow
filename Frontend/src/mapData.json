@@ -234,11 +234,11 @@
             "ID": 677,
             "TeamName": "AKT",
             "MapName": "LABS",
-            "Elo": 1230.208672863504,
+            "Elo": 1241.61505621784,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 26,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 536,
@@ -2001,6 +2001,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 711,
+            "TeamName": "EAST",
+            "MapName": "LABS",
+            "Elo": 1267.9910844447434,
+            "Region": "Middle East & North Africa",
+            "LastGameUpdated": 26,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 542,
             "TeamName": "EASTSIDE",
             "MapName": "BANK",
@@ -2264,11 +2274,11 @@
             "ID": 282,
             "TeamName": "FLCS",
             "MapName": "BANK",
-            "Elo": 1384.687661358673,
+            "Elo": 1403.7547626459757,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 293,
@@ -3064,11 +3074,11 @@
             "ID": 307,
             "TeamName": "GK",
             "MapName": "CONS",
-            "Elo": 1337.9553932842223,
+            "Elo": 1350.2174123050127,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 28,
             "MajorCount": 3,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 547,
@@ -5481,6 +5491,16 @@
             "RegionalCount": 4
         },
         {
+            "ID": 712,
+            "TeamName": "ROC",
+            "MapName": "CONS",
+            "Elo": 1405.6671053128293,
+            "Region": "Middle East & North Africa",
+            "LastGameUpdated": 28,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 546,
             "TeamName": "ROC",
             "MapName": "KAFE",
@@ -6204,11 +6224,11 @@
             "ID": 540,
             "TeamName": "TWM",
             "MapName": "BANK",
-            "Elo": 1415.8836126885678,
+            "Elo": 1396.8165114012652,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 537,
@@ -6384,11 +6404,11 @@
             "ID": 680,
             "TeamName": "VICIOUS",
             "MapName": "CHALET",
-            "Elo": 1304.6260907154895,
+            "Elo": 1290.4314819415445,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 25,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 671,
@@ -6804,11 +6824,11 @@
             "ID": 287,
             "TeamName": "WINTERBEAR",
             "MapName": "CHALET",
-            "Elo": 1323.2988199514605,
+            "Elo": 1337.4934287254055,
             "Region": "Middle East & North Africa",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 25,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 270,
