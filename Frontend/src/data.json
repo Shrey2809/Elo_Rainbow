@@ -248,8 +248,8 @@
         {
             "ID": 36,
             "TeamName": "ME",
-            "Elo": 1301.0425688795412,
-            "LastGameUpdated": 37,
+            "Elo": 1321.6158987301792,
+            "LastGameUpdated": 43,
             "Region": "Latin America"
         },
         {
@@ -262,29 +262,29 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1449.2841373326767,
-            "LastGameUpdated": 39,
+            "Elo": 1425.5036481019022,
+            "LastGameUpdated": 45,
             "Region": "Latin America"
         },
         {
             "ID": 39,
             "TeamName": "KNI",
-            "Elo": 1404.17871696027,
-            "LastGameUpdated": 39,
+            "Elo": 1413.7686899743492,
+            "LastGameUpdated": 44,
             "Region": "Latin America"
         },
         {
             "ID": 40,
             "TeamName": "MvG",
-            "Elo": 1177.255167898793,
-            "LastGameUpdated": 37,
+            "Elo": 1167.6651948847139,
+            "LastGameUpdated": 44,
             "Region": "Latin America"
         },
         {
             "ID": 41,
             "TeamName": "VASCO",
-            "Elo": 1436.6210801984685,
-            "LastGameUpdated": 38,
+            "Elo": 1416.0477503478305,
+            "LastGameUpdated": 43,
             "Region": "Latin America"
         },
         {
@@ -297,29 +297,29 @@
         {
             "ID": 43,
             "TeamName": "6K",
-            "Elo": 1427.629273524749,
-            "LastGameUpdated": 42,
+            "Elo": 1412.969940848284,
+            "LastGameUpdated": 48,
             "Region": "Latin America"
         },
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1452.8801461452297,
-            "LastGameUpdated": 41,
+            "Elo": 1467.1011604878067,
+            "LastGameUpdated": 47,
             "Region": "Latin America"
         },
         {
             "ID": 45,
             "TeamName": "RVN",
-            "Elo": 1349.5460459631265,
-            "LastGameUpdated": 40,
+            "Elo": 1335.3250316205495,
+            "LastGameUpdated": 47,
             "Region": "Latin America"
         },
         {
             "ID": 46,
             "TeamName": "CN",
-            "Elo": 1252.2218036591084,
-            "LastGameUpdated": 40,
+            "Elo": 1266.8811363355733,
+            "LastGameUpdated": 48,
             "Region": "Latin America"
         },
         {
@@ -661,22 +661,22 @@
         {
             "ID": 95,
             "TeamName": "7REX",
-            "Elo": 1318.7853912317082,
-            "LastGameUpdated": 38,
+            "Elo": 1342.5658804624827,
+            "LastGameUpdated": 45,
             "Region": "Latin America"
         },
         {
             "ID": 96,
             "TeamName": "LYCUS",
-            "Elo": 1251.9833044315587,
-            "LastGameUpdated": 41,
+            "Elo": 1233.0430308439866,
+            "LastGameUpdated": 46,
             "Region": "Latin America"
         },
         {
             "ID": 97,
             "TeamName": "TSG",
-            "Elo": 1307.4167460229967,
-            "LastGameUpdated": 42,
+            "Elo": 1326.3570196105688,
+            "LastGameUpdated": 46,
             "Region": "Latin America"
         },
         {
