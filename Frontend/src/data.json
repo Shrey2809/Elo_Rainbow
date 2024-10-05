@@ -388,15 +388,15 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1463.9722784364149,
-            "LastGameUpdated": 31,
+            "Elo": 1457.3848883374162,
+            "LastGameUpdated": 37,
             "Region": "North America"
         },
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1543.3520567636065,
-            "LastGameUpdated": 34,
+            "Elo": 1576.670821680995,
+            "LastGameUpdated": 38,
             "Region": "North America"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1545.9720475219672,
-            "LastGameUpdated": 36,
+            "Elo": 1552.5594376209658,
+            "LastGameUpdated": 37,
             "Region": "North America"
         },
         {
@@ -444,8 +444,8 @@
         {
             "ID": 64,
             "TeamName": "C9BC",
-            "Elo": 1681.029518846798,
-            "LastGameUpdated": 36,
+            "Elo": 1647.7107539294095,
+            "LastGameUpdated": 38,
             "Region": "North America"
         },
         {

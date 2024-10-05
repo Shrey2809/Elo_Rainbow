@@ -874,11 +874,11 @@
             "ID": 322,
             "TeamName": "C9BC",
             "MapName": "BORDER",
-            "Elo": 1558.0875221301271,
+            "Elo": 1543.0459246007856,
             "Region": "North America",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 38,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 340,
@@ -894,11 +894,11 @@
             "ID": 316,
             "TeamName": "C9BC",
             "MapName": "CLUB",
-            "Elo": 1477.7284061736473,
+            "Elo": 1467.3905919194121,
             "Region": "North America",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 368,
@@ -4154,11 +4154,11 @@
             "ID": 553,
             "TeamName": "M80",
             "MapName": "BORDER",
-            "Elo": 1486.4458062826375,
+            "Elo": 1501.487403811979,
             "Region": "North America",
-            "LastGameUpdated": 646,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 309,
@@ -4174,11 +4174,11 @@
             "ID": 344,
             "TeamName": "M80",
             "MapName": "CLUB",
-            "Elo": 1538.4364031061766,
+            "Elo": 1548.7742173604117,
             "Region": "North America",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 339,
@@ -5804,11 +5804,11 @@
             "ID": 312,
             "TeamName": "SQ",
             "MapName": "CLUB",
-            "Elo": 1525.6283210317713,
+            "Elo": 1538.1158121213982,
             "Region": "North America",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 327,
@@ -5834,11 +5834,11 @@
             "ID": 336,
             "TeamName": "SQ",
             "MapName": "LABS",
-            "Elo": 1484.8744173020725,
+            "Elo": 1497.1091411477828,
             "Region": "North America",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 578,
@@ -5864,11 +5864,11 @@
             "ID": 552,
             "TeamName": "SQ",
             "MapName": "SKYSCRAPER",
-            "Elo": 1542.611833600056,
+            "Elo": 1525.841960163053,
             "Region": "North America",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 353,
@@ -6734,11 +6734,11 @@
             "ID": 575,
             "TeamName": "WCG",
             "MapName": "CLUB",
-            "Elo": 1423.2488384822118,
+            "Elo": 1410.7613473925849,
             "Region": "North America",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 577,
@@ -6764,11 +6764,11 @@
             "ID": 355,
             "TeamName": "WCG",
             "MapName": "LABS",
-            "Elo": 1477.5,
+            "Elo": 1465.2652761542897,
             "Region": "North America",
-            "LastGameUpdated": 325,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 317,
@@ -6784,11 +6784,11 @@
             "ID": 550,
             "TeamName": "WCG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1501.4255191234613,
+            "Elo": 1518.1953925604641,
             "Region": "North America",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 427,
