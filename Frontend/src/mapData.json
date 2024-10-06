@@ -2644,11 +2644,11 @@
             "ID": 502,
             "TeamName": "FURIA",
             "MapName": "SKYSCRAPER",
-            "Elo": 1532.4514575580388,
+            "Elo": 1516.8042798248428,
             "Region": "Brazil",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 492,
@@ -7194,11 +7194,11 @@
             "ID": 101,
             "TeamName": "w7m",
             "MapName": "SKYSCRAPER",
-            "Elo": 1517.4519740754922,
+            "Elo": 1533.0991518086882,
             "Region": "Brazil",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 42,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 526,
