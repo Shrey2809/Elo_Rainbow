@@ -59,29 +59,29 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1658.4345795139411,
-            "LastGameUpdated": 38,
+            "Elo": 1717.398524987739,
+            "LastGameUpdated": 43,
             "Region": "Brazil"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1656.285801648383,
-            "LastGameUpdated": 44,
+            "Elo": 1621.0120555913466,
+            "LastGameUpdated": 40,
             "Region": "Brazil"
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1657.4324724084759,
-            "LastGameUpdated": 39,
+            "Elo": 1633.7422729917146,
+            "LastGameUpdated": 43,
             "Region": "Brazil"
         },
         {
             "ID": 12,
             "TeamName": "NIP",
-            "Elo": 1446.6720968269165,
-            "LastGameUpdated": 38,
+            "Elo": 1430.5034352926532,
+            "LastGameUpdated": 41,
             "Region": "Brazil"
         },
         {
@@ -94,8 +94,8 @@
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1444.9550241262248,
-            "LastGameUpdated": 37,
+            "Elo": 1461.123685660488,
+            "LastGameUpdated": 41,
             "Region": "Brazil"
         },
         {
@@ -234,15 +234,15 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1580.4321711001626,
-            "LastGameUpdated": 32,
+            "Elo": 1586.7743628678654,
+            "LastGameUpdated": 35,
             "Region": "Japan"
         },
         {
             "ID": 35,
             "TeamName": "KNT",
-            "Elo": 1461.6464407721608,
-            "LastGameUpdated": 31,
+            "Elo": 1455.3042490044581,
+            "LastGameUpdated": 35,
             "Region": "Japan"
         },
         {
