@@ -2614,11 +2614,11 @@
             "ID": 87,
             "TeamName": "FURIA",
             "MapName": "LABS",
-            "Elo": 1528.7006571453192,
+            "Elo": 1511.8887769969224,
             "Region": "Brazil",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 39,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 720,
@@ -4124,11 +4124,11 @@
             "ID": 464,
             "TeamName": "Liquid",
             "MapName": "LABS",
-            "Elo": 1486.5272971548702,
+            "Elo": 1503.339177303267,
             "Region": "Brazil",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 39,
             "MajorCount": 5,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 719,
@@ -5804,11 +5804,11 @@
             "ID": 556,
             "TeamName": "SQ",
             "MapName": "BORDER",
-            "Elo": 1495.9187196908922,
+            "Elo": 1513.1547528852534,
             "Region": "North America",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 342,
@@ -5864,11 +5864,11 @@
             "ID": 578,
             "TeamName": "SQ",
             "MapName": "LAIR",
-            "Elo": 1557.3109131683696,
+            "Elo": 1575.055000990443,
             "Region": "North America",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 319,
@@ -5904,11 +5904,11 @@
             "ID": 358,
             "TeamName": "SSG",
             "MapName": "BORDER",
-            "Elo": 1548.0993819822625,
+            "Elo": 1530.8633487879013,
             "Region": "North America",
-            "LastGameUpdated": 701,
+            "LastGameUpdated": 39,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 479,
@@ -5964,11 +5964,11 @@
             "ID": 684,
             "TeamName": "SSG",
             "MapName": "LAIR",
-            "Elo": 1621.5941283744012,
+            "Elo": 1603.8500405523278,
             "Region": "North America",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 343,

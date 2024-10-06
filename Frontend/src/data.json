@@ -73,7 +73,7 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1642.934190631217,
+            "Elo": 1657.4324724084759,
             "LastGameUpdated": 39,
             "Region": "Brazil"
         },
@@ -115,7 +115,7 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1631.30886972036,
+            "Elo": 1616.8105879431012,
             "LastGameUpdated": 39,
             "Region": "Brazil"
         },
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1552.5594376209658,
-            "LastGameUpdated": 37,
+            "Elo": 1586.5822304676626,
+            "LastGameUpdated": 39,
             "Region": "North America"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1617.316169828829,
-            "LastGameUpdated": 33,
+            "Elo": 1583.2933769821323,
+            "LastGameUpdated": 39,
             "Region": "North America"
         },
         {
