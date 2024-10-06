@@ -2584,11 +2584,11 @@
             "ID": 69,
             "TeamName": "FURIA",
             "MapName": "CLUB",
-            "Elo": 1542.1005396768435,
+            "Elo": 1527.8247964189827,
             "Region": "Brazil",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 42,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 481,
@@ -7134,11 +7134,11 @@
             "ID": 560,
             "TeamName": "w7m",
             "MapName": "CLUB",
-            "Elo": 1606.8526337229637,
+            "Elo": 1621.1283769808244,
             "Region": "Brazil",
-            "LastGameUpdated": 44,
+            "LastGameUpdated": 42,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 558,
