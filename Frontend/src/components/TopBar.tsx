@@ -16,13 +16,13 @@ const TopBar = () => {
   };
 
   // Determine which tab is currently active based on the location
-  const currentTab = location.pathname === "/maps" 
-    ? "map-elo" 
-    : location.pathname === "/si-probabilities" 
-    ? "si-probabilities" 
-    : "si-probabilities"
-    ? "elo"
-    : "elo";
+// Determine which tab is currently active based on the location
+const currentTab = location.pathname === "/maps"
+  ? "map-elo"
+  : location.pathname === "/si-probabilities"
+  ? "si-probabilities"
+  : "elo";
+
 
   return (
     <div className="flex flex-col items-center justify-center bg-myColor text-white font-sans ">
