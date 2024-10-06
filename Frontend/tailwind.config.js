@@ -28,6 +28,7 @@ export default {
       colors: {
         myColor: "#7a527a",
         myDarkColor: "#5d215d",
+        mySecondaryColor: '#996699',
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {

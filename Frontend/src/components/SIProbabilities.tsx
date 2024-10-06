@@ -96,14 +96,16 @@ export default function SIProbabilites() {
 
   return (
     <div className="w-full">
-      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">SI Probabilities: Last game considered is W7M 2-0 FURIA</h1>
-      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
-      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
-              This is used to simulate a final state of stage 2 regional positions. 
-              This in turn is used to randomly assign positions at the Major, based on if they start in phase 1 or phase 2. 
-              This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1>
-      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 100k simulations.</h1>
-      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">If you have questions, feel free to reach out to me on Twitter or Discord</h1>
+      <div className="items-center justify-left font-normal font-sans">
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">SI Probabilities: Last game considered is W7M 2-0 FURIA</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
+                This is used to simulate a final state of stage 2 regional positions. 
+                This in turn is used to randomly assign positions at the Major, based on if they start in phase 1 or phase 2. 
+                This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 100k simulations.</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">If you have questions, feel free to reach out to me on Twitter or Discord</h1>
+      </div>
       <div className="p-4 flex gap-4 font-sans">
         <input
           type="text"
@@ -155,7 +157,7 @@ export default function SIProbabilites() {
               Team
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
-              Probability of Making SI
+              Chance
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
             <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
@@ -182,7 +184,7 @@ export default function SIProbabilites() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow
-              className={data.percentage === 1 ? 'fill-lime-700' : ''}
+              className={data.percentage === 1 ? 'bg-mySecondaryColor hover:bg-mySecondaryColor' : ''}
               key={data.rank}
             >
               <TableCell className="w-1/5 text-center font-semibold">
