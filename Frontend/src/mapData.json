@@ -1734,31 +1734,31 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1511.745052504215,
+            "Elo": 1528.7285345628065,
             "Region": "North America",
-            "LastGameUpdated": 683,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 337,
             "TeamName": "DZ",
             "MapName": "CHALET",
-            "Elo": 1547.6161836758502,
+            "Elo": 1532.6594634497753,
             "Region": "North America",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 313,
             "TeamName": "DZ",
             "MapName": "CLUB",
-            "Elo": 1522.5642726609833,
+            "Elo": 1536.005466475544,
             "Region": "North America",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 40,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 345,
@@ -4174,31 +4174,31 @@
             "ID": 553,
             "TeamName": "M80",
             "MapName": "BORDER",
-            "Elo": 1501.487403811979,
+            "Elo": 1484.5039217533874,
             "Region": "North America",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 309,
             "TeamName": "M80",
             "MapName": "CHALET",
-            "Elo": 1478.4318600442275,
+            "Elo": 1493.3885802703023,
             "Region": "North America",
-            "LastGameUpdated": 509,
+            "LastGameUpdated": 40,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 344,
             "TeamName": "M80",
             "MapName": "CLUB",
-            "Elo": 1548.7742173604117,
+            "Elo": 1535.3330235458511,
             "Region": "North America",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 339,
