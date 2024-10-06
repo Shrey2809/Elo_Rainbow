@@ -30,7 +30,7 @@ type EloData = {
 };
 
 // const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
-const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
@@ -96,7 +96,7 @@ export default function SIProbabilites() {
 
   return (
     <div className="w-full">
-      <h1 className="text-3xl text-white align-center">SI Probabilities: Last game considered DZ 2-1 M80 in the NAL Playoffs</h1>
+      <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">SI Probabilities: Last game considered DZ 2-1 M80 in the NAL Playoffs</h1>
       <div className="p-4 flex gap-4 font-sans">
         
         <input
