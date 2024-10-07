@@ -9,8 +9,13 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ui/hover-card"
 import Teams from "../SIData.json";
+import { Button } from "./ui/button";
 
 type TeamJSON = {
   TeamName: string;
@@ -207,7 +212,19 @@ export default function SIProbabilites() {
                 {data.team}
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
-                {(data.percentage * 100).toFixed(4)}%
+                {(data.percentage * 100).toFixed(2)}%
+                <HoverCard openDelay={0} closeDelay={0}>
+                <HoverCardTrigger asChild>
+                  <Button variant="link" className="text-lg font-bold">{(data.percentage * 100).toFixed(2)}%</Button>
+                </HoverCardTrigger>
+                <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
+                  <div className="flex justify-between space-x-4 ">
+                    <div className="space-y-1">
+                      <h4 className="text-sm font-semibold">{data.team} has {(data.percentage * 100).toFixed(4)}% chance of qualifying for SI</h4>
+                    </div>
+                  </div>
+                </HoverCardContent>
+              </HoverCard>
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
                 {data.region}
