@@ -103,7 +103,7 @@ export default function SIProbabilites() {
                 This is used to simulate a final state of stage 2 regional positions. 
                 This in turn is used to randomly assign positions at the Major, based on if they start in phase 1 or phase 2. 
                 This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 100k simulations.</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 500k simulations.</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
           If you have questions, feel free to reach out to me on <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Twitter</a>
         </h1>
@@ -207,7 +207,7 @@ export default function SIProbabilites() {
                 {data.team}
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
-                {(data.percentage * 100).toFixed(2)}%
+                {(data.percentage * 100).toFixed(4)}%
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
                 {data.region}
