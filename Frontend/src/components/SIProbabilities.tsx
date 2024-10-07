@@ -212,7 +212,6 @@ export default function SIProbabilites() {
                 {data.team}
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
-                {(data.percentage * 100).toFixed(2)}%
                 <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
                   <Button variant="link" className="text-lg font-bold">{(data.percentage * 100).toFixed(2)}%</Button>
