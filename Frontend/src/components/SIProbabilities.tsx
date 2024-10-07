@@ -105,8 +105,7 @@ export default function SIProbabilites() {
                 This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 100k simulations.</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          If you have questions, feel free to reach out to me on 
-          <a href="https://x.com/ItzAxon" className="text-blue-500 underline"> Twitter</a>
+          If you have questions, feel free to reach out to me on <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Twitter</a>
         </h1>
       </div>
       <div className="p-4 flex gap-4 font-sans">
