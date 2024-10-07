@@ -2944,11 +2944,11 @@
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1517.5144293761655,
+            "Elo": 1502.8086612703817,
             "Region": "Europe",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 131,
@@ -7084,11 +7084,11 @@
             "ID": 564,
             "TeamName": "WYLDE",
             "MapName": "CHALET",
-            "Elo": 1455.556922927723,
+            "Elo": 1470.2626910335068,
             "Region": "Europe",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 139,
