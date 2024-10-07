@@ -6244,21 +6244,21 @@
             "ID": 137,
             "TeamName": "Secret",
             "MapName": "CONS",
-            "Elo": 1486.2735746131843,
+            "Elo": 1502.64960632655,
             "Region": "Europe",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 510,
             "TeamName": "Secret",
             "MapName": "LABS",
-            "Elo": 1478.3090369043905,
+            "Elo": 1502.0886661666786,
             "Region": "Europe",
-            "LastGameUpdated": 583,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 572,
@@ -6694,11 +6694,11 @@
             "ID": 568,
             "TeamName": "VP",
             "MapName": "CONS",
-            "Elo": 1518.2355932838311,
+            "Elo": 1501.8595615704655,
             "Region": "Europe",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 508,
@@ -6707,6 +6707,16 @@
             "Elo": 1489.8603250462857,
             "Region": "Europe",
             "LastGameUpdated": 569,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 727,
+            "TeamName": "VP",
+            "MapName": "LABS",
+            "Elo": 1437.5559082116583,
+            "Region": "Europe",
+            "LastGameUpdated": 39,
             "MajorCount": 0,
             "RegionalCount": 1
         },
