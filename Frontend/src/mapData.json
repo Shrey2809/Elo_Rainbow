@@ -4174,11 +4174,11 @@
             "ID": 361,
             "TeamName": "M80",
             "MapName": "BANK",
-            "Elo": 1484.0791479549328,
+            "Elo": 1476.2502976259782,
             "Region": "North America",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 42,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 553,
@@ -4234,11 +4234,11 @@
             "ID": 367,
             "TeamName": "M80",
             "MapName": "LABS",
-            "Elo": 1499.2409072016771,
+            "Elo": 1479.2555796555184,
             "Region": "North America",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 42,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 581,
@@ -5904,11 +5904,11 @@
             "ID": 353,
             "TeamName": "SSG",
             "MapName": "BANK",
-            "Elo": 1560.7325930386962,
+            "Elo": 1568.5614433676508,
             "Region": "North America",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 42,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 358,
@@ -5964,11 +5964,11 @@
             "ID": 557,
             "TeamName": "SSG",
             "MapName": "LABS",
-            "Elo": 1499.4957938769742,
+            "Elo": 1519.481121423133,
             "Region": "North America",
-            "LastGameUpdated": 656,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 684,
