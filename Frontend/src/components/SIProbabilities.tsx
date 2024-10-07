@@ -48,7 +48,7 @@ const transformData = (data: TeamsData): EloData[] => {
 
 const transformedData = transformData(Teams);
 
-const rowsPerPage = 20;
+const rowsPerPage = 16;
 
 export default function SIProbabilites() {
   const [currentPage, setCurrentPage] = useState(1);
