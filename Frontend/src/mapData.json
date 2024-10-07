@@ -2994,11 +2994,11 @@
             "ID": 574,
             "TeamName": "G2",
             "MapName": "LAIR",
-            "Elo": 1533.8284257996438,
+            "Elo": 1548.6264424758645,
             "Region": "Europe",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 128,
@@ -7124,11 +7124,11 @@
             "ID": 571,
             "TeamName": "WYLDE",
             "MapName": "LAIR",
-            "Elo": 1479.752227451386,
+            "Elo": 1464.9542107751654,
             "Region": "Europe",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 143,
