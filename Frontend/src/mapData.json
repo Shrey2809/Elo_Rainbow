@@ -1734,21 +1734,21 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1528.7285345628065,
+            "Elo": 1518.280585071507,
             "Region": "North America",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 337,
             "TeamName": "DZ",
             "MapName": "CHALET",
-            "Elo": 1532.6594634497753,
+            "Elo": 1520.8700190421177,
             "Region": "North America",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 313,
@@ -1774,11 +1774,11 @@
             "ID": 320,
             "TeamName": "DZ",
             "MapName": "KAFE",
-            "Elo": 1570.5631701221557,
+            "Elo": 1579.0098682249977,
             "Region": "North America",
-            "LastGameUpdated": 658,
+            "LastGameUpdated": 43,
             "MajorCount": 3,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 354,
@@ -5814,21 +5814,21 @@
             "ID": 556,
             "TeamName": "SQ",
             "MapName": "BORDER",
-            "Elo": 1513.1547528852534,
+            "Elo": 1523.602702376553,
             "Region": "North America",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 342,
             "TeamName": "SQ",
             "MapName": "CHALET",
-            "Elo": 1469.8111462785241,
+            "Elo": 1481.6005906861817,
             "Region": "North America",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 312,
@@ -5854,11 +5854,11 @@
             "ID": 551,
             "TeamName": "SQ",
             "MapName": "KAFE",
-            "Elo": 1516.1555101987867,
+            "Elo": 1507.7088120959447,
             "Region": "North America",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 336,
