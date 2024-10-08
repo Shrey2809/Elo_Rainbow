@@ -150,8 +150,8 @@
         {
             "ID": 22,
             "TeamName": "WOL",
-            "Elo": 1509.2031839167425,
-            "LastGameUpdated": 40,
+            "Elo": 1519.9918214221698,
+            "LastGameUpdated": 42,
             "Region": "Europe"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1461.3355374739465,
-            "LastGameUpdated": 39,
+            "Elo": 1450.5468999685193,
+            "LastGameUpdated": 42,
             "Region": "Europe"
         },
         {
@@ -465,8 +465,8 @@
         {
             "ID": 67,
             "TeamName": "ANTC",
-            "Elo": 1402.5334590949458,
-            "LastGameUpdated": 29,
+            "Elo": 1413.580849291873,
+            "LastGameUpdated": 33,
             "Region": "Oceania"
         },
         {
@@ -493,15 +493,15 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1509.0095660143145,
-            "LastGameUpdated": 27,
+            "Elo": 1527.2829654830623,
+            "LastGameUpdated": 32,
             "Region": "Oceania"
         },
         {
             "ID": 72,
             "TeamName": "CS",
-            "Elo": 1374.715504628334,
-            "LastGameUpdated": 30,
+            "Elo": 1356.4421051595862,
+            "LastGameUpdated": 32,
             "Region": "Oceania"
         },
         {
@@ -633,22 +633,22 @@
         {
             "ID": 91,
             "TeamName": "OUTLAST",
-            "Elo": 1366.257466295286,
-            "LastGameUpdated": 29,
+            "Elo": 1335.3661801505605,
+            "LastGameUpdated": 31,
             "Region": "Oceania"
         },
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1448.0898688270493,
-            "LastGameUpdated": 28,
+            "Elo": 1478.9811549717747,
+            "LastGameUpdated": 31,
             "Region": "Oceania"
         },
         {
             "ID": 93,
             "TeamName": "PRODIGY",
-            "Elo": 1336.816872916983,
-            "LastGameUpdated": 30,
+            "Elo": 1325.7694827200557,
+            "LastGameUpdated": 33,
             "Region": "Oceania"
         },
         {
