@@ -554,11 +554,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1608.4029241308983,
+            "Elo": 1614.442947373464,
             "Region": "Europe",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 145,
@@ -574,11 +574,11 @@
             "ID": 487,
             "TeamName": "BDS",
             "MapName": "CONS",
-            "Elo": 1750.7741764155219,
+            "Elo": 1731.8394805455182,
             "Region": "Europe",
-            "LastGameUpdated": 673,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 114,
@@ -614,11 +614,11 @@
             "ID": 132,
             "TeamName": "BDS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1527.5170331525196,
+            "Elo": 1535.0193811091563,
             "Region": "Europe",
-            "LastGameUpdated": 664,
+            "LastGameUpdated": 40,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 626,
@@ -7014,11 +7014,11 @@
             "ID": 509,
             "TeamName": "WOL",
             "MapName": "CHALET",
-            "Elo": 1462.8644899778255,
+            "Elo": 1456.8244667352599,
             "Region": "Europe",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 40,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 138,
@@ -7034,11 +7034,11 @@
             "ID": 111,
             "TeamName": "WOL",
             "MapName": "CONS",
-            "Elo": 1553.0118758316364,
+            "Elo": 1571.94657170164,
             "Region": "Europe",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 148,
@@ -7074,11 +7074,11 @@
             "ID": 133,
             "TeamName": "WOL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1438.864542653428,
+            "Elo": 1431.3621946967914,
             "Region": "Europe",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 40,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 130,
