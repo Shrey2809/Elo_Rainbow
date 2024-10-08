@@ -54,11 +54,11 @@
             "ID": 226,
             "TeamName": "6K",
             "MapName": "KAFE",
-            "Elo": 1309.4951767447048,
+            "Elo": 1320.924971242225,
             "Region": "Latin America",
-            "LastGameUpdated": 620,
+            "LastGameUpdated": 54,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 665,
@@ -134,11 +134,11 @@
             "ID": 643,
             "TeamName": "7REX",
             "MapName": "BANK",
-            "Elo": 1341.624914520079,
+            "Elo": 1329.2376552437759,
             "Region": "Latin America",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 51,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 655,
@@ -304,11 +304,11 @@
             "ID": 244,
             "TeamName": "ALPHA",
             "MapName": "CHALET",
-            "Elo": 1383.490814139092,
+            "Elo": 1360.8353097595389,
             "Region": "Latin America",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 50,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 205,
@@ -884,11 +884,11 @@
             "ID": 322,
             "TeamName": "C9BC",
             "MapName": "BORDER",
-            "Elo": 1543.0459246007856,
+            "Elo": 1528.1947747254042,
             "Region": "North America",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 41,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 340,
@@ -924,11 +924,11 @@
             "ID": 348,
             "TeamName": "C9BC",
             "MapName": "KAFE",
-            "Elo": 1552.5003947760003,
+            "Elo": 1536.5852531330268,
             "Region": "North America",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 41,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 335,
@@ -1224,11 +1224,11 @@
             "ID": 213,
             "TeamName": "CN",
             "MapName": "BANK",
-            "Elo": 1355.4400946619578,
+            "Elo": 1332.9176846896323,
             "Region": "Latin America",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 52,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 236,
@@ -1404,11 +1404,11 @@
             "ID": 262,
             "TeamName": "CTY",
             "MapName": "BANK",
-            "Elo": 1355.0940491316894,
+            "Elo": 1377.616459104015,
             "Region": "Latin America",
-            "LastGameUpdated": 47,
+            "LastGameUpdated": 52,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 235,
@@ -3544,11 +3544,11 @@
             "ID": 245,
             "TeamName": "KNI",
             "MapName": "BANK",
-            "Elo": 1344.7586106421843,
+            "Elo": 1357.1458699184875,
             "Region": "Latin America",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 51,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 701,
@@ -4071,6 +4071,16 @@
             "RegionalCount": 3
         },
         {
+            "ID": 728,
+            "TeamName": "LYCUS",
+            "MapName": "KAFE",
+            "Elo": 1213.7540671563359,
+            "Region": "Latin America",
+            "LastGameUpdated": 54,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 652,
             "TeamName": "LYCUS",
             "MapName": "SKYSCRAPER",
@@ -4294,11 +4304,11 @@
             "ID": 255,
             "TeamName": "ME",
             "MapName": "CHALET",
-            "Elo": 1337.0859900253245,
+            "Elo": 1359.7414944048776,
             "Region": "Latin America",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 50,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 220,
@@ -4534,11 +4544,11 @@
             "ID": 207,
             "TeamName": "MvG",
             "MapName": "LABS",
-            "Elo": 1300,
+            "Elo": 1287.219498816048,
             "Region": "Latin America",
-            "LastGameUpdated": 208,
+            "LastGameUpdated": 49,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 254,
@@ -5714,11 +5724,11 @@
             "ID": 212,
             "TeamName": "RVN",
             "MapName": "CONS",
-            "Elo": 1289.4725280410103,
+            "Elo": 1314.1946035610936,
             "Region": "Latin America",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 53,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 263,
@@ -6324,11 +6334,11 @@
             "ID": 654,
             "TeamName": "TSG",
             "MapName": "CONS",
-            "Elo": 1285.6099347369307,
+            "Elo": 1260.8878592168473,
             "Region": "Latin America",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 53,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 662,
@@ -6484,11 +6494,11 @@
             "ID": 208,
             "TeamName": "VASCO",
             "MapName": "LABS",
-            "Elo": 1351.7890487994325,
+            "Elo": 1364.5695499833846,
             "Region": "Latin America",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 49,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 699,
@@ -6794,11 +6804,11 @@
             "ID": 549,
             "TeamName": "WCG",
             "MapName": "BORDER",
-            "Elo": 1476.908627831221,
+            "Elo": 1491.7597777066026,
             "Region": "North America",
-            "LastGameUpdated": 641,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 308,
@@ -6834,11 +6844,11 @@
             "ID": 690,
             "TeamName": "WCG",
             "MapName": "KAFE",
-            "Elo": 1455.1034557439832,
+            "Elo": 1471.0185973869568,
             "Region": "North America",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 355,
