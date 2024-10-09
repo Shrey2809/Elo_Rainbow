@@ -554,11 +554,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1614.442947373464,
+            "Elo": 1628.8887064458522,
             "Region": "Europe",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 145,
@@ -594,11 +594,11 @@
             "ID": 559,
             "TeamName": "BDS",
             "MapName": "LABS",
-            "Elo": 1669.098337973795,
+            "Elo": 1643.7793726297996,
             "Region": "Europe",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 474,
@@ -614,11 +614,11 @@
             "ID": 132,
             "TeamName": "BDS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1535.0193811091563,
+            "Elo": 1544.3657567324703,
             "Region": "Europe",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 43,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 626,
@@ -6254,11 +6254,11 @@
             "ID": 478,
             "TeamName": "Secret",
             "MapName": "CHALET",
-            "Elo": 1601.5995656546158,
+            "Elo": 1587.1538065822276,
             "Region": "Europe",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 109,
@@ -6284,11 +6284,11 @@
             "ID": 510,
             "TeamName": "Secret",
             "MapName": "LABS",
-            "Elo": 1502.0886661666786,
+            "Elo": 1527.407631510674,
             "Region": "Europe",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 572,
@@ -6304,11 +6304,11 @@
             "ID": 140,
             "TeamName": "Secret",
             "MapName": "SKYSCRAPER",
-            "Elo": 1512.2777213220375,
+            "Elo": 1502.9313456987234,
             "Region": "Europe",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 710,
