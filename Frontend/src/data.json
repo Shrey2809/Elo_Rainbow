@@ -493,15 +493,15 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1527.2829654830623,
-            "LastGameUpdated": 32,
+            "Elo": 1507.23816441713,
+            "LastGameUpdated": 35,
             "Region": "Oceania"
         },
         {
             "ID": 72,
             "TeamName": "CS",
-            "Elo": 1356.4421051595862,
-            "LastGameUpdated": 32,
+            "Elo": 1345.0544700253015,
+            "LastGameUpdated": 34,
             "Region": "Oceania"
         },
         {
@@ -633,15 +633,15 @@
         {
             "ID": 91,
             "TeamName": "OUTLAST",
-            "Elo": 1335.3661801505605,
-            "LastGameUpdated": 31,
+            "Elo": 1346.7538152848451,
+            "LastGameUpdated": 34,
             "Region": "Oceania"
         },
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1478.9811549717747,
-            "LastGameUpdated": 31,
+            "Elo": 1499.025956037707,
+            "LastGameUpdated": 35,
             "Region": "Oceania"
         },
         {

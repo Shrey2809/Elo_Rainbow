@@ -1144,11 +1144,11 @@
             "ID": 606,
             "TeamName": "CHIEFS",
             "MapName": "BANK",
-            "Elo": 1462.1217897030083,
+            "Elo": 1475.9124395447673,
             "Region": "Oceania",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 597,
@@ -1164,11 +1164,11 @@
             "ID": 595,
             "TeamName": "CHIEFS",
             "MapName": "CHALET",
-            "Elo": 1429.6761662517238,
+            "Elo": 1441.9448727270567,
             "Region": "Oceania",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 607,
@@ -1177,6 +1177,16 @@
             "Elo": 1446.7631424863107,
             "Region": "Oceania",
             "LastGameUpdated": 21,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 731,
+            "TeamName": "CHIEFS",
+            "MapName": "KAFE",
+            "Elo": 1444.5381204375242,
+            "Region": "Oceania",
+            "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -1334,11 +1344,11 @@
             "ID": 392,
             "TeamName": "CS",
             "MapName": "BORDER",
-            "Elo": 1406.9985086690585,
+            "Elo": 1422.3818862133485,
             "Region": "Oceania",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 408,
@@ -1364,11 +1374,11 @@
             "ID": 410,
             "TeamName": "CS",
             "MapName": "CONS",
-            "Elo": 1400.8990594186382,
+            "Elo": 1388.5929184820652,
             "Region": "Oceania",
-            "LastGameUpdated": 378,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 603,
@@ -1384,11 +1394,11 @@
             "ID": 377,
             "TeamName": "CS",
             "MapName": "LABS",
-            "Elo": 1328.0364447568218,
+            "Elo": 1316.497918709435,
             "Region": "Oceania",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 387,
@@ -3024,11 +3034,11 @@
             "ID": 415,
             "TeamName": "GG",
             "MapName": "BANK",
-            "Elo": 1434.0494406432024,
+            "Elo": 1420.2587908014434,
             "Region": "Oceania",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 35,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 396,
@@ -3044,11 +3054,11 @@
             "ID": 378,
             "TeamName": "GG",
             "MapName": "CHALET",
-            "Elo": 1365.6995090680837,
+            "Elo": 1353.4308025927508,
             "Region": "Oceania",
-            "LastGameUpdated": 700,
+            "LastGameUpdated": 35,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 389,
@@ -3074,11 +3084,11 @@
             "ID": 413,
             "TeamName": "GG",
             "MapName": "KAFE",
-            "Elo": 1426.8231062697184,
+            "Elo": 1446.183503142308,
             "Region": "Oceania",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 376,
@@ -5124,11 +5134,11 @@
             "ID": 724,
             "TeamName": "OUTLAST",
             "MapName": "BORDER",
-            "Elo": 1364.7694947138505,
+            "Elo": 1349.3861171695605,
             "Region": "Oceania",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 600,
@@ -5144,21 +5154,21 @@
             "ID": 596,
             "TeamName": "OUTLAST",
             "MapName": "CONS",
-            "Elo": 1406.28777445544,
+            "Elo": 1418.593915392013,
             "Region": "Oceania",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 605,
             "TeamName": "OUTLAST",
             "MapName": "LABS",
-            "Elo": 1354.8133569213794,
+            "Elo": 1366.3518829687662,
             "Region": "Oceania",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 698,
