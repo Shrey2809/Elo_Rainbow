@@ -291,16 +291,6 @@
             "RegionalCount": 1
         },
         {
-            "ID": 732,
-            "TeamName": "ALPHA",
-            "MapName": "ALPHA",
-            "Elo": 1409.6025410467114,
-            "Region": "Latin America",
-            "LastGameUpdated": 57,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 645,
             "TeamName": "ALPHA",
             "MapName": "BANK",
@@ -314,11 +304,11 @@
             "ID": 256,
             "TeamName": "ALPHA",
             "MapName": "BORDER",
-            "Elo": 1378.4236576611559,
+            "Elo": 1383.7626301774565,
             "Region": "Latin America",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 57,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 5
         },
         {
             "ID": 244,
@@ -4571,16 +4561,6 @@
             "RegionalCount": 2
         },
         {
-            "ID": 733,
-            "TeamName": "MvG",
-            "MapName": "ALPHA",
-            "Elo": 1151.9642476373167,
-            "Region": "Latin America",
-            "LastGameUpdated": 57,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 644,
             "TeamName": "MvG",
             "MapName": "BANK",
@@ -4589,6 +4569,16 @@
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
+        },
+        {
+            "ID": 741,
+            "TeamName": "MvG",
+            "MapName": "BORDER",
+            "Elo": 1146.625275121016,
+            "Region": "Latin America",
+            "LastGameUpdated": 57,
+            "MajorCount": 0,
+            "RegionalCount": 2
         },
         {
             "ID": 224,
