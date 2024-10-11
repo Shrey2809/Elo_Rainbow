@@ -461,6 +461,26 @@
             "RegionalCount": 5
         },
         {
+            "ID": 739,
+            "TeamName": "BB",
+            "MapName": "CONS",
+            "Elo": 1403.14493457713,
+            "Region": "Japan",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 740,
+            "TeamName": "BB",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1358.7678832616054,
+            "Region": "Japan",
+            "LastGameUpdated": 5,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 47,
             "TeamName": "BD",
             "MapName": "BANK",
@@ -1054,11 +1074,11 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1354.2532112653248,
+            "Elo": 1380.3967083044397,
             "Region": "Japan",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 4,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 467,
@@ -2024,11 +2044,11 @@
             "ID": 187,
             "TeamName": "E36",
             "MapName": "SKYSCRAPER",
-            "Elo": 1355.8529149632081,
+            "Elo": 1368.9277900037653,
             "Region": "Japan",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 682,
@@ -2514,11 +2534,11 @@
             "ID": 460,
             "TeamName": "FOX",
             "MapName": "CHALET",
-            "Elo": 1359.7600597394621,
+            "Elo": 1375.3820497887984,
             "Region": "Korea",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 13,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 433,
@@ -2564,11 +2584,11 @@
             "ID": 621,
             "TeamName": "FOX",
             "MapName": "LAIR",
-            "Elo": 1500.810677036642,
+            "Elo": 1520.3710440593277,
             "Region": "Korea",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 443,
@@ -2584,11 +2604,11 @@
             "ID": 437,
             "TeamName": "FOX",
             "MapName": "SKYSCRAPER",
-            "Elo": 1403.5416869808241,
+            "Elo": 1420.6360917308111,
             "Region": "Korea",
-            "LastGameUpdated": 601,
+            "LastGameUpdated": 11,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 67,
@@ -3354,11 +3374,11 @@
             "ID": 191,
             "TeamName": "IGZ",
             "MapName": "BORDER",
-            "Elo": 1320.1154702426875,
+            "Elo": 1309.979225509816,
             "Region": "Japan",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 718,
@@ -3404,11 +3424,11 @@
             "ID": 636,
             "TeamName": "IGZ",
             "MapName": "LABS",
-            "Elo": 1383.5789513447005,
+            "Elo": 1369.508399505889,
             "Region": "Japan",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 173,
@@ -3724,11 +3744,11 @@
             "ID": 170,
             "TeamName": "KNT",
             "MapName": "BORDER",
-            "Elo": 1386.6160535481838,
+            "Elo": 1396.7522982810553,
             "Region": "Japan",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 195,
@@ -3754,11 +3774,11 @@
             "ID": 635,
             "TeamName": "KNT",
             "MapName": "CONS",
-            "Elo": 1398.8493519216538,
+            "Elo": 1386.0432215812796,
             "Region": "Japan",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 197,
@@ -3774,11 +3794,11 @@
             "ID": 722,
             "TeamName": "KNT",
             "MapName": "LABS",
-            "Elo": 1452.5576101717784,
+            "Elo": 1466.62816201059,
             "Region": "Japan",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 172,
@@ -5504,11 +5524,11 @@
             "ID": 457,
             "TeamName": "PSG",
             "MapName": "CHALET",
-            "Elo": 1428.162027504233,
+            "Elo": 1432.7883367390043,
             "Region": "Korea",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 7
         },
         {
             "ID": 440,
@@ -5544,11 +5564,11 @@
             "ID": 630,
             "TeamName": "PSG",
             "MapName": "LAIR",
-            "Elo": 1493.1722395541158,
+            "Elo": 1473.61187253143,
             "Region": "Korea",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 431,
@@ -5564,11 +5584,11 @@
             "ID": 447,
             "TeamName": "PSG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1395.7575535572653,
+            "Elo": 1412.3294867947827,
             "Region": "Korea",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 12,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 276,
@@ -6734,11 +6754,11 @@
             "ID": 175,
             "TeamName": "VIT",
             "MapName": "LABS",
-            "Elo": 1370.1559702414372,
+            "Elo": 1344.0124732023223,
             "Region": "Japan",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 185,
@@ -6994,11 +7014,11 @@
             "ID": 435,
             "TeamName": "WEBL",
             "MapName": "CHALET",
-            "Elo": 1393.275430000754,
+            "Elo": 1373.0271307166465,
             "Region": "Korea",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 12,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 444,
@@ -7054,11 +7074,11 @@
             "ID": 446,
             "TeamName": "WEBL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1352.706647128246,
+            "Elo": 1319.0403091407416,
             "Region": "Korea",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 12,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 4
         },
         {
             "ID": 281,
