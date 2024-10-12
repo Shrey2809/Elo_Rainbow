@@ -114,6 +114,9 @@ export default function SIProbabilites() {
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
           If you have questions, feel free to reach out to me on <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Twitter</a>
         </h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
+          Team is highlighted if they have a 100% chance of qualifying for SI, you can hover over the percentage to see the exact percentage
+        </h1>
       </div>
       <div className="p-4 flex gap-4 font-sans">
         <input
@@ -217,7 +220,7 @@ export default function SIProbabilites() {
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
                   <Button variant="link" className="text-lg font-bold">
-                    {data.percentage == 1 ? "100" : (data.percentage * 100).toFixed(3)}%
+                    {data.percentage == 1 ? "100.00" : (data.percentage * 100).toFixed(2)}%
                   </Button>
                 </HoverCardTrigger>
                 <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
