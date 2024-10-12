@@ -2281,6 +2281,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 742,
+            "TeamName": "FB",
+            "MapName": "BANK",
+            "Elo": 1252.1896558160895,
+            "Region": "Japan",
+            "LastGameUpdated": 10,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 194,
             "TeamName": "FB",
             "MapName": "BORDER",
@@ -2324,11 +2334,11 @@
             "ID": 183,
             "TeamName": "FB",
             "MapName": "KAFE",
-            "Elo": 1370.9534340878297,
+            "Elo": 1352.9392596810005,
             "Region": "Japan",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 638,
@@ -3724,11 +3734,11 @@
             "ID": 163,
             "TeamName": "KNT",
             "MapName": "BANK",
-            "Elo": 1333.9992772374078,
+            "Elo": 1348.1329726432116,
             "Region": "Japan",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 170,
@@ -3774,11 +3784,11 @@
             "ID": 197,
             "TeamName": "KNT",
             "MapName": "KAFE",
-            "Elo": 1405.564800251455,
+            "Elo": 1423.578974658284,
             "Region": "Japan",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 722,
