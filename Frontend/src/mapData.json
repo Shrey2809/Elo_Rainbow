@@ -1034,11 +1034,11 @@
             "ID": 181,
             "TeamName": "CAG",
             "MapName": "CLUB",
-            "Elo": 1425.4674589751883,
+            "Elo": 1434.0802515767557,
             "Region": "Japan",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 466,
@@ -1104,11 +1104,11 @@
             "ID": 514,
             "TeamName": "CGL",
             "MapName": "BORDER",
-            "Elo": 1390.6654859340829,
+            "Elo": 1380.8406605548437,
             "Region": "Japan",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 11,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 165,
@@ -1144,11 +1144,21 @@
             "ID": 161,
             "TeamName": "CGL",
             "MapName": "LABS",
-            "Elo": 1309.1854460260793,
+            "Elo": 1326.9915740868603,
             "Region": "Japan",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 11,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
+        },
+        {
+            "ID": 744,
+            "TeamName": "CGL",
+            "MapName": "LAIR",
+            "Elo": 1400.643700664548,
+            "Region": "Japan",
+            "LastGameUpdated": 11,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 174,
@@ -1984,11 +1994,11 @@
             "ID": 180,
             "TeamName": "E36",
             "MapName": "CLUB",
-            "Elo": 1313.7230746482617,
+            "Elo": 1305.1102820466942,
             "Region": "Japan",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 633,
@@ -3744,11 +3754,11 @@
             "ID": 170,
             "TeamName": "KNT",
             "MapName": "BORDER",
-            "Elo": 1396.7522982810553,
+            "Elo": 1406.5771236602945,
             "Region": "Japan",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 11,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 195,
@@ -3794,11 +3804,21 @@
             "ID": 722,
             "TeamName": "KNT",
             "MapName": "LABS",
-            "Elo": 1466.62816201059,
+            "Elo": 1448.8220339498089,
             "Region": "Japan",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 11,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
+        },
+        {
+            "ID": 743,
+            "TeamName": "KNT",
+            "MapName": "LAIR",
+            "Elo": 1427.4866695527376,
+            "Region": "Japan",
+            "LastGameUpdated": 11,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 172,
