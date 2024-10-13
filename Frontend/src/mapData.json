@@ -1044,11 +1044,11 @@
             "ID": 466,
             "TeamName": "CAG",
             "MapName": "CONS",
-            "Elo": 1460.3249362640274,
+            "Elo": 1471.4024600850464,
             "Region": "Japan",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 13,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 184,
@@ -1064,11 +1064,11 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1380.3967083044397,
+            "Elo": 1393.1090124977713,
             "Region": "Japan",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 13,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 467,
@@ -1084,11 +1084,11 @@
             "ID": 193,
             "TeamName": "CAG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1376.6271311442076,
+            "Elo": 1360.093380312254,
             "Region": "Japan",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 13,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 178,
@@ -1134,21 +1134,21 @@
             "ID": 634,
             "TeamName": "CGL",
             "MapName": "CONS",
-            "Elo": 1352.5008558752913,
+            "Elo": 1356.233302611244,
             "Region": "Japan",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 4
         },
         {
             "ID": 161,
             "TeamName": "CGL",
             "MapName": "LABS",
-            "Elo": 1326.9915740868603,
+            "Elo": 1314.2792698935286,
             "Region": "Japan",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 744,
@@ -1174,11 +1174,11 @@
             "ID": 515,
             "TeamName": "CGL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1383.8672101198313,
+            "Elo": 1412.363803120876,
             "Region": "Japan",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 7
         },
         {
             "ID": 606,
@@ -2004,11 +2004,11 @@
             "ID": 633,
             "TeamName": "E36",
             "MapName": "CONS",
-            "Elo": 1260.231063876601,
+            "Elo": 1245.4210933196293,
             "Region": "Japan",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 12,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 166,
@@ -2044,11 +2044,11 @@
             "ID": 187,
             "TeamName": "E36",
             "MapName": "SKYSCRAPER",
-            "Elo": 1368.9277900037653,
+            "Elo": 1356.9649478346741,
             "Region": "Japan",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 12,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 682,
