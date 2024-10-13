@@ -219,9 +219,9 @@ export default function SIProbabilites() {
               <TableCell className="w-1/5 text-center font-semibold">
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
-                  <Button variant="link" className="text-lg font-bold">
-                    {data.percentage == 1 ? "100.00" : (data.percentage * 100).toFixed(2)}%
-                  </Button>
+                <Button variant="link" className="text-lg font-bold">
+                  {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                </Button>
                 </HoverCardTrigger>
                 <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
                   <div className="flex justify-between space-x-4">
