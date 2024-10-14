@@ -1,4 +1,5 @@
-import { useState } from "react";
+// import { useState } from "react";
+import React, { useState, useEffect } from 'react';
 import {
   Table,
   TableBody,
@@ -93,6 +94,24 @@ export default function SIProbabilites() {
       data.region.toLowerCase().includes(searchRegion.toLowerCase()),
   );
 
+  const [currentDate, setCurrentDate] = useState('');
+
+  useEffect(() => {
+    const now = new Date();
+    const formattedDate = now.toLocaleString('en-US', {
+      weekday: 'long',
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit',
+      hour12: false,
+      timeZone: 'UTC',
+    });
+    setCurrentDate(formattedDate);
+  }, []);
+
   const startIndex = (currentPage - 1) * rowsPerPage;
   const endIndex = startIndex + rowsPerPage;
 
@@ -103,7 +122,7 @@ export default function SIProbabilites() {
     <div className="w-full">
       <div className="items-center justify-left font-normal font-sans">
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          SI Probabilities: Last calculated on Sunday, 13-Oct-24 17:25 UTC 
+          SI Probabilities: Last calculated on {currentDate}
         </h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
