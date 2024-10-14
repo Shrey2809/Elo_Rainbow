@@ -34,21 +34,21 @@
             "ID": 216,
             "TeamName": "6K",
             "MapName": "CHALET",
-            "Elo": 1382.1704712821897,
+            "Elo": 1392.6276612943175,
             "Region": "Latin America",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 64,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 658,
             "TeamName": "6K",
             "MapName": "CLUB",
-            "Elo": 1434.970033133279,
+            "Elo": 1443.9547659129457,
             "Region": "Latin America",
-            "LastGameUpdated": 48,
+            "LastGameUpdated": 64,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 653,
@@ -5854,21 +5854,21 @@
             "ID": 533,
             "TeamName": "RVN",
             "MapName": "CHALET",
-            "Elo": 1324.8771391370533,
+            "Elo": 1314.4199491249256,
             "Region": "Latin America",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 64,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 218,
             "TeamName": "RVN",
             "MapName": "CLUB",
-            "Elo": 1399.5740842619075,
+            "Elo": 1390.5893514822408,
             "Region": "Latin America",
-            "LastGameUpdated": 59,
+            "LastGameUpdated": 64,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 212,
