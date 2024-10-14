@@ -2254,11 +2254,11 @@
             "ID": 116,
             "TeamName": "ENCE",
             "MapName": "KAFE",
-            "Elo": 1529.6544254603205,
+            "Elo": 1539.5832945192067,
             "Region": "Europe",
-            "LastGameUpdated": 126,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 147,
@@ -2284,11 +2284,11 @@
             "ID": 569,
             "TeamName": "ENCE",
             "MapName": "SKYSCRAPER",
-            "Elo": 1397.8585356459841,
+            "Elo": 1411.5602042137098,
             "Region": "Europe",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 742,
@@ -2444,11 +2444,11 @@
             "ID": 112,
             "TeamName": "FNC",
             "MapName": "BANK",
-            "Elo": 1459.6835785360574,
+            "Elo": 1477.1784901029323,
             "Region": "Europe",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 121,
@@ -2464,11 +2464,11 @@
             "ID": 144,
             "TeamName": "FNC",
             "MapName": "CLUB",
-            "Elo": 1502.1793822739971,
+            "Elo": 1516.2444329920754,
             "Region": "Europe",
-            "LastGameUpdated": 572,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 126,
@@ -3559,6 +3559,26 @@
             "LastGameUpdated": 686,
             "MajorCount": 2,
             "RegionalCount": 0
+        },
+        {
+            "ID": 750,
+            "TeamName": "ITBA",
+            "MapName": "BANK",
+            "Elo": 1442.087643952492,
+            "Region": "Europe",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 749,
+            "TeamName": "ITBA",
+            "MapName": "CLUB",
+            "Elo": 1466.4305783655066,
+            "Region": "Europe",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 398,
@@ -7221,6 +7241,16 @@
             "RegionalCount": 7
         },
         {
+            "ID": 748,
+            "TeamName": "WOL",
+            "MapName": "KAFE",
+            "Elo": 1447.22713248086,
+            "Region": "Europe",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 148,
             "TeamName": "WOL",
             "MapName": "LABS",
@@ -7254,11 +7284,11 @@
             "ID": 133,
             "TeamName": "WOL",
             "MapName": "SKYSCRAPER",
-            "Elo": 1431.3621946967914,
+            "Elo": 1417.6605261290658,
             "Region": "Europe",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 130,

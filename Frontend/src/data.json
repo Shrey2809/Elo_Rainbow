@@ -129,8 +129,8 @@
         {
             "ID": 19,
             "TeamName": "ENCE",
-            "Elo": 1422.7407956434363,
-            "LastGameUpdated": 33,
+            "Elo": 1451.174728864433,
+            "LastGameUpdated": 1,
             "Region": "Europe"
         },
         {
@@ -150,15 +150,15 @@
         {
             "ID": 22,
             "TeamName": "WOL",
-            "Elo": 1485.589934760743,
-            "LastGameUpdated": 42,
+            "Elo": 1457.1560015397463,
+            "LastGameUpdated": 1,
             "Region": "Europe"
         },
         {
             "ID": 23,
             "TeamName": "FNC",
-            "Elo": 1392.3506107713201,
-            "LastGameUpdated": 35,
+            "Elo": 1432.7680552519532,
+            "LastGameUpdated": 2,
             "Region": "Europe"
         },
         {
@@ -706,6 +706,13 @@
             "Elo": 1371.8427583021626,
             "LastGameUpdated": 5,
             "Region": "Japan"
+        },
+        {
+            "ID": 102,
+            "TeamName": "ITBA",
+            "Elo": 1459.582555519367,
+            "LastGameUpdated": 2,
+            "Region": "Europe"
         }
     ]
 }
