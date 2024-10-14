@@ -97,6 +97,7 @@ export default function SIProbabilites() {
   const [currentDate, setCurrentDate] = useState('');
 
   useEffect(() => {
+    // This will run only once when the component mounts
     const now = new Date();
     const formattedDate = now.toLocaleString('en-US', {
       weekday: 'long',
@@ -110,7 +111,7 @@ export default function SIProbabilites() {
       timeZone: 'UTC',
     });
     setCurrentDate(formattedDate);
-  }, []);
+  }, []); // Empty dependency array ensures this effect only runs once
 
   const startIndex = (currentPage - 1) * rowsPerPage;
   const endIndex = startIndex + rowsPerPage;
