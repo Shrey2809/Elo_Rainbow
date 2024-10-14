@@ -1364,11 +1364,11 @@
             "ID": 231,
             "TeamName": "CN",
             "MapName": "SKYSCRAPER",
-            "Elo": 1306.0905724904064,
+            "Elo": 1283.68184680522,
             "Region": "Latin America",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 62,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 383,
@@ -3634,11 +3634,11 @@
             "ID": 206,
             "TeamName": "KNI",
             "MapName": "CLUB",
-            "Elo": 1385.644661674365,
+            "Elo": 1375.2156082561642,
             "Region": "Latin America",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 61,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 663,
@@ -4394,11 +4394,21 @@
             "ID": 220,
             "TeamName": "ME",
             "MapName": "CLUB",
-            "Elo": 1346.4285380951449,
+            "Elo": 1375.6905699444867,
             "Region": "Latin America",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 63,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
+        },
+        {
+            "ID": 747,
+            "TeamName": "ME",
+            "MapName": "CONS",
+            "Elo": 1422.9886196261032,
+            "Region": "Latin America",
+            "LastGameUpdated": 63,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 203,
@@ -4427,6 +4437,16 @@
             "Elo": 1337.5,
             "Region": "Latin America",
             "LastGameUpdated": 234,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 746,
+            "TeamName": "ME",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1341.0665895869142,
+            "Region": "Latin America",
+            "LastGameUpdated": 63,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -5894,11 +5914,11 @@
             "ID": 229,
             "TeamName": "RVN",
             "MapName": "SKYSCRAPER",
-            "Elo": 1307.5,
+            "Elo": 1329.9087256851865,
             "Region": "Latin America",
-            "LastGameUpdated": 219,
+            "LastGameUpdated": 62,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 518,
@@ -6611,14 +6631,24 @@
             "RegionalCount": 4
         },
         {
+            "ID": 745,
+            "TeamName": "VASCO",
+            "MapName": "CLUB",
+            "Elo": 1424.9088328810087,
+            "Region": "Latin America",
+            "LastGameUpdated": 63,
+            "MajorCount": 0,
+            "RegionalCount": 2
+        },
+        {
             "ID": 253,
             "TeamName": "VASCO",
             "MapName": "CONS",
-            "Elo": 1359.8795540268925,
+            "Elo": 1342.4966714795623,
             "Region": "Latin America",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 63,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 243,
@@ -6654,11 +6684,11 @@
             "ID": 258,
             "TeamName": "VASCO",
             "MapName": "SKYSCRAPER",
-            "Elo": 1328.749679710598,
+            "Elo": 1342.1741079385224,
             "Region": "Latin America",
-            "LastGameUpdated": 55,
+            "LastGameUpdated": 63,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 679,
