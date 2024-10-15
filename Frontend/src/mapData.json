@@ -4004,11 +4004,11 @@
             "ID": 554,
             "TeamName": "LG",
             "MapName": "KAFE",
-            "Elo": 1480.2004212611196,
+            "Elo": 1459.9761407832025,
             "Region": "North America",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 2,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 362,
@@ -4019,6 +4019,16 @@
             "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 3
+        },
+        {
+            "ID": 754,
+            "TeamName": "LG",
+            "MapName": "LAIR",
+            "Elo": 1427.5812897322667,
+            "Region": "North America",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 347,
@@ -4034,11 +4044,11 @@
             "ID": 324,
             "TeamName": "LG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1528.0786008026842,
+            "Elo": 1539.1968265426585,
             "Region": "North America",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 2,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 331,
@@ -4334,11 +4344,11 @@
             "ID": 339,
             "TeamName": "M80",
             "MapName": "CONS",
-            "Elo": 1529.7749662241772,
+            "Elo": 1537.1370686946523,
             "Region": "North America",
-            "LastGameUpdated": 333,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 365,
@@ -5384,11 +5394,11 @@
             "ID": 364,
             "TeamName": "OXG",
             "MapName": "KAFE",
-            "Elo": 1476.3041069711867,
+            "Elo": 1496.5283874491038,
             "Region": "North America",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 366,
@@ -5404,11 +5414,11 @@
             "ID": 579,
             "TeamName": "OXG",
             "MapName": "LAIR",
-            "Elo": 1395.0680174117056,
+            "Elo": 1415.1995785643517,
             "Region": "North America",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 310,
@@ -5424,11 +5434,11 @@
             "ID": 555,
             "TeamName": "OXG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1489.5148046967395,
+            "Elo": 1478.396578956765,
             "Region": "North America",
-            "LastGameUpdated": 649,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 593,
@@ -6225,6 +6235,16 @@
             "TeamName": "SSGA",
             "MapName": "BANK",
             "Elo": 1415.1867972167788,
+            "Region": "North America",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 753,
+            "TeamName": "SSGA",
+            "MapName": "CONS",
+            "Elo": 1370.6348808651005,
             "Region": "North America",
             "LastGameUpdated": 1,
             "MajorCount": 0,

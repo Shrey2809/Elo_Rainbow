@@ -395,15 +395,15 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1534.89147427624,
+            "Elo": 1542.3229832460058,
             "LastGameUpdated": 1,
             "Region": "North America"
         },
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1412.2049469960778,
-            "LastGameUpdated": 35,
+            "Elo": 1443.6437175002059,
+            "LastGameUpdated": 2,
             "Region": "North America"
         },
         {
@@ -430,8 +430,8 @@
         {
             "ID": 62,
             "TeamName": "LG",
-            "Elo": 1457.684264213896,
-            "LastGameUpdated": 35,
+            "Elo": 1426.245493709768,
+            "LastGameUpdated": 2,
             "Region": "North America"
         },
         {
@@ -717,7 +717,7 @@
         {
             "ID": 103,
             "TeamName": "SSGA",
-            "Elo": 1385.4284923053415,
+            "Elo": 1377.9969833355756,
             "LastGameUpdated": 1,
             "Region": "North America"
         }
