@@ -16,6 +16,8 @@ import {
   HoverCardTrigger,
 } from "@/components/ui/hover-card"
 import Teams from "../SIData.json";
+import Date from "../SIData.json";
+import MinPoints from "../SIData.json";
 import { Button } from "./ui/button";
 
 type TeamJSON = {
@@ -105,10 +107,10 @@ export default function SIProbabilites() {
     <div className="w-full">
       <div className="items-center justify-left font-normal font-sans">
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          SI Probabilities: Last calculated on Tuesday, Oct 15, 2024, 21:37:00 UTC
+          SI Probabilities: Last calculated on {Date.Date}
         </h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          Average Minimum Points to qualify for SI2025: 301.07
+          Average Minimum Points to qualify for SI2025: {MinPoints.MinPoints}
         </h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
