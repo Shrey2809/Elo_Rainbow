@@ -143,8 +143,8 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1477.2754267936143,
-            "LastGameUpdated": 33,
+            "Elo": 1501.6075702758037,
+            "LastGameUpdated": 3,
             "Region": "Europe"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1494.0852690062386,
-            "LastGameUpdated": 41,
+            "Elo": 1505.8114120597277,
+            "LastGameUpdated": 4,
             "Region": "Europe"
         },
         {
@@ -178,8 +178,8 @@
         {
             "ID": 26,
             "TeamName": "WYLDE",
-            "Elo": 1422.0344144411818,
-            "LastGameUpdated": 41,
+            "Elo": 1397.7022709589924,
+            "LastGameUpdated": 3,
             "Region": "Europe"
         },
         {
@@ -720,6 +720,13 @@
             "Elo": 1377.9969833355756,
             "LastGameUpdated": 1,
             "Region": "North America"
+        },
+        {
+            "ID": 104,
+            "TeamName": "PX",
+            "Elo": 1363.273856946511,
+            "LastGameUpdated": 4,
+            "Region": "Europe"
         }
     ]
 }

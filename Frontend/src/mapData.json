@@ -3024,11 +3024,11 @@
             "ID": 136,
             "TeamName": "G2",
             "MapName": "CONS",
-            "Elo": 1520.2495986945466,
+            "Elo": 1530.3403131498917,
             "Region": "Europe",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 4,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 149,
@@ -3464,11 +3464,11 @@
             "ID": 151,
             "TeamName": "ITB",
             "MapName": "BANK",
-            "Elo": 1447.1792136409074,
+            "Elo": 1457.7169668242282,
             "Region": "Europe",
-            "LastGameUpdated": 687,
+            "LastGameUpdated": 3,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 125,
@@ -3524,11 +3524,11 @@
             "ID": 473,
             "TeamName": "ITB",
             "MapName": "LABS",
-            "Elo": 1478.1925400733132,
+            "Elo": 1492.2444262904128,
             "Region": "Europe",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 3,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 565,
@@ -5711,6 +5711,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 755,
+            "TeamName": "PX",
+            "MapName": "CONS",
+            "Elo": 1353.1831424911659,
+            "Region": "Europe",
+            "LastGameUpdated": 4,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 399,
             "TeamName": "Panic",
             "MapName": "BANK",
@@ -7334,11 +7344,11 @@
             "ID": 130,
             "TeamName": "WYLDE",
             "MapName": "BANK",
-            "Elo": 1465.8807136795904,
+            "Elo": 1455.3429604962696,
             "Region": "Europe",
-            "LastGameUpdated": 141,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 564,
@@ -7374,11 +7384,11 @@
             "ID": 563,
             "TeamName": "WYLDE",
             "MapName": "LABS",
-            "Elo": 1371.6440724146821,
+            "Elo": 1357.5921861975826,
             "Region": "Europe",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 571,
