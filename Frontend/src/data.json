@@ -395,8 +395,8 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1545.3199665815814,
-            "LastGameUpdated": 42,
+            "Elo": 1523.504097969434,
+            "LastGameUpdated": 1,
             "Region": "North America"
         },
         {
@@ -713,6 +713,13 @@
             "Elo": 1459.582555519367,
             "LastGameUpdated": 2,
             "Region": "Europe"
+        },
+        {
+            "ID": 103,
+            "TeamName": "SSGA",
+            "Elo": 1396.8158686121474,
+            "LastGameUpdated": 1,
+            "Region": "North America"
         }
     ]
 }

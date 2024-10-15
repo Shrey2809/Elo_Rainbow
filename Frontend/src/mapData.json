@@ -4294,11 +4294,11 @@
             "ID": 361,
             "TeamName": "M80",
             "MapName": "BANK",
-            "Elo": 1476.2502976259782,
+            "Elo": 1457.8793690213467,
             "Region": "North America",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 1,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 553,
@@ -6219,6 +6219,16 @@
             "LastGameUpdated": 649,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 751,
+            "TeamName": "SSGA",
+            "MapName": "BANK",
+            "Elo": 1415.1867972167788,
+            "Region": "North America",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 382,
