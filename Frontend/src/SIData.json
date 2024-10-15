@@ -57,7 +57,7 @@
         },
         {
             "TeamName": "M80",
-            "Probability": 1.0,
+            "Probability": 0.999998,
             "Region": "NA"
         },
         {
