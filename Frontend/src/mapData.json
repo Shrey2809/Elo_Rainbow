@@ -3034,11 +3034,11 @@
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1510.309100569449,
+            "Elo": 1526.2168022725398,
             "Region": "EU",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 131,
@@ -3084,11 +3084,11 @@
             "ID": 574,
             "TeamName": "G2",
             "MapName": "LAIR",
-            "Elo": 1548.6264424758645,
+            "Elo": 1528.1307037905822,
             "Region": "EU",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 128,
@@ -3514,11 +3514,11 @@
             "ID": 122,
             "TeamName": "ITB",
             "MapName": "CHALET",
-            "Elo": 1531.3593450250137,
+            "Elo": 1515.4516433219228,
             "Region": "EU",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 6,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 141,
@@ -3564,11 +3564,11 @@
             "ID": 565,
             "TeamName": "ITB",
             "MapName": "LAIR",
-            "Elo": 1540.0128151191595,
+            "Elo": 1560.5085538044418,
             "Region": "EU",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 152,
