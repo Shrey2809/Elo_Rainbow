@@ -38,7 +38,7 @@ type EloData = {
 };
 
 // const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
-const regions = ["NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
@@ -67,8 +67,13 @@ export default function SIProbabilites() {
   const [, setSelectedRegion] = useState<string>("");
   // Handle region selection
   const handleRegionSelect = (region: string) => {
+    if (region === "ALL REGIONS") {
+      setSearchRegion("");
+    }
+    else {
     setSelectedRegion(region);
-    setSearchRegion(region); // Update the searchRegion state to filter data by selected region
+    setSearchRegion(region); 
+    } 
     setPopoverOpen(false);
   }
 
@@ -137,7 +142,7 @@ export default function SIProbabilites() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Axon</a>
+          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
@@ -213,23 +218,27 @@ export default function SIProbabilites() {
                 <span>{data.team}</span>
               </TableCell>
               <TableCell className="w-[30%] text-center">
-              <HoverCard openDelay={0} closeDelay={0}>
-                <HoverCardTrigger asChild>
-                  <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg " }>
-                    {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
-                  </Button>
-                </HoverCardTrigger>
-                <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
-                  <div className="flex justify-between space-x-4">
-                    <div className="space-y-1">
-                      <h4 className="text-sm font-semibold">
-                        {data.team} has {(data.percentage * 100).toFixed(4)}% chance of qualifying for SI
-                      </h4>
+                <HoverCard openDelay={0} closeDelay={0}>
+                  <HoverCardTrigger asChild>
+                    <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg " }>
+                      {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                    </Button>
+                  </HoverCardTrigger>
+                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl": "w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl"}>
+                    <div className="flex justify-between space-x-4">
+                      <div className="space-y-1">
+                        <h4 className="text-sm font-semibold">
+                          {data.percentage === 1 ? (
+                            `${data.team} has qualified for SI`
+                          ) : (
+                            `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`
+                          )}
+                        </h4>
+                      </div>
                     </div>
-                  </div>
-                </HoverCardContent>
-              </HoverCard>
-            </TableCell>
+                  </HoverCardContent>
+                </HoverCard>
+              </TableCell>
               <TableCell className="w-[30%] text-center ">
                 {data.region}
               </TableCell>

@@ -32,7 +32,7 @@ type EloData = {
   region: string;
 };
 
-const regions = ["NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
@@ -62,8 +62,13 @@ export default function EloTable() {
   const [, setSelectedRegion] = useState<string>("");
   // Handle region selection
   const handleRegionSelect = (region: string) => {
+    if (region === "ALL REGIONS") {
+      setSearchRegion("");
+    }
+    else {
     setSelectedRegion(region);
-    setSearchRegion(region); // Update the searchRegion state to filter data by selected region
+    setSearchRegion(region); 
+    } 
     setPopoverOpen(false);
   }
 
@@ -117,7 +122,7 @@ export default function EloTable() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-        Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Axon</a>
+        Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}

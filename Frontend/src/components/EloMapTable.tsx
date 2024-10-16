@@ -52,9 +52,9 @@ type EloMapsData = {
 };
 
 
-const maps = ["BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
+const maps = ["ALL MAPS","BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
 // const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA",  "OCE", "SEA"];
-const regions = ["NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
   // Create a map to group teams by MapName
@@ -118,15 +118,26 @@ export default function EloTable() {
 
   // Handle map selection
   const handleMapSelect = (map: string) => {
-    setSelectedMap(map);
-    setSearchMap(map); // Update the searchMap state to filter data by selected map
+    if (map === "ALL MAPS") {
+      setSearchMap("");
+    }
+    else {
+      setSelectedMap(map);
+      setSearchMap(map); // Update the searchMap state to filter data by selected map
+    }
     setPopoverMapOpen(false);
   };
 
   // Handle region selection
   const handleRegionSelect = (region: string) => {
+    // If region == "ALL", set searchRegion to empty string to show all regions
+    if (region === "ALL REGIONS") {
+      setSearchRegion("");
+    }
+    else {
     setSelectedRegion(region);
-    setSearchRegion(region); // Update the searchRegion state to filter data by selected region
+    setSearchRegion(region); 
+    } // Update the searchRegion state to filter data by selected region
     setPopoverOpen(false);
   }
 
@@ -197,7 +208,7 @@ export default function EloTable() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Axon</a>
+          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}

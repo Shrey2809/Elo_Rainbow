@@ -38,19 +38,19 @@ const currentTab = location.pathname === "/maps"
           <TabsList className="grid w-full grid-cols-3 bg-myColor rounded">
             <TabsTrigger
               value="elo"
-              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "elo" ? " text-myDarkColor border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
+              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "elo" ? " text-myDarkColor border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
               Elo Rankings
             </TabsTrigger>
             <TabsTrigger
               value="map-elo"
-              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "map-elo" ? "bg-myDarkColor text-white border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
+              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "map-elo" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
               Map Elo Rankings
             </TabsTrigger>
             <TabsTrigger
               value="si-probabilities"
-              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "si-probabilities" ? "bg-myDarkColor text-white border-solid border-b-2 border-white" : "bg-myColor text-gray-300"}`}
+              className={`px-4 py-2 rounded transition-colors text-xl ${currentTab === "si-probabilities" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
               SI Probabilites
             </TabsTrigger>
