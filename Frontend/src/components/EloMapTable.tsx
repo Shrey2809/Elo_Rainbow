@@ -197,7 +197,7 @@ export default function EloTable() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Coded by Axon319
+          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Axon</a>
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
@@ -220,16 +220,16 @@ export default function EloTable() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-1/6 text-white text-center font-bold">
+            <TableHead className="w-[10%] text-white text-center font-bold">
               Rank
             </TableHead>
-            <TableHead className="w-1/6 text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-1/6 text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               Elo
             </TableHead>
-            <TableHead className="w-1/6 text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               <Popover open={popoverMapOpen} onOpenChange={setPopoverMapOpen}>
                 <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                   Map <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
@@ -249,7 +249,7 @@ export default function EloTable() {
                 </PopoverContent>
               </Popover>
             </TableHead>
-            <TableHead className="w-1/6 text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
               <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                   Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
@@ -274,10 +274,10 @@ export default function EloTable() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow key={data.id}>
-              <TableCell className="w-1/6 text-center font-semibold">
+              <TableCell className="w-[10%] text-center font-semibold">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-1/4 text-center font-semibold">
+              <TableCell className="w-[22.5%] text-center font-semibold">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -289,10 +289,10 @@ export default function EloTable() {
                 /> 
                 <span>{data.team}</span>
               </TableCell>
-              <TableCell className="w-1/6 text-center font-semibold">
+              <TableCell className="w-[22.5%] text-center font-semibold">
                 {Math.round(data.elo)}
               </TableCell>
-              <TableCell className="w-1/6 text-center font-semibold">
+              <TableCell className="w-[22.5%] text-center font-semibold">
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
                   <Button variant="link" className="text-lg font-bold">{data.map}</Button>
@@ -310,7 +310,7 @@ export default function EloTable() {
                 </HoverCardContent>
               </HoverCard>
               </TableCell>
-              <TableCell className="w-1/6 text-center font-semibold">
+              <TableCell className="w-[22.5%] text-center font-semibold">
                 {data.region}
               </TableCell>
             </TableRow>

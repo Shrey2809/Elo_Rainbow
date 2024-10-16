@@ -107,23 +107,17 @@ export default function SIProbabilites() {
     <div className="w-full">
       <div className="items-center justify-left font-normal font-sans">
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          SI Probabilities: Last calculated on {Date.Date}
+          Last calculated: {Date.Date}
         </h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          Average Minimum Points to qualify for SI2025: {MinPoints.MinPoints}
+          Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
         </h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
+        {/* <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
                 This is used to simulate a final state of stage 2 regional positions. 
                 This in turn is used to randomly assign positions at the Major, based on if they start in phase 1 or phase 2. 
-                This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Currently, this is run for 1 million simulations.</h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          If you have questions, feel free to reach out to me on <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Twitter</a>
-        </h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          Team is highlighted if they have a 100% chance of qualifying for SI, you can hover over the percentage to see the exact percentage
-        </h1>
+                This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1> */}
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Simulations: 1 million simulations.</h1>
       </div>
       <div className="p-4 flex gap-4 font-sans">
         <input
@@ -143,7 +137,7 @@ export default function SIProbabilites() {
       </div>
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Coded by Axon319
+          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-blue-500 underline">Axon</a>
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
@@ -166,16 +160,16 @@ export default function SIProbabilites() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-2/20 text-white text-center font-bold">
+            <TableHead className="w-[10%] text-white text-center font-bold">
               Rank
             </TableHead>
-            <TableHead className="w-6/20 text-white text-center font-bold">
+            <TableHead className="w-[30%] text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-6/20 text-white text-center font-bold">
+            <TableHead className="w-[30%] text-white text-center font-bold">
               Chance
             </TableHead>
-            <TableHead className="w-6/20 text-white text-center font-bold">
+            <TableHead className="w-[30%] text-white text-center font-bold">
             <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
             <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                   Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
@@ -203,10 +197,10 @@ export default function SIProbabilites() {
                   className={data.percentage === 1 ? 'border-b-4 border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
                   key={data.rank}
                 >
-              <TableCell className="w-1/4 text-center ">
+              <TableCell className="w-[10%] text-center ">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-1/4 text-center  ">
+              <TableCell className="w-[30%] text-center  ">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -218,7 +212,7 @@ export default function SIProbabilites() {
                 /> 
                 <span>{data.team}</span>
               </TableCell>
-              <TableCell className="w-1/4 text-center">
+              <TableCell className="w-[30%] text-center">
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
                   <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg " }>
@@ -236,7 +230,7 @@ export default function SIProbabilites() {
                 </HoverCardContent>
               </HoverCard>
             </TableCell>
-              <TableCell className="w-1/4 text-center ">
+              <TableCell className="w-[30%] text-center ">
                 {data.region}
               </TableCell>
             </TableRow>
