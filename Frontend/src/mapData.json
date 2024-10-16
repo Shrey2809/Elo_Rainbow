@@ -905,7 +905,7 @@
             "TeamName": "C9BC",
             "MapName": "BANK",
             "Elo": 1516.7119180259833,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -915,7 +915,7 @@
             "TeamName": "C9BC",
             "MapName": "BORDER",
             "Elo": 1528.1947747254042,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 41,
             "MajorCount": 2,
             "RegionalCount": 5
@@ -925,7 +925,7 @@
             "TeamName": "C9BC",
             "MapName": "CHALET",
             "Elo": 1526.243038920503,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 521,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -935,7 +935,7 @@
             "TeamName": "C9BC",
             "MapName": "CLUB",
             "Elo": 1467.3905919194121,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 38,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -945,7 +945,7 @@
             "TeamName": "C9BC",
             "MapName": "CONS",
             "Elo": 1513.636162336402,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 23,
             "MajorCount": 1,
             "RegionalCount": 4
@@ -955,7 +955,7 @@
             "TeamName": "C9BC",
             "MapName": "KAFE",
             "Elo": 1536.5852531330268,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 41,
             "MajorCount": 3,
             "RegionalCount": 5
@@ -965,7 +965,7 @@
             "TeamName": "C9BC",
             "MapName": "LABS",
             "Elo": 1575.5136067378703,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 3,
             "RegionalCount": 3
@@ -975,7 +975,7 @@
             "TeamName": "C9BC",
             "MapName": "LAIR",
             "Elo": 1656.4997698972531,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -985,7 +985,7 @@
             "TeamName": "C9BC",
             "MapName": "OREGON",
             "Elo": 1523.3091534767743,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 322,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -995,7 +995,7 @@
             "TeamName": "C9BC",
             "MapName": "SKYSCRAPER",
             "Elo": 1591.8345224117668,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 644,
             "MajorCount": 4,
             "RegionalCount": 1
@@ -1255,7 +1255,7 @@
             "TeamName": "CL4L",
             "MapName": "BANK",
             "Elo": 1419.5608894878874,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1265,7 +1265,7 @@
             "TeamName": "CL4L",
             "MapName": "LABS",
             "Elo": 1398.4029037031607,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1275,7 +1275,7 @@
             "TeamName": "CL4L",
             "MapName": "LAIR",
             "Elo": 1360.2775063273527,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -1815,7 +1815,7 @@
             "TeamName": "DZ",
             "MapName": "BANK",
             "Elo": 1521.2099832373647,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 34,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -1825,7 +1825,7 @@
             "TeamName": "DZ",
             "MapName": "BORDER",
             "Elo": 1518.280585071507,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 2,
             "RegionalCount": 7
@@ -1835,7 +1835,7 @@
             "TeamName": "DZ",
             "MapName": "CHALET",
             "Elo": 1520.8700190421177,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 2,
             "RegionalCount": 5
@@ -1845,7 +1845,7 @@
             "TeamName": "DZ",
             "MapName": "CLUB",
             "Elo": 1536.005466475544,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 40,
             "MajorCount": 1,
             "RegionalCount": 7
@@ -1855,7 +1855,7 @@
             "TeamName": "DZ",
             "MapName": "CONS",
             "Elo": 1544.5189359240524,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 32,
             "MajorCount": 2,
             "RegionalCount": 4
@@ -1865,7 +1865,7 @@
             "TeamName": "DZ",
             "MapName": "KAFE",
             "Elo": 1579.0098682249977,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 3,
             "RegionalCount": 2
@@ -1875,7 +1875,7 @@
             "TeamName": "DZ",
             "MapName": "LABS",
             "Elo": 1577.4691544424522,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 26,
             "MajorCount": 2,
             "RegionalCount": 3
@@ -1885,7 +1885,7 @@
             "TeamName": "DZ",
             "MapName": "OREGON",
             "Elo": 1596.0326275371667,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 516,
             "MajorCount": 1,
             "RegionalCount": 0
@@ -1895,7 +1895,7 @@
             "TeamName": "DZ",
             "MapName": "SKYSCRAPER",
             "Elo": 1495.3185320447915,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 7,
             "MajorCount": 1,
             "RegionalCount": 3
@@ -3995,7 +3995,7 @@
             "TeamName": "LG",
             "MapName": "BANK",
             "Elo": 1470.6567611795924,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4005,7 +4005,7 @@
             "TeamName": "LG",
             "MapName": "BORDER",
             "Elo": 1471.812453934324,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 11,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -4015,7 +4015,7 @@
             "TeamName": "LG",
             "MapName": "CHALET",
             "Elo": 1480,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 311,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4025,7 +4025,7 @@
             "TeamName": "LG",
             "MapName": "CLUB",
             "Elo": 1478.2579992756275,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 702,
             "MajorCount": 2,
             "RegionalCount": 4
@@ -4035,7 +4035,7 @@
             "TeamName": "LG",
             "MapName": "CONS",
             "Elo": 1479.0437474194966,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 32,
             "MajorCount": 1,
             "RegionalCount": 5
@@ -4045,7 +4045,7 @@
             "TeamName": "LG",
             "MapName": "KAFE",
             "Elo": 1459.9761407832025,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 1,
             "RegionalCount": 3
@@ -4055,7 +4055,7 @@
             "TeamName": "LG",
             "MapName": "LABS",
             "Elo": 1521.6859320526246,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 14,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4065,7 +4065,7 @@
             "TeamName": "LG",
             "MapName": "LAIR",
             "Elo": 1427.5812897322667,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4075,7 +4075,7 @@
             "TeamName": "LG",
             "MapName": "OREGON",
             "Elo": 1518.5533785446955,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 319,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4085,7 +4085,7 @@
             "TeamName": "LG",
             "MapName": "SKYSCRAPER",
             "Elo": 1539.1968265426585,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 1,
             "RegionalCount": 4
@@ -4095,7 +4095,7 @@
             "TeamName": "LOS",
             "MapName": "BANK",
             "Elo": 1487.5,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 306,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4105,7 +4105,7 @@
             "TeamName": "LOS",
             "MapName": "BORDER",
             "Elo": 1363.0565102225087,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 29,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4115,7 +4115,7 @@
             "TeamName": "LOS",
             "MapName": "CHALET",
             "Elo": 1462.678836730972,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4125,7 +4125,7 @@
             "TeamName": "LOS",
             "MapName": "CLUB",
             "Elo": 1473.3218226250924,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 13,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -4135,7 +4135,7 @@
             "TeamName": "LOS",
             "MapName": "CONS",
             "Elo": 1450.8256301468318,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 19,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4145,7 +4145,7 @@
             "TeamName": "LOS",
             "MapName": "KAFE",
             "Elo": 1354.5109224358912,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4155,7 +4155,7 @@
             "TeamName": "LOS",
             "MapName": "LABS",
             "Elo": 1418.231449678153,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4165,7 +4165,7 @@
             "TeamName": "LOS",
             "MapName": "LAIR",
             "Elo": 1369.3178730697164,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 25,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -4175,7 +4175,7 @@
             "TeamName": "LOS",
             "MapName": "OREGON",
             "Elo": 1469.9246658051952,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 313,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4345,7 +4345,7 @@
             "TeamName": "M80",
             "MapName": "BANK",
             "Elo": 1457.8793690213467,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 1,
             "RegionalCount": 6
@@ -4355,7 +4355,7 @@
             "TeamName": "M80",
             "MapName": "BORDER",
             "Elo": 1484.5039217533874,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 40,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4365,7 +4365,7 @@
             "TeamName": "M80",
             "MapName": "CHALET",
             "Elo": 1493.3885802703023,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 40,
             "MajorCount": 1,
             "RegionalCount": 3
@@ -4375,7 +4375,7 @@
             "TeamName": "M80",
             "MapName": "CLUB",
             "Elo": 1535.3330235458511,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 40,
             "MajorCount": 0,
             "RegionalCount": 8
@@ -4385,7 +4385,7 @@
             "TeamName": "M80",
             "MapName": "CONS",
             "Elo": 1537.1370686946523,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -4395,7 +4395,7 @@
             "TeamName": "M80",
             "MapName": "KAFE",
             "Elo": 1486.405708957738,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 647,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -4405,7 +4405,7 @@
             "TeamName": "M80",
             "MapName": "LABS",
             "Elo": 1479.2555796555184,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 42,
             "MajorCount": 1,
             "RegionalCount": 5
@@ -4415,7 +4415,7 @@
             "TeamName": "M80",
             "MapName": "LAIR",
             "Elo": 1572.7935606903118,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -4425,7 +4425,7 @@
             "TeamName": "M80",
             "MapName": "OREGON",
             "Elo": 1553.1814811223094,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 497,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -4435,7 +4435,7 @@
             "TeamName": "M80",
             "MapName": "SKYSCRAPER",
             "Elo": 1503.0394356511829,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 308,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5385,7 +5385,7 @@
             "TeamName": "OXG",
             "MapName": "BANK",
             "Elo": 1481.771940695037,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 35,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5395,7 +5395,7 @@
             "TeamName": "OXG",
             "MapName": "BORDER",
             "Elo": 1484.6783283566192,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 650,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5405,7 +5405,7 @@
             "TeamName": "OXG",
             "MapName": "CHALET",
             "Elo": 1518.1974984148867,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 12,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5415,7 +5415,7 @@
             "TeamName": "OXG",
             "MapName": "CLUB",
             "Elo": 1500.014872290982,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 18,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -5425,7 +5425,7 @@
             "TeamName": "OXG",
             "MapName": "CONS",
             "Elo": 1464.576576704924,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5435,7 +5435,7 @@
             "TeamName": "OXG",
             "MapName": "KAFE",
             "Elo": 1496.5283874491038,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5445,7 +5445,7 @@
             "TeamName": "OXG",
             "MapName": "LABS",
             "Elo": 1453.7047625876075,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 26,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -5455,7 +5455,7 @@
             "TeamName": "OXG",
             "MapName": "LAIR",
             "Elo": 1415.1995785643517,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5465,7 +5465,7 @@
             "TeamName": "OXG",
             "MapName": "OREGON",
             "Elo": 1531.7449333432098,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 298,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -5475,7 +5475,7 @@
             "TeamName": "OXG",
             "MapName": "SKYSCRAPER",
             "Elo": 1478.396578956765,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6095,7 +6095,7 @@
             "TeamName": "SQ",
             "MapName": "BANK",
             "Elo": 1497.392068186531,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 321,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6105,7 +6105,7 @@
             "TeamName": "SQ",
             "MapName": "BORDER",
             "Elo": 1523.602702376553,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6115,7 +6115,7 @@
             "TeamName": "SQ",
             "MapName": "CHALET",
             "Elo": 1481.6005906861817,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6125,7 +6125,7 @@
             "TeamName": "SQ",
             "MapName": "CLUB",
             "Elo": 1538.1158121213982,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 37,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -6135,7 +6135,7 @@
             "TeamName": "SQ",
             "MapName": "CONS",
             "Elo": 1487.5,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 303,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6145,7 +6145,7 @@
             "TeamName": "SQ",
             "MapName": "KAFE",
             "Elo": 1507.7088120959447,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 43,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6155,7 +6155,7 @@
             "TeamName": "SQ",
             "MapName": "LABS",
             "Elo": 1497.1091411477828,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 37,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -6165,7 +6165,7 @@
             "TeamName": "SQ",
             "MapName": "LAIR",
             "Elo": 1575.055000990443,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 39,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6175,7 +6175,7 @@
             "TeamName": "SQ",
             "MapName": "OREGON",
             "Elo": 1473.3461191984686,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 655,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6185,7 +6185,7 @@
             "TeamName": "SQ",
             "MapName": "SKYSCRAPER",
             "Elo": 1525.841960163053,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 37,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6195,7 +6195,7 @@
             "TeamName": "SSG",
             "MapName": "BANK",
             "Elo": 1568.5614433676508,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 42,
             "MajorCount": 2,
             "RegionalCount": 5
@@ -6205,7 +6205,7 @@
             "TeamName": "SSG",
             "MapName": "BORDER",
             "Elo": 1530.8633487879013,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 39,
             "MajorCount": 4,
             "RegionalCount": 3
@@ -6215,7 +6215,7 @@
             "TeamName": "SSG",
             "MapName": "CHALET",
             "Elo": 1489.9392940105768,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 16,
             "MajorCount": 3,
             "RegionalCount": 2
@@ -6225,7 +6225,7 @@
             "TeamName": "SSG",
             "MapName": "CLUB",
             "Elo": 1477.4287995487707,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 648,
             "MajorCount": 2,
             "RegionalCount": 3
@@ -6235,7 +6235,7 @@
             "TeamName": "SSG",
             "MapName": "CONS",
             "Elo": 1492.4096510264578,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 8,
             "MajorCount": 2,
             "RegionalCount": 6
@@ -6245,7 +6245,7 @@
             "TeamName": "SSG",
             "MapName": "KAFE",
             "Elo": 1518.4140627016657,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 33,
             "MajorCount": 2,
             "RegionalCount": 4
@@ -6255,7 +6255,7 @@
             "TeamName": "SSG",
             "MapName": "LABS",
             "Elo": 1519.481121423133,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 42,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -6265,7 +6265,7 @@
             "TeamName": "SSG",
             "MapName": "LAIR",
             "Elo": 1603.8500405523278,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 39,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6275,7 +6275,7 @@
             "TeamName": "SSG",
             "MapName": "OREGON",
             "Elo": 1483.9880476030341,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 666,
             "MajorCount": 3,
             "RegionalCount": 2
@@ -6285,7 +6285,7 @@
             "TeamName": "SSG",
             "MapName": "SKYSCRAPER",
             "Elo": 1493.6145368963073,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 649,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -6295,7 +6295,7 @@
             "TeamName": "SSGA",
             "MapName": "BANK",
             "Elo": 1415.1867972167788,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6305,7 +6305,7 @@
             "TeamName": "SSGA",
             "MapName": "CONS",
             "Elo": 1370.6348808651005,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -6315,7 +6315,7 @@
             "TeamName": "SSGA",
             "MapName": "LAIR",
             "Elo": 1376.189124347191,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 1,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -7085,7 +7085,7 @@
             "TeamName": "WCG",
             "MapName": "BANK",
             "Elo": 1525.107931813469,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 321,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -7095,7 +7095,7 @@
             "TeamName": "WCG",
             "MapName": "BORDER",
             "Elo": 1491.7597777066026,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 41,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -7105,7 +7105,7 @@
             "TeamName": "WCG",
             "MapName": "CHALET",
             "Elo": 1513.2251612025561,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 22,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -7115,7 +7115,7 @@
             "TeamName": "WCG",
             "MapName": "CLUB",
             "Elo": 1410.7613473925849,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 37,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -7125,7 +7125,7 @@
             "TeamName": "WCG",
             "MapName": "CONS",
             "Elo": 1431.6418424099643,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 15,
             "MajorCount": 0,
             "RegionalCount": 1
@@ -7135,7 +7135,7 @@
             "TeamName": "WCG",
             "MapName": "KAFE",
             "Elo": 1479.7611675500452,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -7145,7 +7145,7 @@
             "TeamName": "WCG",
             "MapName": "LABS",
             "Elo": 1486.0698863364482,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -7155,7 +7155,7 @@
             "TeamName": "WCG",
             "MapName": "OREGON",
             "Elo": 1502.3851450589714,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 319,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -7165,7 +7165,7 @@
             "TeamName": "WCG",
             "MapName": "SKYSCRAPER",
             "Elo": 1518.1953925604641,
-            "Region": "NA",
+            "Region": "NORTH AMERICA",
             "LastGameUpdated": 37,
             "MajorCount": 0,
             "RegionalCount": 3

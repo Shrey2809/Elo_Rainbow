@@ -390,63 +390,63 @@
             "TeamName": "WCG",
             "Elo": 1515.843713152273,
             "LastGameUpdated": 3,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 57,
             "TeamName": "M80",
             "Elo": 1542.3229832460058,
             "LastGameUpdated": 1,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 58,
             "TeamName": "OXG",
             "Elo": 1443.6437175002059,
             "LastGameUpdated": 2,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 59,
             "TeamName": "LOS",
             "Elo": 1347.3034966362763,
             "LastGameUpdated": 3,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 60,
             "TeamName": "SQ",
             "Elo": 1605.8170098877674,
             "LastGameUpdated": 43,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
             "Elo": 1677.7063769210433,
             "LastGameUpdated": 43,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 62,
             "TeamName": "LG",
             "Elo": 1426.245493709768,
             "LastGameUpdated": 2,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 63,
             "TeamName": "SSG",
             "Elo": 1611.3202800952938,
             "LastGameUpdated": 42,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 64,
             "TeamName": "C9BC",
             "Elo": 1583.750874736265,
             "LastGameUpdated": 4,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 65,
@@ -719,7 +719,7 @@
             "TeamName": "SSGA",
             "Elo": 1377.9969833355756,
             "LastGameUpdated": 1,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         },
         {
             "ID": 104,
@@ -733,7 +733,7 @@
             "TeamName": "CL4L",
             "Elo": 1402.5539606427988,
             "LastGameUpdated": 4,
-            "Region": "NA"
+            "Region": "NORTH AMERICA"
         }
     ]
 }

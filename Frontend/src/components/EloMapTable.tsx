@@ -51,7 +51,7 @@ type EloMapsData = {
 };
 
 const maps = ["ALL MAPS", "BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
-const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
   const teamsByMap: { [map: string]: TeamMapsJSON[] } = {};
