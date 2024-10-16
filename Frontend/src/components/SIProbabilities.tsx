@@ -1,5 +1,4 @@
-// import { useState } from "react";
-import React, { useState} from 'react';
+import React, { useState } from 'react';
 import {
   Table,
   TableBody,
@@ -14,11 +13,11 @@ import {
   HoverCard,
   HoverCardContent,
   HoverCardTrigger,
-} from "@/components/ui/hover-card"
-import Teams from "../SIData.json";
-import Date from "../SIData.json";
-import MinPoints from "../SIData.json";
-import { Button } from "./ui/button";
+} from "@/components/ui/hover-card";
+import Teams from "../SIData.json"; // Teams data (imported from JSON)
+import Date from "../SIData.json"; // Date data (imported from JSON)
+import MinPoints from "../SIData.json"; // Minimum points data (imported from JSON)
+import { Button } from "./ui/button"; // Button component
 
 type TeamJSON = {
   TeamName: string;
@@ -37,79 +36,83 @@ type EloData = {
   region: string;
 };
 
-// const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
+// List of available regions
 const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
+// Function to transform raw team data into EloData format and sort by probability
 const transformData = (data: TeamsData): EloData[] => {
-  // Sort the teams by Elo rating in descending order
   const sortedTeams = data.Teams.map((team) => ({
     percentage: team.Probability,
     team: team.TeamName,
     region: team.Region,
-  })).sort((a, b) => b.percentage - a.percentage);
+  })).sort((a, b) => b.percentage - a.percentage); // Sort teams by percentage
 
   return sortedTeams.map((team, index) => ({
     ...team,
-    rank: index + 1,
+    rank: index + 1, // Assign a rank based on sorted order
   }));
 };
 
-const transformedData = transformData(Teams);
+const transformedData = transformData(Teams); // Apply transformation to teams data
 
-const rowsPerPage = 20;
+const rowsPerPage = 20; // Set the number of rows to display per page
 
 export default function SIProbabilites() {
-  const [currentPage, setCurrentPage] = useState(1);
-  const [searchQuery, setSearchQuery] = useState("");
-  const [searchRegion, setSearchRegion] = useState("");
-  const [popoverOpen, setPopoverOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1); // Track the current page
+  const [searchQuery, setSearchQuery] = useState(""); // Track team search query
+  const [searchRegion, setSearchRegion] = useState(""); // Track region search query
+  const [popoverOpen, setPopoverOpen] = useState(false); // Track popover visibility
 
-  const [, setSelectedRegion] = useState<string>("");
-  // Handle region selection
+  const [, setSelectedRegion] = useState<string>(""); // State to hold selected region
+
+  // Handle region selection in the popover
   const handleRegionSelect = (region: string) => {
     if (region === "ALL REGIONS") {
-      setSearchRegion("");
+      setSearchRegion(""); // Reset region filter if "ALL REGIONS" is selected
+    } else {
+      setSelectedRegion(region); // Set the selected region
+      setSearchRegion(region); // Filter data by region
     }
-    else {
-    setSelectedRegion(region);
-    setSearchRegion(region); 
-    } 
-    setPopoverOpen(false);
-  }
+    setPopoverOpen(false); // Close the popover after selection
+  };
 
+  // Handle page change for pagination
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
   };
 
+  // Handle team search query change
   const handleSearchQueryChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchQuery(event.target.value);
-    setCurrentPage(1);
+    setSearchQuery(event.target.value); // Set the search query
+    setCurrentPage(1); // Reset to page 1 when search changes
   };
 
+  // Handle region search query change
   const handleSearchRegionChange = (
     event: React.ChangeEvent<HTMLInputElement>,
   ) => {
-    setSearchRegion(event.target.value);
-    setCurrentPage(1);
+    setSearchRegion(event.target.value); // Set the region filter
+    setCurrentPage(1); // Reset to page 1 when search changes
   };
 
+  // Filter teams based on search query and region filter
   const filteredData = transformedData.filter(
     (data) =>
       data.team.toLowerCase().includes(searchQuery.toLowerCase()) &&
-      data.region.toLowerCase().includes(searchRegion.toLowerCase()),
+      data.region.toLowerCase().includes(searchRegion.toLowerCase())
   );
 
-
+  // Pagination logic
   const startIndex = (currentPage - 1) * rowsPerPage;
   const endIndex = startIndex + rowsPerPage;
-
-  const currentRows = filteredData.slice(startIndex, endIndex);
-  const totalPages = Math.ceil(filteredData.length / rowsPerPage);
+  const currentRows = filteredData.slice(startIndex, endIndex); // Get current page rows
+  const totalPages = Math.ceil(filteredData.length / rowsPerPage); // Calculate total pages
 
   return (
     <div className="w-full">
+      {/* Display last calculation date and average minimum points */}
       <div className="items-center justify-left font-normal font-sans">
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
           Last calculated: {Date.Date}
@@ -117,13 +120,12 @@ export default function SIProbabilites() {
         <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
           Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
         </h1>
-        {/* <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">DISCLAIMER: I don't claim this is 100% accurate, but rather should give an idea for who might have an approximate chance of qualifying for SI off of points</h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Overview: Teams either have a locked in stage 2 regional position, or a range they can get. 
-                This is used to simulate a final state of stage 2 regional positions. 
-                This in turn is used to randomly assign positions at the Major, based on if they start in phase 1 or phase 2. 
-                This is simulated a large number of times, and the probability is calculated as the number of times a team qualifies for SI off of points.</h1> */}
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">Simulations: 1 million simulations.</h1>
+        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
+          Simulations: 1 million simulations.
+        </h1>
       </div>
+
+      {/* Search filters for team and region */}
       <div className="p-4 flex gap-4 font-sans">
         <input
           type="text"
@@ -140,9 +142,13 @@ export default function SIProbabilites() {
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-white text-myDarkColor font-semibold"
         />
       </div>
+
+      {/* Table displaying team probabilities */}
       <Table className="text-xl table-fixed">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Created by <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
+          Matchups data and logos provided by Liquipedia. Created by 
+          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline"> Axon</a>
+          {/* Pagination controls */}
           <div className="pagination p-4 flex items-center justify-center">
             <button
               onClick={() => handlePageChange(currentPage - 1)}
@@ -163,6 +169,8 @@ export default function SIProbabilites() {
             </button>
           </div>
         </TableCaption>
+
+        {/* Table headers */}
         <TableHeader className="bg-myDarkColor">
           <TableRow>
             <TableHead className="w-[10%] text-white text-center font-bold">
@@ -175,9 +183,10 @@ export default function SIProbabilites() {
               Chance
             </TableHead>
             <TableHead className="w-[30%] text-white text-center font-bold">
-            <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
-            <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
-                  Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
+              {/* Region filter popover */}
+              <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
+                <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
+                  Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
                 </PopoverTrigger>
                 <PopoverContent className="p-4 bg-myDarkColor">
                   <div className="flex flex-col">
@@ -196,16 +205,18 @@ export default function SIProbabilites() {
             </TableHead>
           </TableRow>
         </TableHeader>
+
+        {/* Table body with team data */}
         <TableBody>
           {currentRows.map((data) => (
             <TableRow
-                  className={data.percentage === 1 ? 'border-b-4 border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
-                  key={data.rank}
-                >
+              className={data.percentage === 1 ? 'border-b-4 border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
+              key={data.rank}
+            >
               <TableCell className="w-[10%] text-center ">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-[30%] text-center  ">
+              <TableCell className="w-[30%] text-center">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -214,25 +225,21 @@ export default function SIProbabilites() {
                   onError={(e) => {
                     e.currentTarget.src = "/team_logos/no_org.png";
                   }}
-                /> 
+                />
                 <span>{data.team}</span>
               </TableCell>
               <TableCell className="w-[30%] text-center">
                 <HoverCard openDelay={0} closeDelay={0}>
                   <HoverCardTrigger asChild>
-                    <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg " }>
-                      {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                    <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg"}>
+                      {data.percentage === 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                     </Button>
                   </HoverCardTrigger>
-                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl": "w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl"}>
+                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl"}>
                     <div className="flex justify-between space-x-4">
                       <div className="space-y-1">
                         <h4 className="text-sm font-semibold">
-                          {data.percentage === 1 ? (
-                            `${data.team} has qualified for SI`
-                          ) : (
-                            `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`
-                          )}
+                          {data.percentage === 1 ? `${data.team} has qualified for SI` : `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`}
                         </h4>
                       </div>
                     </div>
