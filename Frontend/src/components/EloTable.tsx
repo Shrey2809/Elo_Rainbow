@@ -32,8 +32,7 @@ type EloData = {
   region: string;
 };
 
-// const regions = ["AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
-const regions = [ "Asia", "Brazil", "Europe", "Japan", "Korea", "Latin America", "Middle East & North Africa", "North America", "Oceania", ];
+const regions = ["NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   // Sort the teams by Elo rating in descending order
@@ -145,9 +144,6 @@ export default function EloTable() {
               Rank
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
-              Logo
-            </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
               Team
             </TableHead>
             <TableHead className="w-1/5 text-white text-center font-bold">
@@ -181,7 +177,7 @@ export default function EloTable() {
               <TableCell className="w-1/5 text-center font-semibold">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/4 text-center font-semibold">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -190,10 +186,8 @@ export default function EloTable() {
                   onError={(e) => {
                     e.currentTarget.src = "/team_logos/no_org.png";
                   }}
-                />
-              </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
-                {data.team}
+                /> 
+                <span>{data.team}</span>
               </TableCell>
               <TableCell className="w-1/5 text-center font-semibold">
                 {Math.round(data.elo)}

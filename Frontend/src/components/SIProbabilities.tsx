@@ -166,19 +166,16 @@ export default function SIProbabilites() {
         </TableCaption>
         <TableHeader className="bg-myDarkColor">
           <TableRow>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-2/20 text-white text-center font-bold">
               Rank
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
-              Logo
-            </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-6/20 text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-6/20 text-white text-center font-bold">
               Chance
             </TableHead>
-            <TableHead className="w-1/5 text-white text-center font-bold">
+            <TableHead className="w-6/20 text-white text-center font-bold">
             <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
             <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                   Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" /> 
@@ -203,13 +200,13 @@ export default function SIProbabilites() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow
-              className={data.percentage === 1 ? 'bg-mySecondaryColor hover:bg-mySecondaryColor text-black' : ''}
-              key={data.rank}
-            >
-              <TableCell className="w-1/5 text-center font-semibold">
+                  className={data.percentage === 1 ? 'border-b-4 border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
+                  key={data.rank}
+                >
+              <TableCell className="w-1/4 text-center ">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/4 text-center  ">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -218,17 +215,15 @@ export default function SIProbabilites() {
                   onError={(e) => {
                     e.currentTarget.src = "/team_logos/no_org.png";
                   }}
-                />
+                /> 
+                <span>{data.team}</span>
               </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
-                {data.team}
-              </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/4 text-center">
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
-                <Button variant="link" className="text-lg font-semibold">
-                  {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
-                </Button>
+                  <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg " }>
+                    {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                  </Button>
                 </HoverCardTrigger>
                 <HoverCardContent className="w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl">
                   <div className="flex justify-between space-x-4">
@@ -241,7 +236,7 @@ export default function SIProbabilites() {
                 </HoverCardContent>
               </HoverCard>
             </TableCell>
-              <TableCell className="w-1/5 text-center font-semibold">
+              <TableCell className="w-1/4 text-center ">
                 {data.region}
               </TableCell>
             </TableRow>

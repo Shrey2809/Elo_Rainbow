@@ -28,11 +28,12 @@ const currentTab = location.pathname === "/maps"
     <div className="flex flex-col items-center justify-center bg-myColor text-white font-sans ">
       <div className="w-full max-w-7xl p-4 gap-4">
         <h1 className="pt-30 text-white text-2xl md:text-3xl lg:text-6xl text-center">
-          EloRainbow6
+          <img
+                    src={`/Elo_R6.png`}
+                    className="align-center justify-center w-1/2 h-1/2 mx-auto"
+                    loading="lazy"
+                  /> 
         </h1>
-        <h2 className="text-white text-lg md:text-xl lg:text-xl text-center">
-        Team Skill Rankings
-        </h2>
         <Tabs defaultValue={currentTab} className="w-full mt-6" onValueChange={handleTabChange}>
           <TabsList className="grid w-full grid-cols-3 bg-myColor rounded">
             <TabsTrigger
