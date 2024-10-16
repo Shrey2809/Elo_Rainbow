@@ -32,7 +32,7 @@ type EloData = {
   region: string;
 };
 
-const regions = ["ALL REGIONS", "AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 
 const transformData = (data: TeamsData): EloData[] => {
   const sortedTeams = data.Teams.map((team) => ({
