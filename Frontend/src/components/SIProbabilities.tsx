@@ -114,14 +114,14 @@ export default function SIProbabilites() {
     <div className="w-full">
       {/* Display last calculation date and average minimum points */}
       <div className="items-center justify-left font-normal font-sans">
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
+        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Last calculated: {Date.Date}
         </h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
+        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
         </h1>
-        <h1 className="text-white text-lg md:text-xl lg:text-xl text-center">
-          Simulations: 1 million simulations.
+        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
+          Simulations: 1 million runs
         </h1>
       </div>
 
