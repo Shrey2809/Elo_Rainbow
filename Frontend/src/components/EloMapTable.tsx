@@ -232,7 +232,7 @@ export default function EloTable() {
         <TableHeader className="bg-myDarkColor">
           <TableRow>
             <TableHead className="w-[10%] text-white text-center font-bold">
-              Rank
+            #
             </TableHead>
             <TableHead className="w-[22.5%] text-white text-center font-bold">
               Team

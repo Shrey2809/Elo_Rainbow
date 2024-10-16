@@ -166,7 +166,7 @@ export default function SIProbabilites() {
         <TableHeader className="bg-myDarkColor">
           <TableRow>
             <TableHead className="w-[10%] text-white text-center font-bold">
-              Rank
+              #
             </TableHead>
             <TableHead className="w-[30%] text-white text-center font-bold">
               Team
