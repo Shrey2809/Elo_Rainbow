@@ -974,11 +974,11 @@
             "ID": 683,
             "TeamName": "C9BC",
             "MapName": "LAIR",
-            "Elo": 1649.9450683138818,
+            "Elo": 1656.4997698972531,
             "Region": "North America",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 349,
@@ -1247,6 +1247,16 @@
             "Elo": 1458.8524105525787,
             "Region": "Oceania",
             "LastGameUpdated": 28,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 757,
+            "TeamName": "CL4L",
+            "MapName": "LAIR",
+            "Elo": 1360.2775063273527,
+            "Region": "North America",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -4104,21 +4114,21 @@
             "ID": 693,
             "TeamName": "LOS",
             "MapName": "KAFE",
-            "Elo": 1363.2534925989796,
+            "Elo": 1354.5109224358912,
             "Region": "North America",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 576,
             "TeamName": "LOS",
             "MapName": "LABS",
-            "Elo": 1439.0360598603115,
+            "Elo": 1418.231449678153,
             "Region": "North America",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 580,
@@ -7094,21 +7104,21 @@
             "ID": 690,
             "TeamName": "WCG",
             "MapName": "KAFE",
-            "Elo": 1471.0185973869568,
+            "Elo": 1479.7611675500452,
             "Region": "North America",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 355,
             "TeamName": "WCG",
             "MapName": "LABS",
-            "Elo": 1465.2652761542897,
+            "Elo": 1486.0698863364482,
             "Region": "North America",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 317,
