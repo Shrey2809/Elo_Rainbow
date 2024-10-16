@@ -2244,11 +2244,11 @@
             "ID": 573,
             "TeamName": "ENCE",
             "MapName": "BORDER",
-            "Elo": 1433.8596432300221,
+            "Elo": 1421.9385744606625,
             "Region": "EU",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 506,
@@ -2314,11 +2314,11 @@
             "ID": 569,
             "TeamName": "ENCE",
             "MapName": "SKYSCRAPER",
-            "Elo": 1411.5602042137098,
+            "Elo": 1396.9960499433141,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 742,
@@ -3031,6 +3031,16 @@
             "RegionalCount": 5
         },
         {
+            "ID": 760,
+            "TeamName": "G2",
+            "MapName": "BORDER",
+            "Elo": 1560.5409119044768,
+            "Region": "EU",
+            "LastGameUpdated": 7,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
@@ -3104,11 +3114,11 @@
             "ID": 468,
             "TeamName": "G2",
             "MapName": "SKYSCRAPER",
-            "Elo": 1470.4031422101066,
+            "Elo": 1484.9672964805022,
             "Region": "EU",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 7,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 415,
