@@ -129,8 +129,8 @@
         {
             "ID": 19,
             "TeamName": "ENCE",
-            "Elo": 1451.174728864433,
-            "LastGameUpdated": 1,
+            "Elo": 1463.2955924759342,
+            "LastGameUpdated": 5,
             "Region": "Europe"
         },
         {
@@ -157,8 +157,8 @@
         {
             "ID": 23,
             "TeamName": "FNC",
-            "Elo": 1432.7680552519532,
-            "LastGameUpdated": 2,
+            "Elo": 1420.647191640452,
+            "LastGameUpdated": 5,
             "Region": "Europe"
         },
         {
@@ -444,7 +444,7 @@
         {
             "ID": 64,
             "TeamName": "C9BC",
-            "Elo": 1619.4726274683396,
+            "Elo": 1583.750874736265,
             "LastGameUpdated": 4,
             "Region": "North America"
         },
@@ -731,7 +731,7 @@
         {
             "ID": 105,
             "TeamName": "CL4L",
-            "Elo": 1366.832207910724,
+            "Elo": 1402.5539606427988,
             "LastGameUpdated": 4,
             "Region": "North America"
         }

@@ -904,11 +904,11 @@
             "ID": 329,
             "TeamName": "C9BC",
             "MapName": "BANK",
-            "Elo": 1533.718846871072,
+            "Elo": 1516.7119180259833,
             "Region": "North America",
-            "LastGameUpdated": 518,
+            "LastGameUpdated": 4,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 322,
@@ -964,11 +964,11 @@
             "ID": 335,
             "TeamName": "C9BC",
             "MapName": "LABS",
-            "Elo": 1590.871069468889,
+            "Elo": 1575.5136067378703,
             "Region": "North America",
-            "LastGameUpdated": 513,
+            "LastGameUpdated": 4,
             "MajorCount": 3,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 683,
@@ -1247,6 +1247,26 @@
             "Elo": 1458.8524105525787,
             "Region": "Oceania",
             "LastGameUpdated": 28,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 759,
+            "TeamName": "CL4L",
+            "MapName": "BANK",
+            "Elo": 1419.5608894878874,
+            "Region": "North America",
+            "LastGameUpdated": 4,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 758,
+            "TeamName": "CL4L",
+            "MapName": "LABS",
+            "Elo": 1398.4029037031607,
+            "Region": "North America",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2234,31 +2254,31 @@
             "ID": 506,
             "TeamName": "ENCE",
             "MapName": "CHALET",
-            "Elo": 1440.3895399055366,
+            "Elo": 1422.8863524488352,
             "Region": "Europe",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 108,
             "TeamName": "ENCE",
             "MapName": "CLUB",
-            "Elo": 1515.3558878465806,
+            "Elo": 1527.8878557582364,
             "Region": "Europe",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 507,
             "TeamName": "ENCE",
             "MapName": "CONS",
-            "Elo": 1459.0353473191285,
+            "Elo": 1479.924876017054,
             "Region": "Europe",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 116,
@@ -2464,31 +2484,31 @@
             "ID": 121,
             "TeamName": "FNC",
             "MapName": "CHALET",
-            "Elo": 1483.9910781018007,
+            "Elo": 1501.494265558502,
             "Region": "Europe",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 144,
             "TeamName": "FNC",
             "MapName": "CLUB",
-            "Elo": 1516.2444329920754,
+            "Elo": 1503.7124650804196,
             "Region": "Europe",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 126,
             "TeamName": "FNC",
             "MapName": "CONS",
-            "Elo": 1474.4982448970727,
+            "Elo": 1453.6087161991472,
             "Region": "Europe",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 153,

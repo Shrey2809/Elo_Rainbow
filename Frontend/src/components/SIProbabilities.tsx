@@ -56,7 +56,7 @@ const transformData = (data: TeamsData): EloData[] => {
 
 const transformedData = transformData(Teams);
 
-const rowsPerPage = 16;
+const rowsPerPage = 20;
 
 export default function SIProbabilites() {
   const [currentPage, setCurrentPage] = useState(1);
@@ -131,14 +131,14 @@ export default function SIProbabilites() {
           placeholder="Search Team Name"
           value={searchQuery}
           onChange={handleSearchQueryChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-white text-myDarkColor font-semibold"
         />
         <input
           type="text"
           placeholder="Search Region"
           value={searchRegion}
           onChange={handleSearchRegionChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-violet-200 text-myDarkColor font-semibold"
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-white text-myDarkColor font-semibold"
         />
       </div>
       <Table className="text-xl table-fixed">
@@ -203,7 +203,7 @@ export default function SIProbabilites() {
         <TableBody>
           {currentRows.map((data) => (
             <TableRow
-              className={data.percentage === 1 ? 'bg-mySecondaryColor hover:bg-mySecondaryColor' : ''}
+              className={data.percentage === 1 ? 'bg-mySecondaryColor hover:bg-mySecondaryColor text-black' : ''}
               key={data.rank}
             >
               <TableCell className="w-1/5 text-center font-semibold">
@@ -226,7 +226,7 @@ export default function SIProbabilites() {
               <TableCell className="w-1/5 text-center font-semibold">
               <HoverCard openDelay={0} closeDelay={0}>
                 <HoverCardTrigger asChild>
-                <Button variant="link" className="text-lg font-bold">
+                <Button variant="link" className="text-lg font-semibold">
                   {data.percentage == 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                 </Button>
                 </HoverCardTrigger>
