@@ -14,15 +14,14 @@ import {
   HoverCardContent,
   HoverCardTrigger,
 } from "@/components/ui/hover-card";
-import Teams from "../SIData.json"; // Teams data (imported from JSON)
-import Date from "../SIData.json"; // Date data (imported from JSON)
-import MinPoints from "../SIData.json"; // Minimum points data (imported from JSON)
+import mergedData from "../merged_SIData.json"; // Import merged data
 import { Button } from "./ui/button"; // Button component
 
 type TeamJSON = {
   TeamName: string;
   Probability: number;
   Region: string;
+  FinishRequired: string;  // Added FinishRequired field
 };
 
 type TeamsData = {
@@ -34,6 +33,7 @@ type EloData = {
   team: string;
   percentage: number;
   region: string;
+  finishRequired: string;  // Added FinishRequired field to EloData
 };
 
 // List of available regions
@@ -45,6 +45,7 @@ const transformData = (data: TeamsData): EloData[] => {
     percentage: team.Probability,
     team: team.TeamName,
     region: team.Region,
+    finishRequired: team.FinishRequired,  // Include FinishRequired
   })).sort((a, b) => b.percentage - a.percentage); // Sort teams by percentage
 
   return sortedTeams.map((team, index) => ({
@@ -53,7 +54,7 @@ const transformData = (data: TeamsData): EloData[] => {
   }));
 };
 
-const transformedData = transformData(Teams); // Apply transformation to teams data
+const transformedData = transformData(mergedData); // Apply transformation to merged data
 
 const rowsPerPage = 20; // Set the number of rows to display per page
 
@@ -115,10 +116,10 @@ export default function SIProbabilites() {
       {/* Display last calculation date and average minimum points */}
       <div className="items-center justify-left font-normal font-sans">
         <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
-          Last calculated: {Date.Date}
+          Last calculated: {mergedData.Date}
         </h1>
         <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
-          Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
+          Average Minimum Points to qualify for SI2025: {Math.round(mergedData.MinPoints / 5) * 5}
         </h1>
         <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Simulations: 1 million runs
@@ -176,32 +177,34 @@ export default function SIProbabilites() {
             <TableHead className="w-[10%] text-white text-center font-bold">
               #
             </TableHead>
-            <TableHead className="w-[30%] text-white text-center font-bold">
+            <TableHead className="w-[20%] text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-[30%] text-white text-center font-bold">
+            <TableHead className="w-[20%] text-white text-center font-bold">
               Chance
             </TableHead>
-            <TableHead className="w-[30%] text-white text-center font-bold">
-              {/* Region filter popover */}
-              <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
-                <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
-                  Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
-                </PopoverTrigger>
-                <PopoverContent className="p-4 bg-myDarkColor">
-                  <div className="flex flex-col">
-                    {regions.map((region) => (
-                      <button
-                        key={region}
-                        onClick={() => handleRegionSelect(region)}
-                        className="py-2 px-4 text-white text-xl hover:bg-myColor"
-                      >
-                        {region}
-                      </button>
-                    ))}
-                  </div>
-                </PopoverContent>
-              </Popover>
+            <TableHead className="w-[20%] text-white text-center font-bold">
+              Finish Required
+            </TableHead>
+            <TableHead className="w-[20%] text-white text-center font-bold">
+            <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
+                  <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
+                    Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
+                  </PopoverTrigger>
+                  <PopoverContent className="p-4 bg-myDarkColor">
+                    <div className="flex flex-col">
+                      {regions.map((region) => (
+                        <button
+                          key={region}
+                          onClick={() => handleRegionSelect(region)}
+                          className="py-2 px-4 text-white text-lg hover:bg-myColor"
+                        >
+                          {region}
+                        </button>
+                      ))}
+                    </div>
+                  </PopoverContent>
+                </Popover>
             </TableHead>
           </TableRow>
         </TableHeader>
@@ -216,7 +219,7 @@ export default function SIProbabilites() {
               <TableCell className="w-[10%] text-center ">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-[30%] text-center">
+              <TableCell className="w-[20%] text-center">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -228,7 +231,7 @@ export default function SIProbabilites() {
                 />
                 <span>{data.team}</span>
               </TableCell>
-              <TableCell className="w-[30%] text-center">
+              <TableCell className="w-[20%] text-center">
                 <HoverCard openDelay={0} closeDelay={0}>
                   <HoverCardTrigger asChild>
                     <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg"}>
@@ -246,7 +249,12 @@ export default function SIProbabilites() {
                   </HoverCardContent>
                 </HoverCard>
               </TableCell>
-              <TableCell className="w-[30%] text-center ">
+              <TableCell className="w-[20%] text-center">
+                {data.percentage === 1 ? "Qualified" 
+                : data.finishRequired !== 'none' ? `${data.finishRequired}` 
+                : "Not Applicable"}
+              </TableCell>
+              <TableCell className="w-[20%] text-center ">
                 {data.region}
               </TableCell>
             </TableRow>

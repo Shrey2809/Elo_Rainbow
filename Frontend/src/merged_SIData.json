@@ -1,0 +1,286 @@
+{
+    "Teams": [
+        {
+            "TeamName": "Secret",
+            "Probability": 1.0,
+            "Region": "EU",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "FaZe",
+            "Probability": 1.0,
+            "Region": "BR",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "Liquid",
+            "Probability": 1.0,
+            "Region": "BR",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "C9BC",
+            "Probability": 1.0,
+            "Region": "NA",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "BDS",
+            "Probability": 1.0,
+            "Region": "EU",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "VP",
+            "Probability": 0.497681,
+            "Region": "EU",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 325,
+            "CurrentPoints": 155
+        },
+        {
+            "TeamName": "DZ",
+            "Probability": 1.0,
+            "Region": "NA",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "SZ",
+            "Probability": 0.995556,
+            "Region": "JAPAN",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "SSG",
+            "Probability": 0.69087,
+            "Region": "NA",
+            "FinishRequired": "9th-11th",
+            "PointsAtFinish": 325,
+            "CurrentPoints": 220
+        },
+        {
+            "TeamName": "DK",
+            "Probability": 0.51442,
+            "Region": "KOREA",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 360,
+            "CurrentPoints": 190
+        },
+        {
+            "TeamName": "ELV",
+            "Probability": 0.354964,
+            "Region": "SEA",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 360,
+            "CurrentPoints": 190
+        },
+        {
+            "TeamName": "M80",
+            "Probability": 0.999997,
+            "Region": "NA",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "FURIA",
+            "Probability": 0.999934,
+            "Region": "BR",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "Bleed",
+            "Probability": 0.837746,
+            "Region": "SEA",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "PSG",
+            "Probability": 0.54768,
+            "Region": "KOREA",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "GG",
+            "Probability": 0.230215,
+            "Region": "OCE",
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
+        },
+        {
+            "TeamName": "FOX",
+            "Probability": 0.440485,
+            "Region": "KOREA",
+            "FinishRequired": "9th-11th",
+            "PointsAtFinish": 335,
+            "CurrentPoints": 230
+        },
+        {
+            "TeamName": "w7m",
+            "Probability": 0.501663,
+            "Region": "BR",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 345,
+            "CurrentPoints": 175
+        },
+        {
+            "TeamName": "SQ",
+            "Probability": 0.499232,
+            "Region": "NA",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 335,
+            "CurrentPoints": 165
+        },
+        {
+            "TeamName": "ALPHA",
+            "Probability": 0.07191,
+            "Region": "LATAM",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 345,
+            "CurrentPoints": 175
+        },
+        {
+            "TeamName": "FLCS",
+            "Probability": 0.348367,
+            "Region": "MENA",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 350,
+            "CurrentPoints": 180
+        },
+        {
+            "TeamName": "G2",
+            "Probability": 0.415347,
+            "Region": "EU",
+            "FinishRequired": "9th-11th",
+            "PointsAtFinish": 310,
+            "CurrentPoints": 205
+        },
+        {
+            "TeamName": "CHIEFS",
+            "Probability": 0.158991,
+            "Region": "OCE",
+            "FinishRequired": "2nd",
+            "PointsAtFinish": 360,
+            "CurrentPoints": 100
+        },
+        {
+            "TeamName": "6K",
+            "Probability": 0.073882,
+            "Region": "LATAM",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 360,
+            "CurrentPoints": 190
+        },
+        {
+            "TeamName": "E1",
+            "Probability": 0.037759,
+            "Region": "BR",
+            "FinishRequired": "9th-11th",
+            "PointsAtFinish": 335,
+            "CurrentPoints": 230
+        },
+        {
+            "TeamName": "CAG",
+            "Probability": 0.496356,
+            "Region": "JAPAN",
+            "FinishRequired": "12th-14th",
+            "PointsAtFinish": 310,
+            "CurrentPoints": 245
+        },
+        {
+            "TeamName": "CTY",
+            "Probability": 0.12743,
+            "Region": "LATAM",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 355,
+            "CurrentPoints": 185
+        },
+        {
+            "TeamName": "ELVA",
+            "Probability": 0.001887,
+            "Region": "BR",
+            "FinishRequired": "1st",
+            "PointsAtFinish": 350,
+            "CurrentPoints": 0
+        },
+        {
+            "TeamName": "NIP",
+            "Probability": 0.006868,
+            "Region": "BR",
+            "FinishRequired": "2nd",
+            "PointsAtFinish": 335,
+            "CurrentPoints": 75
+        },
+        {
+            "TeamName": "ME",
+            "Probability": 0.071978,
+            "Region": "LATAM",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 335,
+            "CurrentPoints": 165
+        },
+        {
+            "TeamName": "CL4L",
+            "Probability": 0.010854,
+            "Region": "NA",
+            "FinishRequired": "1st",
+            "PointsAtFinish": 350,
+            "CurrentPoints": 0
+        },
+        {
+            "TeamName": "KS",
+            "Probability": 0.027003,
+            "Region": "BR",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 315,
+            "CurrentPoints": 145
+        },
+        {
+            "TeamName": "Fluxo",
+            "Probability": 0.00669,
+            "Region": "BR",
+            "FinishRequired": "1st",
+            "PointsAtFinish": 350,
+            "CurrentPoints": 0
+        },
+        {
+            "TeamName": "MIBR",
+            "Probability": 0.027086,
+            "Region": "BR",
+            "FinishRequired": "5th-8th",
+            "PointsAtFinish": 305,
+            "CurrentPoints": 135
+        },
+        {
+            "TeamName": "BD",
+            "Probability": 0.007149,
+            "Region": "BR",
+            "FinishRequired": "2nd",
+            "PointsAtFinish": 340,
+            "CurrentPoints": 80
+        }
+    ],
+    "Date": "Thursday, Oct 17, 2024, 13:12:03 UTC",
+    "MinPoints": 302.388765
+}

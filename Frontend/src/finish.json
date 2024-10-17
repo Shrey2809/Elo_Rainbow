@@ -1,0 +1,166 @@
+{
+    "Finish": [
+      {
+        "TeamName": "Fluxo",
+        "FinishRequired": "1st",
+        "PointsAtFinish": 350,
+        "CurrentPoints": 0,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "BD",
+        "FinishRequired": "2nd",
+        "PointsAtFinish": 340,
+        "CurrentPoints": 80,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "NIP",
+        "FinishRequired": "2nd",
+        "PointsAtFinish": 335,
+        "CurrentPoints": 75,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "w7m",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 345,
+        "CurrentPoints": 175,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "KS",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 315,
+        "CurrentPoints": 145,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "MIBR",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 305,
+        "CurrentPoints": 135,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "E1",
+        "FinishRequired": "9th-11th",
+        "PointsAtFinish": 335,
+        "CurrentPoints": 230,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "ELVA",
+        "FinishRequired": "1st",
+        "PointsAtFinish": 350,
+        "CurrentPoints": 0,
+        "Region": "BR"
+      },
+      {
+        "TeamName": "VP",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 325,
+        "CurrentPoints": 155,
+        "Region": "EU"
+      },
+      {
+        "TeamName": "G2",
+        "FinishRequired": "9th-11th",
+        "PointsAtFinish": 310,
+        "CurrentPoints": 205,
+        "Region": "EU"
+      },
+      {
+        "TeamName": "CAG",
+        "FinishRequired": "12th-14th",
+        "PointsAtFinish": 310,
+        "CurrentPoints": 245,
+        "Region": "JAPAN"
+      },
+      {
+        "TeamName": "DK",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 360,
+        "CurrentPoints": 190,
+        "Region": "KOREA"
+      },
+      {
+        "TeamName": "FOX",
+        "FinishRequired": "9th-11th",
+        "PointsAtFinish": 335,
+        "CurrentPoints": 230,
+        "Region": "KOREA"
+      },
+      {
+        "TeamName": "CTY",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 355,
+        "CurrentPoints": 185,
+        "Region": "LATAM"
+      },
+      {
+        "TeamName": "6K",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 360,
+        "CurrentPoints": 190,
+        "Region": "LATAM"
+      },
+      {
+        "TeamName": "ALPHA",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 345,
+        "CurrentPoints": 175,
+        "Region": "LATAM"
+      },
+      {
+        "TeamName": "ME",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 335,
+        "CurrentPoints": 165,
+        "Region": "LATAM"
+      },
+      {
+        "TeamName": "FLCS",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 350,
+        "CurrentPoints": 180,
+        "Region": "MENA"
+      },
+      {
+        "TeamName": "SQ",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 335,
+        "CurrentPoints": 165,
+        "Region": "NA"
+      },
+      {
+        "TeamName": "CL4L",
+        "FinishRequired": "1st",
+        "PointsAtFinish": 350,
+        "CurrentPoints": 0,
+        "Region": "NA"
+      },
+      {
+        "TeamName": "SSG",
+        "FinishRequired": "9th-11th",
+        "PointsAtFinish": 325,
+        "CurrentPoints": 220,
+        "Region": "NA"
+      },
+      {
+        "TeamName": "CHIEFS",
+        "FinishRequired": "2nd",
+        "PointsAtFinish": 360,
+        "CurrentPoints": 100,
+        "Region": "OCE"
+      },
+      {
+        "TeamName": "ELV",
+        "FinishRequired": "5th-8th",
+        "PointsAtFinish": 360,
+        "CurrentPoints": 190,
+        "Region": "SEA"
+      }
+    ]
+  }
+  
