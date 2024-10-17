@@ -388,8 +388,8 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1515.843713152273,
-            "LastGameUpdated": 3,
+            "Elo": 1490.291275459225,
+            "LastGameUpdated": 6,
             "Region": "NORTH AMERICA"
         },
         {
@@ -731,8 +731,8 @@
         {
             "ID": 105,
             "TeamName": "CL4L",
-            "Elo": 1402.5539606427988,
-            "LastGameUpdated": 4,
+            "Elo": 1428.1063983358467,
+            "LastGameUpdated": 6,
             "Region": "NORTH AMERICA"
         }
     ]

@@ -120,7 +120,7 @@ export default function SIProbabilites() {
         <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
         </h1>
-        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-centerc">
+        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Simulations: 1 million runs
         </h1>
       </div>

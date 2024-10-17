@@ -1261,14 +1261,24 @@
             "RegionalCount": 1
         },
         {
+            "ID": 761,
+            "TeamName": "CL4L",
+            "MapName": "BORDER",
+            "Elo": 1452.4358418095571,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 6,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 758,
             "TeamName": "CL4L",
             "MapName": "LABS",
-            "Elo": 1398.4029037031607,
+            "Elo": 1413.9917006521146,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 757,
@@ -1277,6 +1287,16 @@
             "Elo": 1360.2775063273527,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 4,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 762,
+            "TeamName": "CL4L",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1398.225422861908,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 6,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -7094,11 +7114,11 @@
             "ID": 549,
             "TeamName": "WCG",
             "MapName": "BORDER",
-            "Elo": 1491.7597777066026,
+            "Elo": 1468.177672533732,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 308,
@@ -7144,11 +7164,11 @@
             "ID": 355,
             "TeamName": "WCG",
             "MapName": "LABS",
-            "Elo": 1486.0698863364482,
+            "Elo": 1470.4810893874944,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 317,
@@ -7164,11 +7184,11 @@
             "ID": 550,
             "TeamName": "WCG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1518.1953925604641,
+            "Elo": 1532.2822097275716,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 427,
