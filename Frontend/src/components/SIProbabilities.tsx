@@ -253,10 +253,10 @@ export default function SIProbabilites() {
                   </HoverCardContent>
                 </HoverCard>
               </TableCell>
-              <TableCell className="w-[22.5%] text-center">
+              <TableCell className="w-[22.5%] text-center font-semibold text-lg">
               {data.percentage === 1 ? <img src={`/SI.png`}
                                                 alt={data.team}
-                                                className="w-10 h-10 mx-auto"
+                                                className="w-10 h-10 mx-auto drop-shadow-xl"
                                                 loading="lazy"
                                               /> :
               data.rank < (bleedRank ?? Infinity) ? <span className="text-mySecondaryColor">Cleared</span>
