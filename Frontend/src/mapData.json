@@ -3004,11 +3004,11 @@
             "ID": 96,
             "TeamName": "Fluxo",
             "MapName": "BANK",
-            "Elo": 1485.862291810945,
+            "Elo": 1496.6720280102838,
             "Region": "BR",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 63,
@@ -3039,6 +3039,16 @@
             "LastGameUpdated": 40,
             "MajorCount": 0,
             "RegionalCount": 6
+        },
+        {
+            "ID": 767,
+            "TeamName": "Fluxo",
+            "MapName": "CONS",
+            "Elo": 1412.7962439172936,
+            "Region": "BR",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 84,
@@ -4584,11 +4594,11 @@
             "ID": 72,
             "TeamName": "MIBR",
             "MapName": "BANK",
-            "Elo": 1514.0571389527902,
+            "Elo": 1503.2474027534513,
             "Region": "BR",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 585,
@@ -4614,11 +4624,11 @@
             "ID": 582,
             "TeamName": "MIBR",
             "MapName": "CONS",
-            "Elo": 1416.1763731252618,
+            "Elo": 1403.0841772405852,
             "Region": "BR",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 56,
