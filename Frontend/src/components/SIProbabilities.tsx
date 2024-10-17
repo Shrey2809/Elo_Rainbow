@@ -55,6 +55,7 @@ const transformData = (data: TeamsData): EloData[] => {
 };
 
 const transformedData = transformData(mergedData); // Apply transformation to merged data
+const bleedRank = transformedData.find((team) => team.team === "Bleed")?.rank;
 
 const rowsPerPage = 20; // Set the number of rows to display per page
 
@@ -65,6 +66,7 @@ export default function SIProbabilites() {
   const [popoverOpen, setPopoverOpen] = useState(false); // Track popover visibility
 
   const [, setSelectedRegion] = useState<string>(""); // State to hold selected region
+  
 
   // Handle region selection in the popover
   const handleRegionSelect = (region: string) => {
@@ -110,6 +112,8 @@ export default function SIProbabilites() {
   const endIndex = startIndex + rowsPerPage;
   const currentRows = filteredData.slice(startIndex, endIndex); // Get current page rows
   const totalPages = Math.ceil(filteredData.length / rowsPerPage); // Calculate total pages
+
+  
 
   return (
     <div className="w-full">
@@ -250,9 +254,11 @@ export default function SIProbabilites() {
                 </HoverCard>
               </TableCell>
               <TableCell className="w-[20%] text-center">
-                {data.percentage === 1 ? "Qualified" 
-                : data.finishRequired !== 'none' ? `${data.finishRequired}` 
-                : "Not Applicable"}
+              {data.percentage === 1 ? "Qualified" :
+              data.rank < (bleedRank ?? Infinity) ? "Already above threshold"
+                  : data.percentage === 1 ? "Qualified"
+                  : data.finishRequired !== 'none' ? `${data.finishRequired}`
+                  : "Not Qualified to Major"}
               </TableCell>
               <TableCell className="w-[20%] text-center ">
                 {data.region}
