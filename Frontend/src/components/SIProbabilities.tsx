@@ -149,7 +149,7 @@ export default function SIProbabilites() {
       </div>
 
       {/* Table displaying team probabilities */}
-      <Table className="text-xl table-fixed">
+      <Table className="text-sm md:text-lg table-auto w-full">
         <TableCaption className="text-white text-xl">
           Matchups data and logos provided by Liquipedia. Created by 
           <a href="https://x.com/ItzAxon" className="text-myFourthColor underline"> Axon</a>
@@ -181,16 +181,16 @@ export default function SIProbabilites() {
             <TableHead className="w-[10%] text-white text-center font-bold">
               #
             </TableHead>
-            <TableHead className="w-[20%] text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               Team
             </TableHead>
-            <TableHead className="w-[20%] text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               Chance
             </TableHead>
-            <TableHead className="w-[20%] text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
               Finish Required
             </TableHead>
-            <TableHead className="w-[20%] text-white text-center font-bold">
+            <TableHead className="w-[22.5%] text-white text-center font-bold">
             <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
@@ -223,7 +223,7 @@ export default function SIProbabilites() {
               <TableCell className="w-[10%] text-center ">
                 {data.rank}
               </TableCell>
-              <TableCell className="w-[20%] text-center">
+              <TableCell className="w-[22.5%] text-center">
                 <img
                   src={`/team_logos/${data.team.toLowerCase()}.png`}
                   alt={data.team}
@@ -235,7 +235,7 @@ export default function SIProbabilites() {
                 />
                 <span>{data.team}</span>
               </TableCell>
-              <TableCell className="w-[20%] text-center">
+              <TableCell className="w-[22.5%] text-center">
                 <HoverCard openDelay={0} closeDelay={0}>
                   <HoverCardTrigger asChild>
                     <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg"}>
@@ -253,14 +253,17 @@ export default function SIProbabilites() {
                   </HoverCardContent>
                 </HoverCard>
               </TableCell>
-              <TableCell className="w-[20%] text-center">
-              {data.percentage === 1 ? "Qualified" :
-              data.rank < (bleedRank ?? Infinity) ? "Already above threshold"
-                  : data.percentage === 1 ? "Qualified"
+              <TableCell className="w-[22.5%] text-center">
+              {data.percentage === 1 ? <img src={`/SI.png`}
+                                                alt={data.team}
+                                                className="w-10 h-10 mx-auto"
+                                                loading="lazy"
+                                              /> :
+              data.rank < (bleedRank ?? Infinity) ? <span className="text-mySecondaryColor">Cleared</span>
                   : data.finishRequired !== 'none' ? `${data.finishRequired}`
-                  : "Not Qualified to Major"}
+                  : <span className="text-myFourthColor">NQ</span>}
               </TableCell>
-              <TableCell className="w-[20%] text-center ">
+              <TableCell className="w-[22.5%] text-center ">
                 {data.region}
               </TableCell>
             </TableRow>
