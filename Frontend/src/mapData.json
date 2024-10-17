@@ -4374,11 +4374,11 @@
             "ID": 344,
             "TeamName": "M80",
             "MapName": "CLUB",
-            "Elo": 1535.3330235458511,
+            "Elo": 1521.566709726492,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 339,
@@ -4404,11 +4404,11 @@
             "ID": 367,
             "TeamName": "M80",
             "MapName": "LABS",
-            "Elo": 1479.2555796555184,
+            "Elo": 1457.7874022219892,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 5,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 581,
@@ -5414,11 +5414,11 @@
             "ID": 334,
             "TeamName": "OXG",
             "MapName": "CLUB",
-            "Elo": 1500.014872290982,
+            "Elo": 1513.7811861103412,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 346,
@@ -5444,11 +5444,11 @@
             "ID": 366,
             "TeamName": "OXG",
             "MapName": "LABS",
-            "Elo": 1453.7047625876075,
+            "Elo": 1475.1729400211368,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 579,

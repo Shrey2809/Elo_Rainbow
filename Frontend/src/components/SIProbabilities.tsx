@@ -120,7 +120,7 @@ export default function SIProbabilites() {
         <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
           Average Minimum Points to qualify for SI2025: {Math.round(MinPoints.MinPoints / 5) * 5}
         </h1>
-        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
+        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-centercd">
           Simulations: 1 million runs
         </h1>
       </div>
@@ -235,7 +235,7 @@ export default function SIProbabilites() {
                       {data.percentage === 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                     </Button>
                   </HoverCardTrigger>
-                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myDarkColor text-white rounded border-0 drop-shadow-2xl"}>
+                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-white rounded border-0 drop-shadow-2xl"}>
                     <div className="flex justify-between space-x-4">
                       <div className="space-y-1">
                         <h4 className="text-sm font-semibold">
