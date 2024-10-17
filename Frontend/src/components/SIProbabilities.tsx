@@ -132,14 +132,14 @@ export default function SIProbabilites() {
           placeholder="Search Team Name"
           value={searchQuery}
           onChange={handleSearchQueryChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-white text-myDarkColor font-semibold"
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
         />
         <input
           type="text"
           placeholder="Search Region"
           value={searchRegion}
           onChange={handleSearchRegionChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-white text-myDarkColor font-semibold"
+          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
         />
       </div>
 
