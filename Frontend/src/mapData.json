@@ -2291,6 +2291,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 766,
+            "TeamName": "ELVA",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1361.0437452298488,
+            "Region": "BR",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 573,
             "TeamName": "ENCE",
             "MapName": "BORDER",
@@ -2794,11 +2804,11 @@
             "ID": 502,
             "TeamName": "FURIA",
             "MapName": "SKYSCRAPER",
-            "Elo": 1516.8042798248428,
+            "Elo": 1530.5896929976566,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 492,
