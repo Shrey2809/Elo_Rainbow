@@ -115,8 +115,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1586.1894752176474,
-            "LastGameUpdated": 42,
+            "Elo": 1575.0122376159266,
+            "LastGameUpdated": 1,
             "Region": "BR"
         },
         {
@@ -734,6 +734,13 @@
             "Elo": 1464.085626809602,
             "LastGameUpdated": 7,
             "Region": "NORTH AMERICA"
+        },
+        {
+            "ID": 106,
+            "TeamName": "ELVA",
+            "Elo": 1386.177237601721,
+            "LastGameUpdated": 1,
+            "Region": "BR"
         }
     ]
 }

@@ -2271,6 +2271,26 @@
             "RegionalCount": 1
         },
         {
+            "ID": 765,
+            "TeamName": "ELVA",
+            "MapName": "CLUB",
+            "Elo": 1376.9749372356566,
+            "Region": "BR",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 764,
+            "TeamName": "ELVA",
+            "MapName": "LABS",
+            "Elo": 1410.8593608635263,
+            "Region": "BR",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 573,
             "TeamName": "ENCE",
             "MapName": "BORDER",
@@ -2714,11 +2734,11 @@
             "ID": 69,
             "TeamName": "FURIA",
             "MapName": "CLUB",
-            "Elo": 1527.8247964189827,
+            "Elo": 1537.027096785047,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 1,
             "MajorCount": 2,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 481,
@@ -2744,11 +2764,11 @@
             "ID": 87,
             "TeamName": "FURIA",
             "MapName": "LABS",
-            "Elo": 1511.8887769969224,
+            "Elo": 1495.3120838919301,
             "Region": "BR",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 1,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 720,
