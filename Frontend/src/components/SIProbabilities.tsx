@@ -235,7 +235,7 @@ export default function SIProbabilites() {
                       {data.percentage === 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                     </Button>
                   </HoverCardTrigger>
-                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-white rounded border-0 drop-shadow-2xl"}>
+                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-black rounded border-0 drop-shadow-2xl"}>
                     <div className="flex justify-between space-x-4">
                       <div className="space-y-1">
                         <h4 className="text-sm font-semibold">
