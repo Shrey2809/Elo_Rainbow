@@ -1271,6 +1271,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 763,
+            "TeamName": "CL4L",
+            "MapName": "CONS",
+            "Elo": 1476.6032901401952,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 7,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 758,
             "TeamName": "CL4L",
             "MapName": "LABS",
@@ -1284,11 +1294,11 @@
             "ID": 757,
             "TeamName": "CL4L",
             "MapName": "LAIR",
-            "Elo": 1360.2775063273527,
+            "Elo": 1383.4130009478802,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 762,
@@ -5444,11 +5454,11 @@
             "ID": 346,
             "TeamName": "OXG",
             "MapName": "CONS",
-            "Elo": 1464.576576704924,
+            "Elo": 1452.0589133743308,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 364,
@@ -5474,11 +5484,11 @@
             "ID": 579,
             "TeamName": "OXG",
             "MapName": "LAIR",
-            "Elo": 1415.1995785643517,
+            "Elo": 1392.0640839438242,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 310,
