@@ -494,11 +494,11 @@
             "ID": 504,
             "TeamName": "BD",
             "MapName": "CHALET",
-            "Elo": 1473.9879955262675,
+            "Elo": 1494.7730657143638,
             "Region": "BR",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 94,
@@ -534,11 +534,11 @@
             "ID": 99,
             "TeamName": "BD",
             "MapName": "LABS",
-            "Elo": 1452.4017996997457,
+            "Elo": 1465.1068031370983,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 500,
@@ -1954,11 +1954,11 @@
             "ID": 79,
             "TeamName": "E1",
             "MapName": "CHALET",
-            "Elo": 1447.4553078586698,
+            "Elo": 1426.6702376705734,
             "Region": "BR",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 3,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 694,
@@ -1994,11 +1994,11 @@
             "ID": 100,
             "TeamName": "E1",
             "MapName": "LABS",
-            "Elo": 1458.100349790802,
+            "Elo": 1445.3953463534494,
             "Region": "BR",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 3,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 587,
@@ -4024,11 +4024,11 @@
             "ID": 106,
             "TeamName": "KS",
             "MapName": "LABS",
-            "Elo": 1491.0790366754895,
+            "Elo": 1501.0357900021393,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 583,
@@ -4899,6 +4899,16 @@
             "LastGameUpdated": 554,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 768,
+            "TeamName": "NIP",
+            "MapName": "LABS",
+            "Elo": 1409.4327517031788,
+            "Region": "BR",
+            "LastGameUpdated": 4,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 586,
