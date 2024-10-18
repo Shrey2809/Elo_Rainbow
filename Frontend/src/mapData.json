@@ -3981,6 +3981,16 @@
             "RegionalCount": 6
         },
         {
+            "ID": 769,
+            "TeamName": "KS",
+            "MapName": "BORDER",
+            "Elo": 1491.5387281249705,
+            "Region": "BR",
+            "LastGameUpdated": 4,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 588,
             "TeamName": "KS",
             "MapName": "CHALET",
@@ -4014,11 +4024,11 @@
             "ID": 93,
             "TeamName": "KS",
             "MapName": "KAFE",
-            "Elo": 1498.035301221767,
+            "Elo": 1484.8863096280857,
             "Region": "BR",
-            "LastGameUpdated": 107,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 106,
@@ -4854,11 +4864,11 @@
             "ID": 64,
             "TeamName": "NIP",
             "MapName": "BORDER",
-            "Elo": 1534.1804359303792,
+            "Elo": 1519.6415747812052,
             "Region": "BR",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 88,
@@ -4894,11 +4904,11 @@
             "ID": 55,
             "TeamName": "NIP",
             "MapName": "KAFE",
-            "Elo": 1479.9804446054827,
+            "Elo": 1493.129436199164,
             "Region": "BR",
-            "LastGameUpdated": 554,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 768,
