@@ -194,13 +194,8 @@ export default function EloTable() {
       <div className="overflow-x-auto">
         <Table className="text-sm md:text-lg table-auto w-full">
           <TableCaption className="text-white text-sm md:text-lg">
-            Matchups data and logos provided by Liquipedia. Created by{" "}
-            <a
-              href="https://x.com/ItzAxon"
-              className="text-myFourthColor underline"
-            >
-              Axon
-            </a>
+          Matchups data and logos provided by Liquipedia. Created by {""}
+          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
             <div className="pagination p-4 flex items-center justify-center">
               <button
                 onClick={() => handlePageChange(currentPage - 1)}

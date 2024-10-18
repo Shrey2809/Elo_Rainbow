@@ -6,7 +6,6 @@ import TopBar from './components/TopBar';
 
 function App() {
   return (
-    <div className='bg-myColor'>
     <Router>
       <TopBar />
       <Routes>
@@ -15,7 +14,6 @@ function App() {
         <Route path="/si-probabilities" element={<SIData />} />
       </Routes>  
     </Router>
-    </div>
   );
 }
 

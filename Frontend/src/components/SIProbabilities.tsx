@@ -151,8 +151,8 @@ export default function SIProbabilites() {
       {/* Table displaying team probabilities */}
       <Table className="text-sm md:text-lg table-auto w-full">
         <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Created by 
-          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline"> Axon</a>
+          Matchups data and logos provided by Liquipedia. Created by {""}
+          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
           {/* Pagination controls */}
           <div className="pagination p-4 flex items-center justify-center">
             <button

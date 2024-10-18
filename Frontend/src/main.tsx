@@ -6,7 +6,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode >
-    <div className='bg-myColor'>
+    <div className='bg-myColor h-screen'>
       <App />
     </div>
   </StrictMode>,
