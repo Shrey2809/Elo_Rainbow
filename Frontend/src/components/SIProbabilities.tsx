@@ -118,16 +118,16 @@ export default function SIProbabilites() {
   return (
     <div className="w-full">
       {/* Display last calculation date and average minimum points */}
-      <div className="items-center flex flex-row gap-4 justify-center font-normal font-sans">
+      <div className="items-center flex flex-row gap-8 justify-center font-normal font-sans">
 
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Average Minimum Points: <br/><b>{Math.round(mergedData.MinPoints / 5) * 5}</b>
+          Avg Min Points <br/><b>{Math.round(mergedData.MinPoints / 5) * 5}</b>
         </div>
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Simulations: <br/><b>1 million runs</b>
+          Simulations <br/><b>1 million runs</b>
         </div>
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last calculated: <br/><b>{mergedData.Date}</b>
+          Last updated (UTC) <br/><b>{mergedData.Date}</b>
         </div>
       </div>
 
