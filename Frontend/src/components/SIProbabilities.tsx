@@ -118,16 +118,17 @@ export default function SIProbabilites() {
   return (
     <div className="w-full">
       {/* Display last calculation date and average minimum points */}
-      <div className="items-center justify-left font-normal font-sans">
-        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
-          Last calculated: {mergedData.Date}
-        </h1>
-        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
-          Average Minimum Points to qualify for SI2025: {Math.round(mergedData.MinPoints / 5) * 5}
-        </h1>
-        <h1 className="text-white text-2xl md:text-xl lg:text-2xl text-center">
-          Simulations: 1 million runs
-        </h1>
+      <div className="items-center flex flex-row gap-4 justify-center font-normal font-sans">
+
+        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
+          Average Minimum Points: <br/><b>{Math.round(mergedData.MinPoints / 5) * 5}</b>
+        </div>
+        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
+          Simulations: <br/><b>1 million runs</b>
+        </div>
+        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
+          Last calculated: <br/><b>{mergedData.Date}</b>
+        </div>
       </div>
 
       {/* Search filters for team and region */}
