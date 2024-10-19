@@ -59,6 +59,23 @@ const bleedRank = transformedData.find((team) => team.team === "Bleed")?.rank;
 
 const rowsPerPage = 20; // Set the number of rows to display per page
 
+// Your timestamp from JSON
+let timestamp = mergedData.Date; 
+
+// Parse the string into a Date object
+let date = new Date(timestamp + " UTC");
+
+// Get the user's local timezone
+let userTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+// Convert and display the date in the user's timezone
+let userDate = date.toLocaleString('en-US', { timeZone: userTimezone, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true });
+let timezoneAbbreviation = new Date().toLocaleTimeString('en-US', { timeZoneName: 'short' }).split(' ')[2];
+
+// Format userDate to match the structure
+let formattedDate = userDate.replace(',', '');
+
+
 export default function SIProbabilites() {
   const [currentPage, setCurrentPage] = useState(1); // Track the current page
   const [searchQuery, setSearchQuery] = useState(""); // Track team search query
@@ -123,11 +140,12 @@ export default function SIProbabilites() {
           Avg Min Points <br/><b>{Math.round(mergedData.MinPoints / 5) * 5}</b>
         </div>
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Simulations <br/><b>1 million runs</b>
+          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}</b>
         </div>
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last updated <br/><b>{mergedData.Date}</b>
+          Simulations <br/><b>1 million runs</b>
         </div>
+        
       </div>
 
       {/* Search filters for team and region */}

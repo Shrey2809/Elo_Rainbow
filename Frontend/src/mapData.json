@@ -1554,11 +1554,11 @@
             "ID": 241,
             "TeamName": "CTY",
             "MapName": "CLUB",
-            "Elo": 1351.2156327820126,
+            "Elo": 1364.5947357477974,
             "Region": "LATAM",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 65,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 211,
@@ -4554,11 +4554,11 @@
             "ID": 220,
             "TeamName": "ME",
             "MapName": "CLUB",
-            "Elo": 1375.6905699444867,
+            "Elo": 1362.311466978702,
             "Region": "LATAM",
-            "LastGameUpdated": 63,
+            "LastGameUpdated": 65,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 747,
