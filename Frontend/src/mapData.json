@@ -514,11 +514,11 @@
             "ID": 98,
             "TeamName": "BD",
             "MapName": "CONS",
-            "Elo": 1438.2377344098861,
+            "Elo": 1453.5123637047109,
             "Region": "BR",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 85,
@@ -539,6 +539,16 @@
             "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 6
+        },
+        {
+            "ID": 770,
+            "TeamName": "BD",
+            "MapName": "LAIR",
+            "Elo": 1453.7189984698964,
+            "Region": "BR",
+            "LastGameUpdated": 6,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 500,
@@ -4014,11 +4024,11 @@
             "ID": 107,
             "TeamName": "KS",
             "MapName": "CONS",
-            "Elo": 1516.6635402267427,
+            "Elo": 1501.388910931918,
             "Region": "BR",
-            "LastGameUpdated": 106,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 93,
@@ -4044,11 +4054,11 @@
             "ID": 583,
             "TeamName": "KS",
             "MapName": "LAIR",
-            "Elo": 1481.7993642641181,
+            "Elo": 1464.8668006109388,
             "Region": "BR",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 50,
