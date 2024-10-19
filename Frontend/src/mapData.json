@@ -2734,11 +2734,11 @@
             "ID": 51,
             "TeamName": "FURIA",
             "MapName": "CHALET",
-            "Elo": 1549.310282966145,
+            "Elo": 1562.4476805918448,
             "Region": "BR",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 5,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 69,
@@ -2764,11 +2764,11 @@
             "ID": 90,
             "TeamName": "FURIA",
             "MapName": "KAFE",
-            "Elo": 1465.2627414453423,
+            "Elo": 1486.2541844871414,
             "Region": "BR",
-            "LastGameUpdated": 510,
+            "LastGameUpdated": 5,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 87,
@@ -3024,11 +3024,11 @@
             "ID": 78,
             "TeamName": "Fluxo",
             "MapName": "CHALET",
-            "Elo": 1460.8332784237748,
+            "Elo": 1447.695880798075,
             "Region": "BR",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 59,
@@ -3054,11 +3054,11 @@
             "ID": 84,
             "TeamName": "Fluxo",
             "MapName": "KAFE",
-            "Elo": 1482.5,
+            "Elo": 1461.5085569582009,
             "Region": "BR",
-            "LastGameUpdated": 73,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 505,
