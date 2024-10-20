@@ -34,41 +34,41 @@
             "ID": 216,
             "TeamName": "6K",
             "MapName": "CHALET",
-            "Elo": 1392.6276612943175,
+            "Elo": 1373.4761455875173,
             "Region": "LATAM",
-            "LastGameUpdated": 64,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 658,
             "TeamName": "6K",
             "MapName": "CLUB",
-            "Elo": 1443.9547659129457,
+            "Elo": 1459.3396371239078,
             "Region": "LATAM",
-            "LastGameUpdated": 64,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 653,
             "TeamName": "6K",
             "MapName": "CONS",
-            "Elo": 1451.988773752014,
+            "Elo": 1463.447825677474,
             "Region": "LATAM",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 226,
             "TeamName": "6K",
             "MapName": "KAFE",
-            "Elo": 1320.924971242225,
+            "Elo": 1305.8915155999302,
             "Region": "LATAM",
-            "LastGameUpdated": 54,
+            "LastGameUpdated": 66,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 665,
@@ -334,11 +334,11 @@
             "ID": 260,
             "TeamName": "ALPHA",
             "MapName": "KAFE",
-            "Elo": 1320.150057912623,
+            "Elo": 1335.1835135549177,
             "Region": "LATAM",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 66,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 709,
@@ -4544,31 +4544,31 @@
             "ID": 255,
             "TeamName": "ME",
             "MapName": "CHALET",
-            "Elo": 1359.7414944048776,
+            "Elo": 1378.8930101116778,
             "Region": "LATAM",
-            "LastGameUpdated": 50,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 220,
             "TeamName": "ME",
             "MapName": "CLUB",
-            "Elo": 1362.311466978702,
+            "Elo": 1346.9265957677399,
             "Region": "LATAM",
-            "LastGameUpdated": 65,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 747,
             "TeamName": "ME",
             "MapName": "CONS",
-            "Elo": 1422.9886196261032,
+            "Elo": 1411.5295677006432,
             "Region": "LATAM",
-            "LastGameUpdated": 63,
+            "LastGameUpdated": 67,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 203,
