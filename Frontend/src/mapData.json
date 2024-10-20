@@ -474,11 +474,11 @@
             "ID": 47,
             "TeamName": "BD",
             "MapName": "BANK",
-            "Elo": 1479.0190459909575,
+            "Elo": 1496.0723246191292,
             "Region": "BR",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 57,
@@ -534,11 +534,11 @@
             "ID": 99,
             "TeamName": "BD",
             "MapName": "LABS",
-            "Elo": 1465.1068031370983,
+            "Elo": 1455.9739972993077,
             "Region": "BR",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 770,
@@ -2724,11 +2724,11 @@
             "ID": 67,
             "TeamName": "FURIA",
             "MapName": "BANK",
-            "Elo": 1526.878280521469,
+            "Elo": 1509.8250018932972,
             "Region": "BR",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 7,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 104,
@@ -2784,11 +2784,11 @@
             "ID": 87,
             "TeamName": "FURIA",
             "MapName": "LABS",
-            "Elo": 1495.3120838919301,
+            "Elo": 1504.4448897297207,
             "Region": "BR",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 7,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 720,
