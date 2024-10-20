@@ -232,61 +232,82 @@ export default function SIProbabilites() {
         </TableHeader>
 
         {/* Table body with team data */}
+{/* Table body with team data */}
         <TableBody>
-          {currentRows.map((data) => (
-            <TableRow
-              className={data.percentage === 1 ? 'border-b-4 border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
-              key={data.rank}
-            >
-              <TableCell className="w-[10%] text-center ">
-                {data.rank}
-              </TableCell>
-              <TableCell className="w-[22.5%] text-center">
-                <img
-                  src={`/team_logos/${data.team.toLowerCase()}.png`}
-                  alt={data.team}
-                  className="w-10 h-10 mx-auto"
-                  loading="lazy"
-                  onError={(e) => {
-                    e.currentTarget.src = "/team_logos/no_org.png";
-                  }}
-                />
-                <span>{data.team}</span>
-              </TableCell>
-              <TableCell className="w-[22.5%] text-center">
-                <HoverCard openDelay={0} closeDelay={0}>
-                  <HoverCardTrigger asChild>
-                    <Button variant="link" className={data.percentage === 1 ? "text-lg font-extrabold" : "text-lg"}>
-                      {data.percentage === 1 ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
-                    </Button>
-                  </HoverCardTrigger>
-                  <HoverCardContent className={data.percentage === 1 ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-black rounded border-0 drop-shadow-2xl"}>
-                    <div className="flex justify-between space-x-4">
-                      <div className="space-y-1">
-                        <h4 className="text-sm font-semibold">
-                          {data.percentage === 1 ? `${data.team} has qualified for SI` : `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`}
-                        </h4>
-                      </div>
-                    </div>
-                  </HoverCardContent>
-                </HoverCard>
-              </TableCell>
-              <TableCell className="w-[22.5%] text-center font-semibold text-lg">
-              {data.percentage === 1 ? <img src={`/SI.png`}
-                                                alt={data.team}
-                                                className="w-10 h-10 mx-auto drop-shadow-xl"
-                                                loading="lazy"
-                                              /> :
-              data.rank < (bleedRank ?? Infinity) ? <span className="text-mySecondaryColor">Cleared</span>
-                  : data.finishRequired !== 'none' ? `${data.finishRequired}`
-                  : <span className="text-myFourthColor">NQ</span>}
-              </TableCell>
-              <TableCell className="w-[22.5%] text-center ">
-                {data.region}
-              </TableCell>
-            </TableRow>
-          ))}
+          {currentRows.map((data, index) => {
+            const isQualified = data.percentage === 1;
+            const nextTeamNotQualified = currentRows[index + 1]?.percentage < 1;
+
+            return (
+              <React.Fragment key={data.rank}>
+                <TableRow
+                  className={isQualified ? 'border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
+                >
+                  <TableCell className="w-[10%] text-center ">
+                    {data.rank}
+                  </TableCell>
+                  <TableCell className="w-[22.5%] text-center">
+                    <img
+                      src={`/team_logos/${data.team.toLowerCase()}.png`}
+                      alt={data.team}
+                      className="w-10 h-10 mx-auto"
+                      loading="lazy"
+                      onError={(e) => {
+                        e.currentTarget.src = "/team_logos/no_org.png";
+                      }}
+                    />
+                    <span>{data.team}</span>
+                  </TableCell>
+                  <TableCell className="w-[22.5%] text-center">
+                    <HoverCard openDelay={0} closeDelay={0}>
+                      <HoverCardTrigger asChild>
+                        <Button variant="link" className={isQualified ? "text-lg font-extrabold" : "text-lg"}>
+                          {isQualified ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                        </Button>
+                      </HoverCardTrigger>
+                      <HoverCardContent className={isQualified ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-black rounded border-0 drop-shadow-2xl"}>
+                        <div className="flex justify-between space-x-4">
+                          <div className="space-y-1">
+                            <h4 className="text-sm font-semibold">
+                              {isQualified ? `${data.team} has qualified for SI` : `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`}
+                            </h4>
+                          </div>
+                        </div>
+                      </HoverCardContent>
+                    </HoverCard>
+                  </TableCell>
+                  <TableCell className="w-[22.5%] text-center font-semibold text-lg">
+                    {isQualified ? (
+                      <img
+                        src={`/SI.png`}
+                        alt={data.team}
+                        className="w-10 h-10 mx-auto drop-shadow-xl"
+                        loading="lazy"
+                      />
+                    ) : data.rank < (bleedRank ?? Infinity) ? (
+                      <span className="text-mySecondaryColor">Cleared</span>
+                    ) : data.finishRequired !== 'none' ? (
+                      `${data.finishRequired}`
+                    ) : (
+                      <span className="text-myFourthColor">NQ</span>
+                    )}
+                  </TableCell>
+                  <TableCell className="w-[22.5%] text-center ">
+                    {data.region}
+                  </TableCell>
+                </TableRow>
+
+                {/* Add a break row after the last qualified team */}
+                {isQualified && nextTeamNotQualified && (
+                  <TableRow key={`break-${data.rank}`} className="h-2">
+                    <TableCell colSpan={5} className="bg-myDarkColor text-center font-semibold border-t-4 border-mySecondaryColor p-2 text-white">YET TO QUALIFY</TableCell>
+                  </TableRow>
+                )}
+              </React.Fragment>
+            );
+          })}
         </TableBody>
+
       </Table>
     </div>
   );
