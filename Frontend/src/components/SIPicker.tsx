@@ -136,6 +136,11 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
     return (
       <div className="tier-list-container w-full">
         <div className="tier-list-grid text-myThirdColor ">
+          <div className="items-center flex flex-row justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8 pb-2">
+          <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
+            Pick your teams, then hit calculate to see the 16 teams that would qualify for SI2025!
+          </div>
+          </div>
           <Table>
             <TableCaption className="text-myThirdColor font-semibold text-center">
               <div className="pagination p-4 flex items-center justify-between">
