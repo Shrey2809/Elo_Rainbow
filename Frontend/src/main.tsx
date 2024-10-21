@@ -5,9 +5,9 @@ import './index.css'
 
 
 createRoot(document.getElementById('root')!).render(
-  // <StrictMode >
+  <StrictMode >
     <div className='bg-myColor h-screen'>
       <App />
     </div>
-  // </StrictMode>,
+   </StrictMode>,
 )
