@@ -50,6 +50,18 @@ interface Team {
   Major1Maps: number;
 }
 
+
+const maxTeamsPerTier: Record<string, number> = {
+  "1st": 1,
+  "2nd": 1,
+  "3rd-4th": 2,
+  "5th-8th": 4,
+  "9th-11th": 3,
+  "12th-14th": 3,
+  "15th-16th": 2,
+  "17th-20th": 4,
+};
+
 // Adjusted calculateTotalPoints function
 const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>): Team[] => {
     const updatedTeams = teams.map((team) => {
@@ -93,20 +105,32 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
       "15th-16th": [],
       "17th-20th": [],
     });
+
+
   
     const handleTeamSelection = (team: Team, tier: string) => {
       const updatedTierTeams = { ...tierTeams };
+      
+      // Remove team from its current tier if applicable
       Object.keys(updatedTierTeams).forEach((t) => {
         updatedTierTeams[t] = updatedTierTeams[t].filter((t) => t.TeamName !== team.TeamName);
       });
-      updatedTierTeams[tier].push(team);
-      setTierTeams(updatedTierTeams);
+    
+      // Check if the selected tier has reached its limit
+      if (updatedTierTeams[tier].length < maxTeamsPerTier[tier]) {
+        updatedTierTeams[tier].push(team);
+        setTierTeams(updatedTierTeams);
+      } else {
+        // Optionally, alert the user that the tier is full
+        alert(`Cannot add ${team.TeamName} to ${tier}. The tier is already full.`);
+      }
     };
+    
   
     const handleCalculate = () => {
       const calculatedTeams = calculateTotalPoints(teams, tierTeams); // Pass tierTeams here
       setTeams(calculatedTeams);
-      setTopTeams(calculatedTeams.slice(0, 16));
+      setTopTeams(calculatedTeams.slice(0, 20));
     };
   
     return (
@@ -141,13 +165,13 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
             </TableCaption>
             {tiers.map((tier) => (
               <div key={tier} className="tier-row border-spacing-3 border-2 border-myThirdColor text-xl font-semibold">
-                <TableCell className="w-[15%] text-xl font-semibold border-r-4 h-20 border-myThirdColor text-center bg-myDarkColor ">
+                <TableCell className="w-[10%] md:w-[10%] text-xl font-semibold border-r-4 h-20 border-myThirdColor text-center bg-myDarkColor">
                   {tier}
                 </TableCell>
-                <TableCell className="w-[5%] ">
+                <TableCell className="w-[5%] md:w-[5%]">
                   <Popover>
                     <PopoverTrigger className="btn btn-primary flex-shrink-0 min-w-[48px] align-middle">
-                      <img src={`/dropdown.svg`} className="w-6 h-6 " />
+                      <img src={`/dropdown.svg`} className="w-6 h-6" />
                     </PopoverTrigger>
                     <PopoverContent className="bg-myDarkColor drop-shadow-xl rounded-xl p-4 flex flex-row w-full">
                       <div className="grid grid-cols-4 gap-4">
@@ -176,8 +200,8 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
                     </PopoverContent>
                   </Popover>
                 </TableCell>
-                <TableCell className="w-[80%]">
-                  <div className="team-items flex flex-wrap justify-start gap-4 ">
+                <TableCell className="w-[80%] md:w-[80%]">
+                  <div className="team-items flex flex-wrap justify-start gap-4">
                     {tierTeams[tier].map((team) => (
                       <div key={team.TeamName} className="team-item sub font-semibold drop-shadow-xl text-center align-middle">
                         <img
@@ -195,6 +219,7 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
                     ))}
                   </div>
                 </TableCell>
+
               </div>
             ))}
           </Table>
@@ -217,28 +242,38 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
             </TableHeader>
             <TableBody>
               {topTeams.map((team, index) => (
-                <TableRow key={team.TeamName} className="font-semibold drop-shadow-xl">
-                  <TableCell className="w-[30%] text-center">{index + 1}</TableCell>
-                  <TableCell className="w-[30%] text-center">
-                    <img
-                      src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
-                      alt={team.TeamName}
-                      className="w-10 h-10 mx-auto drop-shadow-xl"
-                      loading="lazy"
-                      onError={(e) => {
-                        e.currentTarget.src = "/team_logos/no_org.png";
-                      }}
-                    />
-                    <span>{team.TeamName}</span>
-                  </TableCell>
-                  <TableCell className="w-[30%] text-center">{team.TotalPoints}</TableCell>
-                  <TableCell className="w-[30%] text-center">{team.Region}</TableCell>
-                </TableRow>
+                <>
+                  <TableRow key={team.TeamName} className="font-semibold drop-shadow-xl">
+                    <TableCell className="w-[10%] text-center">{index + 1}</TableCell>
+                    <TableCell className="w-[30%] text-center">
+                      <img
+                        src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
+                        alt={team.TeamName}
+                        className="w-10 h-10 mx-auto drop-shadow-xl"
+                        loading="lazy"
+                        onError={(e) => {
+                          e.currentTarget.src = "/team_logos/no_org.png";
+                        }}
+                      />
+                      <span>{team.TeamName}</span>
+                    </TableCell>
+                    <TableCell className="w-[30%] text-center">{team.TotalPoints}</TableCell>
+                    <TableCell className="w-[30%] text-center">{team.Region}</TableCell>
+                  </TableRow>
+
+                  {index === 15 && (
+                    <TableRow key={`break-${index}`} className="h-2">
+                      <TableCell colSpan={4} className="bg-myDarkColor text-center font-semibold p-2 text-white">
+                        The above teams would qualify for SI (For any ties, consider Liquipedia for tiebreakers)
+                      </TableCell>
+                    </TableRow>
+                  )}
+                </>
               ))}
             </TableBody>
           </Table>
         </div>
-      </div>
+      </div> 
     );
   }
   
