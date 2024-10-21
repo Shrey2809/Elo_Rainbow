@@ -1,0 +1,290 @@
+{
+    "Teams": [
+        {
+            "TeamName": "M80",
+            "Stage1Points": 95,
+            "Major1Points": 170,
+            "Stage2Points": 85,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.6,
+            "Major1Maps": 0.5714285714285714,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "SQ",
+            "Stage1Points": 65,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "DZ",
+            "Stage1Points": 90,
+            "Major1Points": 200,
+            "Stage2Points": 95,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.6666666666666666,
+            "Major1Maps": 0.6666666666666666,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "SSG",
+            "Stage1Points": 75,
+            "Major1Points": 55,
+            "Stage2Points": 90,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.4,
+            "Major1Maps": 0.5,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "C9BC",
+            "Stage1Points": 100,
+            "Major1Points": 350,
+            "Stage2Points": 75,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.75,
+            "Major1Maps": 0.75,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "FaZe",
+            "Stage1Points": 100,
+            "Major1Points": 170,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.6,
+            "Major1Maps": 0.5714285714285714,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "w7m",
+            "Stage1Points": 85,
+            "Major1Points": 0,
+            "Stage2Points": 90,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "Liquid",
+            "Stage1Points": 65,
+            "Major1Points": 200,
+            "Stage2Points": 95,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.6666666666666666,
+            "Major1Maps": 0.631578947368421,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "BD",
+            "Stage1Points": 80,
+            "Major1Points": 0,
+            "Stage2Points": 0,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "FURIA",
+            "Stage1Points": 90,
+            "Major1Points": 170,
+            "Stage2Points": 85,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.75,
+            "Major1Maps": 0.7142857142857143,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "Secret",
+            "Stage1Points": 85,
+            "Major1Points": 170,
+            "Stage2Points": 95,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.75,
+            "Major1Maps": 0.6666666666666666,
+            "Region": "EU"
+        },
+        {
+            "TeamName": "G2",
+            "Stage1Points": 80,
+            "Major1Points": 45,
+            "Stage2Points": 80,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0.3333333333333333,
+            "Region": "EU"
+        },
+        {
+            "TeamName": "BDS",
+            "Stage1Points": 100,
+            "Major1Points": 260,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.625,
+            "Major1Maps": 0.6470588235294118,
+            "Region": "EU"
+        },
+        {
+            "TeamName": "VP",
+            "Stage1Points": 65,
+            "Major1Points": 0,
+            "Stage2Points": 90,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "EU"
+        },
+        {
+            "TeamName": "CAG",
+            "Stage1Points": 80,
+            "Major1Points": 65,
+            "Stage2Points": 90,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0.42857142857142855,
+            "Major1Maps": 0.5384615384615384,
+            "Region": "JAPAN"
+        },
+        {
+            "TeamName": "SZ",
+            "Stage1Points": 100,
+            "Major1Points": 65,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0.25,
+            "Major1Maps": 0.2,
+            "Region": "JAPAN"
+        },
+        {
+            "TeamName": "PSG",
+            "Stage1Points": 100,
+            "Major1Points": 105,
+            "Stage2Points": 95,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.4,
+            "Major1Maps": 0.2857142857142857,
+            "Region": "KOREA"
+        },
+        {
+            "TeamName": "FOX",
+            "Stage1Points": 95,
+            "Major1Points": 45,
+            "Stage2Points": 90,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0.3333333333333333,
+            "Major1Maps": 0.375,
+            "Region": "KOREA"
+        },
+        {
+            "TeamName": "DK",
+            "Stage1Points": 90,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "KOREA"
+        },
+        {
+            "TeamName": "ALPHA",
+            "Stage1Points": 75,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "LATAM"
+        },
+        {
+            "TeamName": "FLCS",
+            "Stage1Points": 80,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "MENA"
+        },
+        {
+            "TeamName": "GG",
+            "Stage1Points": 100,
+            "Major1Points": 105,
+            "Stage2Points": 95,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.4,
+            "Major1Maps": 0.25,
+            "Region": "OCE"
+        },
+        {
+            "TeamName": "CHIEFS",
+            "Stage1Points": 0,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "OCE"
+        },
+        {
+            "TeamName": "ELV",
+            "Stage1Points": 90,
+            "Major1Points": 0,
+            "Stage2Points": 100,
+            "MajorFlag": true,
+            "Phase1": false,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "SEA"
+        },
+        {
+            "TeamName": "Bleed",
+            "Stage1Points": 100,
+            "Major1Points": 105,
+            "Stage2Points": 95,
+            "MajorFlag": false,
+            "Phase1": false,
+            "Major1Series": 0.5,
+            "Major1Maps": 0.4375,
+            "Region": "SEA"
+        },
+        {
+            "TeamName": "CL4L",
+            "Stage1Points": 0,
+            "Major1Points": 0,
+            "Stage2Points": 0,
+            "MajorFlag": true,
+            "Phase1": true,
+            "Major1Series": 0,
+            "Major1Maps": 0,
+            "Region": "NA"
+        }
+    ]
+}
