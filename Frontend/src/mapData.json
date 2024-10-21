@@ -64,11 +64,11 @@
             "ID": 226,
             "TeamName": "6K",
             "MapName": "KAFE",
-            "Elo": 1305.8915155999302,
+            "Elo": 1285.4712266271988,
             "Region": "LATAM",
-            "LastGameUpdated": 66,
+            "LastGameUpdated": 69,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 665,
@@ -329,6 +329,16 @@
             "LastGameUpdated": 27,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 771,
+            "TeamName": "ALPHA",
+            "MapName": "CONS",
+            "Elo": 1449.8513935807637,
+            "Region": "LATAM",
+            "LastGameUpdated": 68,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 260,
@@ -1564,21 +1574,21 @@
             "ID": 211,
             "TeamName": "CTY",
             "MapName": "CONS",
-            "Elo": 1348.5176099924734,
+            "Elo": 1339.2547027684209,
             "Region": "LATAM",
-            "LastGameUpdated": 694,
+            "LastGameUpdated": 68,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 531,
             "TeamName": "CTY",
             "MapName": "KAFE",
-            "Elo": 1338.0974712666123,
+            "Elo": 1358.5177602393437,
             "Region": "LATAM",
-            "LastGameUpdated": 618,
+            "LastGameUpdated": 69,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 661,
@@ -7680,5 +7690,6 @@
             "MajorCount": 0,
             "RegionalCount": 1
         }
-    ]
+    ],
+    "Date": "Oct 21, 2024, 01:19"
 }

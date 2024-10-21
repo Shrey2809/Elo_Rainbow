@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1425.5198975673834,
-            "LastGameUpdated": 66,
+            "Elo": 1440.5884863567112,
+            "LastGameUpdated": 68,
             "Region": "LATAM"
         },
         {
@@ -297,15 +297,15 @@
         {
             "ID": 43,
             "TeamName": "6K",
-            "Elo": 1426.9556956137494,
-            "LastGameUpdated": 67,
+            "Elo": 1408.0461525364774,
+            "LastGameUpdated": 69,
             "Region": "LATAM"
         },
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1497.9445444525913,
-            "LastGameUpdated": 65,
+            "Elo": 1501.7854987405356,
+            "LastGameUpdated": 69,
             "Region": "LATAM"
         },
         {
@@ -742,5 +742,6 @@
             "LastGameUpdated": 1,
             "Region": "BR"
         }
-    ]
+    ],
+    "Date": "Oct 21, 2024, 01:19"
 }
