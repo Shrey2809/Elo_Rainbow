@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1440.5884863567112,
-            "LastGameUpdated": 68,
+            "Elo": 1463.2487618038906,
+            "LastGameUpdated": 70,
             "Region": "LATAM"
         },
         {
@@ -304,8 +304,8 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1500.3948446017575,
-            "LastGameUpdated": 69,
+            "Elo": 1477.7345691545781,
+            "LastGameUpdated": 70,
             "Region": "LATAM"
         },
         {
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Oct 21, 2024, 03:32"
+    "Date": "Oct 21, 2024, 13:08"
 }

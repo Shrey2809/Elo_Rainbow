@@ -314,21 +314,21 @@
             "ID": 244,
             "TeamName": "ALPHA",
             "MapName": "CHALET",
-            "Elo": 1360.8353097595389,
+            "Elo": 1373.002873201372,
             "Region": "LATAM",
-            "LastGameUpdated": 50,
+            "LastGameUpdated": 70,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 205,
             "TeamName": "ALPHA",
             "MapName": "CLUB",
-            "Elo": 1327.5415002277177,
+            "Elo": 1349.666405974602,
             "Region": "LATAM",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 70,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 771,
@@ -344,11 +344,11 @@
             "ID": 260,
             "TeamName": "ALPHA",
             "MapName": "KAFE",
-            "Elo": 1335.1835135549177,
+            "Elo": 1316.52472479792,
             "Region": "LATAM",
-            "LastGameUpdated": 66,
+            "LastGameUpdated": 70,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 709,
@@ -1554,21 +1554,21 @@
             "ID": 217,
             "TeamName": "CTY",
             "MapName": "CHALET",
-            "Elo": 1351.5931071569994,
+            "Elo": 1339.4255437151662,
             "Region": "LATAM",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 70,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 241,
             "TeamName": "CTY",
             "MapName": "CLUB",
-            "Elo": 1364.5947357477974,
+            "Elo": 1342.4698300009131,
             "Region": "LATAM",
-            "LastGameUpdated": 65,
+            "LastGameUpdated": 70,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 211,
@@ -1584,11 +1584,11 @@
             "ID": 531,
             "TeamName": "CTY",
             "MapName": "KAFE",
-            "Elo": 1358.5177602393437,
+            "Elo": 1377.1765489963414,
             "Region": "LATAM",
-            "LastGameUpdated": 69,
+            "LastGameUpdated": 70,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 661,
@@ -7691,5 +7691,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Oct 21, 2024, 03:32"
+    "Date": "Oct 21, 2024, 13:08"
 }
