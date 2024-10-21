@@ -96,48 +96,49 @@ export default function TierListMaker() {
     <div className="tier-list-container w-full">
       <DragDropContext onDragEnd={handleDragEnd}>
         <div className="tier-list-grid text-myThirdColor border-2">
-          {tiers.map((tier) => (
+            {tiers.map((tier) => (
             <Droppable key={tier} droppableId={tier}>
-              {(provided) => (
+                {(provided) => (
                 <div
-                  ref={provided.innerRef}
-                  {...provided.droppableProps}
-                  className="tier-row p-6 border-spacing-3 border-2 border-myThirdColor text-xl"
-                >
-                  <h3 >{tier}</h3>
-                  {tierTeams[tier].map((team, index) => (
-                    <Draggable key={team.TeamName} draggableId={team.TeamName} index={index}>
-                      {(provided) => (
-                        <div
-                          ref={provided.innerRef}
-                          {...provided.draggableProps}
-                          {...provided.dragHandleProps}
-                          className="team-item sub font-semibold drop-shadow-xl text-center"
-                        >
-                        <img
-                            src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
-                            alt={team.TeamName}
-                            className="w-16 h-16 mx-auto drop-shadow-xl"
-                            loading="lazy"
-                            onError={(e) => {
+                    ref={provided.innerRef}
+                    {...provided.droppableProps}
+                    className="tier-row p-6 border-spacing-3 border-2 border-myThirdColor text-xl font-semibold">
+                    <h3>{tier}</h3>
+                    <div className="team-items flex flex-wrap justify-start gap-4">
+                    {tierTeams[tier].map((team, index) => (
+                        <Draggable key={team.TeamName} draggableId={team.TeamName.toString()} index={index}>
+                        {(provided) => (
+                            <div
+                            ref={provided.innerRef}
+                            {...provided.draggableProps}
+                            {...provided.dragHandleProps}
+                            className="team-item sub font-semibold drop-shadow-xl text-center"
+                            >
+                            <img
+                                src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
+                                alt={team.TeamName}
+                                className="w-16 h-16 mx-auto drop-shadow-xl"
+                                loading="lazy"
+                                onError={(e) => {
                                 e.currentTarget.src = "/team_logos/no_org.png";
-                            }}
-                        />
-                        <span>{team.TeamName}</span>
-                        </div>
-                      )}
-                    </Draggable>
-                  ))}
-                  {provided.placeholder}
+                                }}
+                            />
+                            <span>{team.TeamName}</span>
+                            </div>
+                        )}
+                        </Draggable>
+                    ))}
+                    </div>
+                    {provided.placeholder}
                 </div>
-              )}
+                )}
             </Droppable>
-          ))}
+            ))}
         </div>
-      </DragDropContext>
+    </DragDropContext>
 
-      {/* Display the top 16 teams based on total points */}
-      <div className="top-teams-table w-full">
+
+    <div className="top-teams-table w-full">
         <div className="items-center flex flex-row justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8">
             <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
             Six Invitational Teams
