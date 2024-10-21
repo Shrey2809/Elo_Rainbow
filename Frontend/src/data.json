@@ -297,14 +297,14 @@
         {
             "ID": 43,
             "TeamName": "6K",
-            "Elo": 1408.0461525364774,
+            "Elo": 1423.839177624311,
             "LastGameUpdated": 69,
             "Region": "LATAM"
         },
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1501.7854987405356,
+            "Elo": 1485.9924736527018,
             "LastGameUpdated": 69,
             "Region": "LATAM"
         },
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Oct 21, 2024, 01:19"
+    "Date": "Oct 21, 2024, 02:00"
 }

@@ -31,6 +31,7 @@ export default {
         mySecondaryColor: '#74C171',
         myThirdColor: '#D7DEDC',
         myFourthColor: '#FF6B6B',
+        myFifthColor: '#b198eb',
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {

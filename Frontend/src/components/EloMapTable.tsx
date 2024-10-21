@@ -23,6 +23,7 @@ import {
 
 import TeamsMaps from "../mapData.json";
 import { Button } from "./ui/button";
+// import Date from "../mapData.json"
 
 type TeamMapsJSON = {
   ID: number;
@@ -97,6 +98,22 @@ const transformedData = transformData(TeamsMaps);
 
 const rowsPerPage = 20;
 
+// Your timestamp from JSON
+let timestamp = TeamsMaps.Date; 
+
+// Parse the string into a Date object
+let date = new Date(timestamp + " UTC");
+
+// Get the user's local timezone
+let userTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+// Convert and display the date in the user's timezone
+let userDate = date.toLocaleString('en-US', { timeZone: userTimezone, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true });
+let timezoneAbbreviation = new Date().toLocaleTimeString('en-US', { timeZoneName: 'short' }).split(' ')[2];
+
+// Format userDate to match the structure
+let formattedDate = userDate.replace(',', '');
+
 export default function EloTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
@@ -168,6 +185,12 @@ export default function EloTable() {
 
   return (
     <div className="w-full">
+      <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
+        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
+          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}</b>
+        </div>
+      </div>
+        
       <div className="p-4 flex flex-col md:flex-row gap-4 font-sans">
         <input
           type="text"

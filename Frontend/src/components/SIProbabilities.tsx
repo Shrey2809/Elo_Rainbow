@@ -276,7 +276,7 @@ export default function SIProbabilites() {
                       </HoverCardContent>
                     </HoverCard>
                   </TableCell>
-                  <TableCell className="w-[22.5%] text-center font-semibold text-lg">
+                  <TableCell className="w-[22.5%] text-center font-semibold text-lg text-myFifthColor">
                     {isQualified ? (
                       <img
                         src={`/SI.png`}
