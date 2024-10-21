@@ -250,7 +250,7 @@ export default function SIProbabilites() {
                     <img
                       src={`/team_logos/${data.team.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-10 h-10 mx-auto"
+                      className="w-10 h-10 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
