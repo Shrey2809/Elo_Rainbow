@@ -12,6 +12,8 @@ const TopBar = () => {
       navigate("/maps"); // Navigate to Map Elo Rankings page
     } else if (value === "si-probabilities") {
       navigate("/si-probabilities"); // Navigate to SI Probabilities page
+    } else if (value === "si-picker") {
+      navigate("/si-picker"); // Navigate to SI Picker page
     }
   };
 
@@ -20,6 +22,8 @@ const TopBar = () => {
     ? "map-elo"
     : location.pathname === "/si-probabilities"
     ? "si-probabilities"
+    : location.pathname === "/si-picker"
+    ? "si-picker"
     : "elo";
 
   return (
@@ -33,7 +37,7 @@ const TopBar = () => {
           />
         </h1>
         <Tabs defaultValue={currentTab} className="w-full mt-4 md:mt-6" onValueChange={handleTabChange}>
-          <TabsList className="grid w-full grid-cols-3 bg-myColor rounded">
+          <TabsList className="grid w-full grid-cols-4 bg-myColor rounded">
             <TabsTrigger
               value="elo"
               className={`px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "elo" ? " text-myDarkColor border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
@@ -51,6 +55,12 @@ const TopBar = () => {
               className={`px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-probabilities" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
               SI Probabilities
+            </TabsTrigger>
+            <TabsTrigger
+              value="si-picker"
+              className={`px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-picker" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
+            >
+              SI Picker
             </TabsTrigger>
           </TabsList>
         </Tabs>
