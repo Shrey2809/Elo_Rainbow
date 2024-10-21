@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import { useState } from "react";
 import teamPoints from "../team_points.json"; // Import your JSON
 import { Popover, PopoverTrigger, PopoverContent } from "@/components/ui/popover";
 import {
