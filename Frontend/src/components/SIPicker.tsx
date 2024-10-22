@@ -132,6 +132,13 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
       setTeams(calculatedTeams);
       setTopTeams(calculatedTeams.slice(0, 20));
     };
+
+     // Function to clear teams from a specific tier
+    const handleClearTier = (tier: string) => {
+      const updatedTierTeams = { ...tierTeams };
+      updatedTierTeams[tier] = [];
+      setTierTeams(updatedTierTeams);
+    };
   
     return (
       <div className="tier-list-container w-full">
@@ -143,23 +150,7 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
           </div>
           <Table>
             <TableCaption className="text-myThirdColor font-semibold text-center">
-              <div className="pagination p-4 flex items-center justify-between">
-                <button
-                  onClick={() => setTierTeams({
-                    "1st": [],
-                    "2nd": [],
-                    "3rd-4th": [],
-                    "5th-8th": [],
-                    "9th-11th": [],
-                    "12th-14th": [],
-                    "15th-16th": [],
-                    "17th-20th": [],
-                  })}
-                  className="px-8 py-4 bg-myFourthColor text-black rounded-xl text-lg"
-                >
-                  Reset
-                </button>
-                <span className="mx-8"/>
+              <div className="pagination p-4  items-center align-middle">
                 <button
                   onClick={handleCalculate}
                   className="px-8 py-4 bg-mySecondaryColor text-black rounded-xl text-lg"
@@ -173,34 +164,51 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
                 <TableCell className="w-[10%] md:w-[10%] text-xl font-semibold border-r-4 h-20 border-myThirdColor text-center bg-myDarkColor">
                   {tier}
                 </TableCell>
-                <TableCell className="w-[5%] md:w-[5%]">
+                <TableCell className="w-[10%] md:w-[5%]">
                   <Popover>
                     <PopoverTrigger className="btn btn-primary flex-shrink-0 min-w-[48px] align-middle">
                       <img src={`/dropdown.svg`} className="w-6 h-6" />
                     </PopoverTrigger>
                     <PopoverContent className="bg-myDarkColor drop-shadow-xl rounded-xl p-4 flex flex-row w-full">
-                      <div className="grid grid-cols-4 gap-4">
-                        {teams
-                          .filter((team) => team.MajorFlag && !Object.values(tierTeams).flat().includes(team)) 
-                          .map((team) => (
-                            <button
-                              key={team.TeamName}
-                              onClick={() => handleTeamSelection(team, tier)}
-                              className="cursor-pointer py-2"
-                            >
-                              <img
-                                src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
-                                alt={team.TeamName}
-                                className="mx-auto drop-shadow-xl"
-                                width="45"
-                                height="45"
-                                loading="lazy"
-                                onError={(e) => {
-                                  e.currentTarget.src = "/team_logos/no_org.png";
-                                }}
-                              />
-                            </button>
-                          ))}
+                      <div className="grid grid-col-1 justify-center items-center align-middle">
+                        <div className="grid grid-cols-4 gap-4">
+                          {teams
+                            .filter((team) => team.MajorFlag && !Object.values(tierTeams).flat().includes(team)) 
+                            .map((team) => (
+                              <button
+                                key={team.TeamName}
+                                onClick={() => handleTeamSelection(team, tier)}
+                                className="cursor-pointer py-2"
+                              >
+                                <img
+                                  src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
+                                  alt={team.TeamName}
+                                  className="mx-auto drop-shadow-xl"
+                                  width="45"
+                                  height="45"
+                                  loading="lazy"
+                                  onError={(e) => {
+                                    e.currentTarget.src = "/team_logos/no_org.png";
+                                  }}
+                                />
+                              </button>
+                            ))}
+                        </div>
+                        <button
+                            onClick={() => setTierTeams({
+                              "1st": [],
+                              "2nd": [],
+                              "3rd-4th": [],
+                              "5th-8th": [],
+                              "9th-11th": [],
+                              "12th-14th": [],
+                              "15th-16th": [],
+                              "17th-20th": [],
+                            })}
+                            className="px-8 py-2 w-fit bg-myFourthColor text-black rounded-xl text-lg font-semibold "
+                          >
+                            Reset All
+                        </button>
                       </div>
                     </PopoverContent>
                   </Popover>
@@ -224,7 +232,14 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
                     ))}
                   </div>
                 </TableCell>
-
+                <TableCell className="w-[5%] md:w-[5%]">
+                <button
+                  onClick={() => handleClearTier(tier)}
+                  className="btn btn-primary flex-shrink-0 min-w-[48px] align-middle justify-end"
+                >
+                  <img src={`/clear.svg`} className="w-6 h-6" />
+                </button>
+                </TableCell>
               </div>
             ))}
           </Table>
