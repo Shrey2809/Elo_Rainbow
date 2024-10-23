@@ -160,7 +160,7 @@ const calculateTotalPoints = (teams: Team[], tierTeams: Record<string, Team[]>):
               </div>
             </TableCaption>
             {tiers.map((tier) => (
-              <div key={tier} className="tier-row border-spacing-3 border-2 border-myThirdColor text-xl font-semibold">
+              <div key={tier} className="tier-row border-spacing-3 border-2 border-myThirdColor text-xl font-semibold flex items-center">
                 <TableCell className="w-[10%] md:w-[10%] text-xl font-semibold border-r-4 h-20 border-myThirdColor text-center bg-myDarkColor">
                   {tier}
                 </TableCell>
