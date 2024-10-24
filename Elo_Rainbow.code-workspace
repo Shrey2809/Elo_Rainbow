@@ -1,9 +1,15 @@
 {
     "folders": [
         {
+            "name": "Elo_Rainbow",
             "path": "."
         },
         {
+            "name": "Elo_Api",
+            "path": "../Elo_Api"
+        },
+        {
+            "name": "Elo System Test",
             "path": ".."
         }
     ]
