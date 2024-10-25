@@ -4,6 +4,7 @@ import EloData from './EloData';
 import SIData from './SIData';
 import TopBar from './components/TopBar';
 import Picker from './Picker';
+import PickemsPage from './PickemsPage';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/maps" element={<MapData />} />
         <Route path="/si-probabilities" element={<SIData />} />
         <Route path="/si-picker" element={<Picker />} />
+        <Route path="/pickems" element={<PickemsPage />} />
       </Routes>  
     </Router>
   );
