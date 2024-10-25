@@ -286,13 +286,13 @@ const Pickems = () => {
             <div className="flex flex-row items-center justify-center gap-4 mt-4"> 
                 <button
                     onClick={handleSubmitPicks}
-                    className="bg-mySecondaryColor text-black px-4 py-2 rounded drop-shadow-xl"
+                    className="bg-mySecondaryColor text-black px-4 py-2 rounded drop-shadow-xl font-semibold"
                 >
                     Submit Picks
                 </button>
                 <button
                     onClick={() => clearAllPicks()} 
-                    className="bg-myFourthColor text-black px-4 py-2 rounded drop-shadow-xl"
+                    className="bg-myFourthColor text-black px-4 py-2 rounded drop-shadow-xl font-semibold"
                 >
                     Clear Picks
                 </button>
@@ -327,7 +327,7 @@ const Pickems = () => {
     
                 <button
                     onClick={handleRetrievePicks}
-                    className="bg-mySecondaryColor text-black px-4 py-2 rounded drop-shadow-xl"
+                    className="bg-mySecondaryColor text-black px-4 py-2 rounded drop-shadow-xl font-semibold"
                 >
                     Retrieve Picks
                 </button>
