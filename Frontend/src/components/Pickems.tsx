@@ -1,25 +1,42 @@
-import { useState} from 'react';
+import { useState, useEffect } from 'react';
 import data from '../team_points.json'; 
 import { Popover, PopoverTrigger, PopoverContent } from "@/components/ui/popover";
-import { Dialog, DialogTrigger, DialogContent } from "@/components/ui/dialog";
 import Cookies from 'js-cookie';
-import axios from 'axios';
-import { DialogTitle } from '@radix-ui/react-dialog';
 
-
-    
 const Pickems = () => {
-    const [dialogOpen, setDialogOpen] = useState(false);
     const [generatedKey, setGeneratedKey] = useState('');
     const [team0_3, setTeam0_3] = useState<string | null>(null);
     const [team3_0, setTeam3_0] = useState<string | null>(null);
     const [top8Teams, setTop8Teams] = useState<string[]>([]);
+    
     const [twitterHandle, setTwitterHandle] = useState<string>('');
-    // const [retrievedPicks, setRetrievedPicks] = useState(null);
     const HOST_URL = import.meta.env.VITE_HOST_URL;
-    console.log(import.meta.env.VITE_HOST_URL);
 
-    const teams = data.Teams.filter(team => team.MajorFlag); // Only major teams
+    useEffect(() => {
+        const storedTwitterHandle = Cookies.get('twitterHandle');
+        const storedGeneratedKey = Cookies.get('generatedKey');
+        const storedPicks = Cookies.get('picks');
+    
+        if (storedTwitterHandle) {
+            setTwitterHandle(storedTwitterHandle);
+        }
+        
+        if (storedGeneratedKey) {
+            setGeneratedKey(storedGeneratedKey);
+        }
+    
+        if (storedPicks) {
+            const picks = JSON.parse(storedPicks);
+            setTeam0_3(picks.team0_3 || null);
+            setTeam3_0(picks.team3_0 || null);
+            setTop8Teams(picks.top8teams || []); // Ensure this defaults to an empty array if not set
+        }
+    }, []);
+
+    
+
+    const teams = data.Teams.filter(team => team.MajorFlag);
+
 
     const handleTeamSelection = (team: { TeamName: string }, tier: string) => {
         if (tier === '0-3') {
@@ -49,10 +66,11 @@ const Pickems = () => {
         setTeam0_3(null);
         setTeam3_0(null);
         setTop8Teams([]);
-    };
-
-    const generateRandomCode = () => {
-        return Math.floor(100000 + Math.random() * 900000).toString(); // Generates a 6-digit code
+        setTwitterHandle('');
+        setGeneratedKey('');
+        Cookies.remove('twitterHandle');
+        Cookies.remove('generatedKey');
+        Cookies.remove('picks');
     };
 
     const handleSubmitPicks = async () => {
@@ -60,78 +78,107 @@ const Pickems = () => {
             alert('Please fill out all fields before submitting your picks.');
             return;
         }
+        
         const picks = {
-            Team3_0: team3_0,
             Team0_3: team0_3,
+            Team3_0: team3_0,
             Top8Teams: top8Teams,
         };
-        const generatedKey = generateRandomCode();
-
         
 
         try {
-            // Send a POST request to your FastAPI backend
-            console.log(picks);
-            const response = await axios.post(`${HOST_URL}pickems/${twitterHandle}-${generatedKey}`, picks, {
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-            });
-            console.log('Response:', response.data);
+            setGeneratedKey(Cookies.get('generatedKey') || '');
+            let data = null;
+            if (generatedKey) {
+                // If a generated key is already set, this is an update
+                console.log('Updating picks:', picks);
+                let response = await fetch(`${HOST_URL}pickems/${twitterHandle}-${generatedKey}`, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(picks),
+                });
+    
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(errorData.detail || 'Error updating picks');
+                }
+                data = await response.json();
+            } else {
+                console.log('Submitting picks:', picks);
+                let response = await fetch(`${HOST_URL}pickems/${twitterHandle}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(picks),
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(errorData.detail || 'Error submitting picks');
+                }
+                data = await response.json();
+            }
+    
             
+            setGeneratedKey(data.UserKey);
 
-            // Save data to cookies
-            Cookies.set('twitterHandle', twitterHandle, { expires: 14 });
-            Cookies.set('generatedKey', generatedKey, { expires: 14});
-            Cookies.set('picks', JSON.stringify(picks), { expires: 14 });
+            // Save to cookies
+            Cookies.set('twitterHandle', twitterHandle, { expires: 21 });
+            Cookies.set('generatedKey', generatedKey || '', { expires: 21 });
+            Cookies.set('picks', JSON.stringify(picks), { expires: 21 });
 
-            // Display a dialog with the generated key
-            setGeneratedKey(generatedKey);
-            setDialogOpen(true);
+            // Open dialog with generated key
+            setGeneratedKey(generatedKey || '');
         } catch (error) {
-            console.error('Error submitting picks:', error);
+            console.error('Error submitting picks:', (error as Error).message);
             alert('There was an error submitting your picks. Please try again.');
         }
     };
 
     const handleRetrievePicks = async () => {
-        const userKeyInput = document.querySelector('input[placeholder="Enter your key here"]');
-        const userNameInput = document.querySelector('input[placeholder="Enter a previously used username here"]');
-        const userKey = userKeyInput ? (userKeyInput as HTMLInputElement).value : ''; // Get key input with null check
-        const twitterHandle = userNameInput ? (userNameInput as HTMLInputElement).value : ''; // Get username input with null check
+        const userKeyInput = document.querySelector('input[placeholder="Enter your key here"]') as HTMLInputElement;
+        const userNameInput = document.querySelector('input[placeholder="Enter the previously used username here"]') as HTMLInputElement;
+        const userKey = userKeyInput.value; 
+        const twitterHandle = userNameInput.value; 
+        
         if (!twitterHandle || !userKey) {
             alert('Please fill out all fields before retrieving your picks.');
             return;
         }
     
         try {
-            // Use the correct endpoint format
-            const response = await axios.get(`${HOST_URL}pickems/${twitterHandle}-${userKey}`);
-            console.log(HOST_URL);
+            const response = await fetch(`${HOST_URL}pickems/${twitterHandle}-${userKey}`);
             
-            // Assuming response.data contains the correct structure for picks
-            setTeam0_3(response.data.Team0_3);
-            setTeam3_0(response.data.Team3_0);
-            setTop8Teams(response.data.Top8Teams);
-            
+            if (!response.ok) {
+                if (response.status === 404) {
+                    alert('No picks found for the provided username and key.');
+                } else {
+                    throw new Error('Network response was not ok');
+                }
+                return;
+            }
+    
+            const data = await response.json();
+            setTeam0_3(data.Team0_3);
+            setTeam3_0(data.Team3_0);
+            setTop8Teams(data.Top8Teams);
+            setTwitterHandle(twitterHandle);
+            setGeneratedKey(userKey);
         } catch (error) {
             console.error('Error retrieving picks:', error);
-            if ((error as any).response && (error as any).response.status === 404) {
-                alert('No picks found for the provided username and key.');
-            } else {
-                alert('There was an error retrieving your picks. Please try again.');
-            }
+            alert('There was an error retrieving your picks. Please try again.');
         }
     };
     
-    
-
     return (
         <div className="justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8 pb-2">
             <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2">Swiss Stage Pickems</h2>
     
             <div className="flex flex-col md:flex-row items-center bg-myColor text-myThirdColor font-sans align-middle justify-between">
-                {/* Column for Team 3-0 Selection */}
+                {/* Team 3-0 Selection */}
                 <div className="flex flex-col items-center mb-4 md:mb-0 md:mr-4">
                     <h3 className="text-lg font-semibold mb-2">Pick a team that will go 3-0</h3>
                     <Popover>
@@ -187,7 +234,7 @@ const Pickems = () => {
                     </div>
                 </div>
     
-                {/* Column for Team 0-3 Selection */}
+                {/* Team 0-3 Selection */}
                 <div className="flex flex-col items-center">
                     <h3 className="text-lg font-semibold mb-2">Pick a team that will go 0-3</h3>
                     <Popover>
@@ -248,7 +295,7 @@ const Pickems = () => {
                 <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2">The remaining 7 teams will advance</h3>
                 <div className="grid grid-cols-3 md:grid-cols-7 gap-4">
                     {teams
-                        .filter(team => team.TeamName !== team0_3 && team.TeamName !== team3_0) // Filter out selected teams
+                        .filter(team => team.TeamName !== team0_3 && team.TeamName !== team3_0)
                         .map(team => (
                             <div key={team.TeamName} className="p-4">
                                 <button
@@ -274,48 +321,45 @@ const Pickems = () => {
             </div>
     
             {/* Twitter Handle Input and Action Buttons */}
-            <div className="flex flex-row mt-4 items-center justify-center ">
+            <div className="flex flex-col mt-4 items-center justify-center ">
                 <input
                     type="text"
                     placeholder="Enter a username here (Reddit or Twitter etc.)"
+                    value={twitterHandle}
                     onChange={(e) => setTwitterHandle(e.target.value)}
                     className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
                 />
+                <div className="flex flex-row items-center justify-center gap-4 mt-4">
+                    {generatedKey && (
+                        <h2 className="text-myThirdColor text-lg md:text-xl lg:text-xl text-center p-2">
+                            Your code is {generatedKey}. <br /> Save this code to retrieve your picks later.
+                        </h2>
+                    )}
+                </div>
             </div>
     
-            <div className="flex flex-row items-center justify-center gap-4 mt-4"> 
+            <div className="flex flex-row items-center justify-center gap-4 mt-4 pb-4"> 
                 <button
                     onClick={handleSubmitPicks}
                     className="bg-mySecondaryColor text-black px-4 py-2 rounded drop-shadow-xl font-semibold"
                 >
-                    Submit Picks
+                    {generatedKey ? 'Update Picks': 'Submit Picks'}
                 </button>
                 <button
                     onClick={() => clearAllPicks()} 
                     className="bg-myFourthColor text-black px-4 py-2 rounded drop-shadow-xl font-semibold"
                 >
-                    Clear Picks
+                    Clear Picks 
                 </button>
             </div>
-    
-            {/* Dialog for Code */}
-            <Dialog open={dialogOpen} onOpenChange={setDialogOpen}>
-                <DialogTrigger className="hidden" />
-                <DialogTitle className="hidden">Your Code</DialogTitle>
-                <DialogContent className="bg-myDarkColor border-myThirdColor border-2 p-4 rounded-3xl sm:max-w-[425px] ">
-                    <h3 className="text-lg font-semibold text-myThirdColor">Your Code: {generatedKey}</h3>
-                    <p className="text-myThirdColor text-sm">Please save this code to retrieve and change your picks later.</p>
-                </DialogContent>
-            </Dialog>
-    
+
             <hr className="w-full my-4 border-t-2 border-myThirdColor" />
     
             <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2 pb-8">If you've already submitted pickems, retrieve them using your username and key</h2>
             <div className="flex flex-col items-center justify-center gap-y-4">
                 <input
                     type="text"
-                    placeholder="Enter a previously used username here"
-                    onChange={(e) => setTwitterHandle(e.target.value)}
+                    placeholder="Enter the previously used username here"
                     className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
                 />
     
@@ -335,4 +379,5 @@ const Pickems = () => {
         </div>
     );
 }
+
 export default Pickems;
