@@ -10,7 +10,8 @@ const Pickems = () => {
     const [top8Teams, setTop8Teams] = useState<string[]>([]);
     
     const [twitterHandle, setTwitterHandle] = useState<string>('');
-    const HOST_URL = "http://[2605:fd00:4:1001:f816:3eff:feb8:cdcf]:8000/"
+    // const HOST_URL = "http://[2605:fd00:4:1001:f816:3eff:feb8:cdcf]:8000/"
+    const HOST_URL = "https://simplifiedelorepo.onrender.com/";
     // import.meta.env.VITE_HOST_URL;
 
     useEffect(() => {
@@ -36,7 +37,7 @@ const Pickems = () => {
 
     
 
-    const teams = data.Teams.filter(team => team.MajorFlag);
+    const teams = data.Teams.filter(team => team.MajorFlag);    
 
 
     const handleTeamSelection = (team: { TeamName: string }, tier: string) => {
@@ -106,6 +107,8 @@ const Pickems = () => {
                     throw new Error(errorData.detail || 'Error updating picks');
                 }
                 data = await response.json();
+                // Alert user that their picks have been updated
+                alert('Your picks have been updated!');
             } else {
                 console.log('Submitting picks:', picks);
                 let response = await fetch(`${HOST_URL}pickems/${twitterHandle}`, {
@@ -121,6 +124,8 @@ const Pickems = () => {
                     throw new Error(errorData.detail || 'Error submitting picks');
                 }
                 data = await response.json();
+                // Alert user that their picks have been submitted
+                alert('Your picks have been submitted!');
             }
     
             generatedKey = data.UserKey;
@@ -142,15 +147,15 @@ const Pickems = () => {
         const userKeyInput = document.querySelector('input[placeholder="Enter your key here"]') as HTMLInputElement;
         const userNameInput = document.querySelector('input[placeholder="Enter the previously used username here"]') as HTMLInputElement;
         const userKey = userKeyInput.value; 
-        const twitterHandle = userNameInput.value; 
+        const userName = userNameInput.value; 
         
-        if (!twitterHandle || !userKey) {
+        if (!userName || !userKey) {
             alert('Please fill out all fields before retrieving your picks.');
             return;
         }
     
         try {
-            const response = await fetch(`${HOST_URL}pickems/${twitterHandle}-${userKey}`);
+            const response = await fetch(`${HOST_URL}pickems/${userName}-${userKey}`);
             
             if (!response.ok) {
                 if (response.status === 404) {
@@ -165,8 +170,13 @@ const Pickems = () => {
             setTeam0_3(data.Team0_3);
             setTeam3_0(data.Team3_0);
             setTop8Teams(data.Top8Teams);
-            setTwitterHandle(twitterHandle);
-            setGeneratedKey(userKey);
+            setTwitterHandle(userName);
+            let generatedKey = userKey;
+            setGeneratedKey(generatedKey);
+            // Save to cookies
+            Cookies.set('twitterHandle', userName, { expires: 21 });
+            Cookies.set('generatedKey', generatedKey || '', { expires: 21 });
+            Cookies.set('picks', JSON.stringify(data), { expires: 21 });
         } catch (error) {
             console.error('Error retrieving picks:', error);
             alert('There was an error retrieving your picks. Please try again.');
@@ -354,7 +364,14 @@ const Pickems = () => {
             </div>
 
             <hr className="w-full my-4 border-t-2 border-myThirdColor" />
-    
+
+            <h3 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2">Playoffs Bracket</h3>
+            <div className="flex flex-col items-center justify-center gap-y-4">
+                <p className="text-myThirdColor text-lg md:text-xl lg:text-xl text-center p-2">Coming soon!</p>
+            </div>
+            
+            <hr className="w-full my-4 border-t-2 border-myThirdColor" />
+
             <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2 pb-8">If you've already submitted pickems, retrieve them using your username and key</h2>
             <div className="flex flex-col items-center justify-center gap-y-4">
                 <input
@@ -376,6 +393,11 @@ const Pickems = () => {
                     Retrieve Picks
                 </button>
             </div>
+
+
+
+
+
         </div>
     );
 }
