@@ -87,7 +87,7 @@ const Pickems = () => {
         
 
         try {
-            setGeneratedKey(Cookies.get('generatedKey') || '');
+            let generatedKey = Cookies.get('generatedKey');
             let data = null;
             if (generatedKey) {
                 // If a generated key is already set, this is an update
@@ -122,8 +122,7 @@ const Pickems = () => {
                 data = await response.json();
             }
     
-            
-            setGeneratedKey(data.UserKey);
+            generatedKey = data.UserKey;
 
             // Save to cookies
             Cookies.set('twitterHandle', twitterHandle, { expires: 21 });
