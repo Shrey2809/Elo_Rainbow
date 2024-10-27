@@ -10,7 +10,8 @@ const Pickems = () => {
     const [top8Teams, setTop8Teams] = useState<string[]>([]);
     
     const [twitterHandle, setTwitterHandle] = useState<string>('');
-    const HOST_URL = import.meta.env.VITE_HOST_URL;
+    const HOST_URL = "http://[2605:fd00:4:1001:f816:3eff:feb8:cdcf]:8000/"
+    // import.meta.env.VITE_HOST_URL;
 
     useEffect(() => {
         const storedTwitterHandle = Cookies.get('twitterHandle');
