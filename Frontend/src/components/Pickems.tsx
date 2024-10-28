@@ -185,7 +185,8 @@ const Pickems = () => {
     
     return (
         <div className="justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8 pb-2">
-            <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2">Swiss Stage Pickems</h2>
+            <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center pt-2">Swiss Stage Pickems</h2>
+            <h3 className="text-myThirdColor text-xl md:text-lg lg:text-xl text-center pb-2">(Open till end of phase 1)</h3>
     
             <div className="flex flex-col md:flex-row items-center bg-myColor text-myThirdColor font-sans align-middle justify-between">
                 {/* Team 3-0 Selection */}
@@ -221,7 +222,7 @@ const Pickems = () => {
                             </div>
                         </PopoverContent>
                     </Popover>
-                    <div className={`flex flex-col drop-shadow-lg ${team3_0 ? 'bg-myFifthColor text-black border-myDarkColor' : 'bg-myDarkColor border-myThirdColor'} p-6 rounded-xl border-2 w-full mt-2`}>
+                    <div className={`flex flex-col drop-shadow-lg ${team3_0 ? 'bg-myFifthColor text-black border-myDarkColor' : 'bg-myDarkColor '} p-6 rounded-xl border-none w-full mt-2`}>
                         <div className="flex flex-col items-center gap-2">
                             <img
                                 src={team3_0 ? `/team_logos/${team3_0.toLowerCase()}.png` : "/team_logos/no_org.png"}
@@ -277,7 +278,7 @@ const Pickems = () => {
                             </div>
                         </PopoverContent>
                     </Popover>
-                    <div className={`flex flex-col drop-shadow-lg ${team0_3 ? 'bg-myFourthColor text-black border-myDarkColor' : 'bg-myDarkColor border-myThirdColor'} p-6 rounded-xl border-2 w-full mt-2`}>
+                    <div className={`flex flex-col drop-shadow-lg ${team0_3 ? 'bg-myFourthColor text-black border-myDarkColor' : 'bg-myDarkColor border-myThirdColor'} p-6 rounded-xl border-none w-full mt-2`}>
                         <div className="flex flex-col items-center gap-2">
                             <img
                                 src={team0_3 ? `/team_logos/${team0_3.toLowerCase()}.png` : "/team_logos/no_org.png"}
@@ -303,14 +304,14 @@ const Pickems = () => {
     
             <div className="mt-4">
                 <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2">The remaining 7 teams will advance</h3>
-                <div className="grid grid-cols-3 md:grid-cols-7 gap-4">
+                <div className="grid grid-cols-3 md:grid-cols-6 gap-4">
                     {teams
                         .filter(team => team.TeamName !== team0_3 && team.TeamName !== team3_0)
                         .map(team => (
                             <div key={team.TeamName} className="p-4">
                                 <button
                                     onClick={() => handleTop8Selection(team.TeamName)}
-                                    className={`border-none drop-shadow-2xl rounded p-6 w-full h-32 ${top8Teams.includes(team.TeamName) ? 'bg-myFifthColor text-myDarkColor' : 'bg-myDarkColor text-myThirdColor'}`}
+                                    className={`border-none drop-shadow-2xl rounded-xl p-6 w-full h-32 ${top8Teams.includes(team.TeamName) ? 'bg-myFifthColor text-myDarkColor' : 'bg-myDarkColor text-myThirdColor'}`}
                                 >
                                     <img
                                         src={`/team_logos/${team.TeamName.toLowerCase()}.png`}
@@ -395,7 +396,10 @@ const Pickems = () => {
             </div>
 
 
-
+            <hr className="w-full my-4 border-t-2 border-myThirdColor" />
+            <h6 className="text-myThirdColor text-lg md:text-sm lg:text-lg text-center p-2">For any issues or queries, please reach out @ the link below. <br />
+            Created by {""}
+            <a href="https://x.com/ItzAxon" className="text-myFifthColor underline">Axon</a></h6>
 
 
         </div>
