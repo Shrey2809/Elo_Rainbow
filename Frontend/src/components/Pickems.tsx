@@ -13,11 +13,9 @@ const Pickems = () => {
     const [twitterHandle, setTwitterHandle] = useState<string>('');
     const [points, setPoints] = useState(0);
 
-
     const finished3_0 = ["FOX", "DK"].sort((a,b) => a.localeCompare(b));;
     const finished0_3 = ["ELV", "CHIEFS"].sort((a,b) => a.localeCompare(b));;
     const finishedtop8 = ["CAG", "SZ", "FOX", "DK", "VP", "G2", "BDS", "CL4L"].sort((a,b) => a.localeCompare(b));
-
 
     const swissPhaseOver = true;
     const debug = false;
@@ -337,7 +335,6 @@ const Pickems = () => {
     const isMobile = useMediaQuery({ query: '(max-width: 768px)' });
 
     // Render the swiss stage pickems
-    // Render the swiss stage pickems
     const renderSwissStage = () => {
         return (
         <div>
@@ -596,19 +593,16 @@ const Pickems = () => {
                         />
                         {finished0_3[1]}
                     </div>
-                </div>
-
-                
+                </div>      
             </div>
 
-           
             {/* Top 8 teams */}
             <div className="m-4">
                 <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2">Top 8 teams</h3>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                     {finishedtop8
                         .map((team,index) => (
-                            <div key={`${team} ${index}`} className={`p-4 rounded-xl items-center text-center w-full h-32 ${(top8Teams.includes(team) || team == team3_0) && generatedKey ? 'bg-mySecondaryColor text-myDarkColor' : 'bg-myDarkColor text-myThirdColor'}`}>
+                            <div key={`${team} ${index}`} className={`p-4 rounded-xl items-center text-center w-full h-fit ${(top8Teams.includes(team) || team == team3_0) && generatedKey ? 'bg-mySecondaryColor text-myDarkColor' : 'bg-myDarkColor text-myThirdColor'}`}>
                                 <img
                                     src={`/team_logos/${team.toLowerCase()}.png`}
                                     alt={team}
@@ -626,11 +620,11 @@ const Pickems = () => {
                 </div>
 
                 {generatedKey && (
-                    <>
-                        {team3_0 && team0_3 ? 
+                    <div>
+                        {!(team3_0 && team0_3) || top8Teams[0] == "NA1" ? 
                             <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2 pt-4">You didn't make any picks in Swiss</h3>
                             : (
-                                <>
+                                <div>
                                     <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2 pt-4">Your incorrect picks </h3>
                                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                                         {top8Teams
@@ -652,9 +646,9 @@ const Pickems = () => {
                                                 </div>
                                             ))}
                                     </div>
-                                </>
+                                </div>
                             )}
-                    </>
+                    </div>
                 )}
             </div>
 
@@ -990,7 +984,7 @@ const Pickems = () => {
     return (
         <div className="justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8 pb-2">
             <div className="items-center justify-center gap-4 text-center">
-                {!swissPhaseOver ? renderSwissStage() : <h2 className="text-2xl font-semibold">Scroll down below to see your Swiss Stage picks</h2>}
+                {!swissPhaseOver ? renderSwissStage() : <h2 className="text-2xl font-semibold">Scroll down below to see your Swiss Stage picks<hr className="w-full my-4 border-t-2 border-myThirdColor" /></h2>}
             </div>
 
             <h3 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2">Playoffs Bracket</h3>
@@ -1000,18 +994,15 @@ const Pickems = () => {
                     : <p className="text-myThirdColor text-lg md:text-xl lg:text-xl text-center p-2">Loading bracket...</p>}
             </div>
 
-            
             {renderRetrive()}
 
             <div className="items-center justify-center text-center gap-4">
-            {swissPhaseOver ? renderFinishedSwissStage() : "Swiss phase results will be here"}
+            {swissPhaseOver ? renderFinishedSwissStage() : <div>Swiss phase results will be here <hr className="w-full my-4 border-t-2 border-myThirdColor" /></div>}
             </div>
             
             <h6 className="text-myThirdColor text-lg md:text-sm lg:text-lg text-center p-2">For any issues or queries, please reach out @ the link below. <br />
             Created by {""}
             <a href="https://x.com/ItzAxon" className="text-myFifthColor underline">Axon</a></h6>
-
-
         </div>
     );
 }
