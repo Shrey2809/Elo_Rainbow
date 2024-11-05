@@ -13,11 +13,12 @@ const Pickems = () => {
     const [twitterHandle, setTwitterHandle] = useState<string>('');
     const [points, setPoints] = useState(0);
 
-    const finished3_0 = ["FOX", "DK"].sort((a,b) => a.localeCompare(b));;
-    const finished0_3 = ["ELV", "CHIEFS"].sort((a,b) => a.localeCompare(b));;
-    const finishedtop8 = ["CAG", "SZ", "FOX", "DK", "VP", "G2", "BDS", "CL4L"].sort((a,b) => a.localeCompare(b));
+    const finished3_0 = ["Team 1", "Team 2"].sort((a,b) => a.localeCompare(b));;
+    const finished0_3 = ["Team 15", "Team 16"].sort((a,b) => a.localeCompare(b));;
+    const finishedtop8 = ["Team 1", "Team 2", "Team 3", "Team 4", "Team 5", "Team 6", "Team 7", "Team 8"].sort((a,b) => a.localeCompare(b));
 
-    const swissPhaseOver = true;
+    const swissPhaseStarted = true;
+    const swissPhaseOver = false;
     const debug = false;
 
 
@@ -55,10 +56,10 @@ const Pickems = () => {
         
         const mockBracketData = {
             Games: [
-                { Game: 'QF1', team1: 'CAG', team2: 'SZ' },
-                { Game: 'QF2', team1: 'FOX', team2: 'DK' },
-                { Game: 'QF3', team1: 'ELV', team2: 'CHIEFS' },
-                { Game: 'QF4', team1: 'BDS', team2: 'CL4L' },
+                { Game: 'QF1', team1: finishedtop8[0], team2: finishedtop8[7] },
+                { Game: 'QF2', team1: finishedtop8[1], team2: finishedtop8[6]},
+                { Game: 'QF3', team1: finishedtop8[2], team2: finishedtop8[5] },
+                { Game: 'QF4', team1: finishedtop8[3], team2: finishedtop8[4] },
             ],
         };
         
@@ -525,6 +526,7 @@ const Pickems = () => {
     const renderFinishedSwissStage = () => {
         return(
         <div>
+            {!swissPhaseOver && swissPhaseStarted ? <h2 className="text-2xl font-semibold">Retrieve picks to see Swiss Stage Picks</h2>  : <h2 className="text-2xl font-semibold">Swiss Stage is still ongoing</h2>}
             <h2 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center pt-2">Swiss Stage Pickems</h2>
                 <h2 className="text-myThirdColor font-semibold text-2xl md:text-xl lg:text-2xl text-center p-2">Points: {points}</h2>
 
@@ -623,9 +625,45 @@ const Pickems = () => {
                     <div>
                         {!(team3_0 && team0_3) || top8Teams[0] == "NA1" ? 
                             <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2 pt-4">You didn't make any picks in Swiss</h3>
-                            : (
+                            : ( 
                                 <div>
-                                    <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl p-2 pt-4">Your incorrect picks </h3>
+                                    <div className="flex flex-col items-center justify-center gap-4 p-4">
+                                    <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl ">Your picks </h3>
+                                    <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl ">Username: {twitterHandle} </h3>
+                                    <h3 className="text-lg font-semibold text-center text-myThirdColor md:text-xl lg:text-2xl ">Code: {generatedKey} </h3>
+                                    </div>
+                                    <div className="flex flex-row items-center justify-center gap-4 pb-4">
+                                        <div className={`flex flex-col items-center gap-2 p-6 rounded-xl w-32 ${team3_0 in finished3_0 ? 'bg-myDarkColor' : 'bg-myFourthColor text-black'}`}>
+                                            <span>3-0 Team</span>
+                                            <img
+                                                src={`/team_logos/${team3_0.toLowerCase()}.png`}
+                                                alt={`${team3_0}`}
+                                                className="mx-auto drop-shadow-xl"
+                                                width="45"
+                                                height="45"
+                                                loading="lazy"
+                                                onError={(e) => {
+                                                    e.currentTarget.src = "/team_logos/no_org.png";
+                                                }}
+                                            />
+                                            <span>{team3_0 || "No team picked"}</span>
+                                        </div>
+                                        <div className={`flex flex-col items-center gap-2 p-6 rounded-xl w-32 ${team0_3 in finished0_3 ? 'bg-myDarkColor' : 'bg-myFourthColor text-black'}`}>
+                                            <span>0-3 Team</span>
+                                            <img
+                                                src={`/team_logos/${team0_3.toLowerCase()}.png`}
+                                                alt={`${team0_3}`}
+                                                className="mx-auto drop-shadow-xl"
+                                                width="45"
+                                                height="45"
+                                                loading="lazy"
+                                                onError={(e) => {
+                                                    e.currentTarget.src = "/team_logos/no_org.png";
+                                                }}
+                                            />
+                                            <span>{team0_3 || "No team picked"}</span>
+                                        </div>
+                                    </div>
                                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                                         {top8Teams
                                             .filter(team => !finishedtop8.includes(team))
@@ -984,20 +1022,27 @@ const Pickems = () => {
     return (
         <div className="justify-center font-bold font-sans md:gap-4 lg:gap-6 xl:gap-8 pb-2">
             <div className="items-center justify-center gap-4 text-center">
-                {!swissPhaseOver ? renderSwissStage() : <h2 className="text-2xl font-semibold">Scroll down below to see your Swiss Stage picks<hr className="w-full my-4 border-t-2 border-myThirdColor" /></h2>}
+                {!swissPhaseStarted ? (
+                    renderSwissStage()
+                 ) : swissPhaseStarted && swissPhaseOver ? (
+                    <h2 className="text-2xl font-semibold"></h2>
+                ) : swissPhaseStarted ? (
+                    renderFinishedSwissStage()
+                ) : ( <div/> )}
             </div>
+            {/* <h2 className="text-2xl font-semibold">Scroll down below to see your Swiss Stage picks<hr className="w-full my-4 border-t-2 border-myThirdColor" /></h2> */}
 
             <h3 className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center p-2">Playoffs Bracket</h3>
             <div className="flex flex-col items-center justify-center gap-y-4">
                 {swissPhaseOver && bracketGames.length > 0 
                     ? (isMobile ? renderMobileBracket() : renderBracket())
-                    : <p className="text-myThirdColor text-lg md:text-xl lg:text-xl text-center p-2">Loading bracket...</p>}
+                    : <p className="text-myThirdColor text-lg md:text-xl lg:text-xl text-center w-full p-2">Loading bracket...<hr className="w-full my-4 border-t-2 border-myThirdColor" /></p>}
             </div>
 
             {renderRetrive()}
 
             <div className="items-center justify-center text-center gap-4">
-            {swissPhaseOver ? renderFinishedSwissStage() : <div>Swiss phase results will be here <hr className="w-full my-4 border-t-2 border-myThirdColor" /></div>}
+                {swissPhaseOver ? renderFinishedSwissStage() : <div/>}
             </div>
             
             <h6 className="text-myThirdColor text-lg md:text-sm lg:text-lg text-center p-2">For any issues or queries, please reach out @ the link below. <br />

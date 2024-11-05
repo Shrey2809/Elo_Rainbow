@@ -26,12 +26,12 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       colors: {
-        myColor: "#474954",
-        myDarkColor: "#343432",
-        mySecondaryColor: '#74C171',
-        myThirdColor: '#D7DEDC',
-        myFourthColor: '#FF6B6B',
-        myFifthColor: '#b198eb',
+        myColor: "#474954 ", //BG MAIN - 474954            392F5A
+        myDarkColor: "#343432", //BG SECONDARY - 343432    25283d
+        mySecondaryColor: '#74C171', //GREEN - 74C171      a6d3a0
+        myThirdColor: '#D7DEDC', //WHITE - D7DEDC          E7DFC6
+        myFourthColor: '#FF6B6B', //RED - FF6B6B           bc2c1a
+        myFifthColor: '#b198eb', //PURPLE - b198eb         377771
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
