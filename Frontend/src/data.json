@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1497.9669781734672,
+            "Elo": 1572.8779457718356,
             "LastGameUpdated": 1,
             "Region": "EU"
         },
@@ -220,7 +220,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1576.1773296644797,
+            "Elo": 1501.2663620661112,
             "LastGameUpdated": 1,
             "Region": "JAPAN"
         },
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 07, 2024, 16:10"
+    "Date": "Nov 07, 2024, 17:42"
 }
