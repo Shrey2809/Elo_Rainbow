@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1472.6025931925267,
-            "LastGameUpdated": 7,
+            "Elo": 1493.0258048869532,
+            "LastGameUpdated": 2,
             "Region": "BR"
         },
         {
@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1497.9669781734672,
+            "Elo": 1572.8779457718356,
             "LastGameUpdated": 1,
             "Region": "EU"
         },
@@ -220,7 +220,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1576.1773296644797,
+            "Elo": 1501.2663620661112,
             "LastGameUpdated": 1,
             "Region": "JAPAN"
         },
@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1463.2487618038906,
-            "LastGameUpdated": 70,
+            "Elo": 1422.4448731178004,
+            "LastGameUpdated": 3,
             "Region": "LATAM"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1469.0526159302246,
-            "LastGameUpdated": 27,
+            "Elo": 1509.8565046163149,
+            "LastGameUpdated": 3,
             "Region": "MENA"
         },
         {
@@ -731,8 +731,8 @@
         {
             "ID": 105,
             "TeamName": "CL4L",
-            "Elo": 1464.085626809602,
-            "LastGameUpdated": 7,
+            "Elo": 1443.6624151151755,
+            "LastGameUpdated": 2,
             "Region": "NORTH AMERICA"
         },
         {
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 07, 2024, 16:10"
+    "Date": "Nov 07, 2024, 21:08"
 }
