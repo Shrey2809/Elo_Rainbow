@@ -108,7 +108,7 @@ export default function SIProbabilites() {
         <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
           {qualifiedTeams.map((data) => {
             return (
-              <div className="text-black font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-xl gap-2 p-4 bg-mySecondaryColor">
+              <div className="text-black font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-mySecondaryColor">
                 <div className="text-center">
                   <img
                     src={`/team_logos/${data.team.toLowerCase()}.png`}
@@ -120,9 +120,6 @@ export default function SIProbabilites() {
                     }}
                   />
                 </div>
-                <div className="text-lg font-bold">
-                  100.00%
-                </div>
               </div>
             );
           })}
@@ -130,13 +127,13 @@ export default function SIProbabilites() {
         
         <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
         {/* Table body with team data */}
-        <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Teams At Montreal</h2>
+        <h2 className="text-white text-2xl text-center font-bold my-4">Teams At Montreal</h2>
+        <h2 className="text-white text-xl pb-4 text-center font-bold">(Finish for 300+ Points Below Teams)</h2>
         <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
           {notQualifiedTeams.map((data) => {
-            const isQualified = data.percentage === 1;
             return (
               <React.Fragment key={data.rank}>
-                <div className="text-white font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-xl gap-2 p-4 bg-myDarkColor">
+                <div className="text-white font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-myDarkColor">
                   <div className="text-center">
                     <img
                       src={`/team_logos/${data.team.toLowerCase()}.png`}
@@ -148,10 +145,10 @@ export default function SIProbabilites() {
                       }}
                     />
                   </div>
-                    <div className={isQualified ? "text-lg font-bold" : "text-lg"}>
-                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)} %
+                    <div className="text-lg font-bold">
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                     </div>
-                  <div>
+                  <div className="font-semibold">
                     {data.rank < (bleedRank ?? Infinity) ? (
                       <span className="text-mySecondaryColor">Cleared</span>
                     ) : data.finishRequired !== 'none' ? (
@@ -171,10 +168,9 @@ export default function SIProbabilites() {
         <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Teams Missing Montreal</h2>
         <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
           {teamsNotAtMajor.map((data) => {
-            const isQualified = data.percentage === 1;
             return (
               <React.Fragment key={data.rank}>
-                <div className={`text-${isQualified ? 'black' : 'white'} font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-xl gap-2 p-4 bg-${isQualified ? 'mySecondaryColor' : 'myDarkColor'}`}>
+                <div className="text-white font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-myDarkColor">
                   <div className="text-center">
                     <img
                       src={`/team_logos/${data.team.toLowerCase()}.png`}
@@ -186,35 +182,19 @@ export default function SIProbabilites() {
                       }}
                     />
                   </div>
-                    <div className={isQualified ? "text-lg font-bold" : "text-lg"}>
-                      {isQualified ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                    <div className="text-lg font-bold">
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
                     </div>
-                  <div>
-                    {isQualified ? (
-                      <img
-                        src={`/SI.png`}
-                        alt={data.team}
-                        className="w-10 h-10 mx-auto drop-shadow-xl"
-                        loading="lazy"
-                      />
-                    ) : data.rank < (bleedRank ?? Infinity) ? (
-                      <span className="text-mySecondaryColor">Cleared</span>
-                    ) : data.finishRequired !== 'none' ? (
-                      `${data.finishRequired}`
-                    ) : (
-                      <span className="text-myFourthColor">NQ</span>
-                    ) }
-                  </div>
                 </div>
               </React.Fragment>
             );
           })}
         </div>
-
-        <div className="text-white text-xl p-4 text-center">
+        
+        {/* Footer */}
+        <div className="text-white text-xl p-4 text-center mt-4">
           Matchups data and logos provided by Liquipedia. Created by {""}
           <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
-          {/* Pagination controls */}
         </div>
 
       </div>
