@@ -1,21 +1,5 @@
-import React, { useState } from 'react';
-import {
-  Table,
-  TableBody,
-  TableCaption,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
-import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-import {
-  HoverCard,
-  HoverCardContent,
-  HoverCardTrigger,
-} from "@/components/ui/hover-card";
+import React from 'react';
 import mergedData from "../merged_SIData.json"; // Import merged data
-import { Button } from "./ui/button"; // Button component
 
 type TeamJSON = {
   TeamName: string;
@@ -35,13 +19,6 @@ type EloData = {
   region: string;
   finishRequired: string;  // Added FinishRequired field to EloData
 };
-
-type TempFormat = {
-  Rank: number;
-  TeamName: string;
-  Probability: number;
-  FinishRequired: string;
-}
 
 
 
