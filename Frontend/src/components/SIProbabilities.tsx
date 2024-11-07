@@ -36,8 +36,14 @@ type EloData = {
   finishRequired: string;  // Added FinishRequired field to EloData
 };
 
-// List of available regions
-const regions = ["ALL REGIONS", "NA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+type TempFormat = {
+  Rank: number;
+  TeamName: string;
+  Probability: number;
+  FinishRequired: string;
+}
+
+
 
 // Function to transform raw team data into EloData format and sort by probability
 const transformData = (data: TeamsData): EloData[] => {
@@ -57,7 +63,9 @@ const transformData = (data: TeamsData): EloData[] => {
 const transformedData = transformData(mergedData); // Apply transformation to merged data
 const bleedRank = transformedData.find((team) => team.team === "Bleed")?.rank;
 
-const rowsPerPage = 20; // Set the number of rows to display per page
+const qualifiedTeams = transformedData.filter((team) => team.percentage === 1);
+const notQualifiedTeams = transformedData.filter((team) => team.percentage !== 1 && team.finishRequired !== 'none');
+const teamsNotAtMajor = transformedData.filter((team) => team.finishRequired === 'none' && team.percentage !== 1);
 
 // Your timestamp from JSON
 let timestamp = mergedData.Date; 
@@ -76,62 +84,7 @@ let timezoneAbbreviation = new Date().toLocaleTimeString('en-US', { timeZoneName
 let formattedDate = userDate.replace(',', '');
 
 
-export default function SIProbabilites() {
-  const [currentPage, setCurrentPage] = useState(1); // Track the current page
-  const [searchQuery, setSearchQuery] = useState(""); // Track team search query
-  const [searchRegion, setSearchRegion] = useState(""); // Track region search query
-  const [popoverOpen, setPopoverOpen] = useState(false); // Track popover visibility
-
-  const [, setSelectedRegion] = useState<string>(""); // State to hold selected region
-  
-
-  // Handle region selection in the popover
-  const handleRegionSelect = (region: string) => {
-    if (region === "ALL REGIONS") {
-      setSearchRegion(""); // Reset region filter if "ALL REGIONS" is selected
-    } else {
-      setSelectedRegion(region); // Set the selected region
-      setSearchRegion(region); // Filter data by region
-    }
-    setPopoverOpen(false); // Close the popover after selection
-  };
-
-  // Handle page change for pagination
-  const handlePageChange = (newPage: number) => {
-    setCurrentPage(newPage);
-  };
-
-  // Handle team search query change
-  const handleSearchQueryChange = (
-    event: React.ChangeEvent<HTMLInputElement>,
-  ) => {
-    setSearchQuery(event.target.value); // Set the search query
-    setCurrentPage(1); // Reset to page 1 when search changes
-  };
-
-  // Handle region search query change
-  const handleSearchRegionChange = (
-    event: React.ChangeEvent<HTMLInputElement>,
-  ) => {
-    setSearchRegion(event.target.value); // Set the region filter
-    setCurrentPage(1); // Reset to page 1 when search changes
-  };
-
-  // Filter teams based on search query and region filter
-  const filteredData = transformedData.filter(
-    (data) =>
-      data.team.toLowerCase().includes(searchQuery.toLowerCase()) &&
-      data.region.toLowerCase().includes(searchRegion.toLowerCase())
-  );
-
-  // Pagination logic
-  const startIndex = (currentPage - 1) * rowsPerPage;
-  const endIndex = startIndex + rowsPerPage;
-  const currentRows = filteredData.slice(startIndex, endIndex); // Get current page rows
-  const totalPages = Math.ceil(filteredData.length / rowsPerPage); // Calculate total pages
-
-  
-
+export default function SIProbabilites() {   
   return (
     <div className="w-full">
       {/* Display last calculation date and average minimum points */}
@@ -145,108 +98,43 @@ export default function SIProbabilites() {
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
           Simulations <br/><b>1 million runs</b>
         </div>
-        
-      </div>
-
-      {/* Search filters for team and region */}
-      <div className="p-4 flex gap-4 font-sans">
-        <input
-          type="text"
-          placeholder="Search Team Name"
-          value={searchQuery}
-          onChange={handleSearchQueryChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
-        />
-        <input
-          type="text"
-          placeholder="Search Region"
-          value={searchRegion}
-          onChange={handleSearchRegionChange}
-          className="px-4 py-2 mb-2 rounded drop-shadow-md w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
-        />
       </div>
 
       {/* Table displaying team probabilities */}
-      <Table className="text-sm md:text-lg table-auto w-full">
-        <TableCaption className="text-white text-xl">
-          Matchups data and logos provided by Liquipedia. Created by {""}
-          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
-          {/* Pagination controls */}
-          <div className="pagination p-4 flex items-center justify-center">
-            <button
-              onClick={() => handlePageChange(currentPage - 1)}
-              disabled={currentPage === 1}
-              className="px-4 py-2 bg-myDarkColor text-white rounded"
-            >
-              Previous
-            </button>
-            <span className="mx-4">
-              Page {currentPage} of {totalPages}
-            </span>
-            <button
-              onClick={() => handlePageChange(currentPage + 1)}
-              disabled={currentPage === totalPages}
-              className="px-4 py-2 bg-myDarkColor text-white rounded"
-            >
-              Next
-            </button>
-          </div>
-        </TableCaption>
-
-        {/* Table headers */}
-        <TableHeader className="bg-myDarkColor">
-          <TableRow>
-            <TableHead className="w-[10%] text-white text-center font-bold">
-              #
-            </TableHead>
-            <TableHead className="w-[22.5%] text-white text-center font-bold">
-              Team
-            </TableHead>
-            <TableHead className="w-[22.5%] text-white text-center font-bold">
-              Chance
-            </TableHead>
-            <TableHead className="w-[22.5%] text-white text-center font-bold">
-              Finish Required
-            </TableHead>
-            <TableHead className="w-[22.5%] text-white text-center font-bold">
-            <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
-                  <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
-                    Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
-                  </PopoverTrigger>
-                  <PopoverContent className="p-4 bg-myDarkColor">
-                    <div className="flex flex-col">
-                      {regions.map((region) => (
-                        <button
-                          key={region}
-                          onClick={() => handleRegionSelect(region)}
-                          className="py-2 px-4 text-white text-lg hover:bg-myColor"
-                        >
-                          {region}
-                        </button>
-                      ))}
-                    </div>
-                  </PopoverContent>
-                </Popover>
-            </TableHead>
-          </TableRow>
-        </TableHeader>
-
+      <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
+      <div className="text-sm md:text-lg w-full my-4">
         {/* Table body with team data */}
-{/* Table body with team data */}
-        <TableBody>
-          {currentRows.map((data, index) => {
-            const isQualified = data.percentage === 1;
-            const nextTeamNotQualified = currentRows[index + 1]?.percentage < 1;
-
+        <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Qualified Teams</h2>
+        <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
+          {qualifiedTeams.map((data) => {
+            return (
+              <div className="text-black font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-mySecondaryColor">
+                <div className="text-center">
+                  <img
+                    src={`/team_logos/${data.team.toLowerCase()}.png`}
+                    alt={data.team}
+                    className="w-10 h-10 mx-auto drop-shadow-xl"
+                    loading="lazy"
+                    onError={(e) => {
+                      e.currentTarget.src = "/team_logos/no_org.png";
+                    }}
+                  />
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        
+        <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
+        {/* Table body with team data */}
+        <h2 className="text-white text-2xl text-center font-bold my-4">Teams At Montreal</h2>
+        <h2 className="text-white text-xl pb-4 text-center font-bold">(Finish for 300+ Points Below Teams)</h2>
+        <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
+          {notQualifiedTeams.map((data) => {
             return (
               <React.Fragment key={data.rank}>
-                <TableRow
-                  className={isQualified ? 'border-t-4 border-mySecondaryColor text-mySecondaryColor font-extrabold drop-shadow-xl' : 'font-semibold'}
-                >
-                  <TableCell className="w-[10%] text-center ">
-                    {data.rank}
-                  </TableCell>
-                  <TableCell className="w-[22.5%] text-center">
+                <div className="text-white font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-myDarkColor">
+                  <div className="text-center">
                     <img
                       src={`/team_logos/${data.team.toLowerCase()}.png`}
                       alt={data.team}
@@ -256,59 +144,60 @@ export default function SIProbabilites() {
                         e.currentTarget.src = "/team_logos/no_org.png";
                       }}
                     />
-                    <span>{data.team}</span>
-                  </TableCell>
-                  <TableCell className="w-[22.5%] text-center">
-                    <HoverCard openDelay={0} closeDelay={0}>
-                      <HoverCardTrigger asChild>
-                        <Button variant="link" className={isQualified ? "text-lg font-extrabold" : "text-lg"}>
-                          {isQualified ? "100.00" : (Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
-                        </Button>
-                      </HoverCardTrigger>
-                      <HoverCardContent className={isQualified ? "w-fit bg-mySecondaryColor text-black font-semibold rounded border-0 drop-shadow-2xl" : "w-fit bg-myFourthColor text-black rounded border-0 drop-shadow-2xl"}>
-                        <div className="flex justify-between space-x-4">
-                          <div className="space-y-1">
-                            <h4 className="text-sm font-semibold">
-                              {isQualified ? `${data.team} has qualified for SI` : `${data.team} has ${(data.percentage * 100).toFixed(4)}% chance of qualifying for SI`}
-                            </h4>
-                          </div>
-                        </div>
-                      </HoverCardContent>
-                    </HoverCard>
-                  </TableCell>
-                  <TableCell className="w-[22.5%] text-center font-semibold text-lg text-myFifthColor">
-                    {isQualified ? (
-                      <img
-                        src={`/SI.png`}
-                        alt={data.team}
-                        className="w-10 h-10 mx-auto drop-shadow-xl"
-                        loading="lazy"
-                      />
-                    ) : data.rank < (bleedRank ?? Infinity) ? (
+                  </div>
+                    <div className="text-lg font-bold">
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                    </div>
+                  <div className="font-semibold">
+                    {data.rank < (bleedRank ?? Infinity) ? (
                       <span className="text-mySecondaryColor">Cleared</span>
                     ) : data.finishRequired !== 'none' ? (
                       `${data.finishRequired}`
                     ) : (
                       <span className="text-myFourthColor">NQ</span>
-                    )}
-                  </TableCell>
-                  <TableCell className="w-[22.5%] text-center ">
-                    {data.region}
-                  </TableCell>
-                </TableRow>
-
-                {/* Add a break row after the last qualified team */}
-                {isQualified && nextTeamNotQualified && (
-                  <TableRow key={`break-${data.rank}`} className="h-2">
-                    <TableCell colSpan={5} className="bg-myDarkColor text-center font-semibold border-t-4 border-mySecondaryColor p-2 text-white">YET TO QUALIFY</TableCell>
-                  </TableRow>
-                )}
+                    ) }
+                  </div>
+                </div>
               </React.Fragment>
             );
           })}
-        </TableBody>
+        </div>
 
-      </Table>
+        <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
+        {/* Table body with team data */}
+        <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Teams Missing Montreal</h2>
+        <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
+          {teamsNotAtMajor.map((data) => {
+            return (
+              <React.Fragment key={data.rank}>
+                <div className="text-white font-semifold drop-shadow-xl flex flex-col items-center w-32 rounded-3xl gap-2 p-4 bg-myDarkColor">
+                  <div className="text-center">
+                    <img
+                      src={`/team_logos/${data.team.toLowerCase()}.png`}
+                      alt={data.team}
+                      className="w-10 h-10 mx-auto drop-shadow-xl"
+                      loading="lazy"
+                      onError={(e) => {
+                        e.currentTarget.src = "/team_logos/no_org.png";
+                      }}
+                    />
+                  </div>
+                    <div className="text-lg font-bold">
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                    </div>
+                </div>
+              </React.Fragment>
+            );
+          })}
+        </div>
+        
+        {/* Footer */}
+        <div className="text-white text-xl p-4 text-center mt-4">
+          Matchups data and logos provided by Liquipedia. Created by {""}
+          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
+        </div>
+
+      </div>
     </div>
   );
 }
