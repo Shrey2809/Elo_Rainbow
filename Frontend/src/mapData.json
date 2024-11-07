@@ -1234,11 +1234,11 @@
             "ID": 607,
             "TeamName": "CHIEFS",
             "MapName": "CLUB",
-            "Elo": 1446.7631424863107,
+            "Elo": 1469.0655704772298,
             "Region": "OCE",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 731,
@@ -1267,6 +1267,16 @@
             "Elo": 1458.8524105525787,
             "Region": "OCE",
             "LastGameUpdated": 28,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 773,
+            "TeamName": "CHIEFS",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1569.536703106337,
+            "Region": "OCE",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -2674,11 +2684,11 @@
             "ID": 433,
             "TeamName": "FOX",
             "MapName": "CLUB",
-            "Elo": 1409.1273207565232,
+            "Elo": 1386.824892765604,
             "Region": "KOREA",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 4,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 422,
@@ -2734,11 +2744,11 @@
             "ID": 437,
             "TeamName": "FOX",
             "MapName": "SKYSCRAPER",
-            "Elo": 1420.6360917308111,
+            "Elo": 1404.766548409753,
             "Region": "KOREA",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 4,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 67,
@@ -7701,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 07, 2024, 21:08"
+    "Date": "Nov 07, 2024, 23:27"
 }
