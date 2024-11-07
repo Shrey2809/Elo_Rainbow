@@ -354,11 +354,11 @@
             "ID": 709,
             "TeamName": "ALPHA",
             "MapName": "LABS",
-            "Elo": 1403.903734431221,
+            "Elo": 1369.2286520921953,
             "Region": "LATAM",
-            "LastGameUpdated": 45,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 247,
@@ -2534,11 +2534,11 @@
             "ID": 274,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1407.1291973135048,
+            "Elo": 1441.8042796525306,
             "Region": "MENA",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 688,
@@ -7701,5 +7701,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 07, 2024, 20:33"
+    "Date": "Nov 07, 2024, 21:08"
 }
