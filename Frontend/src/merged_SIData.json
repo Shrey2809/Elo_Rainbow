@@ -108,9 +108,9 @@
             "TeamName": "ALPHA",
             "Probability": 0.250842,
             "Region": "LATAM",
-            "FinishRequired": "5th-8th",
-            "PointsAtFinish": 345,
-            "CurrentPoints": 175
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
         },
         {
             "TeamName": "VP",
@@ -188,9 +188,9 @@
             "TeamName": "CL4L",
             "Probability": 0.03115,
             "Region": "NA",
-            "FinishRequired": "1st",
-            "PointsAtFinish": 350,
-            "CurrentPoints": 0
+            "FinishRequired": "none",
+            "PointsAtFinish": "none",
+            "CurrentPoints": "none"
         },
         {
             "TeamName": "BD",
