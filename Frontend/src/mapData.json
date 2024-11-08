@@ -524,11 +524,11 @@
             "ID": 98,
             "TeamName": "BD",
             "MapName": "CONS",
-            "Elo": 1462.462314964351,
+            "Elo": 1435.6247585362737,
             "Region": "BR",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 9,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 85,
@@ -2704,11 +2704,11 @@
             "ID": 422,
             "TeamName": "FOX",
             "MapName": "CONS",
-            "Elo": 1394.6348379381868,
+            "Elo": 1421.472394366264,
             "Region": "KOREA",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 9,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 523,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 08, 2024, 20:35"
+    "Date": "Nov 08, 2024, 22:08"
 }

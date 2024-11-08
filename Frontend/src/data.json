@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1461.980063135553,
-            "LastGameUpdated": 5,
+            "Elo": 1444.4733786471647,
+            "LastGameUpdated": 9,
             "Region": "BR"
         },
         {
@@ -535,8 +535,8 @@
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1540.3893476274409,
-            "LastGameUpdated": 8,
+            "Elo": 1557.8960321158293,
+            "LastGameUpdated": 9,
             "Region": "KOREA"
         },
         {
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 08, 2024, 20:35"
+    "Date": "Nov 08, 2024, 22:08"
 }

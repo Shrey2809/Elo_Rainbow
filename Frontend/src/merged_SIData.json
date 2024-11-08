@@ -76,7 +76,7 @@
             "TeamName": "SZ",
             "Probability": 0.997523,
             "Region": "JAPAN",
-            "FinishRequired": "AM",
+            "FinishRequired": "none",
             "PointsAtFinish": "none",
             "CurrentPoints": "none"
         },
