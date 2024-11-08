@@ -534,11 +534,11 @@
             "ID": 85,
             "TeamName": "BD",
             "MapName": "KAFE",
-            "Elo": 1533.5104109198205,
+            "Elo": 1546.1001901065204,
             "Region": "BR",
-            "LastGameUpdated": 561,
+            "LastGameUpdated": 9,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 99,
@@ -2714,11 +2714,11 @@
             "ID": 523,
             "TeamName": "FOX",
             "MapName": "KAFE",
-            "Elo": 1369.2448601678157,
+            "Elo": 1356.6550809811158,
             "Region": "KOREA",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 9,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 715,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 08, 2024, 22:13"
+    "Date": "Nov 08, 2024, 23:07"
 }
