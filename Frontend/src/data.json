@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1493.0258048869532,
-            "LastGameUpdated": 2,
+            "Elo": 1461.980063135553,
+            "LastGameUpdated": 5,
             "Region": "BR"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1572.8779457718356,
-            "LastGameUpdated": 1,
+            "Elo": 1603.9236875232357,
+            "LastGameUpdated": 5,
             "Region": "EU"
         },
         {
@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1422.4448731178004,
-            "LastGameUpdated": 3,
+            "Elo": 1407.184368868143,
+            "LastGameUpdated": 8,
             "Region": "LATAM"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1509.8565046163149,
-            "LastGameUpdated": 3,
+            "Elo": 1571.7375724498577,
+            "LastGameUpdated": 6,
             "Region": "MENA"
         },
         {
@@ -535,8 +535,8 @@
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1506.3736568269317,
-            "LastGameUpdated": 4,
+            "Elo": 1521.634161076589,
+            "LastGameUpdated": 8,
             "Region": "KOREA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1553.667159785279,
-            "LastGameUpdated": 4,
+            "Elo": 1491.7860919517361,
+            "LastGameUpdated": 6,
             "Region": "OCE"
         },
         {
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 07, 2024, 23:29"
+    "Date": "Nov 08, 2024, 19:35"
 }

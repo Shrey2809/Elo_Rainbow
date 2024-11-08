@@ -334,11 +334,11 @@
             "ID": 771,
             "TeamName": "ALPHA",
             "MapName": "CONS",
-            "Elo": 1449.8513935807637,
+            "Elo": 1425.3408272928862,
             "Region": "LATAM",
-            "LastGameUpdated": 68,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 260,
@@ -524,11 +524,11 @@
             "ID": 98,
             "TeamName": "BD",
             "MapName": "CONS",
-            "Elo": 1480.1714473802938,
+            "Elo": 1462.462314964351,
             "Region": "BR",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 85,
@@ -554,11 +554,11 @@
             "ID": 770,
             "TeamName": "BD",
             "MapName": "LAIR",
-            "Elo": 1453.7189984698964,
+            "Elo": 1437.938165149169,
             "Region": "BR",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 500,
@@ -1214,21 +1214,21 @@
             "ID": 597,
             "TeamName": "CHIEFS",
             "MapName": "BORDER",
-            "Elo": 1452.8386952461024,
+            "Elo": 1429.3696734021366,
             "Region": "OCE",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 595,
             "TeamName": "CHIEFS",
             "MapName": "CHALET",
-            "Elo": 1441.9448727270567,
+            "Elo": 1409.4476808485024,
             "Region": "OCE",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 607,
@@ -2511,14 +2511,24 @@
             "RegionalCount": 6
         },
         {
+            "ID": 774,
+            "TeamName": "FLCS",
+            "MapName": "BORDER",
+            "Elo": 1595.2065942938234,
+            "Region": "MENA",
+            "LastGameUpdated": 6,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 293,
             "TeamName": "FLCS",
             "MapName": "CHALET",
-            "Elo": 1334.449631554942,
+            "Elo": 1366.9468234334963,
             "Region": "MENA",
-            "LastGameUpdated": 280,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 304,
@@ -2694,11 +2704,11 @@
             "ID": 422,
             "TeamName": "FOX",
             "MapName": "CONS",
-            "Elo": 1370.1242716503093,
+            "Elo": 1394.6348379381868,
             "Region": "KOREA",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 8,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 523,
@@ -3174,11 +3184,11 @@
             "ID": 136,
             "TeamName": "G2",
             "MapName": "CONS",
-            "Elo": 1555.2994701557966,
+            "Elo": 1573.0086025717394,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 5,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 149,
@@ -3204,11 +3214,11 @@
             "ID": 574,
             "TeamName": "G2",
             "MapName": "LAIR",
-            "Elo": 1528.1307037905822,
+            "Elo": 1543.9115371113096,
             "Region": "EU",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 128,
@@ -7711,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 07, 2024, 23:29"
+    "Date": "Nov 08, 2024, 19:35"
 }
