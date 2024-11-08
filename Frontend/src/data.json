@@ -262,7 +262,7 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1407.184368868143,
+            "Elo": 1388.4291823172912,
             "LastGameUpdated": 8,
             "Region": "LATAM"
         },
@@ -535,7 +535,7 @@
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1521.634161076589,
+            "Elo": 1540.3893476274409,
             "LastGameUpdated": 8,
             "Region": "KOREA"
         },
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 08, 2024, 19:35"
+    "Date": "Nov 08, 2024, 20:35"
 }

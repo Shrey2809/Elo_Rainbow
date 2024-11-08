@@ -294,11 +294,11 @@
             "ID": 645,
             "TeamName": "ALPHA",
             "MapName": "BANK",
-            "Elo": 1358.4196207060327,
+            "Elo": 1339.82978804191,
             "Region": "LATAM",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 8,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 256,
@@ -2664,11 +2664,11 @@
             "ID": 461,
             "TeamName": "FOX",
             "MapName": "BANK",
-            "Elo": 1475.1984984635924,
+            "Elo": 1493.788331127715,
             "Region": "KOREA",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 8,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 426,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 08, 2024, 19:35"
+    "Date": "Nov 08, 2024, 20:35"
 }
