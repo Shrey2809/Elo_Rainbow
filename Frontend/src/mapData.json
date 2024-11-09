@@ -1094,11 +1094,11 @@
             "ID": 775,
             "TeamName": "CAG",
             "MapName": "LAIR",
-            "Elo": 1534.149617575827,
+            "Elo": 1503.8148107281836,
             "Region": "JAPAN",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 467,
@@ -1284,11 +1284,11 @@
             "ID": 697,
             "TeamName": "CHIEFS",
             "MapName": "LAIR",
-            "Elo": 1458.8524105525787,
+            "Elo": 1489.1872174002222,
             "Region": "OCE",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 773,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 09, 2024, 03:25"
+    "Date": "Nov 09, 2024, 03:34"
 }
