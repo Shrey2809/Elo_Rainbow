@@ -220,8 +220,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1501.2663620661112,
-            "LastGameUpdated": 1,
+            "Elo": 1536.5537118653801,
+            "LastGameUpdated": 7,
             "Region": "JAPAN"
         },
         {
@@ -731,8 +731,8 @@
         {
             "ID": 105,
             "TeamName": "CL4L",
-            "Elo": 1443.6624151151755,
-            "LastGameUpdated": 2,
+            "Elo": 1408.3750653159066,
+            "LastGameUpdated": 7,
             "Region": "NORTH AMERICA"
         },
         {
@@ -743,5 +743,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 09, 2024, 00:42"
+    "Date": "Nov 09, 2024, 00:45"
 }

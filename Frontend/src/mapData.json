@@ -1084,11 +1084,21 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1393.1090124977713,
+            "Elo": 1415.394634544477,
             "Region": "JAPAN",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 7,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
+        },
+        {
+            "ID": 775,
+            "TeamName": "CAG",
+            "MapName": "LAIR",
+            "Elo": 1534.149617575827,
+            "Region": "JAPAN",
+            "LastGameUpdated": 7,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 467,
@@ -1324,21 +1334,21 @@
             "ID": 758,
             "TeamName": "CL4L",
             "MapName": "LABS",
-            "Elo": 1389.798577665943,
+            "Elo": 1367.5129556192373,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 757,
             "TeamName": "CL4L",
             "MapName": "LAIR",
-            "Elo": 1383.4130009478802,
+            "Elo": 1369.3331120840112,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 7,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 762,
@@ -7721,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 09, 2024, 00:42"
+    "Date": "Nov 09, 2024, 00:45"
 }
