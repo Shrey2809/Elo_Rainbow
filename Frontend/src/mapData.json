@@ -554,11 +554,11 @@
             "ID": 770,
             "TeamName": "BD",
             "MapName": "LAIR",
-            "Elo": 1437.938165149169,
+            "Elo": 1468.7608373886949,
             "Region": "BR",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 9,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 500,
@@ -2734,11 +2734,11 @@
             "ID": 621,
             "TeamName": "FOX",
             "MapName": "LAIR",
-            "Elo": 1520.3710440593277,
+            "Elo": 1489.5483718198018,
             "Region": "KOREA",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 9,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 443,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 08, 2024, 23:07"
+    "Date": "Nov 09, 2024, 00:42"
 }
