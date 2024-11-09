@@ -1054,21 +1054,21 @@
             "ID": 181,
             "TeamName": "CAG",
             "MapName": "CLUB",
-            "Elo": 1434.0802515767557,
+            "Elo": 1407.090957876578,
             "Region": "JAPAN",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 466,
             "TeamName": "CAG",
             "MapName": "CONS",
-            "Elo": 1446.4433030791415,
+            "Elo": 1483.0875737377494,
             "Region": "JAPAN",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 10,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 184,
@@ -1244,11 +1244,21 @@
             "ID": 607,
             "TeamName": "CHIEFS",
             "MapName": "CLUB",
-            "Elo": 1469.0655704772298,
+            "Elo": 1496.0548641774076,
             "Region": "OCE",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 10,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
+        },
+        {
+            "ID": 776,
+            "TeamName": "CHIEFS",
+            "MapName": "CONS",
+            "Elo": 1454.3451363875581,
+            "Region": "OCE",
+            "LastGameUpdated": 10,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 731,
@@ -7731,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 09, 2024, 00:45"
+    "Date": "Nov 09, 2024, 02:15"
 }
