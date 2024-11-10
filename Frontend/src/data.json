@@ -59,8 +59,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1717.398524987739,
-            "LastGameUpdated": 43,
+            "Elo": 1733.2346664063343,
+            "LastGameUpdated": 17,
             "Region": "BR"
         },
         {
@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1502.939343373376,
-            "LastGameUpdated": 9,
+            "Elo": 1528.7042521561143,
+            "LastGameUpdated": 18,
             "Region": "BR"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1611.3202800952938,
-            "LastGameUpdated": 42,
+            "Elo": 1595.4841386766984,
+            "LastGameUpdated": 17,
             "Region": "NORTH AMERICA"
         },
         {
@@ -542,8 +542,8 @@
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1513.572923595812,
-            "LastGameUpdated": 35,
+            "Elo": 1487.8080148130737,
+            "LastGameUpdated": 18,
             "Region": "KOREA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 21:13"
+    "Date": "Nov 10, 2024, 21:45"
 }

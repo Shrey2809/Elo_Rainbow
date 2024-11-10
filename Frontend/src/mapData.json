@@ -484,11 +484,11 @@
             "ID": 47,
             "TeamName": "BD",
             "MapName": "BANK",
-            "Elo": 1496.0723246191292,
+            "Elo": 1520.7966149353342,
             "Region": "BR",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 18,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 57,
@@ -1704,11 +1704,11 @@
             "ID": 716,
             "TeamName": "DK",
             "MapName": "BANK",
-            "Elo": 1492.2405150487848,
+            "Elo": 1467.5162247325798,
             "Region": "KOREA",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 18,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 627,
@@ -3014,11 +3014,11 @@
             "ID": 105,
             "TeamName": "FaZe",
             "MapName": "CONS",
-            "Elo": 1619.0912976757027,
+            "Elo": 1633.7325843595506,
             "Region": "BR",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 17,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 43,
@@ -6394,11 +6394,11 @@
             "ID": 326,
             "TeamName": "SSG",
             "MapName": "CONS",
-            "Elo": 1492.4096510264578,
+            "Elo": 1477.7683643426099,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 17,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 321,
@@ -7751,5 +7751,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 10, 2024, 21:13"
+    "Date": "Nov 10, 2024, 21:45"
 }
