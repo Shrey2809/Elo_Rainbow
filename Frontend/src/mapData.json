@@ -1234,11 +1234,11 @@
             "ID": 595,
             "TeamName": "CHIEFS",
             "MapName": "CHALET",
-            "Elo": 1409.4476808485024,
+            "Elo": 1437.3080956207555,
             "Region": "OCE",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 12,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 607,
@@ -1914,11 +1914,11 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1518.280585071507,
+            "Elo": 1498.72714411409,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 11,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 337,
@@ -2534,11 +2534,11 @@
             "ID": 774,
             "TeamName": "FLCS",
             "MapName": "BORDER",
-            "Elo": 1595.2065942938234,
+            "Elo": 1614.7600352512404,
             "Region": "MENA",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 11,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 293,
@@ -6584,11 +6584,11 @@
             "ID": 176,
             "TeamName": "SZ",
             "MapName": "CHALET",
-            "Elo": 1493.8425887555989,
+            "Elo": 1465.9821739833458,
             "Region": "JAPAN",
-            "LastGameUpdated": 682,
+            "LastGameUpdated": 12,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 190,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 09, 2024, 03:34"
+    "Date": "Nov 10, 2024, 18:13"
 }
