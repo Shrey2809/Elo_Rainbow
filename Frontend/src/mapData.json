@@ -594,11 +594,11 @@
             "ID": 124,
             "TeamName": "BDS",
             "MapName": "BORDER",
-            "Elo": 1489.2463128243971,
+            "Elo": 1464.8602939527177,
             "Region": "EU",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 13,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 119,
@@ -7241,6 +7241,16 @@
             "RegionalCount": 2
         },
         {
+            "ID": 777,
+            "TeamName": "W7M",
+            "MapName": "BORDER",
+            "Elo": 1436.1814295237614,
+            "Region": "BR",
+            "LastGameUpdated": 13,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 330,
             "TeamName": "WCG",
             "MapName": "BANK",
@@ -7741,5 +7751,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 10, 2024, 20:01"
+    "Date": "Nov 10, 2024, 20:06"
 }
