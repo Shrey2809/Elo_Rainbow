@@ -73,8 +73,8 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1633.7422729917146,
-            "LastGameUpdated": 43,
+            "Elo": 1654.315942656113,
+            "LastGameUpdated": 16,
             "Region": "BR"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1603.9236875232357,
-            "LastGameUpdated": 5,
+            "Elo": 1583.3500178588372,
+            "LastGameUpdated": 16,
             "Region": "EU"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 20:06"
+    "Date": "Nov 10, 2024, 20:17"
 }

@@ -3184,11 +3184,11 @@
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1526.2168022725398,
+            "Elo": 1507.6453184489644,
             "Region": "EU",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 16,
             "MajorCount": 0,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 131,
@@ -4414,11 +4414,11 @@
             "ID": 91,
             "TeamName": "Liquid",
             "MapName": "CHALET",
-            "Elo": 1587.5072727026861,
+            "Elo": 1606.0787565262615,
             "Region": "BR",
-            "LastGameUpdated": 18,
+            "LastGameUpdated": 16,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 463,
@@ -7751,5 +7751,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 10, 2024, 20:06"
+    "Date": "Nov 10, 2024, 20:17"
 }
