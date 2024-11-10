@@ -6,17 +6,17 @@
             "Region": "EU"
         },
         {
-            "TeamName": "DZ",
+            "TeamName": "Liquid",
             "Probability": 1.0,
-            "Region": "NA"
+            "Region": "BR"
         },
         {
             "TeamName": "G2",
-            "Probability": 0.672633,
+            "Probability": 0.653133,
             "Region": "EU"
         },
         {
-            "TeamName": "Liquid",
+            "TeamName": "FaZe",
             "Probability": 1.0,
             "Region": "BR"
         },
@@ -26,9 +26,9 @@
             "Region": "NA"
         },
         {
-            "TeamName": "FaZe",
+            "TeamName": "DZ",
             "Probability": 1.0,
-            "Region": "BR"
+            "Region": "NA"
         },
         {
             "TeamName": "Secret",
@@ -36,9 +36,24 @@
             "Region": "EU"
         },
         {
-            "TeamName": "ELV",
-            "Probability": 0.519978,
-            "Region": "SEA"
+            "TeamName": "SSG",
+            "Probability": 0.679339,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "SZ",
+            "Probability": 0.999258,
+            "Region": "JAPAN"
+        },
+        {
+            "TeamName": "CHIEFS",
+            "Probability": 0.287409,
+            "Region": "OCE"
+        },
+        {
+            "TeamName": "VP",
+            "Probability": 0.572291,
+            "Region": "EU"
         },
         {
             "TeamName": "M80",
@@ -47,70 +62,55 @@
         },
         {
             "TeamName": "FURIA",
-            "Probability": 0.99999,
+            "Probability": 0.999982,
             "Region": "BR"
-        },
-        {
-            "TeamName": "BD",
-            "Probability": 0.12977,
-            "Region": "BR"
-        },
-        {
-            "TeamName": "SQ",
-            "Probability": 0.491027,
-            "Region": "NA"
-        },
-        {
-            "TeamName": "VP",
-            "Probability": 0.490702,
-            "Region": "EU"
-        },
-        {
-            "TeamName": "SSG",
-            "Probability": 0.701304,
-            "Region": "NA"
-        },
-        {
-            "TeamName": "SZ",
-            "Probability": 0.999465,
-            "Region": "JAPAN"
-        },
-        {
-            "TeamName": "Bleed",
-            "Probability": 0.942168,
-            "Region": "SEA"
         },
         {
             "TeamName": "w7m",
-            "Probability": 0.500857,
+            "Probability": 0.583477,
             "Region": "BR"
         },
         {
-            "TeamName": "DK",
-            "Probability": 0.524739,
-            "Region": "KOREA"
+            "TeamName": "Bleed",
+            "Probability": 0.932463,
+            "Region": "SEA"
         },
         {
             "TeamName": "PSG",
-            "Probability": 0.743895,
+            "Probability": 0.718512,
             "Region": "KOREA"
         },
         {
-            "TeamName": "CHIEFS",
-            "Probability": 0.288861,
-            "Region": "OCE"
+            "TeamName": "SQ",
+            "Probability": 0.47708,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "DK",
+            "Probability": 0.505433,
+            "Region": "KOREA"
         },
         {
             "TeamName": "GG",
-            "Probability": 0.401862,
+            "Probability": 0.372941,
             "Region": "OCE"
         },
         {
+            "TeamName": "ELV",
+            "Probability": 0.500672,
+            "Region": "SEA"
+        },
+        {
             "TeamName": "FLCS",
-            "Probability": 0.592749,
+            "Probability": 0.59177,
             "Region": "MENA"
+        },
+        {
+            "TeamName": "BD",
+            "Probability": 0.12624,
+            "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 18:03",
-    "MinPoints": 299.270675
+    "Date": "Nov 10, 2024, 19:56",
+    "MinPoints": 299.588025
 }

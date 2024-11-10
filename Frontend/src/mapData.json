@@ -6264,11 +6264,11 @@
             "ID": 556,
             "TeamName": "SQ",
             "MapName": "BORDER",
-            "Elo": 1523.602702376553,
+            "Elo": 1497.7716360505788,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 14,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 342,
@@ -7124,11 +7124,11 @@
             "ID": 135,
             "TeamName": "VP",
             "MapName": "BORDER",
-            "Elo": 1471.7849504352503,
+            "Elo": 1497.6160167612247,
             "Region": "EU",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 14,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 146,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 10, 2024, 18:13"
+    "Date": "Nov 10, 2024, 20:01"
 }

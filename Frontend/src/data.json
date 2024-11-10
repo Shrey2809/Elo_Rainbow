@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1484.948786629946,
-            "LastGameUpdated": 42,
+            "Elo": 1514.9750375463013,
+            "LastGameUpdated": 14,
             "Region": "EU"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1605.8170098877674,
-            "LastGameUpdated": 43,
+            "Elo": 1575.790758971412,
+            "LastGameUpdated": 14,
             "Region": "NORTH AMERICA"
         },
         {
@@ -741,7 +741,14 @@
             "Elo": 1374.8291584026626,
             "LastGameUpdated": 1,
             "Region": "BR"
+        },
+        {
+            "ID": 107,
+            "TeamName": "W7M",
+            "Elo": 1375,
+            "LastGameUpdated": null,
+            "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 18:13"
+    "Date": "Nov 10, 2024, 20:01"
 }
