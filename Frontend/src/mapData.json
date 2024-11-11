@@ -3224,11 +3224,11 @@
             "ID": 149,
             "TeamName": "G2",
             "MapName": "KAFE",
-            "Elo": 1531.8423374603385,
+            "Elo": 1499.7618264155712,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 465,
@@ -6314,11 +6314,11 @@
             "ID": 551,
             "TeamName": "SQ",
             "MapName": "KAFE",
-            "Elo": 1507.7088120959447,
+            "Elo": 1539.789323140712,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 336,
@@ -7761,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 20:13"
+    "Date": "Nov 11, 2024, 20:59"
 }

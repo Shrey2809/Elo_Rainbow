@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1521.4574286488123,
+            "Elo": 1497.2817181070848,
             "LastGameUpdated": 34,
             "Region": "EU"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1589.7767639091926,
+            "Elo": 1613.9524744509201,
             "LastGameUpdated": 34,
             "Region": "NORTH AMERICA"
         },
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 20:13"
+    "Date": "Nov 11, 2024, 20:59"
 }
