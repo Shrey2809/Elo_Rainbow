@@ -1,6 +1,16 @@
 {
     "Teams": [
         {
+            "TeamName": "Liquid",
+            "Probability": 1.0,
+            "Region": "BR"
+        },
+        {
+            "TeamName": "Secret",
+            "Probability": 1.0,
+            "Region": "EU"
+        },
+        {
             "TeamName": "C9BC",
             "Probability": 1.0,
             "Region": "NA"
@@ -11,34 +21,14 @@
             "Region": "EU"
         },
         {
-            "TeamName": "Secret",
-            "Probability": 1.0,
-            "Region": "EU"
-        },
-        {
-            "TeamName": "VP",
-            "Probability": 0.54643,
-            "Region": "EU"
-        },
-        {
             "TeamName": "FaZe",
             "Probability": 1.0,
             "Region": "BR"
         },
         {
-            "TeamName": "Liquid",
-            "Probability": 1.0,
-            "Region": "BR"
-        },
-        {
-            "TeamName": "SZ",
-            "Probability": 0.999509,
-            "Region": "JAPAN"
-        },
-        {
-            "TeamName": "FLCS",
-            "Probability": 0.772045,
-            "Region": "MENA"
+            "TeamName": "CHIEFS",
+            "Probability": 0.258035,
+            "Region": "OCE"
         },
         {
             "TeamName": "DZ",
@@ -46,14 +36,24 @@
             "Region": "NA"
         },
         {
-            "TeamName": "DK",
-            "Probability": 0.444658,
-            "Region": "KOREA"
+            "TeamName": "SQ",
+            "Probability": 0.340226,
+            "Region": "NA"
         },
         {
-            "TeamName": "ELV",
-            "Probability": 0.439594,
-            "Region": "SEA"
+            "TeamName": "SSG",
+            "Probability": 0.529821,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "SZ",
+            "Probability": 0.999978,
+            "Region": "JAPAN"
+        },
+        {
+            "TeamName": "DK",
+            "Probability": 0.380253,
+            "Region": "KOREA"
         },
         {
             "TeamName": "M80",
@@ -61,56 +61,56 @@
             "Region": "NA"
         },
         {
+            "TeamName": "FLCS",
+            "Probability": 0.791291,
+            "Region": "MENA"
+        },
+        {
             "TeamName": "FURIA",
-            "Probability": 0.999998,
+            "Probability": 1.0,
             "Region": "BR"
         },
         {
             "TeamName": "w7m",
-            "Probability": 0.560164,
+            "Probability": 0.76416,
             "Region": "BR"
         },
         {
-            "TeamName": "CHIEFS",
-            "Probability": 0.276279,
-            "Region": "OCE"
-        },
-        {
             "TeamName": "Bleed",
-            "Probability": 0.962257,
+            "Probability": 0.984409,
             "Region": "SEA"
         },
         {
-            "TeamName": "SSG",
-            "Probability": 0.604811,
-            "Region": "NA"
-        },
-        {
             "TeamName": "G2",
-            "Probability": 0.563928,
+            "Probability": 0.469373,
             "Region": "EU"
         },
         {
-            "TeamName": "SQ",
-            "Probability": 0.410503,
-            "Region": "NA"
-        },
-        {
             "TeamName": "PSG",
-            "Probability": 0.801296,
+            "Probability": 0.877369,
             "Region": "KOREA"
         },
         {
             "TeamName": "GG",
-            "Probability": 0.472295,
+            "Probability": 0.577179,
             "Region": "OCE"
         },
         {
+            "TeamName": "ELV",
+            "Probability": 0.375275,
+            "Region": "SEA"
+        },
+        {
+            "TeamName": "VP",
+            "Probability": 0.510168,
+            "Region": "EU"
+        },
+        {
             "TeamName": "BD",
-            "Probability": 0.146233,
+            "Probability": 0.142463,
             "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 23:58",
-    "MinPoints": 298.30409
+    "Date": "Nov 11, 2024, 03:10",
+    "MinPoints": 297.02798
 }

@@ -59,15 +59,15 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1733.2346664063343,
-            "LastGameUpdated": 17,
+            "Elo": 1743.2063804221636,
+            "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1651.6331683168003,
-            "LastGameUpdated": 42,
+            "Elo": 1669.7898491081323,
+            "LastGameUpdated": 22,
             "Region": "BR"
         },
         {
@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1528.7042521561143,
-            "LastGameUpdated": 18,
+            "Elo": 1510.5475713647822,
+            "LastGameUpdated": 22,
             "Region": "BR"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1514.9750375463013,
-            "LastGameUpdated": 14,
+            "Elo": 1505.003323530472,
+            "LastGameUpdated": 19,
             "Region": "EU"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 00:00"
+    "Date": "Nov 11, 2024, 03:27"
 }

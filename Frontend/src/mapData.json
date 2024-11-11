@@ -544,11 +544,11 @@
             "ID": 99,
             "TeamName": "BD",
             "MapName": "LABS",
-            "Elo": 1480.1671202854793,
+            "Elo": 1457.418113711871,
             "Region": "BR",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 22,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 770,
@@ -3034,11 +3034,11 @@
             "ID": 43,
             "TeamName": "FaZe",
             "MapName": "KAFE",
-            "Elo": 1490.0257301615557,
+            "Elo": 1512.5150184930694,
             "Region": "BR",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 19,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 86,
@@ -7174,11 +7174,11 @@
             "ID": 508,
             "TeamName": "VP",
             "MapName": "KAFE",
-            "Elo": 1489.8603250462857,
+            "Elo": 1467.371036714772,
             "Region": "EU",
-            "LastGameUpdated": 569,
+            "LastGameUpdated": 19,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 727,
@@ -7704,11 +7704,11 @@
             "ID": 102,
             "TeamName": "w7m",
             "MapName": "LABS",
-            "Elo": 1540.799384500001,
+            "Elo": 1563.5483910736093,
             "Region": "BR",
-            "LastGameUpdated": 25,
+            "LastGameUpdated": 22,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 721,
@@ -7761,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 00:00"
+    "Date": "Nov 11, 2024, 03:27"
 }
