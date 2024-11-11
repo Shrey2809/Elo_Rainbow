@@ -73,8 +73,8 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1654.315942656113,
-            "LastGameUpdated": 16,
+            "Elo": 1671.7729502017062,
+            "LastGameUpdated": 21,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1620.952805643101,
-            "LastGameUpdated": 43,
+            "Elo": 1592.122666444778,
+            "LastGameUpdated": 20,
             "Region": "EU"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1604.1346749855943,
-            "LastGameUpdated": 11,
+            "Elo": 1632.9648141839175,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1546.1208683091006,
-            "LastGameUpdated": 12,
+            "Elo": 1528.6638607635075,
+            "LastGameUpdated": 21,
             "Region": "OCE"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 10, 2024, 22:05"
+    "Date": "Nov 11, 2024, 00:00"
 }

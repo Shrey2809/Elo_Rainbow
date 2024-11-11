@@ -1234,11 +1234,11 @@
             "ID": 595,
             "TeamName": "CHIEFS",
             "MapName": "CHALET",
-            "Elo": 1437.3080956207555,
+            "Elo": 1423.5792338537392,
             "Region": "OCE",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 21,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 607,
@@ -2599,6 +2599,16 @@
             "LastGameUpdated": 634,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 778,
+            "TeamName": "FLCS",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1650.6275734206417,
+            "Region": "MENA",
+            "LastGameUpdated": 20,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 112,
@@ -4414,11 +4424,11 @@
             "ID": 91,
             "TeamName": "Liquid",
             "MapName": "CHALET",
-            "Elo": 1606.0787565262615,
+            "Elo": 1619.8076182932778,
             "Region": "BR",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 21,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 463,
@@ -6714,11 +6724,11 @@
             "ID": 140,
             "TeamName": "Secret",
             "MapName": "SKYSCRAPER",
-            "Elo": 1502.9313456987234,
+            "Elo": 1485.2685864619991,
             "Region": "EU",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 20,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 710,
@@ -7751,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 10, 2024, 22:05"
+    "Date": "Nov 11, 2024, 00:00"
 }
