@@ -59,22 +59,22 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1717.398524987739,
-            "LastGameUpdated": 43,
+            "Elo": 1743.2063804221636,
+            "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1651.6331683168003,
-            "LastGameUpdated": 42,
+            "Elo": 1669.7898491081323,
+            "LastGameUpdated": 22,
             "Region": "BR"
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1633.7422729917146,
-            "LastGameUpdated": 43,
+            "Elo": 1671.7729502017062,
+            "LastGameUpdated": 21,
             "Region": "BR"
         },
         {
@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1472.6025931925267,
-            "LastGameUpdated": 7,
+            "Elo": 1510.5475713647822,
+            "LastGameUpdated": 22,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1620.952805643101,
-            "LastGameUpdated": 43,
+            "Elo": 1592.122666444778,
+            "LastGameUpdated": 20,
             "Region": "EU"
         },
         {
@@ -164,15 +164,15 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1548.6198431351172,
-            "LastGameUpdated": 7,
+            "Elo": 1583.3500178588372,
+            "LastGameUpdated": 16,
             "Region": "EU"
         },
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1799.0085077757772,
-            "LastGameUpdated": 43,
+            "Elo": 1762.2130971236952,
+            "LastGameUpdated": 13,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1484.948786629946,
-            "LastGameUpdated": 42,
+            "Elo": 1505.003323530472,
+            "LastGameUpdated": 19,
             "Region": "EU"
         },
         {
@@ -220,8 +220,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1525.5244647028296,
-            "LastGameUpdated": 13,
+            "Elo": 1509.0341148811192,
+            "LastGameUpdated": 10,
             "Region": "JAPAN"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1586.7743628678654,
-            "LastGameUpdated": 35,
+            "Elo": 1559.9591834947619,
+            "LastGameUpdated": 12,
             "Region": "JAPAN"
         },
         {
@@ -262,8 +262,8 @@
         {
             "ID": 38,
             "TeamName": "ALPHA",
-            "Elo": 1463.2487618038906,
-            "LastGameUpdated": 70,
+            "Elo": 1388.4291823172912,
+            "LastGameUpdated": 8,
             "Region": "LATAM"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1469.0526159302246,
-            "LastGameUpdated": 27,
+            "Elo": 1632.9648141839175,
+            "LastGameUpdated": 20,
             "Region": "MENA"
         },
         {
@@ -416,15 +416,15 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1605.8170098877674,
-            "LastGameUpdated": 43,
+            "Elo": 1575.790758971412,
+            "LastGameUpdated": 14,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1677.7063769210433,
-            "LastGameUpdated": 43,
+            "Elo": 1645.3092743853067,
+            "LastGameUpdated": 11,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1611.3202800952938,
-            "LastGameUpdated": 42,
+            "Elo": 1595.4841386766984,
+            "LastGameUpdated": 17,
             "Region": "NORTH AMERICA"
         },
         {
@@ -535,15 +535,15 @@
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1561.0148605745037,
-            "LastGameUpdated": 13,
+            "Elo": 1499.430067389618,
+            "LastGameUpdated": 9,
             "Region": "KOREA"
         },
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1513.572923595812,
-            "LastGameUpdated": 35,
+            "Elo": 1487.8080148130737,
+            "LastGameUpdated": 18,
             "Region": "KOREA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1499.025956037707,
-            "LastGameUpdated": 35,
+            "Elo": 1528.6638607635075,
+            "LastGameUpdated": 21,
             "Region": "OCE"
         },
         {
@@ -731,7 +731,7 @@
         {
             "ID": 105,
             "TeamName": "CL4L",
-            "Elo": 1464.085626809602,
+            "Elo": 1408.3750653159066,
             "LastGameUpdated": 7,
             "Region": "NORTH AMERICA"
         },
@@ -741,7 +741,14 @@
             "Elo": 1374.8291584026626,
             "LastGameUpdated": 1,
             "Region": "BR"
+        },
+        {
+            "ID": 107,
+            "TeamName": "W7M",
+            "Elo": 1411.795410652082,
+            "LastGameUpdated": 13,
+            "Region": "BR"
         }
     ],
-    "Date": "Oct 21, 2024, 13:08"
+    "Date": "Nov 11, 2024, 01:50"
 }
