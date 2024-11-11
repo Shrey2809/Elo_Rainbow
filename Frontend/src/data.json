@@ -59,22 +59,22 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1762.2621150555806,
+            "Elo": 1777.1919551759413,
             "LastGameUpdated": 27,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1669.7898491081323,
-            "LastGameUpdated": 22,
+            "Elo": 1712.16981643225,
+            "LastGameUpdated": 28,
             "Region": "BR"
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1671.7729502017062,
-            "LastGameUpdated": 21,
+            "Elo": 1629.3929828775886,
+            "LastGameUpdated": 28,
             "Region": "BR"
         },
         {
@@ -367,7 +367,7 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1613.9090795505006,
+            "Elo": 1598.9792394301398,
             "LastGameUpdated": 27,
             "Region": "MENA"
         },
@@ -423,8 +423,8 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1614.6970486840962,
-            "LastGameUpdated": 25,
+            "Elo": 1645.646875158345,
+            "LastGameUpdated": 35,
             "Region": "NORTH AMERICA"
         },
         {
@@ -542,8 +542,8 @@
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1479.2654264792181,
-            "LastGameUpdated": 23,
+            "Elo": 1448.3156000049694,
+            "LastGameUpdated": 35,
             "Region": "KOREA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 21:54"
+    "Date": "Nov 11, 2024, 23:53"
 }

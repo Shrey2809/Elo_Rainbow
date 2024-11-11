@@ -1734,11 +1734,11 @@
             "ID": 459,
             "TeamName": "DK",
             "MapName": "CLUB",
-            "Elo": 1316.092335731102,
+            "Elo": 1305.0945266334459,
             "Region": "KOREA",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 423,
@@ -1774,11 +1774,11 @@
             "ID": 631,
             "TeamName": "DK",
             "MapName": "LAIR",
-            "Elo": 1480.7576191230662,
+            "Elo": 1464.5250353137383,
             "Region": "KOREA",
             "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 439,
@@ -1934,11 +1934,11 @@
             "ID": 313,
             "TeamName": "DZ",
             "MapName": "CLUB",
-            "Elo": 1536.005466475544,
+            "Elo": 1547.0032755732,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 35,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 345,
@@ -1969,6 +1969,16 @@
             "LastGameUpdated": 26,
             "MajorCount": 2,
             "RegionalCount": 3
+        },
+        {
+            "ID": 779,
+            "TeamName": "DZ",
+            "MapName": "LAIR",
+            "Elo": 1648.2218840742726,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 35,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 486,
@@ -2564,11 +2574,11 @@
             "ID": 296,
             "TeamName": "FLCS",
             "MapName": "KAFE",
-            "Elo": 1367.604950712013,
+            "Elo": 1352.4667410168884,
             "Region": "MENA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 274,
@@ -3034,11 +3044,11 @@
             "ID": 43,
             "TeamName": "FaZe",
             "MapName": "KAFE",
-            "Elo": 1512.5150184930694,
+            "Elo": 1527.6532281881941,
             "Region": "BR",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 27,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 86,
@@ -4464,21 +4474,21 @@
             "ID": 464,
             "TeamName": "Liquid",
             "MapName": "LABS",
-            "Elo": 1488.4789365622642,
+            "Elo": 1472.7342668056676,
             "Region": "BR",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 28,
             "MajorCount": 5,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 719,
             "TeamName": "Liquid",
             "MapName": "LAIR",
-            "Elo": 1657.4324724084759,
+            "Elo": 1628.3332039238696,
             "Region": "BR",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 28,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 71,
@@ -7704,21 +7714,21 @@
             "ID": 102,
             "TeamName": "w7m",
             "MapName": "LABS",
-            "Elo": 1563.5483910736093,
+            "Elo": 1579.2930608302058,
             "Region": "BR",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 28,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 721,
             "TeamName": "w7m",
             "MapName": "LAIR",
-            "Elo": 1599.9442383731657,
+            "Elo": 1629.043506857772,
             "Region": "BR",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 28,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 61,
@@ -7761,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 21:54"
+    "Date": "Nov 11, 2024, 23:53"
 }
