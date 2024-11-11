@@ -31,8 +31,8 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1544.7609839796282,
-            "LastGameUpdated": 25,
+            "Elo": 1515.9877856224282,
+            "LastGameUpdated": 32,
             "Region": "SEA"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1505.003323530472,
-            "LastGameUpdated": 19,
+            "Elo": 1534.4981000521607,
+            "LastGameUpdated": 33,
             "Region": "EU"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1616.710155440054,
-            "LastGameUpdated": 24,
+            "Elo": 1587.2153789183653,
+            "LastGameUpdated": 33,
             "Region": "NORTH AMERICA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1528.6638607635075,
-            "LastGameUpdated": 21,
+            "Elo": 1557.4370591207075,
+            "LastGameUpdated": 32,
             "Region": "OCE"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 19:25"
+    "Date": "Nov 11, 2024, 19:52"
 }

@@ -1214,11 +1214,11 @@
             "ID": 606,
             "TeamName": "CHIEFS",
             "MapName": "BANK",
-            "Elo": 1475.9124395447673,
+            "Elo": 1499.9135571592722,
             "Region": "OCE",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 597,
@@ -2244,11 +2244,11 @@
             "ID": 36,
             "TeamName": "ELV",
             "MapName": "BANK",
-            "Elo": 1431.4666110716917,
+            "Elo": 1407.4654934571868,
             "Region": "SEA",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 499,
@@ -6414,11 +6414,11 @@
             "ID": 321,
             "TeamName": "SSG",
             "MapName": "KAFE",
-            "Elo": 1518.4140627016657,
+            "Elo": 1492.6320842529897,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 33,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 557,
@@ -7174,11 +7174,11 @@
             "ID": 508,
             "TeamName": "VP",
             "MapName": "KAFE",
-            "Elo": 1467.371036714772,
+            "Elo": 1493.153015163448,
             "Region": "EU",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 727,
@@ -7761,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 19:25"
+    "Date": "Nov 11, 2024, 19:52"
 }
