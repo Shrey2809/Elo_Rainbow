@@ -524,11 +524,11 @@
             "ID": 98,
             "TeamName": "BD",
             "MapName": "CONS",
-            "Elo": 1435.6247585362737,
+            "Elo": 1428.704029847417,
             "Region": "BR",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 30,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 85,
@@ -624,11 +624,11 @@
             "ID": 487,
             "TeamName": "BDS",
             "MapName": "CONS",
-            "Elo": 1731.8394805455182,
+            "Elo": 1738.760209234375,
             "Region": "EU",
-            "LastGameUpdated": 40,
+            "LastGameUpdated": 30,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 114,
@@ -6584,11 +6584,11 @@
             "ID": 476,
             "TeamName": "SZ",
             "MapName": "BORDER",
-            "Elo": 1524.723627464115,
+            "Elo": 1503.812217090127,
             "Region": "JAPAN",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 31,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 176,
@@ -6664,11 +6664,11 @@
             "ID": 155,
             "TeamName": "Secret",
             "MapName": "BORDER",
-            "Elo": 1508.8798340821033,
+            "Elo": 1529.7912444560914,
             "Region": "EU",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 31,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 478,
@@ -7761,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 05:15"
+    "Date": "Nov 11, 2024, 18:07"
 }

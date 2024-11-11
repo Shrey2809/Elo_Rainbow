@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1510.5475713647822,
-            "LastGameUpdated": 22,
+            "Elo": 1502.3241732933311,
+            "LastGameUpdated": 30,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1592.122666444778,
-            "LastGameUpdated": 20,
+            "Elo": 1611.8070706593041,
+            "LastGameUpdated": 31,
             "Region": "EU"
         },
         {
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1770.7556854575507,
-            "LastGameUpdated": 23,
+            "Elo": 1778.9790835290019,
+            "LastGameUpdated": 30,
             "Region": "EU"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1586.6397510036506,
-            "LastGameUpdated": 26,
+            "Elo": 1566.9553467891244,
+            "LastGameUpdated": 31,
             "Region": "JAPAN"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 05:15"
+    "Date": "Nov 11, 2024, 18:07"
 }
