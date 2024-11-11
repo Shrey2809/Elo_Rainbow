@@ -59,8 +59,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1743.2063804221636,
-            "LastGameUpdated": 19,
+            "Elo": 1762.2621150555806,
+            "LastGameUpdated": 27,
             "Region": "BR"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1556.6694503499484,
-            "LastGameUpdated": 26,
+            "Elo": 1521.4574286488123,
+            "LastGameUpdated": 34,
             "Region": "EU"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1632.9648141839175,
-            "LastGameUpdated": 20,
+            "Elo": 1613.9090795505006,
+            "LastGameUpdated": 27,
             "Region": "MENA"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1554.5647422080565,
-            "LastGameUpdated": 24,
+            "Elo": 1589.7767639091926,
+            "LastGameUpdated": 34,
             "Region": "NORTH AMERICA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 19:52"
+    "Date": "Nov 11, 2024, 20:13"
 }

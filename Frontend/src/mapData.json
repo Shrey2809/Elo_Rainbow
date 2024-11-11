@@ -2554,11 +2554,11 @@
             "ID": 304,
             "TeamName": "FLCS",
             "MapName": "CLUB",
-            "Elo": 1335.6471999915343,
+            "Elo": 1325.127820980503,
             "Region": "MENA",
-            "LastGameUpdated": 288,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 296,
@@ -3014,11 +3014,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1586.1194955200986,
+            "Elo": 1596.6388745311299,
             "Region": "BR",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 105,
@@ -3204,11 +3204,11 @@
             "ID": 131,
             "TeamName": "G2",
             "MapName": "CLUB",
-            "Elo": 1463.796457220338,
+            "Elo": 1436.171109229643,
             "Region": "EU",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 34,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 136,
@@ -6294,11 +6294,11 @@
             "ID": 312,
             "TeamName": "SQ",
             "MapName": "CLUB",
-            "Elo": 1538.1158121213982,
+            "Elo": 1565.7411601120932,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 327,
@@ -7761,5 +7761,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 11, 2024, 19:52"
+    "Date": "Nov 11, 2024, 20:13"
 }
