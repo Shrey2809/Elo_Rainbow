@@ -31,8 +31,8 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1514.1487582784177,
-            "LastGameUpdated": 35,
+            "Elo": 1544.7609839796282,
+            "LastGameUpdated": 25,
             "Region": "SEA"
         },
         {
@@ -164,15 +164,15 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1583.3500178588372,
-            "LastGameUpdated": 16,
+            "Elo": 1556.6694503499484,
+            "LastGameUpdated": 26,
             "Region": "EU"
         },
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1762.2130971236952,
-            "LastGameUpdated": 13,
+            "Elo": 1770.7556854575507,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1559.9591834947619,
-            "LastGameUpdated": 12,
+            "Elo": 1586.6397510036506,
+            "LastGameUpdated": 26,
             "Region": "JAPAN"
         },
         {
@@ -416,15 +416,15 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1575.790758971412,
-            "LastGameUpdated": 14,
+            "Elo": 1554.5647422080565,
+            "LastGameUpdated": 24,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1645.3092743853067,
-            "LastGameUpdated": 11,
+            "Elo": 1614.6970486840962,
+            "LastGameUpdated": 25,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1595.4841386766984,
-            "LastGameUpdated": 17,
+            "Elo": 1616.710155440054,
+            "LastGameUpdated": 24,
             "Region": "NORTH AMERICA"
         },
         {
@@ -542,8 +542,8 @@
         {
             "ID": 78,
             "TeamName": "DK",
-            "Elo": 1487.8080148130737,
-            "LastGameUpdated": 18,
+            "Elo": 1479.2654264792181,
+            "LastGameUpdated": 23,
             "Region": "KOREA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 11, 2024, 03:37"
+    "Date": "Nov 11, 2024, 03:51"
 }
