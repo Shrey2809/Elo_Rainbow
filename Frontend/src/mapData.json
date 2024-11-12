@@ -2274,11 +2274,11 @@
             "ID": 23,
             "TeamName": "ELV",
             "MapName": "CHALET",
-            "Elo": 1478.8064415680108,
+            "Elo": 1446.5678076813351,
             "Region": "SEA",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 496,
@@ -6294,11 +6294,11 @@
             "ID": 342,
             "TeamName": "SQ",
             "MapName": "CHALET",
-            "Elo": 1481.6005906861817,
+            "Elo": 1513.8392245728573,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 312,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 12, 2024, 20:11"
+    "Date": "Nov 12, 2024, 20:59"
 }

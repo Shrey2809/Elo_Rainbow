@@ -31,7 +31,7 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1499.6690484638905,
+            "Elo": 1478.8412411858476,
             "LastGameUpdated": 38,
             "Region": "SEA"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1630.2712116094579,
+            "Elo": 1651.0990188875007,
             "LastGameUpdated": 38,
             "Region": "NORTH AMERICA"
         },
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 20:11"
+    "Date": "Nov 12, 2024, 20:59"
 }
