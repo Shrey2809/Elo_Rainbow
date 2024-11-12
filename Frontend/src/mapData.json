@@ -594,11 +594,11 @@
             "ID": 124,
             "TeamName": "BDS",
             "MapName": "BORDER",
-            "Elo": 1464.8602939527177,
+            "Elo": 1486.7402981223843,
             "Region": "EU",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 39,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 119,
@@ -2314,11 +2314,11 @@
             "ID": 39,
             "TeamName": "ELV",
             "MapName": "LABS",
-            "Elo": 1366.0958393490293,
+            "Elo": 1351.6997694454355,
             "Region": "SEA",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 5,
@@ -6334,11 +6334,11 @@
             "ID": 336,
             "TeamName": "SQ",
             "MapName": "LABS",
-            "Elo": 1497.1091411477828,
+            "Elo": 1511.5052110513766,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 578,
@@ -7144,11 +7144,11 @@
             "ID": 135,
             "TeamName": "VP",
             "MapName": "BORDER",
-            "Elo": 1497.6160167612247,
+            "Elo": 1475.7360125915582,
             "Region": "EU",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 146,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 12, 2024, 19:30"
+    "Date": "Nov 12, 2024, 20:11"
 }

@@ -31,8 +31,8 @@
         {
             "ID": 5,
             "TeamName": "ELV",
-            "Elo": 1515.9877856224282,
-            "LastGameUpdated": 32,
+            "Elo": 1499.6690484638905,
+            "LastGameUpdated": 38,
             "Region": "SEA"
         },
         {
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1778.9790835290019,
-            "LastGameUpdated": 30,
+            "Elo": 1786.845205586811,
+            "LastGameUpdated": 39,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1534.4981000521607,
-            "LastGameUpdated": 33,
+            "Elo": 1526.6319779943515,
+            "LastGameUpdated": 39,
             "Region": "EU"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1613.9524744509201,
-            "LastGameUpdated": 34,
+            "Elo": 1630.2712116094579,
+            "LastGameUpdated": 38,
             "Region": "NORTH AMERICA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 19:30"
+    "Date": "Nov 12, 2024, 20:11"
 }
