@@ -604,11 +604,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1628.8887064458522,
+            "Elo": 1640.953621764405,
             "Region": "EU",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 39,
             "MajorCount": 2,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 145,
@@ -7154,11 +7154,11 @@
             "ID": 146,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1483.0384207730788,
+            "Elo": 1470.973505454526,
             "Region": "EU",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 123,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 12, 2024, 21:23"
+    "Date": "Nov 12, 2024, 22:12"
 }

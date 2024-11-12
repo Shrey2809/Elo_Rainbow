@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1786.845205586811,
+            "Elo": 1794.154716917354,
             "LastGameUpdated": 39,
             "Region": "EU"
         },
@@ -185,7 +185,7 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1526.6319779943515,
+            "Elo": 1519.3224666638084,
             "LastGameUpdated": 39,
             "Region": "EU"
         },
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 21:23"
+    "Date": "Nov 12, 2024, 22:12"
 }
