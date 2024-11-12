@@ -13,9 +13,9 @@ const Pickems = () => {
     const [twitterHandle, setTwitterHandle] = useState<string>('');
     const [points, setPoints] = useState(0);
 
-    const finished3_0 = ["Team 1", "Team 2"].sort((a,b) => a.localeCompare(b));;
-    const finished0_3 = ["Team 15", "Team 16"].sort((a,b) => a.localeCompare(b));;
-    const finishedtop8 = ["Team 1", "Team 2", "Team 3", "Team 4", "Team 5", "Team 6", "Team 7", "Team 8"].sort((a,b) => a.localeCompare(b));
+    const finished3_0 = ["FaZe", "w7m"].sort((a,b) => a.localeCompare(b));;
+    const finished0_3 = ["G2", "DK"].sort((a,b) => a.localeCompare(b));;
+    const finishedtop8 = ["FaZe", "w7m", "FLCS", "BDS", "Team 5", "Team 6", "Team 7", "Team 8"].sort((a,b) => a.localeCompare(b));
 
     const swissPhaseStarted = true;
     const swissPhaseOver = false;
