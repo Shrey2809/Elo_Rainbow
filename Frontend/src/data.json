@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1502.3241732933311,
-            "LastGameUpdated": 30,
+            "Elo": 1536.9291163226562,
+            "LastGameUpdated": 36,
             "Region": "BR"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1566.9553467891244,
-            "LastGameUpdated": 31,
+            "Elo": 1532.3504037597993,
+            "LastGameUpdated": 36,
             "Region": "JAPAN"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1598.9792394301398,
-            "LastGameUpdated": 27,
+            "Elo": 1640.005416726232,
+            "LastGameUpdated": 37,
             "Region": "MENA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1557.4370591207075,
-            "LastGameUpdated": 32,
+            "Elo": 1516.4108818246154,
+            "LastGameUpdated": 37,
             "Region": "OCE"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 03:38"
+    "Date": "Nov 12, 2024, 19:30"
 }
