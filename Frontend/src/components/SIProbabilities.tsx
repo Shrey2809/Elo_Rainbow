@@ -104,7 +104,7 @@ export default function SIProbabilites() {
         
         <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
         {/* Table body with team data */}
-        <h2 className="text-white text-2xl text-center font-bold my-4">Teams At Montreal</h2>
+        {/* <h2 className="text-white text-2xl text-center font-bold my-4">Teams At Montreal</h2>
         <h2 className="text-white text-xl pb-4 text-center font-bold">(Finish for 300+ Points Below Teams)</h2>
         <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
           {notQualifiedTeams.map((data) => {
@@ -140,9 +140,9 @@ export default function SIProbabilites() {
           })}
         </div>
 
-        <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" />
+        <hr className="border-myThirdColor border-2 w-11/12 mx-auto my-4" /> */}
         {/* Table body with team data */}
-        <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Teams Missing Montreal</h2>
+        {/* <h2 className="text-white text-2xl pb-4 text-center font-bold my-4">Teams Missing Montreal</h2>
         <div className="flex flex-row flex-wrap gap-8 w-full h-full items-center justify-center" >
           {teamsNotAtMajor.map((data) => {
             return (
@@ -166,7 +166,7 @@ export default function SIProbabilites() {
               </React.Fragment>
             );
           })}
-        </div>
+        </div> */}
         
         {/* Footer */}
         <div className="text-white text-xl p-4 text-center mt-4">
