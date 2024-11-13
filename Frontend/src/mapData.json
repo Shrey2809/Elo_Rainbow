@@ -1214,11 +1214,11 @@
             "ID": 606,
             "TeamName": "CHIEFS",
             "MapName": "BANK",
-            "Elo": 1499.9135571592722,
+            "Elo": 1468.358555432493,
             "Region": "OCE",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 597,
@@ -1244,11 +1244,11 @@
             "ID": 607,
             "TeamName": "CHIEFS",
             "MapName": "CLUB",
-            "Elo": 1496.0548641774076,
+            "Elo": 1461.6331875066996,
             "Region": "OCE",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 776,
@@ -7134,11 +7134,11 @@
             "ID": 150,
             "TeamName": "VP",
             "MapName": "BANK",
-            "Elo": 1534.2222121419602,
+            "Elo": 1565.7772138687394,
             "Region": "EU",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 135,
@@ -7164,11 +7164,11 @@
             "ID": 123,
             "TeamName": "VP",
             "MapName": "CLUB",
-            "Elo": 1444.4708849773233,
+            "Elo": 1478.8925616480312,
             "Region": "EU",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 568,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 13, 2024, 03:03"
+    "Date": "Nov 13, 2024, 18:03"
 }

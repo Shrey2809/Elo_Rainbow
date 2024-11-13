@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1519.3224666638084,
-            "LastGameUpdated": 39,
+            "Elo": 1577.8508803001714,
+            "LastGameUpdated": 43,
             "Region": "EU"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1516.4108818246154,
-            "LastGameUpdated": 37,
+            "Elo": 1457.8824681882525,
+            "LastGameUpdated": 43,
             "Region": "OCE"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 13, 2024, 03:03"
+    "Date": "Nov 13, 2024, 18:03"
 }
