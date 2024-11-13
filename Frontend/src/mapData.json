@@ -1924,11 +1924,11 @@
             "ID": 337,
             "TeamName": "DZ",
             "MapName": "CHALET",
-            "Elo": 1520.8700190421177,
+            "Elo": 1496.3722140664981,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 313,
@@ -1944,21 +1944,21 @@
             "ID": 345,
             "TeamName": "DZ",
             "MapName": "CONS",
-            "Elo": 1544.5189359240524,
+            "Elo": 1562.74856818983,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 320,
             "TeamName": "DZ",
             "MapName": "KAFE",
-            "Elo": 1545.7699189028724,
+            "Elo": 1519.8552849053176,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 25,
+            "LastGameUpdated": 40,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 354,
@@ -4414,21 +4414,21 @@
             "ID": 83,
             "TeamName": "Liquid",
             "MapName": "BANK",
-            "Elo": 1465.614612834484,
+            "Elo": 1442.3193781541036,
             "Region": "BR",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 41,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 58,
             "TeamName": "Liquid",
             "MapName": "BORDER",
-            "Elo": 1472.8562237890997,
+            "Elo": 1445.63490208203,
             "Region": "BR",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 41,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 91,
@@ -4444,11 +4444,11 @@
             "ID": 463,
             "TeamName": "Liquid",
             "MapName": "CLUB",
-            "Elo": 1585.510304298054,
+            "Elo": 1604.817499191584,
             "Region": "BR",
-            "LastGameUpdated": 45,
+            "LastGameUpdated": 41,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 471,
@@ -6394,11 +6394,11 @@
             "ID": 479,
             "TeamName": "SSG",
             "MapName": "CHALET",
-            "Elo": 1489.9392940105768,
+            "Elo": 1514.4370989861964,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 40,
             "MajorCount": 3,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 315,
@@ -6414,21 +6414,21 @@
             "ID": 326,
             "TeamName": "SSG",
             "MapName": "CONS",
-            "Elo": 1477.7683643426099,
+            "Elo": 1459.5387320768323,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 321,
             "TeamName": "SSG",
             "MapName": "KAFE",
-            "Elo": 1492.6320842529897,
+            "Elo": 1518.5467182505445,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 557,
@@ -6664,21 +6664,21 @@
             "ID": 129,
             "TeamName": "Secret",
             "MapName": "BANK",
-            "Elo": 1544.5967575094846,
+            "Elo": 1567.891992189865,
             "Region": "EU",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 41,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 155,
             "TeamName": "Secret",
             "MapName": "BORDER",
-            "Elo": 1529.7912444560914,
+            "Elo": 1557.012566163161,
             "Region": "EU",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 41,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 478,
@@ -6694,11 +6694,11 @@
             "ID": 109,
             "TeamName": "Secret",
             "MapName": "CLUB",
-            "Elo": 1535.8733674870375,
+            "Elo": 1516.5661725935076,
             "Region": "EU",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 137,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 12, 2024, 23:39"
+    "Date": "Nov 13, 2024, 02:03"
 }

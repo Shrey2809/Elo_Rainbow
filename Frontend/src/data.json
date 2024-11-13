@@ -73,8 +73,8 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1629.3929828775886,
-            "LastGameUpdated": 28,
+            "Elo": 1584.0381161770943,
+            "LastGameUpdated": 41,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1611.8070706593041,
-            "LastGameUpdated": 31,
+            "Elo": 1657.1619373597987,
+            "LastGameUpdated": 41,
             "Region": "EU"
         },
         {
@@ -423,8 +423,8 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1645.646875158345,
-            "LastGameUpdated": 35,
+            "Elo": 1610.8353695704202,
+            "LastGameUpdated": 40,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1587.2153789183653,
-            "LastGameUpdated": 33,
+            "Elo": 1622.0268845062901,
+            "LastGameUpdated": 40,
             "Region": "NORTH AMERICA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 23:39"
+    "Date": "Nov 13, 2024, 02:03"
 }

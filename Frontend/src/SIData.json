@@ -1,7 +1,7 @@
 {
     "Teams": [
         {
-            "TeamName": "Liquid",
+            "TeamName": "FaZe",
             "Probability": 1.0,
             "Region": "BR"
         },
@@ -11,7 +11,7 @@
             "Region": "EU"
         },
         {
-            "TeamName": "FaZe",
+            "TeamName": "Liquid",
             "Probability": 1.0,
             "Region": "BR"
         },
@@ -31,14 +31,19 @@
             "Region": "NA"
         },
         {
+            "TeamName": "VP",
+            "Probability": 0.498656,
+            "Region": "EU"
+        },
+        {
+            "TeamName": "SSG",
+            "Probability": 1.0,
+            "Region": "NA"
+        },
+        {
             "TeamName": "w7m",
             "Probability": 1.0,
             "Region": "BR"
-        },
-        {
-            "TeamName": "VP",
-            "Probability": 0.500468,
-            "Region": "EU"
         },
         {
             "TeamName": "M80",
@@ -61,46 +66,41 @@
             "Region": "JAPAN"
         },
         {
-            "TeamName": "SSG",
-            "Probability": 0.780852,
-            "Region": "NA"
-        },
-        {
             "TeamName": "Bleed",
             "Probability": 1.0,
             "Region": "SEA"
         },
         {
             "TeamName": "PSG",
-            "Probability": 0.969666,
+            "Probability": 0.953237,
             "Region": "KOREA"
         },
         {
             "TeamName": "GG",
-            "Probability": 0.734268,
+            "Probability": 0.563107,
             "Region": "OCE"
         },
         {
             "TeamName": "SQ",
-            "Probability": 0.500364,
+            "Probability": 0.499689,
             "Region": "NA"
         },
         {
             "TeamName": "CHIEFS",
-            "Probability": 0.249508,
+            "Probability": 0.250646,
             "Region": "OCE"
         },
         {
-            "TeamName": "BD",
-            "Probability": 0.158058,
-            "Region": "BR"
+            "TeamName": "CAG",
+            "Probability": 0.094203,
+            "Region": "JAPAN"
         },
         {
-            "TeamName": "CAG",
-            "Probability": 0.106816,
-            "Region": "JAPAN"
+            "TeamName": "BD",
+            "Probability": 0.140462,
+            "Region": "BR"
         }
     ],
-    "Date": "Nov 12, 2024, 23:18",
-    "MinPoints": 294.16215
+    "Date": "Nov 13, 2024, 02:02",
+    "MinPoints": 297.80238
 }
