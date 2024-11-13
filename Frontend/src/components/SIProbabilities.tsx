@@ -123,7 +123,7 @@ export default function SIProbabilites() {
                     />
                   </div>
                     <div className="text-lg font-bold">
-                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(0)}%
                     </div>
                   <div className="font-semibold">
                     {data.rank < (bleedRank ?? Infinity) ? (
@@ -160,7 +160,7 @@ export default function SIProbabilites() {
                     />
                   </div>
                     <div className="text-lg font-bold">
-                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(2)}%
+                      {(Math.floor(data.percentage * 100 * 100) / 100).toFixed(0)}%
                     </div>
                 </div>
               </React.Fragment>
