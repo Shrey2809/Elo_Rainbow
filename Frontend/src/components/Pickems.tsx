@@ -546,8 +546,8 @@ const Pickems = () => {
                                 e.currentTarget.src = "/team_logos/no_org.png";
                             }}
                         />
-                        <span>{finished3_0[0]|| "No team selected"}</span>
                     </div>
+                    <hr className="w-full border-t-4 border-myThirdColor" />
                     <div className={`flex flex-col items-center gap-2 p-6 rounded-b-xl w-32 ${team3_0 === finished3_0[1] ? 'bg-mySecondaryColor' : 'bg-myDarkColor'}`}>
                         <img
                             src={`/team_logos/${finished3_0[1].toLowerCase()}.png`}
@@ -560,7 +560,6 @@ const Pickems = () => {
                                 e.currentTarget.src = "/team_logos/no_org.png";
                             }}
                         />
-                        {finished3_0[1]}
                     </div>
                 </div>
 
@@ -579,8 +578,8 @@ const Pickems = () => {
                                 e.currentTarget.src = "/team_logos/no_org.png";
                             }}
                         />
-                        <span>{finished0_3[0]|| "No team selected"}</span>
                     </div>
+                    <hr className="w-full border-t-4 border-myThirdColor" />
                     <div className={`flex flex-col items-center gap-2 p-6 rounded-b-xl w-32 ${team0_3 === finished0_3[1] ? 'bg-mySecondaryColor' : 'bg-myDarkColor'}`}>
                         <img
                             src={`/team_logos/${finished0_3[1].toLowerCase()}.png`}
@@ -593,7 +592,6 @@ const Pickems = () => {
                                 e.currentTarget.src = "/team_logos/no_org.png";
                             }}
                         />
-                        {finished0_3[1]}
                     </div>
                 </div>      
             </div>
@@ -616,7 +614,6 @@ const Pickems = () => {
                                         e.currentTarget.src = "/team_logos/no_org.png";
                                     }}
                                 />
-                                {team}
                             </div>
                         ))}
                 </div>
@@ -646,7 +643,6 @@ const Pickems = () => {
                                                     e.currentTarget.src = "/team_logos/no_org.png";
                                                 }}
                                             />
-                                            <span>{team3_0 || "No team picked"}</span>
                                         </div>
                                         <div className={`flex flex-col items-center gap-2 p-6 rounded-xl w-32 ${team0_3 in finished0_3 ? 'bg-myDarkColor' : 'bg-myFourthColor text-black'}`}>
                                             <span>0-3 Team</span>
@@ -661,7 +657,6 @@ const Pickems = () => {
                                                     e.currentTarget.src = "/team_logos/no_org.png";
                                                 }}
                                             />
-                                            <span>{team0_3 || "No team picked"}</span>
                                         </div>
                                     </div>
                                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -680,7 +675,6 @@ const Pickems = () => {
                                                             e.currentTarget.src = "/team_logos/no_org.png";
                                                         }}
                                                     />
-                                                    {team}
                                                 </div>
                                             ))}
                                     </div>
