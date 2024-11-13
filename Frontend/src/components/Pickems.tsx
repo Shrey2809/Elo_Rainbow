@@ -57,9 +57,9 @@ const Pickems = () => {
         const mockBracketData = {
             Games: [
                 { Game: 'QF1', team1: finishedtop8[0], team2: finishedtop8[7] },
-                { Game: 'QF2', team1: finishedtop8[1], team2: finishedtop8[6]},
-                { Game: 'QF3', team1: finishedtop8[2], team2: finishedtop8[5] },
                 { Game: 'QF4', team1: finishedtop8[3], team2: finishedtop8[4] },
+                { Game: 'QF2', team1: finishedtop8[1], team2: finishedtop8[6] },
+                { Game: 'QF3', team1: finishedtop8[2], team2: finishedtop8[5] },
             ],
         };
         
