@@ -4444,11 +4444,11 @@
             "ID": 463,
             "TeamName": "Liquid",
             "MapName": "CLUB",
-            "Elo": 1604.817499191584,
+            "Elo": 1577.0175268673293,
             "Region": "BR",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 44,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 471,
@@ -4464,11 +4464,11 @@
             "ID": 484,
             "TeamName": "Liquid",
             "MapName": "KAFE",
-            "Elo": 1579.5312394529485,
+            "Elo": 1546.1145352449153,
             "Region": "BR",
-            "LastGameUpdated": 658,
+            "LastGameUpdated": 44,
             "MajorCount": 3,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 464,
@@ -6304,11 +6304,11 @@
             "ID": 312,
             "TeamName": "SQ",
             "MapName": "CLUB",
-            "Elo": 1565.7411601120932,
+            "Elo": 1593.5411324363479,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 44,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 327,
@@ -6324,11 +6324,11 @@
             "ID": 551,
             "TeamName": "SQ",
             "MapName": "KAFE",
-            "Elo": 1539.789323140712,
+            "Elo": 1573.2060273487455,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 44,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 336,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 13, 2024, 20:16"
+    "Date": "Nov 13, 2024, 22:11"
 }
