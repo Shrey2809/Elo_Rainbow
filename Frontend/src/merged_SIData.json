@@ -140,15 +140,15 @@
             "TeamName": "CHIEFS",
             "Probability": 0.250646,
             "Region": "OCE",
-            "FinishRequired": "2nd",
-            "PointsAtFinish": 360,
+            "FinishRequired": "3rd-4th",
+            "PointsAtFinish": 300,
             "CurrentPoints": 100
         },
         {
             "TeamName": "CAG",
             "Probability": 0.094203,
             "Region": "JAPAN",
-            "FinishRequired": "12th-14th",
+            "FinishRequired": "Eliminated",
             "PointsAtFinish": 310,
             "CurrentPoints": 245
         },
