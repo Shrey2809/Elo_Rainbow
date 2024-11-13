@@ -494,11 +494,11 @@
             "ID": 57,
             "TeamName": "BD",
             "MapName": "BORDER",
-            "Elo": 1504.067928649572,
+            "Elo": 1483.2997732483432,
             "Region": "BR",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 504,
@@ -574,11 +574,11 @@
             "ID": 65,
             "TeamName": "BD",
             "MapName": "SKYSCRAPER",
-            "Elo": 1506.7444687008933,
+            "Elo": 1480.8001436677234,
             "Region": "BR",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 483,
@@ -6384,11 +6384,11 @@
             "ID": 358,
             "TeamName": "SSG",
             "MapName": "BORDER",
-            "Elo": 1530.8633487879013,
+            "Elo": 1551.63150418913,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 42,
             "MajorCount": 4,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 479,
@@ -6464,11 +6464,11 @@
             "ID": 360,
             "TeamName": "SSG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1493.6145368963073,
+            "Elo": 1519.5588619294772,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 649,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 751,
@@ -7771,5 +7771,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 13, 2024, 18:04"
+    "Date": "Nov 13, 2024, 20:13"
 }

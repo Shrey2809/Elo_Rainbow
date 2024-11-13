@@ -87,8 +87,8 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1536.9291163226562,
-            "LastGameUpdated": 36,
+            "Elo": 1503.0940079862817,
+            "LastGameUpdated": 42,
             "Region": "BR"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1622.0268845062901,
-            "LastGameUpdated": 40,
+            "Elo": 1655.8619928426647,
+            "LastGameUpdated": 42,
             "Region": "NORTH AMERICA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 13, 2024, 18:04"
+    "Date": "Nov 13, 2024, 20:13"
 }

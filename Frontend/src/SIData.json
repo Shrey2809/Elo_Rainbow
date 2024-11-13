@@ -1,17 +1,12 @@
 {
     "Teams": [
         {
-            "TeamName": "BDS",
+            "TeamName": "Secret",
             "Probability": 1.0,
             "Region": "EU"
         },
         {
-            "TeamName": "Liquid",
-            "Probability": 1.0,
-            "Region": "BR"
-        },
-        {
-            "TeamName": "Secret",
+            "TeamName": "BDS",
             "Probability": 1.0,
             "Region": "EU"
         },
@@ -21,7 +16,27 @@
             "Region": "BR"
         },
         {
+            "TeamName": "Liquid",
+            "Probability": 1.0,
+            "Region": "BR"
+        },
+        {
             "TeamName": "C9BC",
+            "Probability": 1.0,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "DZ",
+            "Probability": 1.0,
+            "Region": "NA"
+        },
+        {
+            "TeamName": "FLCS",
+            "Probability": 1.0,
+            "Region": "MENA"
+        },
+        {
+            "TeamName": "SSG",
             "Probability": 1.0,
             "Region": "NA"
         },
@@ -31,24 +46,9 @@
             "Region": "BR"
         },
         {
-            "TeamName": "DZ",
-            "Probability": 1.0,
-            "Region": "NA"
-        },
-        {
-            "TeamName": "VP",
-            "Probability": 1.0,
-            "Region": "EU"
-        },
-        {
             "TeamName": "M80",
             "Probability": 1.0,
             "Region": "NA"
-        },
-        {
-            "TeamName": "FLCS",
-            "Probability": 1.0,
-            "Region": "MENA"
         },
         {
             "TeamName": "FURIA",
@@ -61,9 +61,9 @@
             "Region": "JAPAN"
         },
         {
-            "TeamName": "SSG",
+            "TeamName": "VP",
             "Probability": 1.0,
-            "Region": "NA"
+            "Region": "EU"
         },
         {
             "TeamName": "Bleed",
@@ -72,25 +72,20 @@
         },
         {
             "TeamName": "PSG",
-            "Probability": 0.937138,
+            "Probability": 1.0,
             "Region": "KOREA"
         },
         {
             "TeamName": "GG",
-            "Probability": 0.43841,
+            "Probability": 0.499932,
             "Region": "OCE"
         },
         {
-            "TeamName": "BD",
-            "Probability": 0.125398,
-            "Region": "BR"
-        },
-        {
             "TeamName": "SQ",
-            "Probability": 0.499054,
+            "Probability": 0.500068,
             "Region": "NA"
         }
     ],
-    "Date": "Nov 13, 2024, 18:02",
+    "Date": "Nov 13, 2024, 20:08",
     "MinPoints": 300.0
 }

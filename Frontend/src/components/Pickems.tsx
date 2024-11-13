@@ -15,7 +15,7 @@ const Pickems = () => {
 
     const finished3_0 = ["FaZe", "w7m"].sort((a,b) => a.localeCompare(b));;
     const finished0_3 = ["G2", "DK"].sort((a,b) => a.localeCompare(b));;
-    const finishedtop8 = ["FaZe", "w7m", "FLCS", "BDS", "Secret", "VP", "Team 7", "Team 8"]; //.sort((a,b) => a.localeCompare(b));
+    const finishedtop8 = ["FaZe", "w7m", "FLCS", "BDS", "Secret", "VP", "SSG", "Team 8"]; //.sort((a,b) => a.localeCompare(b));
 
     const swissPhaseStarted = true;
     const swissPhaseOver = false;
