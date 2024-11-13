@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import mergedData from "../merged_SIData.json"; // Import merged data
 
 type TeamJSON = {
@@ -38,11 +38,11 @@ const transformData = (data: TeamsData): EloData[] => {
 };
 
 const transformedData = transformData(mergedData); // Apply transformation to merged data
-const bleedRank = transformedData.find((team) => team.team === "Bleed")?.rank;
+// const bleedRank = transformedData.find((team) => team.team === "Bleed")?.rank;
 
 const qualifiedTeams = transformedData.filter((team) => team.percentage === 1);
-const notQualifiedTeams = transformedData.filter((team) => team.percentage !== 1 && team.finishRequired !== 'none');
-const teamsNotAtMajor = transformedData.filter((team) => team.finishRequired === 'none' && team.percentage !== 1);
+// const notQualifiedTeams = transformedData.filter((team) => team.percentage !== 1 && team.finishRequired !== 'none');
+// const teamsNotAtMajor = transformedData.filter((team) => team.finishRequired === 'none' && team.percentage !== 1);
 
 // Your timestamp from JSON
 let timestamp = mergedData.Date; 
