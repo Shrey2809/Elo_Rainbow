@@ -59,15 +59,15 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1777.1919551759413,
-            "LastGameUpdated": 27,
+            "Elo": 1766.7766913965675,
+            "LastGameUpdated": 49,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1712.16981643225,
-            "LastGameUpdated": 28,
+            "Elo": 1819.8873720243862,
+            "LastGameUpdated": 51,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1657.1619373597987,
-            "LastGameUpdated": 41,
+            "Elo": 1658.8904352219888,
+            "LastGameUpdated": 46,
             "Region": "EU"
         },
         {
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1794.154716917354,
-            "LastGameUpdated": 39,
+            "Elo": 1777.3665261679878,
+            "LastGameUpdated": 51,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1577.8508803001714,
-            "LastGameUpdated": 43,
+            "Elo": 1622.025524302477,
+            "LastGameUpdated": 50,
             "Region": "EU"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1640.005416726232,
-            "LastGameUpdated": 37,
+            "Elo": 1592.989610130985,
+            "LastGameUpdated": 48,
             "Region": "MENA"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SQ",
-            "Elo": 1692.3334273561,
-            "LastGameUpdated": 44,
+            "Elo": 1650.2083576797895,
+            "LastGameUpdated": 45,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1655.8619928426647,
-            "LastGameUpdated": 42,
+            "Elo": 1618.5856261863303,
+            "LastGameUpdated": 47,
             "Region": "NORTH AMERICA"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Nov 13, 2024, 22:21"
+    "Date": "Nov 19, 2024, 15:57"
 }

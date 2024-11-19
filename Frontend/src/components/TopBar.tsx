@@ -57,25 +57,25 @@ const TopBar = () => {
             <DropdownMenuTrigger className="w-fit bg-myDarkColor rounded px-4 py-4 text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center font-sans font-semibold flex items-center justify-center drop-shadow-xl">
               <span>
                 {currentTab === "elo" ? "Elo Rankings" :
-                currentTab === "map-elo" ? "Map Elo Rankings" :
-                currentTab === "si-probabilities" ? "SI Probabilities" :
-                currentTab === "si-picker" ? "SI Picker" : "Pickems"}
+                currentTab === "map-elo" ? "Map Elo Rankings" : "SI Teams"}
+                {/* currentTab === "si-probabilities" ? "SI Probabilities" :
+                currentTab === "si-picker" ? "SI Picker" :  */}
               </span>
               <img src={`/dropdown.png`} className="w-[7%] h-auto ml-2" /> {/* Add margin to the right for spacing */}
 
             </DropdownMenuTrigger>
 
             <DropdownMenuContent className="w-full bg-myDarkColor text-myThirdColor text-3xl font-sans md:text-xl lg:text-2xl text-center p-2 font-semibold rounded-xl drop-shadow-lg">
-              {["elo", "map-elo", "si-probabilities", "si-picker", "pickems"].map((tab) => (
+              {["elo", "map-elo", "si-probabilities"].map((tab) => (
                 <DropdownMenuItem
                   key={tab}
                   onClick={() => handleTabChange(tab)}
                   className={`text-2xl items-center ${currentTab === tab ? "bg-myDarkColor text-white" : "text-gray-400"}`}
                 >
                   {tab === "elo" ? "Elo Rankings" :
-                  tab === "map-elo" ? "Map Elo Rankings" :
-                  tab === "si-probabilities" ? "SI Probabilities" :
-                  tab === "si-picker" ? "SI Picker" : "Pickems"}
+                  tab === "map-elo" ? "Map Elo Rankings" : "SI Teams"}
+                  {/* tab === "si-probabilities" ?  :
+                  tab === "si-picker" ? "SI Picker" : "Pickems"} */}
                 </DropdownMenuItem>
               ))}
             </DropdownMenuContent>
@@ -84,7 +84,7 @@ const TopBar = () => {
 
         {/* Tabs for larger screens */}
         <Tabs defaultValue={currentTab} className="hidden md:block w-full mt-4 md:mt-6" onValueChange={handleTabChange}>
-          <TabsList className="grid grid-cols-2 md:grid-cols-5 w-full bg-myColor rounded gap-2">
+          <TabsList className="grid grid-cols-2 md:grid-cols-3 w-full bg-myColor rounded gap-2">
             <TabsTrigger
               value="elo"
               className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "elo" ? "text-myDarkColor border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
@@ -101,9 +101,9 @@ const TopBar = () => {
               value="si-probabilities"
               className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-probabilities" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
-              SI Probabilities
+              SI Teams
             </TabsTrigger>
-            <TabsTrigger
+            {/* <TabsTrigger
               value="si-picker"
               className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-picker" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
@@ -114,7 +114,7 @@ const TopBar = () => {
               className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "pickems" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
             >
               Pickems
-            </TabsTrigger>
+            </TabsTrigger> */}
           </TabsList>
         </Tabs>
       </div>
