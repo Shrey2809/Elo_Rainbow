@@ -27,7 +27,8 @@ export default {
       },
       colors: {
         myColor: "#474954 ", //BG MAIN - 474954            392F5A
-        myDarkColor: "#343432", //BG SECONDARY - 343432    25283d
+        myDarkColor: "#1C1D21", //BG SECONDARY - 343432    25283d
+        mySecondCellColor: "#2F3037", //BG SECONDARY - A599B5    5C5C5C
         mySecondaryColor: '#74C171', //GREEN - 74C171      a6d3a0
         myThirdColor: '#D7DEDC', //WHITE - D7DEDC          E7DFC6
         myFourthColor: '#FF6B6B', //RED - FF6B6B           bc2c1a

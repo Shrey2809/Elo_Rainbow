@@ -49,10 +49,29 @@ type EloMapsData = {
   region: string;
   majorCount: number;
   regionalCount: number;
+  rankName: string;
 };
 
 const maps = ["ALL MAPS", "BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
 const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const rank = {
+  "Champion" : [1700, 9999],
+  "Diamond" : [1625, 1699.99],
+  "Emerald" : [1550, 1624.99],
+  "Platinum" : [1475, 1549.99],
+  "Gold" : [1400, 1474.99],
+  "Silver" : [1325, 1399.99],
+  "Bronze" : [1250, 1324.99],
+  "Copper" : [0, 1249.99],
+}
+const getRank = (elo: number): string => {
+  for (const [rankName, [minElo, maxElo]] of Object.entries(rank)) {
+    if (elo >= minElo && elo <= maxElo) {
+      return rankName;
+    }
+  }
+  return "Unranked"; // In case Elo is outside expected range
+};
 
 const transformData = (data: TeamsMapsData): EloMapsData[] => {
   const teamsByMap: { [map: string]: TeamMapsJSON[] } = {};
@@ -87,6 +106,7 @@ const transformData = (data: TeamsMapsData): EloMapsData[] => {
       rankedTeams.push({
         ...team,
         rank: index + 1,
+        rankName: getRank(team.elo),
       });
     });
   });
@@ -242,9 +262,12 @@ export default function EloTable() {
           <TableHeader className="bg-myDarkColor">
             <TableRow>
               <TableHead className="w-[10%] text-white text-center font-bold">#</TableHead>
-              <TableHead className="w-[22.5%] text-white text-center font-bold">Team</TableHead>
-              <TableHead className="w-[22.5%] text-white text-center font-bold">Elo</TableHead>
-              <TableHead className="w-[22.5%] text-white text-center font-bold">
+              <TableHead className="w-[18%] text-white text-center font-bold">
+                Rank
+              </TableHead>
+              <TableHead className="w-[18%] text-white text-center font-bold">Team</TableHead>
+              <TableHead className="w-[18%] text-white text-center font-bold">Elo</TableHead>
+              <TableHead className="w-[18%] text-white text-center font-bold">
                 <Popover open={popoverMapOpen} onOpenChange={setPopoverMapOpen}>
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Map <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
@@ -264,7 +287,7 @@ export default function EloTable() {
                   </PopoverContent>
                 </Popover>
               </TableHead>
-              <TableHead className="w-[22.5%] text-white text-center font-bold">
+              <TableHead className="w-[18%] text-white text-center font-bold">
                 <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
@@ -287,12 +310,26 @@ export default function EloTable() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {currentRows.map((data) => (
-              <TableRow key={data.id}>
+            {currentRows.map((data, index) => (
+              <TableRow
+                  key={data.id}
+                  className={index % 2 === 0 ? "bg-myColor border-none" : "bg-mySecondCellColor border-none"} 
+                >
                 <TableCell className="w-[10%] text-center font-semibold">
                   {data.rank}
                 </TableCell>
-                <TableCell className="w-[22.5%] text-center font-semibold">
+                <TableCell className="w-[18%] text-center font-semibold">
+                  <img
+                      src={`/ranks/${data.rankName.toLowerCase()}.png`}
+                      alt={data.team}
+                      className="w-16 h-16 mx-auto drop-shadow-xl"
+                      loading="lazy"
+                      onError={(e) => {
+                        e.currentTarget.src = "/team_logos/no_org.png";
+                      }}
+                    />
+                </TableCell>
+                <TableCell className="w-[18%] text-center font-semibold">
                   <img
                     src={`/team_logos/${data.team.toLowerCase()}.png`}
                     alt={data.team}
@@ -304,10 +341,10 @@ export default function EloTable() {
                   />
                   <span>{data.team}</span>
                 </TableCell>
-                <TableCell className="w-[22.5%] text-center font-semibold">
+                <TableCell className="w-[18%] text-center font-semibold">
                   {Math.round(data.elo)}
                 </TableCell>
-                <TableCell className="w-[22.5%] text-center font-semibold">
+                <TableCell className="w-[18%] text-center font-semibold">
                   <HoverCard openDelay={0} closeDelay={0}>
                     <HoverCardTrigger asChild>
                       <Button variant="link" className="text-sm md:text-lg font-bold">
@@ -334,7 +371,7 @@ export default function EloTable() {
                     </HoverCardContent>
                   </HoverCard>
                 </TableCell>
-                <TableCell className="w-[22.5%] text-center font-semibold">
+                <TableCell className="w-[18%] text-center font-semibold">
                   {data.region}
                 </TableCell>
               </TableRow>
