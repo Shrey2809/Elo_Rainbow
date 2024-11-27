@@ -16,7 +16,7 @@ import {
 } from "@/components/ui/hover-card";
 import { Button } from "./ui/button";
 
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend } from "recharts";
+import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
 
 import Teams from "../data.json";
 
