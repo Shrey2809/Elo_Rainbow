@@ -9,12 +9,14 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ui/hover-card";
+import { Button } from "./ui/button";
 
-// import { Bar } from "react-chartjs-2";
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from "chart.js";
-
-// Register Chart.js components
-ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Legend } from "recharts";
 
 import Teams from "../data.json";
 
@@ -39,9 +41,11 @@ type EloData = {
   rankName: string;
 };
 
+type RankName = "Champion" | "Diamond" | "Emerald" | "Platinum" | "Gold" | "Silver" | "Bronze" | "Copper";
+
 const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 // Create a dict for ranks based on elo ranges
-const rank = {
+const rank: { [key in RankName]: [number, number] } = {
   "Champion" : [1700, 9999],
   "Diamond" : [1625, 1699.99],
   "Emerald" : [1550, 1624.99],
@@ -79,42 +83,32 @@ const transformedData = transformData(Teams);
 
 const rowsPerPage = 20;
 
-// const getRankCounts = (data: EloData[]) => {
-//   const counts: { [key: string]: number } = {
-//     Copper: 0,
-//     Bronze: 0,
-//     Silver: 0,
-//     Gold: 0,
-//     Platinum: 0,
-//     Emerald: 0,
-//     Diamond: 0,
-//     Champion: 0,
-//   };
+const getRankCounts = (data: EloData[]) => {
+  // Initialize rank counts as an array of objects
+  const counts = [
+    { rank: "Copper", count: 0, logo: "/ranks/copper.png" },
+    { rank: "Bronze", count: 0, logo: "/ranks/bronze.png" },
+    { rank: "Silver", count: 0, logo: "/ranks/silver.png" },
+    { rank: "Gold", count: 0, logo: "/ranks/gold.png" },
+    { rank: "Platinum", count: 0, logo: "/ranks/platinum.png" },
+    { rank: "Emerald", count: 0, logo: "/ranks/emerald.png" },
+    { rank: "Diamond", count: 0, logo: "/ranks/diamond.png" },
+    { rank: "Champion", count: 0, logo: "/ranks/champion.png" },
+  ];
 
-//   data.forEach((team) => {
-//     counts[team.rankName] = (counts[team.rankName] || 0) + 1;
-//   });
+  // Increment the count for each team's rank
+  data.forEach((team) => {
+    const rankObj = counts.find((r) => r.rank === team.rankName);
+    if (rankObj) {
+      rankObj.count += 1;
+    }
+    
+  });
 
-//   return counts;
-// };
+  return counts;
+};
 
-// const rankCounts = getRankCounts(transformedData);
-
-// const barChartData = {
-//   labels: Object.keys(rankCounts),
-//   datasets: [
-//     {
-//       label: "Rank Distribution",
-//       data: Object.values(rankCounts),
-//       backgroundColor: "rgba(75, 192, 192, 0.2)",
-//       borderColor: "rgba(75, 192, 192, 1)",
-//       borderWidth: 1,
-//     },
-//   ],
-// };
-
-
-
+const rankCounts = getRankCounts(transformedData);
 
 // Your timestamp from JSON
 let timestamp = Teams.Date; 
@@ -179,37 +173,82 @@ export default function EloTable() {
 
   const currentRows = filteredData.slice(startIndex, endIndex);
   const totalPages = Math.ceil(filteredData.length / rowsPerPage);
-  // const [isGraphVisible, setIsGraphVisible] = useState(true);
-
-  // const toggleGraphVisibility = () => {
-  //   setIsGraphVisible(!isGraphVisible);
-  // };
-
+  const is_display = false;
 
   return (
     <div className="w-full">
       <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}</b>
+          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
+          <HoverCard openDelay={0} closeDelay={0}>
+            <HoverCardTrigger asChild>
+              <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
+              <u>Ranking breakdown</u>
+              </Button>
+            </HoverCardTrigger>
+            <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
+              <div className="flex flex-row">
+                <div className="flex justify-between space-x-4">
+                  <div className="space-y-1">
+                    <div className="flex flex-col">
+                      <div className="text-center font-bold mb-4">Ranking Breakdown</div>
+                      {Object.keys(rank).map((rankName) => (
+                        <div
+                          key={rankName}
+                          className="font-semibold flex flex-row items-center justify-center mb-2"
+                        >
+                          <img
+                            src={`/ranks/${rankName.toLowerCase()}.png`}
+                            className="w-16 h-16 mr-4 drop-shadow-xl"
+                            loading="lazy"
+                            onError={(e) => {
+                              e.currentTarget.src = "/team_logos/no_org.png";
+                            }}
+                          />
+                          <span>
+                            {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </HoverCardContent>
+          </HoverCard>
+        </b>
         </div>
       </div>
+      
+      { is_display && <div style={{ width: "100%", height: 400 }}>
+        <ResponsiveContainer width="100%" height="100%">
+          <BarChart data={rankCounts} barSize={100}>
+            <XAxis
+              dataKey="rank"
+              tick={({ x, y, payload }) => {
+                const { logo } = payload; // Access the logo path
+                return (
+                  <g transform={`translate(${x},${y})`}>
+                    <image
+                      href={logo} 
+                      width={30} 
+                      height={30} 
+                      x={-15} // Adjust position to center the logo
+                      y={-15} // Adjust position to center the logo
+                    />
+                  </g>
+                );
+              }}
+            />
+            <Tooltip />
+            <Bar dataKey="count" fill="#74C171" legendType="circle" radius={[10, 10, 0, 0]} />
+          </BarChart>
+        </ResponsiveContainer>
+      </div> }
 
-      {/* <div className="flex flex-col p-4 items-center justify-center">
-        <button
-          onClick={toggleGraphVisibility}
-          className="px-4 py-2 bg-myDarkColor text-white rounded"
-        >
-          {isGraphVisible ? 'Hide Graph' : 'Show Graph'}
-        </button>
 
-        {isGraphVisible && (
-          <div className="p-4 flex justify-center">
-            <Bar data={barChartData} />
-          </div>
-        )}
-      </div> */}
-
-      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans">
+      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
         <input
           type="text"
           placeholder="Search Team Name"
@@ -224,10 +263,15 @@ export default function EloTable() {
           onChange={handleSearchRegionChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
         />
+        <button onClick={() => {setSearchQuery(""); setSearchRegion("");}}
+                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center">
+          Clear
+        </button>
       </div>
 
-      <div className="overflow-x-auto">
-        <Table className="text-sm md:text-lg table-auto w-full">
+      <div className="overflow-x-auto justify-center items-center align-middle">
+        <div className="items-center">
+        <Table className="text-sm md:text-lg table-auto w-full justify-between">
           <TableCaption className="text-white text-sm md:text-lg">
           Matchups data and logos provided by Liquipedia. Created by {""}
           <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
@@ -270,13 +314,13 @@ export default function EloTable() {
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
                   </PopoverTrigger>
-                  <PopoverContent className="p-4 bg-myDarkColor">
+                  <PopoverContent className="mt-2 bg-myDarkColor border-none rounded-xl drop-shadow-2xl">
                     <div className="flex flex-col">
                       {regions.map((region) => (
                         <button
                           key={region}
                           onClick={() => handleRegionSelect(region)}
-                          className="py-2 px-4 text-white text-lg hover:bg-myColor"
+                          className="py-2 text-white text-lg hover:bg-myColor rounded-xl"
                         >
                           {region}
                         </button>
@@ -288,10 +332,10 @@ export default function EloTable() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {currentRows.map((data, index) => (
+            {currentRows.map((data) => (
                 <TableRow
                   key={data.id}
-                  className={`${index % 2 === 0 ? "bg-myColor" : "bg-mySecondCellColor"} border-none hover:bg-none`}
+                  className="odd:bg-myColor even:bg-mySecondCellColor even:hover:bg-mySecondCellColor border-none hover:bg-none"
                 >
                 <TableCell className="w-[10%] text-center font-semibold">
                   {data.rank}
@@ -300,7 +344,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-16 h-16 mx-auto drop-shadow-xl"
+                      className="w-10 h-10 mx-auto drop-shadow-xl md:w-16 md:h-16"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
@@ -329,6 +373,7 @@ export default function EloTable() {
             ))}
           </TableBody>
         </Table>
+        </div>
       </div>
     </div>
   );

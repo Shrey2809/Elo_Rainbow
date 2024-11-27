@@ -207,11 +207,46 @@ export default function EloTable() {
     <div className="w-full">
       <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
         <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}</b>
+          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
+          <HoverCard openDelay={0} closeDelay={0}>
+            <HoverCardTrigger asChild>
+              <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
+              <u>Ranking breakdown</u>
+              </Button>
+            </HoverCardTrigger>
+            <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
+              <div className="flex justify-between space-x-4">
+                <div className="space-y-1">
+                  <div className="flex flex-col">
+                    <div className="text-center font-bold mb-4">Ranking Breakdown</div>
+                    {Object.keys(rank).map((rankName) => (
+                      <div
+                        key={rankName}
+                        className="font-semibold flex flex-row items-center justify-center mb-2"
+                      >
+                        <img
+                          src={`/ranks/${rankName.toLowerCase()}.png`}
+                          className="w-16 h-16 mr-4 drop-shadow-xl"
+                          loading="lazy"
+                          onError={(e) => {
+                            e.currentTarget.src = "/team_logos/no_org.png";
+                          }}
+                        />
+                        <span>
+                          {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </HoverCardContent>
+          </HoverCard>
+        </b>
         </div>
       </div>
         
-      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans">
+      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
         <input
           type="text"
           placeholder="Search Team Name"
@@ -233,6 +268,10 @@ export default function EloTable() {
           onChange={handleSearchRegionChange}
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/3 bg-myThirdColor text-myDarkColor font-semibold"
         />
+        <button onClick={() => {setSearchMap(""); setSearchQuery(""); setSearchRegion("");}}
+                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center">
+          Clear
+        </button>
       </div>
       <div className="overflow-x-auto">
         <Table className="text-sm md:text-lg table-auto w-full">
@@ -272,7 +311,7 @@ export default function EloTable() {
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Map <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
                   </PopoverTrigger>
-                  <PopoverContent className="p-4 bg-myDarkColor">
+                  <PopoverContent className="mt-2 bg-myDarkColor border-none rounded-xl drop-shadow-2xl">
                     <div className="flex flex-col">
                       {maps.map((map) => (
                         <button
@@ -292,7 +331,7 @@ export default function EloTable() {
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
                     Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
                   </PopoverTrigger>
-                  <PopoverContent className="p-4 bg-myDarkColor">
+                  <PopoverContent className="mt-2 bg-myDarkColor border-none rounded-xl drop-shadow-2xl">
                     <div className="flex flex-col">
                       {regions.map((region) => (
                         <button
@@ -310,10 +349,10 @@ export default function EloTable() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {currentRows.map((data, index) => (
+            {currentRows.map((data) => (
               <TableRow
                   key={data.id}
-                  className={index % 2 === 0 ? "bg-myColor border-none" : "bg-mySecondCellColor border-none"} 
+                  className="odd:bg-myColor even:bg-mySecondCellColor even:hover:bg-mySecondCellColor border-none hover:bg-none"
                 >
                 <TableCell className="w-[10%] text-center font-semibold">
                   {data.rank}
