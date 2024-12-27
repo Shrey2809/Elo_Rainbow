@@ -6292,7 +6292,7 @@
         },
         {
             "ID": 332,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "BANK",
             "Elo": 1450.179023384143,
             "Region": "NORTH AMERICA",
@@ -6302,7 +6302,7 @@
         },
         {
             "ID": 556,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "BORDER",
             "Elo": 1497.7716360505788,
             "Region": "NORTH AMERICA",
@@ -6312,7 +6312,7 @@
         },
         {
             "ID": 342,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "CHALET",
             "Elo": 1513.8392245728573,
             "Region": "NORTH AMERICA",
@@ -6322,7 +6322,7 @@
         },
         {
             "ID": 312,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "CLUB",
             "Elo": 1593.5411324363479,
             "Region": "NORTH AMERICA",
@@ -6332,7 +6332,7 @@
         },
         {
             "ID": 327,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "CONS",
             "Elo": 1487.5,
             "Region": "NORTH AMERICA",
@@ -6342,7 +6342,7 @@
         },
         {
             "ID": 551,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "KAFE",
             "Elo": 1573.2060273487455,
             "Region": "NORTH AMERICA",
@@ -6352,7 +6352,7 @@
         },
         {
             "ID": 336,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "LABS",
             "Elo": 1511.5052110513766,
             "Region": "NORTH AMERICA",
@@ -6362,7 +6362,7 @@
         },
         {
             "ID": 578,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "LAIR",
             "Elo": 1553.5193521187707,
             "Region": "NORTH AMERICA",
@@ -6372,7 +6372,7 @@
         },
         {
             "ID": 319,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "OREGON",
             "Elo": 1473.3461191984686,
             "Region": "NORTH AMERICA",
@@ -6382,7 +6382,7 @@
         },
         {
             "ID": 552,
-            "TeamName": "SQ",
+            "TeamName": "SR",
             "MapName": "SKYSCRAPER",
             "Elo": 1525.841960163053,
             "Region": "NORTH AMERICA",
@@ -7811,5 +7811,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Nov 19, 2024, 15:57"
+    "Date": "Dec 27, 2024, 16:49"
 }
