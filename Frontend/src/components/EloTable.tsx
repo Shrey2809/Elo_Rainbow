@@ -16,7 +16,7 @@ import {
 } from "@/components/ui/hover-card";
 import { Button } from "./ui/button";
 
-import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
+import { BarChart, Bar, Tooltip, ResponsiveContainer } from "recharts";
 
 import Teams from "../data.json";
 
@@ -175,6 +175,35 @@ export default function EloTable() {
   const totalPages = Math.ceil(filteredData.length / rowsPerPage);
   const is_display = false;
 
+  const CustomBar = (props: { x: number; y: number; width: number; height: number; logo: string }) => {
+    const { x, y, width, height, logo } = props;
+    return (
+      <g>
+        {/* Render the logo above the bar */}
+        <image
+          href={`${logo.toLowerCase()}`}
+          x={x + width / 2 - 24} // Center the logo above the bar
+          y={y - 55} // Position above the bar
+          height={48}
+          width={48}
+        />
+        {/* Render the actual bar */}
+        <rect
+          x={x}
+          y={y}
+          width={width}
+          height={height}
+          fill="#2F3037"
+          stroke="#D7DEDC"
+          strokeWidth={4}
+          rx={5} // For rounded corners
+          ry={5} // For rounded corners
+          style={{ pointerEvents: 'none' }}
+        />
+      </g>
+    );
+  };
+
   return (
     <div className="w-full">
       <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
@@ -187,12 +216,13 @@ export default function EloTable() {
               </Button>
             </HoverCardTrigger>
             <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
-              <div className="flex flex-row">
+              {/* <div className="text-center font-bold mb-4">Ranking Breakdown</div> */}
+              <div className="flex flex-row items-center gap-4">
                 <div className="flex justify-between space-x-4">
                   <div className="space-y-1">
                     <div className="flex flex-col">
-                      <div className="text-center font-bold mb-4">Ranking Breakdown</div>
-                      {Object.keys(rank).map((rankName) => (
+                      
+                        {Object.keys(rank).map((rankName) => (
                         <div
                           key={rankName}
                           className="font-semibold flex flex-row items-center justify-center mb-2"
@@ -209,11 +239,25 @@ export default function EloTable() {
                             {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
                           </span>
                         </div>
-                      ))}
+                        ))}
                     </div>
                   </div>
                 </div>
-
+                <div style={{ width: 600, height: 500}}>
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={rankCounts} barSize={100}>
+                    {/* <Tooltip cursor={false} wrapperStyle={{ display: 'none' }} /> */}
+                      <Bar
+                        dataKey="count"
+                        fill="none"
+                        shape={(props: any) => (
+                          <CustomBar {...props} logo={rankCounts[props.index]?.logo} />
+                        )}
+                        isAnimationActive={false}
+                      />
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
               </div>
             </HoverCardContent>
           </HoverCard>
@@ -221,30 +265,19 @@ export default function EloTable() {
         </div>
       </div>
       
-      { is_display && <div style={{ width: "100%", height: 400 }}>
-        <ResponsiveContainer width="100%" height="100%">
-          <BarChart data={rankCounts} barSize={100}>
-            <XAxis
-              dataKey="rank"
-              tick={({ x, y, payload }) => {
-                const { logo } = payload; // Access the logo path
-                return (
-                  <g transform={`translate(${x},${y})`}>
-                    <image
-                      href={logo} 
-                      width={30} 
-                      height={30} 
-                      x={-15} // Adjust position to center the logo
-                      y={-15} // Adjust position to center the logo
-                    />
-                  </g>
-                );
-              }}
-            />
-            <Tooltip />
-            <Bar dataKey="count" fill="#74C171" legendType="circle" radius={[10, 10, 0, 0]} />
-          </BarChart>
-        </ResponsiveContainer>
+      { is_display && <div style={{ width: "100%", height: 500}}>
+      <ResponsiveContainer width="100%" height="100%">
+        <BarChart data={rankCounts} barSize={100}>
+          <Tooltip />
+          <Bar
+            dataKey="count"
+            fill="none"
+            shape={(props: any) => (
+              <CustomBar {...props} logo={rankCounts[props.index]?.logo} />
+            )}
+          />
+        </BarChart>
+      </ResponsiveContainer>
       </div> }
 
 
