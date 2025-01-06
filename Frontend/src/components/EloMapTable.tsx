@@ -217,15 +217,14 @@ export default function EloTable() {
               <div className="flex justify-between space-x-4">
                 <div className="space-y-1">
                   <div className="flex flex-col">
-                    <div className="text-center font-bold mb-4">Ranking Breakdown</div>
                     {Object.keys(rank).map((rankName) => (
                       <div
                         key={rankName}
-                        className="font-semibold flex flex-row items-center justify-center mb-2"
+                        className="font-semibold flex flex-row items-center justify-start mb-4"
                       >
                         <img
                           src={`/ranks/${rankName.toLowerCase()}.png`}
-                          className="w-16 h-16 mr-4 drop-shadow-xl"
+                          className="w-10 h-10 mr-4 drop-shadow-xl"
                           loading="lazy"
                           onError={(e) => {
                             e.currentTarget.src = "/team_logos/no_org.png";
@@ -360,7 +359,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-12 h-12 mx-auto drop-shadow-xl"
+                      className="w-10 h-10 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";

@@ -221,7 +221,7 @@ export default function EloTable() {
                         {Object.keys(rank).map((rankName) => (
                         <div
                           key={rankName}
-                          className="font-semibold flex flex-row items-center justify-center mb-2"
+                          className="font-semibold flex flex-row items-start justify-start mb-2"
                         >
                           <img
                             src={`/ranks/${rankName.toLowerCase()}.png`}
@@ -231,15 +231,15 @@ export default function EloTable() {
                               e.currentTarget.src = "/team_logos/no_org.png";
                             }}
                           />
-                          <span>
+                          <div className="items-center">
                             {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
-                          </span>
+                          </div>
                         </div>
                         ))}
                     </div>
                   </div>
                 </div>
-                <div style={{ width: 600, height: 600}}>
+                <div style={{ width: 600, height: 350}}>
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart data={rankCounts} barSize={100}>
                       <Bar
@@ -372,7 +372,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-5 h-5 mx-auto drop-shadow-xl md:w-12 md:h-12"
+                      className="w-10 h-10 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
