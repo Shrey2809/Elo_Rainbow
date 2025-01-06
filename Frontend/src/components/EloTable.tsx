@@ -41,19 +41,17 @@ type EloData = {
   rankName: string;
 };
 
-type RankName = "Champion" | "Diamond" | "Emerald" | "Platinum" | "Gold" | "Silver" | "Bronze" | "Copper";
+type RankName = "S-Tier" | "A-Tier" | "B-Tier" | "C-Tier" | "D-Tier" | "F-Tier";
 
 const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 // Create a dict for ranks based on elo ranges
 const rank: { [key in RankName]: [number, number] } = {
-  "Champion" : [1700, 9999],
-  "Diamond" : [1625, 1699.99],
-  "Emerald" : [1550, 1624.99],
-  "Platinum" : [1475, 1549.99],
-  "Gold" : [1400, 1474.99],
-  "Silver" : [1325, 1399.99],
-  "Bronze" : [1250, 1324.99],
-  "Copper" : [0, 1249.99],
+  "S-Tier" : [1700, 9999],
+  "A-Tier" : [1550, 1674.99],
+  "B-Tier" : [1425, 1549.99],
+  "C-Tier" : [1300, 1424.99],
+  "D-Tier" : [1175, 1299.99],
+  "F-Tier" : [0, 1174.99],
 }
 const getRank = (elo: number): string => {
   for (const [rankName, [minElo, maxElo]] of Object.entries(rank)) {
@@ -86,14 +84,12 @@ const rowsPerPage = 20;
 const getRankCounts = (data: EloData[]) => {
   // Initialize rank counts as an array of objects
   const counts = [
-    { rank: "Copper", count: 0, logo: "/ranks/copper.png" },
-    { rank: "Bronze", count: 0, logo: "/ranks/bronze.png" },
-    { rank: "Silver", count: 0, logo: "/ranks/silver.png" },
-    { rank: "Gold", count: 0, logo: "/ranks/gold.png" },
-    { rank: "Platinum", count: 0, logo: "/ranks/platinum.png" },
-    { rank: "Emerald", count: 0, logo: "/ranks/emerald.png" },
-    { rank: "Diamond", count: 0, logo: "/ranks/diamond.png" },
-    { rank: "Champion", count: 0, logo: "/ranks/champion.png" },
+    { rank: "F-Tier", count: 0, logo: "/ranks/f-tier.png" },
+    { rank: "D-Tier", count: 0, logo: "/ranks/d-tier.png" },
+    { rank: "C-Tier", count: 0, logo: "/ranks/c-tier.png" },
+    { rank: "B-Tier", count: 0, logo: "/ranks/b-tier.png" },
+    { rank: "A-Tier", count: 0, logo: "/ranks/a-tier.png" },
+    { rank: "S-Tier", count: 0, logo: "/ranks/s-tier.png" },
   ];
 
   // Increment the count for each team's rank
@@ -229,7 +225,7 @@ export default function EloTable() {
                         >
                           <img
                             src={`/ranks/${rankName.toLowerCase()}.png`}
-                            className="w-16 h-16 mr-4 drop-shadow-xl"
+                            className="w-12 h-12 mr-4 drop-shadow-xl"
                             loading="lazy"
                             onError={(e) => {
                               e.currentTarget.src = "/team_logos/no_org.png";
@@ -243,10 +239,9 @@ export default function EloTable() {
                     </div>
                   </div>
                 </div>
-                <div style={{ width: 600, height: 500}}>
+                <div style={{ width: 600, height: 600}}>
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart data={rankCounts} barSize={100}>
-                    {/* <Tooltip cursor={false} wrapperStyle={{ display: 'none' }} /> */}
                       <Bar
                         dataKey="count"
                         fill="none"
@@ -297,7 +292,7 @@ export default function EloTable() {
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/2 bg-myThirdColor text-myDarkColor font-semibold"
         />
         <button onClick={() => {setSearchQuery(""); setSearchRegion("");}}
-                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center">
+                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center hover:bg-myFifthColor">
           Clear
         </button>
       </div>
@@ -334,7 +329,7 @@ export default function EloTable() {
                 #
               </TableHead>
               <TableHead className="w-[22.5%] text-white text-center font-bold">
-                Rank
+                Tier
               </TableHead>
               <TableHead className="w-[22.5%] text-white text-center font-bold">
                 Team
@@ -377,7 +372,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-10 h-10 mx-auto drop-shadow-xl md:w-16 md:h-16"
+                      className="w-5 h-5 mx-auto drop-shadow-xl md:w-12 md:h-12"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";

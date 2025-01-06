@@ -52,17 +52,16 @@ type EloMapsData = {
   rankName: string;
 };
 
+type RankName = "S-Tier" | "A-Tier" | "B-Tier" | "C-Tier" | "D-Tier" | "F-Tier";
 const maps = ["ALL MAPS", "BANK", "BORDER", "CHALET", "CLUB", "CONS", "KAFE", "LABS", "LAIR", "OREGON", "SKYSCRAPER"];
 const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
-const rank = {
-  "Champion" : [1700, 9999],
-  "Diamond" : [1625, 1699.99],
-  "Emerald" : [1550, 1624.99],
-  "Platinum" : [1475, 1549.99],
-  "Gold" : [1400, 1474.99],
-  "Silver" : [1325, 1399.99],
-  "Bronze" : [1250, 1324.99],
-  "Copper" : [0, 1249.99],
+const rank: { [key in RankName]: [number, number] } = {
+  "S-Tier" : [1600, 9999],
+  "A-Tier" : [1500, 1599.99],
+  "B-Tier" : [1400, 1499.99],
+  "C-Tier" : [1300, 1399.99],
+  "D-Tier" : [1200, 1299.99],
+  "F-Tier" : [0, 1199.99],
 }
 const getRank = (elo: number): string => {
   for (const [rankName, [minElo, maxElo]] of Object.entries(rank)) {
@@ -269,7 +268,7 @@ export default function EloTable() {
           className="px-4 py-2 mb-2 rounded drop-shadow-md w-full md:w-1/3 bg-myThirdColor text-myDarkColor font-semibold"
         />
         <button onClick={() => {setSearchMap(""); setSearchQuery(""); setSearchRegion("");}}
-                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center">
+                className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center hover:bg-myFifthColor">
           Clear
         </button>
       </div>
@@ -302,7 +301,7 @@ export default function EloTable() {
             <TableRow>
               <TableHead className="w-[10%] text-white text-center font-bold">#</TableHead>
               <TableHead className="w-[18%] text-white text-center font-bold">
-                Rank
+                Tier
               </TableHead>
               <TableHead className="w-[18%] text-white text-center font-bold">Team</TableHead>
               <TableHead className="w-[18%] text-white text-center font-bold">Elo</TableHead>
@@ -361,7 +360,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-16 h-16 mx-auto drop-shadow-xl"
+                      className="w-12 h-12 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
