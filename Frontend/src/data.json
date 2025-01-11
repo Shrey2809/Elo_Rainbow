@@ -17,8 +17,8 @@
         {
             "ID": 3,
             "TeamName": "DW",
-            "Elo": 1350.2991295250997,
-            "LastGameUpdated": 33,
+            "Elo": 1345.6917674090366,
+            "LastGameUpdated": 3,
             "Region": "SEA"
         },
         {
@@ -87,15 +87,15 @@
         {
             "ID": 13,
             "TeamName": "BD",
-            "Elo": 1503.0940079862817,
-            "LastGameUpdated": 42,
+            "Elo": 1480.8294561379844,
+            "LastGameUpdated": 6,
             "Region": "BR"
         },
         {
             "ID": 14,
             "TeamName": "E1",
-            "Elo": 1418.3699151300334,
-            "LastGameUpdated": 3,
+            "Elo": 1492.67341618627,
+            "LastGameUpdated": 6,
             "Region": "BR"
         },
         {
@@ -108,8 +108,8 @@
         {
             "ID": 16,
             "TeamName": "KS",
-            "Elo": 1445.140616492025,
-            "LastGameUpdated": 6,
+            "Elo": 1441.08317202306,
+            "LastGameUpdated": 5,
             "Region": "BR"
         },
         {
@@ -220,8 +220,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1509.0341148811192,
-            "LastGameUpdated": 10,
+            "Elo": 1580.199818670611,
+            "LastGameUpdated": 6,
             "Region": "JAPAN"
         },
         {
@@ -283,8 +283,8 @@
         {
             "ID": 41,
             "TeamName": "VASCO",
-            "Elo": 1402.3135474388387,
-            "LastGameUpdated": 63,
+            "Elo": 1354.3320426998644,
+            "LastGameUpdated": 3,
             "Region": "LATAM"
         },
         {
@@ -535,8 +535,8 @@
         {
             "ID": 77,
             "TeamName": "FOX",
-            "Elo": 1499.430067389618,
-            "LastGameUpdated": 9,
+            "Elo": 1465.3003772110624,
+            "LastGameUpdated": 6,
             "Region": "KOREA"
         },
         {
@@ -640,8 +640,8 @@
         {
             "ID": 92,
             "TeamName": "CHIEFS",
-            "Elo": 1457.8824681882525,
-            "LastGameUpdated": 43,
+            "Elo": 1425.4538166933794,
+            "LastGameUpdated": 5,
             "Region": "OCE"
         },
         {
@@ -750,5 +750,5 @@
             "Region": "BR"
         }
     ],
-    "Date": "Jan 11, 2025, 00:25"
+    "Date": "Jan 11, 2025, 00:26"
 }
