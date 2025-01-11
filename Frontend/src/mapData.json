@@ -1614,11 +1614,11 @@
             "ID": 262,
             "TeamName": "CTY",
             "MapName": "BANK",
-            "Elo": 1364.2300148682407,
+            "Elo": 1351.4626552685847,
             "Region": "LATAM",
-            "LastGameUpdated": 69,
+            "LastGameUpdated": 1,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 235,
@@ -7374,11 +7374,11 @@
             "ID": 330,
             "TeamName": "WCG",
             "MapName": "BANK",
-            "Elo": 1525.107931813469,
+            "Elo": 1537.8752914131248,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 321,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 549,
@@ -7871,5 +7871,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 11, 2025, 22:59"
+    "Date": "Jan 11, 2025, 23:26"
 }

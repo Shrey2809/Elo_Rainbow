@@ -304,7 +304,7 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1463.2764498331096,
+            "Elo": 1443.4495620273985,
             "LastGameUpdated": 1,
             "Region": "LATAM"
         },
@@ -388,7 +388,7 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1504.7493947806936,
+            "Elo": 1524.5762825864047,
             "LastGameUpdated": 1,
             "Region": "NORTH AMERICA"
         },
@@ -764,5 +764,5 @@
             "Region": "EU"
         }
     ],
-    "Date": "Jan 11, 2025, 22:59"
+    "Date": "Jan 11, 2025, 23:26"
 }
