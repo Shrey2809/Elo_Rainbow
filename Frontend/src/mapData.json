@@ -471,6 +471,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 788,
+            "TeamName": "ASP",
+            "MapName": "KAFE",
+            "Elo": 1437.3375263575017,
+            "Region": "EU",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 739,
             "TeamName": "BB",
             "MapName": "CONS",
@@ -3234,11 +3244,11 @@
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1479.661701884143,
+            "Elo": 1490.2643667727416,
             "Region": "EU",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 11
+            "RegionalCount": 12
         },
         {
             "ID": 131,
@@ -3744,11 +3754,11 @@
             "ID": 567,
             "TeamName": "ITB",
             "MapName": "KAFE",
-            "Elo": 1497.5492201985471,
+            "Elo": 1472.7510295877132,
             "Region": "EU",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 473,
@@ -4639,6 +4649,16 @@
             "LastGameUpdated": 308,
             "MajorCount": 0,
             "RegionalCount": 2
+        },
+        {
+            "ID": 789,
+            "TeamName": "MACKO",
+            "MapName": "CHALET",
+            "Elo": 1364.128223541745,
+            "Region": "EU",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 787,
@@ -7851,5 +7871,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 11, 2025, 22:57"
+    "Date": "Jan 11, 2025, 22:59"
 }

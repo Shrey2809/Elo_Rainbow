@@ -143,8 +143,8 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1462.9987979134737,
-            "LastGameUpdated": 3,
+            "Elo": 1438.764097986961,
+            "LastGameUpdated": 1,
             "Region": "EU"
         },
         {
@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1505.5553647920726,
+            "Elo": 1515.538910690242,
             "LastGameUpdated": 2,
             "Region": "EU"
         },
@@ -752,17 +752,17 @@
         {
             "ID": 108,
             "TeamName": "ASP",
-            "Elo": 1388.304635820155,
+            "Elo": 1412.5393357466678,
             "LastGameUpdated": 1,
             "Region": "EU"
         },
         {
             "ID": 109,
             "TeamName": "MACKO",
-            "Elo": 1384.7144343285129,
-            "LastGameUpdated": 3,
+            "Elo": 1374.7308884303436,
+            "LastGameUpdated": 2,
             "Region": "EU"
         }
     ],
-    "Date": "Jan 11, 2025, 22:57"
+    "Date": "Jan 11, 2025, 22:59"
 }
