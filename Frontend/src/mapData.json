@@ -461,6 +461,16 @@
             "RegionalCount": 5
         },
         {
+            "ID": 784,
+            "TeamName": "ASP",
+            "MapName": "BORDER",
+            "Elo": 1401.761185242974,
+            "Region": "EU",
+            "LastGameUpdated": 1,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 739,
             "TeamName": "BB",
             "MapName": "CONS",
@@ -1644,11 +1654,11 @@
             "ID": 531,
             "TeamName": "CTY",
             "MapName": "KAFE",
-            "Elo": 1377.1765489963414,
+            "Elo": 1366.481113666744,
             "Region": "LATAM",
-            "LastGameUpdated": 70,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 661,
@@ -3264,11 +3274,11 @@
             "ID": 465,
             "TeamName": "G2",
             "MapName": "LABS",
-            "Elo": 1460.8408173150492,
+            "Elo": 1470.0352364973496,
             "Region": "EU",
-            "LastGameUpdated": 575,
+            "LastGameUpdated": 2,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 574,
@@ -3694,11 +3704,11 @@
             "ID": 125,
             "TeamName": "ITB",
             "MapName": "BORDER",
-            "Elo": 1513.5553895291775,
+            "Elo": 1500.0988401063585,
             "Region": "EU",
-            "LastGameUpdated": 676,
+            "LastGameUpdated": 1,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 122,
@@ -3724,31 +3734,31 @@
             "ID": 110,
             "TeamName": "ITB",
             "MapName": "CONS",
-            "Elo": 1506.2187214181827,
+            "Elo": 1492.8574720097483,
             "Region": "EU",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 3,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 567,
             "TeamName": "ITB",
             "MapName": "KAFE",
-            "Elo": 1511.363088042924,
+            "Elo": 1497.5492201985471,
             "Region": "EU",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 473,
             "TeamName": "ITB",
             "MapName": "LABS",
-            "Elo": 1492.2444262904128,
+            "Elo": 1500.1268657284418,
             "Region": "EU",
             "LastGameUpdated": 3,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 565,
@@ -4627,6 +4637,36 @@
             "Elo": 1503.0394356511829,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 308,
+            "MajorCount": 0,
+            "RegionalCount": 2
+        },
+        {
+            "ID": 787,
+            "TeamName": "MACKO",
+            "MapName": "CONS",
+            "Elo": 1398.0756837369472,
+            "Region": "EU",
+            "LastGameUpdated": 3,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 786,
+            "TeamName": "MACKO",
+            "MapName": "KAFE",
+            "Elo": 1385.6185146243806,
+            "Region": "EU",
+            "LastGameUpdated": 3,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 785,
+            "TeamName": "MACKO",
+            "MapName": "LABS",
+            "Elo": 1349.6494946946827,
+            "Region": "EU",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -7364,11 +7404,11 @@
             "ID": 690,
             "TeamName": "WCG",
             "MapName": "KAFE",
-            "Elo": 1479.7611675500452,
+            "Elo": 1490.4566028796426,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 1,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 355,
@@ -7811,5 +7851,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 11, 2025, 00:26"
+    "Date": "Jan 11, 2025, 22:57"
 }

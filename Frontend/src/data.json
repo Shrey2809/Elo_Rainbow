@@ -143,8 +143,8 @@
         {
             "ID": 21,
             "TeamName": "ITB",
-            "Elo": 1494.2915147471294,
-            "LastGameUpdated": 6,
+            "Elo": 1462.9987979134737,
+            "LastGameUpdated": 3,
             "Region": "EU"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1497.2817181070848,
-            "LastGameUpdated": 34,
+            "Elo": 1505.5553647920726,
+            "LastGameUpdated": 2,
             "Region": "EU"
         },
         {
@@ -304,8 +304,8 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1477.7345691545781,
-            "LastGameUpdated": 70,
+            "Elo": 1463.2764498331096,
+            "LastGameUpdated": 1,
             "Region": "LATAM"
         },
         {
@@ -388,8 +388,8 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1490.291275459225,
-            "LastGameUpdated": 6,
+            "Elo": 1504.7493947806936,
+            "LastGameUpdated": 1,
             "Region": "NORTH AMERICA"
         },
         {
@@ -748,7 +748,21 @@
             "Elo": 1411.795410652082,
             "LastGameUpdated": 13,
             "Region": "BR"
+        },
+        {
+            "ID": 108,
+            "TeamName": "ASP",
+            "Elo": 1388.304635820155,
+            "LastGameUpdated": 1,
+            "Region": "EU"
+        },
+        {
+            "ID": 109,
+            "TeamName": "MACKO",
+            "Elo": 1384.7144343285129,
+            "LastGameUpdated": 3,
+            "Region": "EU"
         }
     ],
-    "Date": "Jan 11, 2025, 00:26"
+    "Date": "Jan 11, 2025, 22:57"
 }
