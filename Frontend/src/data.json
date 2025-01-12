@@ -402,8 +402,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1447.4188892628715,
-            "LastGameUpdated": 7,
+            "Elo": 1462.9039898670883,
+            "LastGameUpdated": 2,
             "Region": "NORTH AMERICA"
         },
         {
@@ -762,7 +762,14 @@
             "Elo": 1374.7308884303436,
             "LastGameUpdated": 2,
             "Region": "EU"
+        },
+        {
+            "ID": 110,
+            "TeamName": "LIS",
+            "Elo": 1359.5148993957832,
+            "LastGameUpdated": 2,
+            "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Jan 11, 2025, 23:26"
+    "Date": "Jan 12, 2025, 03:26"
 }

@@ -4301,6 +4301,26 @@
             "RegionalCount": 4
         },
         {
+            "ID": 791,
+            "TeamName": "LIS",
+            "MapName": "BORDER",
+            "Elo": 1354.6056514839997,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 790,
+            "TeamName": "LIS",
+            "MapName": "KAFE",
+            "Elo": 1357.0845536045422,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 331,
             "TeamName": "LOS",
             "MapName": "BANK",
@@ -5654,11 +5674,11 @@
             "ID": 323,
             "TeamName": "OXG",
             "MapName": "BORDER",
-            "Elo": 1484.6783283566192,
+            "Elo": 1489.5875762684027,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 650,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 341,
@@ -5694,11 +5714,11 @@
             "ID": 364,
             "TeamName": "OXG",
             "MapName": "KAFE",
-            "Elo": 1496.5283874491038,
+            "Elo": 1504.5122242328753,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 366,
@@ -7871,5 +7891,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 11, 2025, 23:26"
+    "Date": "Jan 12, 2025, 03:26"
 }
