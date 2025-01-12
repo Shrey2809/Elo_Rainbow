@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1515.538910690242,
-            "LastGameUpdated": 2,
+            "Elo": 1553.2743635781658,
+            "LastGameUpdated": 6,
             "Region": "EU"
         },
         {
@@ -752,15 +752,15 @@
         {
             "ID": 108,
             "TeamName": "ASP",
-            "Elo": 1412.5393357466678,
-            "LastGameUpdated": 1,
+            "Elo": 1387.5511181954855,
+            "LastGameUpdated": 6,
             "Region": "EU"
         },
         {
             "ID": 109,
             "TeamName": "MACKO",
-            "Elo": 1374.7308884303436,
-            "LastGameUpdated": 2,
+            "Elo": 1361.9836530936022,
+            "LastGameUpdated": 5,
             "Region": "EU"
         },
         {
@@ -771,5 +771,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Jan 12, 2025, 06:22"
+    "Date": "Jan 12, 2025, 21:33"
 }

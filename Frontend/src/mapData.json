@@ -461,12 +461,32 @@
             "RegionalCount": 5
         },
         {
+            "ID": 798,
+            "TeamName": "ASP",
+            "MapName": "BANK",
+            "Elo": 1371.907357775479,
+            "Region": "EU",
+            "LastGameUpdated": 6,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 784,
             "TeamName": "ASP",
             "MapName": "BORDER",
-            "Elo": 1401.761185242974,
+            "Elo": 1412.836293742422,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 5,
+            "MajorCount": 0,
+            "RegionalCount": 2
+        },
+        {
+            "ID": 796,
+            "TeamName": "ASP",
+            "MapName": "CONS",
+            "Elo": 1388.8936818615146,
+            "Region": "EU",
+            "LastGameUpdated": 5,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -474,9 +494,19 @@
             "ID": 788,
             "TeamName": "ASP",
             "MapName": "KAFE",
-            "Elo": 1437.3375263575017,
+            "Elo": 1424.1427906771655,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 6,
+            "MajorCount": 0,
+            "RegionalCount": 4
+        },
+        {
+            "ID": 795,
+            "TeamName": "ASP",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1387.8194015883023,
+            "Region": "EU",
+            "LastGameUpdated": 4,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -3224,11 +3254,11 @@
             "ID": 113,
             "TeamName": "G2",
             "MapName": "BANK",
-            "Elo": 1464.45875063981,
+            "Elo": 1480.1025110598164,
             "Region": "EU",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 6,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 760,
@@ -3274,11 +3304,11 @@
             "ID": 149,
             "TeamName": "G2",
             "MapName": "KAFE",
-            "Elo": 1499.7618264155712,
+            "Elo": 1521.827788592762,
             "Region": "EU",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 5
         },
         {
             "ID": 465,
@@ -3314,11 +3344,11 @@
             "ID": 468,
             "TeamName": "G2",
             "MapName": "SKYSCRAPER",
-            "Elo": 1484.9672964805022,
+            "Elo": 1492.442122569457,
             "Region": "EU",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 4,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 415,
@@ -4701,6 +4731,16 @@
             "RegionalCount": 2
         },
         {
+            "ID": 797,
+            "TeamName": "MACKO",
+            "MapName": "BORDER",
+            "Elo": 1350.9085445941544,
+            "Region": "EU",
+            "LastGameUpdated": 5,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 789,
             "TeamName": "MACKO",
             "MapName": "CHALET",
@@ -4714,21 +4754,21 @@
             "ID": 787,
             "TeamName": "MACKO",
             "MapName": "CONS",
-            "Elo": 1398.0756837369472,
+            "Elo": 1405.5385740332777,
             "Region": "EU",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 786,
             "TeamName": "MACKO",
             "MapName": "KAFE",
-            "Elo": 1385.6185146243806,
+            "Elo": 1376.747288127526,
             "Region": "EU",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 785,
@@ -7921,5 +7961,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 12, 2025, 06:22"
+    "Date": "Jan 12, 2025, 21:33"
 }
