@@ -388,7 +388,7 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 1536.4056571897383,
+            "Elo": 1520.463065684681,
             "LastGameUpdated": 4,
             "Region": "NORTH AMERICA"
         },
@@ -402,7 +402,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1438.1836718999225,
+            "Elo": 1454.12626340498,
             "LastGameUpdated": 4,
             "Region": "NORTH AMERICA"
         },
@@ -771,5 +771,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Jan 12, 2025, 22:48"
+    "Date": "Jan 12, 2025, 23:48"
 }
