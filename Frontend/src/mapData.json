@@ -4311,6 +4311,16 @@
             "RegionalCount": 1
         },
         {
+            "ID": 792,
+            "TeamName": "LIS",
+            "MapName": "CHALET",
+            "Elo": 1386.3719631347774,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 790,
             "TeamName": "LIS",
             "MapName": "KAFE",
@@ -5684,11 +5694,11 @@
             "ID": 341,
             "TeamName": "OXG",
             "MapName": "CHALET",
-            "Elo": 1518.1974984148867,
+            "Elo": 1504.2313780397246,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 2,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 334,
