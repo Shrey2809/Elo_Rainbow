@@ -5784,11 +5784,11 @@
             "ID": 364,
             "TeamName": "OXG",
             "MapName": "KAFE",
-            "Elo": 1504.5122242328753,
+            "Elo": 1488.9057251153238,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 366,
@@ -7514,11 +7514,11 @@
             "ID": 690,
             "TeamName": "WCG",
             "MapName": "KAFE",
-            "Elo": 1490.4566028796426,
+            "Elo": 1506.063101997194,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 4,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 355,
@@ -7961,5 +7961,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 12, 2025, 22:37"
+    "Date": "Jan 12, 2025, 22:48"
 }
