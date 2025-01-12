@@ -1674,11 +1674,11 @@
             "ID": 661,
             "TeamName": "CTY",
             "MapName": "LABS",
-            "Elo": 1432.5334407399178,
+            "Elo": 1418.4196558533029,
             "Region": "LATAM",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 265,
@@ -4327,6 +4327,16 @@
             "Elo": 1357.0845536045422,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 2,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 793,
+            "TeamName": "LIS",
+            "MapName": "LABS",
+            "Elo": 1401.5405927821048,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 3,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -7901,5 +7911,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 12, 2025, 03:26"
+    "Date": "Jan 12, 2025, 04:41"
 }
