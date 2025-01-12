@@ -1624,11 +1624,11 @@
             "ID": 235,
             "TeamName": "CTY",
             "MapName": "BORDER",
-            "Elo": 1372.394881835942,
+            "Elo": 1386.6275294696331,
             "Region": "LATAM",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 3,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 217,
@@ -1694,11 +1694,11 @@
             "ID": 230,
             "TeamName": "CTY",
             "MapName": "SKYSCRAPER",
-            "Elo": 1364.4321795051883,
+            "Elo": 1382.3124218440187,
             "Region": "LATAM",
-            "LastGameUpdated": 58,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 31,
@@ -4304,11 +4304,11 @@
             "ID": 791,
             "TeamName": "LIS",
             "MapName": "BORDER",
-            "Elo": 1354.6056514839997,
+            "Elo": 1340.3730038503086,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 3,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 792,
@@ -4335,6 +4335,16 @@
             "TeamName": "LIS",
             "MapName": "LABS",
             "Elo": 1401.5405927821048,
+            "Region": "NORTH AMERICA",
+            "LastGameUpdated": 3,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
+            "ID": 794,
+            "TeamName": "LIS",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1354.1022523497086,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 3,
             "MajorCount": 0,
@@ -7911,5 +7921,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 12, 2025, 04:41"
+    "Date": "Jan 12, 2025, 06:22"
 }

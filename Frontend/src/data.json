@@ -304,7 +304,7 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1428.428596891524,
+            "Elo": 1455.8127012401044,
             "LastGameUpdated": 3,
             "Region": "LATAM"
         },
@@ -766,10 +766,10 @@
         {
             "ID": 110,
             "TeamName": "LIS",
-            "Elo": 1387.42680789549,
+            "Elo": 1360.0427035469095,
             "LastGameUpdated": 3,
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Jan 12, 2025, 04:41"
+    "Date": "Jan 12, 2025, 06:22"
 }
