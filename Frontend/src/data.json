@@ -304,8 +304,8 @@
         {
             "ID": 44,
             "TeamName": "CTY",
-            "Elo": 1455.8127012401044,
-            "LastGameUpdated": 3,
+            "Elo": 1463.2164275566633,
+            "LastGameUpdated": 5,
             "Region": "LATAM"
         },
         {
@@ -402,8 +402,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1443.984336379515,
-            "LastGameUpdated": 4,
+            "Elo": 1436.580610062956,
+            "LastGameUpdated": 5,
             "Region": "NORTH AMERICA"
         },
         {
@@ -771,5 +771,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Jan 13, 2025, 00:49"
+    "Date": "Jan 13, 2025, 03:23"
 }

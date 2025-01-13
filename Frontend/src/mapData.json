@@ -1644,11 +1644,11 @@
             "ID": 262,
             "TeamName": "CTY",
             "MapName": "BANK",
-            "Elo": 1351.4626552685847,
+            "Elo": 1346.6507297408164,
             "Region": "LATAM",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 5,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 235,
@@ -1684,11 +1684,11 @@
             "ID": 211,
             "TeamName": "CTY",
             "MapName": "CONS",
-            "Elo": 1362.7567079177409,
+            "Elo": 1382.0011314922153,
             "Region": "LATAM",
-            "LastGameUpdated": 69,
+            "LastGameUpdated": 5,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 531,
@@ -5734,11 +5734,11 @@
             "ID": 352,
             "TeamName": "OXG",
             "MapName": "BANK",
-            "Elo": 1481.771940695037,
+            "Elo": 1486.5838662228055,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 323,
@@ -5774,11 +5774,11 @@
             "ID": 346,
             "TeamName": "OXG",
             "MapName": "CONS",
-            "Elo": 1463.825194595655,
+            "Elo": 1444.5807710211805,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 5,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 364,
@@ -7961,5 +7961,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 13, 2025, 00:49"
+    "Date": "Jan 13, 2025, 03:23"
 }
