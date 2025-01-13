@@ -5734,11 +5734,11 @@
             "ID": 352,
             "TeamName": "OXG",
             "MapName": "BANK",
-            "Elo": 1486.5838662228055,
+            "Elo": 1503.7823468367633,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 323,
@@ -7464,11 +7464,11 @@
             "ID": 330,
             "TeamName": "WCG",
             "MapName": "BANK",
-            "Elo": 1537.8752914131248,
+            "Elo": 1520.676810799167,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 549,
@@ -7961,5 +7961,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 13, 2025, 04:58"
+    "Date": "Jan 13, 2025, 05:37"
 }
