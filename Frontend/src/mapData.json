@@ -5764,11 +5764,11 @@
             "ID": 334,
             "TeamName": "OXG",
             "MapName": "CLUB",
-            "Elo": 1513.7811861103412,
+            "Elo": 1522.6796852498587,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 346,
@@ -7494,11 +7494,11 @@
             "ID": 575,
             "TeamName": "WCG",
             "MapName": "CLUB",
-            "Elo": 1410.7613473925849,
+            "Elo": 1401.8628482530673,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 577,
@@ -7961,5 +7961,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Jan 13, 2025, 03:23"
+    "Date": "Jan 13, 2025, 04:58"
 }
