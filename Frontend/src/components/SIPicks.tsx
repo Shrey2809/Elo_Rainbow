@@ -159,7 +159,7 @@ export default function TierListMaker() {
                       <Popover>
                         <PopoverTrigger asChild>
                           <button className="mt-2 bg-myFifthColor text-myDarkColor font-bold px-4 py-2 rounded-2xl">
-                            Pick Team
+                            Pick
                           </button>
                         </PopoverTrigger>
                         <PopoverContent className="bg-mySecondCellColor p-4 rounded-2xl">
@@ -197,7 +197,7 @@ export default function TierListMaker() {
               onClick={() => handleClearPicks(group)}
               className="mt-4 bg-myFourthColor text-black font-bold px-4 py-2 rounded-2xl"
               >
-                Clear Picks
+                Clear
               </button>
             </div>
           </div>
