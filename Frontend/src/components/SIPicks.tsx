@@ -78,7 +78,7 @@ export default function TierListMaker() {
     "Team Secret": "#000000",
     "DarkZero Esports": "#240238",
     "PSG Talon": "#004170",
-    "RazaH Company Academy": "#7a4801",
+    "RazaH Company Academy": "#ff9600",
     "Team BDS": "#043482",
     "Team Falcons": "#005732",
     "Oxygen Esports": "#0e4f36",
@@ -90,7 +90,7 @@ export default function TierListMaker() {
   };
   
   const getPrimaryColor = (team: string) => {
-    return primaryColorMap[team] || "#000000"; // Default to black if no color is defined
+    return primaryColorMap[team] || "#2F3037"; // Default to black if no color is defined
   };
 
   return (
