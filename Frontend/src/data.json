@@ -708,40 +708,12 @@
             "Region": "JAPAN"
         },
         {
-            "ID": 102,
-            "TeamName": "ITBA",
-            "Elo": 1459.582555519367,
-            "LastGameUpdated": 1187,
-            "Region": "EU"
-        },
-        {
-            "ID": 104,
-            "TeamName": "PX",
-            "Elo": 1470.7673807969406,
-            "LastGameUpdated": 1197,
-            "Region": "EU"
-        },
-        {
             "ID": 105,
             "TeamName": "CL4L",
             "Elo": 1472.5902296107117,
             "LastGameUpdated": 1268,
             "Region": "NORTH AMERICA"
-        },
-        {
-            "ID": 106,
-            "TeamName": "ELVA",
-            "Elo": 1485.5137166283753,
-            "LastGameUpdated": 1220,
-            "Region": "BR"
-        },
-        {
-            "ID": 108,
-            "TeamName": "MACKO",
-            "Elo": 1465.6068833602371,
-            "LastGameUpdated": 1395,
-            "Region": "EU"
         }
     ],
-    "Date": "Feb 04, 2025, 00:48"
+    "Date": "Feb 04, 2025, 00:49"
 }

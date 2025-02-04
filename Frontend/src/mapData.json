@@ -2061,36 +2061,6 @@
             "RegionalCount": 1
         },
         {
-            "ID": 763,
-            "TeamName": "ELVA",
-            "MapName": "CLUB",
-            "Elo": 1486.0592205476817,
-            "Region": "BR",
-            "LastGameUpdated": 1219,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 762,
-            "TeamName": "ELVA",
-            "MapName": "LABS",
-            "Elo": 1512.8958784590382,
-            "Region": "BR",
-            "LastGameUpdated": 1218,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 764,
-            "TeamName": "ELVA",
-            "MapName": "SKYSCRAPER",
-            "Elo": 1478.5772413794266,
-            "Region": "BR",
-            "LastGameUpdated": 1220,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 573,
             "TeamName": "ENCE",
             "MapName": "BORDER",
@@ -3491,26 +3461,6 @@
             "RegionalCount": 1
         },
         {
-            "ID": 748,
-            "TeamName": "ITBA",
-            "MapName": "BANK",
-            "Elo": 1480.3981633191283,
-            "Region": "EU",
-            "LastGameUpdated": 1187,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 747,
-            "TeamName": "ITBA",
-            "MapName": "CLUB",
-            "Elo": 1485.0940902622287,
-            "Region": "EU",
-            "LastGameUpdated": 1186,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 469,
             "TeamName": "JOEL",
             "MapName": "BANK",
@@ -4437,56 +4387,6 @@
             "Elo": 1503.0394356511829,
             "Region": "NORTH AMERICA",
             "LastGameUpdated": 308,
-            "MajorCount": 0,
-            "RegionalCount": 2
-        },
-        {
-            "ID": 788,
-            "TeamName": "MACKO",
-            "MapName": "BORDER",
-            "Elo": 1485.5604521400924,
-            "Region": "EU",
-            "LastGameUpdated": 1377,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 794,
-            "TeamName": "MACKO",
-            "MapName": "CHALET",
-            "Elo": 1481.7979485666642,
-            "Region": "EU",
-            "LastGameUpdated": 1395,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 784,
-            "TeamName": "MACKO",
-            "MapName": "CONS",
-            "Elo": 1522.3987411040553,
-            "Region": "EU",
-            "LastGameUpdated": 1376,
-            "MajorCount": 0,
-            "RegionalCount": 2
-        },
-        {
-            "ID": 783,
-            "TeamName": "MACKO",
-            "MapName": "KAFE",
-            "Elo": 1498.4959986520928,
-            "Region": "EU",
-            "LastGameUpdated": 1375,
-            "MajorCount": 0,
-            "RegionalCount": 2
-        },
-        {
-            "ID": 782,
-            "TeamName": "MACKO",
-            "MapName": "LABS",
-            "Elo": 1468.1350691784874,
-            "Region": "EU",
-            "LastGameUpdated": 1370,
             "MajorCount": 0,
             "RegionalCount": 2
         },
@@ -5807,26 +5707,6 @@
             "Elo": 1335,
             "Region": "MENA",
             "LastGameUpdated": 279,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 754,
-            "TeamName": "PX",
-            "MapName": "CHALET",
-            "Elo": 1487.7316219952259,
-            "Region": "EU",
-            "LastGameUpdated": 1197,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 753,
-            "TeamName": "PX",
-            "MapName": "CONS",
-            "Elo": 1483.5753412546464,
-            "Region": "EU",
-            "LastGameUpdated": 1196,
             "MajorCount": 0,
             "RegionalCount": 1
         },
@@ -7831,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 00:48"
+    "Date": "Feb 04, 2025, 00:49"
 }
