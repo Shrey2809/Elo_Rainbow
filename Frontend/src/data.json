@@ -715,13 +715,6 @@
             "Region": "EU"
         },
         {
-            "ID": 103,
-            "TeamName": "SSGA",
-            "Elo": 1489.1408894298722,
-            "LastGameUpdated": 1190,
-            "Region": "NORTH AMERICA"
-        },
-        {
             "ID": 104,
             "TeamName": "PX",
             "Elo": 1470.7673807969406,
@@ -743,26 +736,12 @@
             "Region": "BR"
         },
         {
-            "ID": 107,
-            "TeamName": "ASP",
-            "Elo": 1493.3540882293398,
-            "LastGameUpdated": 1394,
-            "Region": "EU"
-        },
-        {
             "ID": 108,
             "TeamName": "MACKO",
             "Elo": 1465.6068833602371,
             "LastGameUpdated": 1395,
             "Region": "EU"
-        },
-        {
-            "ID": 109,
-            "TeamName": "LIS",
-            "Elo": 1459.6529365643967,
-            "LastGameUpdated": 1396,
-            "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 00:42"
+    "Date": "Feb 04, 2025, 00:48"
 }

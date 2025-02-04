@@ -461,56 +461,6 @@
             "RegionalCount": 5
         },
         {
-            "ID": 789,
-            "TeamName": "ASP",
-            "MapName": "BANK",
-            "Elo": 1474.9527749633785,
-            "Region": "EU",
-            "LastGameUpdated": 1379,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 781,
-            "TeamName": "ASP",
-            "MapName": "BORDER",
-            "Elo": 1527.4269948938336,
-            "Region": "EU",
-            "LastGameUpdated": 1377,
-            "MajorCount": 0,
-            "RegionalCount": 2
-        },
-        {
-            "ID": 787,
-            "TeamName": "ASP",
-            "MapName": "CONS",
-            "Elo": 1490.3672700705024,
-            "Region": "EU",
-            "LastGameUpdated": 1376,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 785,
-            "TeamName": "ASP",
-            "MapName": "KAFE",
-            "Elo": 1504.0533392671261,
-            "Region": "EU",
-            "LastGameUpdated": 1394,
-            "MajorCount": 0,
-            "RegionalCount": 4
-        },
-        {
-            "ID": 786,
-            "TeamName": "ASP",
-            "MapName": "SKYSCRAPER",
-            "Elo": 1488.1810604389511,
-            "Region": "EU",
-            "LastGameUpdated": 1374,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 738,
             "TeamName": "BB",
             "MapName": "CONS",
@@ -4141,56 +4091,6 @@
             "RegionalCount": 4
         },
         {
-            "ID": 791,
-            "TeamName": "LIS",
-            "MapName": "BORDER",
-            "Elo": 1466.6004543484833,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1386,
-            "MajorCount": 0,
-            "RegionalCount": 2
-        },
-        {
-            "ID": 795,
-            "TeamName": "LIS",
-            "MapName": "CHALET",
-            "Elo": 1513.1541096017625,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1396,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 790,
-            "TeamName": "LIS",
-            "MapName": "KAFE",
-            "Elo": 1484.8492134351545,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1382,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 792,
-            "TeamName": "LIS",
-            "MapName": "LABS",
-            "Elo": 1509.121356681179,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1384,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 793,
-            "TeamName": "LIS",
-            "MapName": "SKYSCRAPER",
-            "Elo": 1472.6596987462608,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1385,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 331,
             "TeamName": "LOS",
             "MapName": "BANK",
@@ -6551,36 +6451,6 @@
             "RegionalCount": 2
         },
         {
-            "ID": 749,
-            "TeamName": "SSGA",
-            "MapName": "BANK",
-            "Elo": 1513.932491424832,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1188,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 751,
-            "TeamName": "SSGA",
-            "MapName": "CONS",
-            "Elo": 1488.5686256775575,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1190,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
-            "ID": 750,
-            "TeamName": "SSGA",
-            "MapName": "LAIR",
-            "Elo": 1483.6317219390212,
-            "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1189,
-            "MajorCount": 0,
-            "RegionalCount": 1
-        },
-        {
             "ID": 382,
             "TeamName": "SUPERNOVA",
             "MapName": "BANK",
@@ -7961,5 +7831,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 00:42"
+    "Date": "Feb 04, 2025, 00:48"
 }
