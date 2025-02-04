@@ -5354,11 +5354,11 @@
             "ID": 323,
             "TeamName": "OXG",
             "MapName": "BORDER",
-            "Elo": 1479.1241553684577,
+            "Elo": 1458.7322034437966,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1389,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 341,
@@ -7604,11 +7604,11 @@
             "ID": 82,
             "TeamName": "w7m",
             "MapName": "BORDER",
-            "Elo": 1511.7715025657697,
+            "Elo": 1532.1634544904307,
             "Region": "BR",
-            "LastGameUpdated": 1275,
+            "LastGameUpdated": 6,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 54,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 00:49"
+    "Date": "Feb 04, 2025, 00:51"
 }
