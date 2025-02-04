@@ -136,7 +136,7 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1640.2988169846542,
+            "Elo": 1662.0614249311373,
             "LastGameUpdated": 15,
             "Region": "EU"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1670.9980985745797,
+            "Elo": 1649.2354906280966,
             "LastGameUpdated": 15,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 22:53"
+    "Date": "Feb 04, 2025, 23:50"
 }

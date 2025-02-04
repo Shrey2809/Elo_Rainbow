@@ -6134,11 +6134,11 @@
             "ID": 332,
             "TeamName": "SR",
             "MapName": "BANK",
-            "Elo": 1433.1420131691534,
+            "Elo": 1420.0628668114298,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 15,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 556,
@@ -6494,11 +6494,11 @@
             "ID": 129,
             "TeamName": "Secret",
             "MapName": "BANK",
-            "Elo": 1558.5457841010523,
+            "Elo": 1571.624930458776,
             "Region": "EU",
-            "LastGameUpdated": 1313,
+            "LastGameUpdated": 15,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 780,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 22:53"
+    "Date": "Feb 04, 2025, 23:50"
 }
