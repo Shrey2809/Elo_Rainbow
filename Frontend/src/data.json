@@ -185,7 +185,7 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1675.223347828249,
+            "Elo": 1687.4893962969654,
             "LastGameUpdated": 13,
             "Region": "EU"
         },
@@ -402,7 +402,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1504.705844397833,
+            "Elo": 1492.4397959291166,
             "LastGameUpdated": 13,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 22:49"
+    "Date": "Feb 04, 2025, 22:53"
 }

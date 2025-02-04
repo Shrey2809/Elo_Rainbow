@@ -5374,11 +5374,11 @@
             "ID": 334,
             "TeamName": "OXG",
             "MapName": "CLUB",
-            "Elo": 1526.1226925574424,
+            "Elo": 1500.3096347554251,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1392,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 346,
@@ -7114,11 +7114,11 @@
             "ID": 123,
             "TeamName": "VP",
             "MapName": "CLUB",
-            "Elo": 1474.5892178825975,
+            "Elo": 1500.4022756846148,
             "Region": "EU",
-            "LastGameUpdated": 1314,
+            "LastGameUpdated": 13,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 568,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 22:49"
+    "Date": "Feb 04, 2025, 22:53"
 }
