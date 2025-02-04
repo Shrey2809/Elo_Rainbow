@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1660.9036600046024,
-            "LastGameUpdated": 1324,
+            "Elo": 1640.2988169846542,
+            "LastGameUpdated": 15,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1659.7600086263521,
-            "LastGameUpdated": 5,
+            "Elo": 1675.223347828249,
+            "LastGameUpdated": 13,
             "Region": "EU"
         },
         {
@@ -402,8 +402,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1520.1691835997299,
-            "LastGameUpdated": 6,
+            "Elo": 1504.705844397833,
+            "LastGameUpdated": 13,
             "Region": "NORTH AMERICA"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1650.3932555546314,
-            "LastGameUpdated": 7,
+            "Elo": 1670.9980985745797,
+            "LastGameUpdated": 15,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 20:42"
+    "Date": "Feb 04, 2025, 22:49"
 }

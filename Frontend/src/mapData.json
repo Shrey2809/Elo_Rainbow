@@ -5364,11 +5364,11 @@
             "ID": 341,
             "TeamName": "OXG",
             "MapName": "CHALET",
-            "Elo": 1505.0433888131242,
+            "Elo": 1475.3801265806399,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1396,
+            "LastGameUpdated": 13,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 334,
@@ -6164,11 +6164,11 @@
             "ID": 312,
             "TeamName": "SR",
             "MapName": "CLUB",
-            "Elo": 1595.8280217457204,
+            "Elo": 1611.3149812257557,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1318,
+            "LastGameUpdated": 15,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 327,
@@ -6534,11 +6534,11 @@
             "ID": 109,
             "TeamName": "Secret",
             "MapName": "CLUB",
-            "Elo": 1516.0556133303994,
+            "Elo": 1500.5686538503642,
             "Region": "EU",
-            "LastGameUpdated": 1311,
+            "LastGameUpdated": 15,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 137,
@@ -7104,11 +7104,11 @@
             "ID": 146,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1439.4683398406055,
+            "Elo": 1469.1316020730899,
             "Region": "EU",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 13,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 123,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 20:42"
+    "Date": "Feb 04, 2025, 22:49"
 }
