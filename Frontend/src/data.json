@@ -59,14 +59,14 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1751.6200409695982,
+            "Elo": 1768.7796500102747,
             "LastGameUpdated": 7,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1795.2952381021314,
+            "Elo": 1805.106857442582,
             "LastGameUpdated": 6,
             "Region": "BR"
         },
@@ -402,7 +402,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1529.9808029401804,
+            "Elo": 1520.1691835997299,
             "LastGameUpdated": 6,
             "Region": "NORTH AMERICA"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1667.552864595308,
+            "Elo": 1650.3932555546314,
             "LastGameUpdated": 7,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 00:51"
+    "Date": "Feb 04, 2025, 01:43"
 }

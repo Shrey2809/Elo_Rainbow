@@ -2704,11 +2704,11 @@
             "ID": 80,
             "TeamName": "FaZe",
             "MapName": "BANK",
-            "Elo": 1559.3257409633936,
+            "Elo": 1574.8949272743841,
             "Region": "BR",
-            "LastGameUpdated": 1321,
+            "LastGameUpdated": 7,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 477,
@@ -5394,11 +5394,11 @@
             "ID": 364,
             "TeamName": "OXG",
             "MapName": "KAFE",
-            "Elo": 1494.9492672039503,
+            "Elo": 1473.278257204399,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1387,
+            "LastGameUpdated": 6,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 366,
@@ -6134,11 +6134,11 @@
             "ID": 332,
             "TeamName": "SR",
             "MapName": "BANK",
-            "Elo": 1448.711199480144,
+            "Elo": 1433.1420131691534,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1321,
+            "LastGameUpdated": 7,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 556,
@@ -7644,11 +7644,11 @@
             "ID": 44,
             "TeamName": "w7m",
             "MapName": "KAFE",
-            "Elo": 1569.7264674034718,
+            "Elo": 1591.397477403023,
             "Region": "BR",
-            "LastGameUpdated": 1337,
+            "LastGameUpdated": 6,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 102,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 00:51"
+    "Date": "Feb 04, 2025, 01:43"
 }
