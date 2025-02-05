@@ -73,7 +73,7 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1555.3316652398541,
+            "Elo": 1536.8023752098622,
             "LastGameUpdated": 18,
             "Region": "BR"
         },
@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1647.3507698040262,
+            "Elo": 1665.880059834018,
             "LastGameUpdated": 18,
             "Region": "EU"
         },
@@ -367,7 +367,7 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1652.929064545028,
+            "Elo": 1634.4481449306618,
             "LastGameUpdated": 22,
             "Region": "MENA"
         },
@@ -423,7 +423,7 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1679.3691164981883,
+            "Elo": 1697.8500361125546,
             "LastGameUpdated": 22,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 18:44"
+    "Date": "Feb 05, 2025, 20:03"
 }

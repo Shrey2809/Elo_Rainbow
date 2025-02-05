@@ -1734,11 +1734,11 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1484.6206920639465,
+            "Elo": 1501.1951597802433,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1272,
+            "LastGameUpdated": 22,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 337,
@@ -2234,11 +2234,11 @@
             "ID": 772,
             "TeamName": "FLCS",
             "MapName": "BORDER",
-            "Elo": 1424.520740943763,
+            "Elo": 1407.9462732274662,
             "Region": "MENA",
-            "LastGameUpdated": 1272,
+            "LastGameUpdated": 22,
             "MajorCount": 2,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 293,
@@ -2914,11 +2914,11 @@
             "ID": 120,
             "TeamName": "G2",
             "MapName": "CHALET",
-            "Elo": 1504.2564154147228,
+            "Elo": 1537.793319109095,
             "Region": "EU",
-            "LastGameUpdated": 1395,
+            "LastGameUpdated": 18,
             "MajorCount": 2,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 131,
@@ -4224,11 +4224,11 @@
             "ID": 91,
             "TeamName": "Liquid",
             "MapName": "CHALET",
-            "Elo": 1627.860993420998,
+            "Elo": 1594.324089726626,
             "Region": "BR",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 18,
             "MajorCount": 6,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 463,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 18:44"
+    "Date": "Feb 05, 2025, 20:03"
 }
