@@ -6204,11 +6204,11 @@
             "ID": 578,
             "TeamName": "SR",
             "MapName": "LAIR",
-            "Elo": 1501.326951681581,
+            "Elo": 1534.0879104273968,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1320,
+            "LastGameUpdated": 15,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 319,
@@ -6254,11 +6254,11 @@
             "ID": 479,
             "TeamName": "SSG",
             "MapName": "CHALET",
-            "Elo": 1516.6001644187868,
+            "Elo": 1542.2242591672507,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 14,
             "MajorCount": 5,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 315,
@@ -6274,11 +6274,11 @@
             "ID": 326,
             "TeamName": "SSG",
             "MapName": "CONS",
-            "Elo": 1458.836893170364,
+            "Elo": 1482.1964171923216,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1308,
+            "LastGameUpdated": 14,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 321,
@@ -6434,11 +6434,11 @@
             "ID": 176,
             "TeamName": "SZ",
             "MapName": "CHALET",
-            "Elo": 1492.8630735232607,
+            "Elo": 1467.2389787747968,
             "Region": "JAPAN",
-            "LastGameUpdated": 1286,
+            "LastGameUpdated": 14,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 190,
@@ -6454,11 +6454,11 @@
             "ID": 169,
             "TeamName": "SZ",
             "MapName": "CONS",
-            "Elo": 1380.6380461825645,
+            "Elo": 1357.2785221606068,
             "Region": "JAPAN",
-            "LastGameUpdated": 1301,
+            "LastGameUpdated": 14,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 179,
@@ -6574,11 +6574,11 @@
             "ID": 572,
             "TeamName": "Secret",
             "MapName": "LAIR",
-            "Elo": 1504.116745627173,
+            "Elo": 1471.3557868813573,
             "Region": "EU",
-            "LastGameUpdated": 1323,
+            "LastGameUpdated": 15,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 140,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 04, 2025, 23:50"
+    "Date": "Feb 05, 2025, 01:04"
 }

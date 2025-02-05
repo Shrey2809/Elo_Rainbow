@@ -136,7 +136,7 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1662.0614249311373,
+            "Elo": 1628.3621994380294,
             "LastGameUpdated": 15,
             "Region": "EU"
         },
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1535.8176098368347,
-            "LastGameUpdated": 1301,
+            "Elo": 1490.891544804272,
+            "LastGameUpdated": 14,
             "Region": "JAPAN"
         },
         {
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1649.2354906280966,
+            "Elo": 1682.9347161212045,
             "LastGameUpdated": 15,
             "Region": "NORTH AMERICA"
         },
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1589.1240418460802,
-            "LastGameUpdated": 5,
+            "Elo": 1634.050106878643,
+            "LastGameUpdated": 14,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 04, 2025, 23:50"
+    "Date": "Feb 05, 2025, 01:04"
 }
