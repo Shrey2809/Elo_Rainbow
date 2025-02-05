@@ -7171,6 +7171,16 @@
             "RegionalCount": 2
         },
         {
+            "ID": 798,
+            "TeamName": "VP",
+            "MapName": "SKYSCRAPER",
+            "Elo": 1414.2152091871994,
+            "Region": "EU",
+            "LastGameUpdated": 23,
+            "MajorCount": 0,
+            "RegionalCount": 1
+        },
+        {
             "ID": 269,
             "TeamName": "VSN",
             "MapName": "CLUB",
@@ -7694,11 +7704,11 @@
             "ID": 101,
             "TeamName": "w7m",
             "MapName": "SKYSCRAPER",
-            "Elo": 1533.086282090769,
+            "Elo": 1493.8710729035695,
             "Region": "BR",
-            "LastGameUpdated": 1090,
+            "LastGameUpdated": 23,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 526,
@@ -7721,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 22:00"
+    "Date": "Feb 05, 2025, 22:39"
 }

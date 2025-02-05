@@ -66,7 +66,7 @@
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1821.952741287139,
+            "Elo": 1783.1802179692274,
             "LastGameUpdated": 23,
             "Region": "BR"
         },
@@ -185,7 +185,7 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1670.6435124524085,
+            "Elo": 1709.41603577032,
             "LastGameUpdated": 23,
             "Region": "EU"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 22:00"
+    "Date": "Feb 05, 2025, 22:39"
 }
