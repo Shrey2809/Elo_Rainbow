@@ -914,11 +914,11 @@
             "ID": 773,
             "TeamName": "CAG",
             "MapName": "LAIR",
-            "Elo": 1379.2074274414351,
+            "Elo": 1364.861446185089,
             "Region": "JAPAN",
-            "LastGameUpdated": 1271,
+            "LastGameUpdated": 16,
             "MajorCount": 2,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 467,
@@ -2764,11 +2764,11 @@
             "ID": 584,
             "TeamName": "FaZe",
             "MapName": "LAIR",
-            "Elo": 1537.358719195739,
+            "Elo": 1551.704700452085,
             "Region": "BR",
-            "LastGameUpdated": 1320,
+            "LastGameUpdated": 16,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 92,
@@ -7711,5 +7711,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 01:04"
+    "Date": "Feb 05, 2025, 02:18"
 }
