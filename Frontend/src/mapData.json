@@ -2544,11 +2544,11 @@
             "ID": 481,
             "TeamName": "FURIA",
             "MapName": "CONS",
-            "Elo": 1513.7612202243502,
+            "Elo": 1542.9782516755179,
             "Region": "BR",
-            "LastGameUpdated": 489,
+            "LastGameUpdated": 19,
             "MajorCount": 1,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 90,
@@ -6554,11 +6554,11 @@
             "ID": 137,
             "TeamName": "Secret",
             "MapName": "CONS",
-            "Elo": 1504.6914560039343,
+            "Elo": 1475.4744245527665,
             "Region": "EU",
-            "LastGameUpdated": 1105,
+            "LastGameUpdated": 19,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 777,
@@ -7124,11 +7124,11 @@
             "ID": 123,
             "TeamName": "VP",
             "MapName": "CLUB",
-            "Elo": 1500.4022756846148,
+            "Elo": 1480.9773884585566,
             "Region": "EU",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 23,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 568,
@@ -7634,11 +7634,11 @@
             "ID": 560,
             "TeamName": "w7m",
             "MapName": "CLUB",
-            "Elo": 1579.2061002649964,
+            "Elo": 1598.6309874910546,
             "Region": "BR",
-            "LastGameUpdated": 1336,
+            "LastGameUpdated": 23,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 558,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 20:34"
+    "Date": "Feb 05, 2025, 22:00"
 }

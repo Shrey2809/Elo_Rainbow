@@ -66,8 +66,8 @@
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1805.106857442582,
-            "LastGameUpdated": 6,
+            "Elo": 1821.952741287139,
+            "LastGameUpdated": 23,
             "Region": "BR"
         },
         {
@@ -115,8 +115,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1535.1172761868443,
-            "LastGameUpdated": 8,
+            "Elo": 1572.9807925058794,
+            "LastGameUpdated": 19,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1628.3621994380294,
-            "LastGameUpdated": 15,
+            "Elo": 1590.4986831189942,
+            "LastGameUpdated": 19,
             "Region": "EU"
         },
         {
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1687.4893962969654,
-            "LastGameUpdated": 13,
+            "Elo": 1670.6435124524085,
+            "LastGameUpdated": 23,
             "Region": "EU"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 20:34"
+    "Date": "Feb 05, 2025, 22:00"
 }
