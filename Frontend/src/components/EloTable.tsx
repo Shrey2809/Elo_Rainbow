@@ -46,7 +46,7 @@ type RankName = "S-Tier" | "A-Tier" | "B-Tier" | "C-Tier" | "D-Tier" | "F-Tier";
 const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
 // Create a dict for ranks based on elo ranges
 const rank: { [key in RankName]: [number, number] } = {
-  "S-Tier" : [1700, 9999],
+  "S-Tier" : [1675, 9999],
   "A-Tier" : [1550, 1674.99],
   "B-Tier" : [1425, 1549.99],
   "C-Tier" : [1300, 1424.99],
