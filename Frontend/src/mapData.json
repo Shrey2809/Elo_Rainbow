@@ -2534,11 +2534,11 @@
             "ID": 69,
             "TeamName": "FURIA",
             "MapName": "CLUB",
-            "Elo": 1538.5157418167194,
+            "Elo": 1558.568005970455,
             "Region": "BR",
-            "LastGameUpdated": 1219,
+            "LastGameUpdated": 19,
             "MajorCount": 2,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 481,
@@ -6544,11 +6544,11 @@
             "ID": 109,
             "TeamName": "Secret",
             "MapName": "CLUB",
-            "Elo": 1500.5686538503642,
+            "Elo": 1480.5163896966285,
             "Region": "EU",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 19,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 137,
@@ -7731,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 22:39"
+    "Date": "Feb 05, 2025, 22:51"
 }
