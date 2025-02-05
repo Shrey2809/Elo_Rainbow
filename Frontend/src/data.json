@@ -45,8 +45,8 @@
         {
             "ID": 7,
             "TeamName": "JOEL",
-            "Elo": 1474.956439650797,
-            "LastGameUpdated": 9,
+            "Elo": 1446.2333222365864,
+            "LastGameUpdated": 17,
             "Region": "SEA"
         },
         {
@@ -59,7 +59,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1751.8492570238948,
+            "Elo": 1769.6774618203792,
             "LastGameUpdated": 16,
             "Region": "BR"
         },
@@ -94,8 +94,8 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1503.7219550688742,
-            "LastGameUpdated": 11,
+            "Elo": 1484.4820652919195,
+            "LastGameUpdated": 21,
             "Region": "BR"
         },
         {
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1731.9365991348557,
-            "LastGameUpdated": 12,
+            "Elo": 1751.1764889118103,
+            "LastGameUpdated": 21,
             "Region": "EU"
         },
         {
@@ -220,7 +220,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1649.302184557526,
+            "Elo": 1631.4739797610416,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
@@ -444,8 +444,8 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1617.8687149532907,
-            "LastGameUpdated": 10,
+            "Elo": 1646.5918323675012,
+            "LastGameUpdated": 17,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 03:23"
+    "Date": "Feb 05, 2025, 17:07"
 }
