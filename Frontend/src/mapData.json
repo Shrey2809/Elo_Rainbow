@@ -854,11 +854,11 @@
             "ID": 171,
             "TeamName": "CAG",
             "MapName": "BORDER",
-            "Elo": 1371.004389064362,
+            "Elo": 1393.7631342437826,
             "Region": "JAPAN",
-            "LastGameUpdated": 1066,
+            "LastGameUpdated": 16,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 202,
@@ -2709,6 +2709,16 @@
             "LastGameUpdated": 7,
             "MajorCount": 3,
             "RegionalCount": 4
+        },
+        {
+            "ID": 797,
+            "TeamName": "FaZe",
+            "MapName": "BORDER",
+            "Elo": 1352.2412548205793,
+            "Region": "BR",
+            "LastGameUpdated": 16,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 477,
@@ -7711,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 02:19"
+    "Date": "Feb 05, 2025, 03:23"
 }

@@ -59,7 +59,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1784.4393747986526,
+            "Elo": 1751.8492570238948,
             "LastGameUpdated": 16,
             "Region": "BR"
         },
@@ -220,7 +220,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1616.7120667827683,
+            "Elo": 1649.302184557526,
             "LastGameUpdated": 16,
             "Region": "JAPAN"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 02:19"
+    "Date": "Feb 05, 2025, 03:23"
 }
