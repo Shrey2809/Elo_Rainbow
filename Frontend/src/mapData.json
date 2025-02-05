@@ -1764,11 +1764,11 @@
             "ID": 345,
             "TeamName": "DZ",
             "MapName": "CONS",
-            "Elo": 1579.351265887467,
+            "Elo": 1591.1118833940864,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 22,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 320,
@@ -2264,11 +2264,11 @@
             "ID": 796,
             "TeamName": "FLCS",
             "MapName": "CONS",
-            "Elo": 1374.5189679113237,
+            "Elo": 1362.7583504047043,
             "Region": "MENA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 22,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 296,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 20:03"
+    "Date": "Feb 05, 2025, 20:34"
 }
