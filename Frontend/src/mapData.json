@@ -1784,11 +1784,11 @@
             "ID": 354,
             "TeamName": "DZ",
             "MapName": "LABS",
-            "Elo": 1553.8511487268393,
+            "Elo": 1523.6470545313114,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 22,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 776,
@@ -2284,11 +2284,11 @@
             "ID": 274,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1429.881445442447,
+            "Elo": 1460.085539637975,
             "Region": "MENA",
-            "LastGameUpdated": 1255,
+            "LastGameUpdated": 22,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 688,
@@ -2964,11 +2964,11 @@
             "ID": 574,
             "TeamName": "G2",
             "MapName": "LAIR",
-            "Elo": 1553.4355156365693,
+            "Elo": 1570.4077060172478,
             "Region": "EU",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 18,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 128,
@@ -4274,11 +4274,11 @@
             "ID": 719,
             "TeamName": "Liquid",
             "MapName": "LAIR",
-            "Elo": 1466.2950099713803,
+            "Elo": 1449.3228195907018,
             "Region": "BR",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 18,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 71,
@@ -7721,5 +7721,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 17:07"
+    "Date": "Feb 05, 2025, 18:44"
 }
