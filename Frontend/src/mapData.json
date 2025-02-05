@@ -7104,11 +7104,11 @@
             "ID": 135,
             "TeamName": "VP",
             "MapName": "BORDER",
-            "Elo": 1478.815445933262,
+            "Elo": 1459.7433761336802,
             "Region": "EU",
-            "LastGameUpdated": 1305,
+            "LastGameUpdated": 23,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 146,
@@ -7624,11 +7624,11 @@
             "ID": 82,
             "TeamName": "w7m",
             "MapName": "BORDER",
-            "Elo": 1532.1634544904307,
+            "Elo": 1551.2355242900126,
             "Region": "BR",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 23,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 54,
@@ -7731,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 22:51"
+    "Date": "Feb 05, 2025, 23:38"
 }
