@@ -234,7 +234,7 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1463.5140901792413,
+            "Elo": 1444.6287081123921,
             "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
@@ -402,7 +402,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1519.8172505541472,
+            "Elo": 1538.7026326209964,
             "LastGameUpdated": 24,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 01:14"
+    "Date": "Feb 06, 2025, 02:06"
 }
