@@ -644,11 +644,11 @@
             "ID": 114,
             "TeamName": "BDS",
             "MapName": "KAFE",
-            "Elo": 1485.4437345422502,
+            "Elo": 1503.8737304481392,
             "Region": "EU",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 30,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 559,
@@ -2274,11 +2274,11 @@
             "ID": 296,
             "TeamName": "FLCS",
             "MapName": "KAFE",
-            "Elo": 1344.14180312808,
+            "Elo": 1325.711807222191,
             "Region": "MENA",
-            "LastGameUpdated": 1328,
+            "LastGameUpdated": 30,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 274,
@@ -6484,11 +6484,11 @@
             "ID": 179,
             "TeamName": "SZ",
             "MapName": "KAFE",
-            "Elo": 1369.3199150940018,
+            "Elo": 1356.9380030120517,
             "Region": "JAPAN",
-            "LastGameUpdated": 1299,
+            "LastGameUpdated": 31,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 475,
@@ -7154,11 +7154,11 @@
             "ID": 508,
             "TeamName": "VP",
             "MapName": "KAFE",
-            "Elo": 1562.3635155506895,
+            "Elo": 1574.7454276326396,
             "Region": "EU",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 31,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 727,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 19:42"
+    "Date": "Feb 06, 2025, 20:45"
 }

@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1766.7862121817648,
+            "Elo": 1783.28390485983,
             "LastGameUpdated": 30,
             "Region": "EU"
         },
@@ -185,8 +185,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1691.6225150352584,
-            "LastGameUpdated": 23,
+            "Elo": 1701.3414094625496,
+            "LastGameUpdated": 31,
             "Region": "EU"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1444.6287081123921,
-            "LastGameUpdated": 24,
+            "Elo": 1434.909813685101,
+            "LastGameUpdated": 31,
             "Region": "JAPAN"
         },
         {
@@ -367,7 +367,7 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1598.3505790168786,
+            "Elo": 1581.8528863388133,
             "LastGameUpdated": 30,
             "Region": "MENA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 19:42"
+    "Date": "Feb 06, 2025, 20:45"
 }
