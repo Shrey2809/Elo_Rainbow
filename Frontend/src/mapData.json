@@ -2744,11 +2744,11 @@
             "ID": 105,
             "TeamName": "FaZe",
             "MapName": "CONS",
-            "Elo": 1642.9332509855471,
+            "Elo": 1656.7374480149076,
             "Region": "BR",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 27,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 43,
@@ -6564,11 +6564,11 @@
             "ID": 137,
             "TeamName": "Secret",
             "MapName": "CONS",
-            "Elo": 1475.4744245527665,
+            "Elo": 1461.670227523406,
             "Region": "EU",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 777,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 20:45"
+    "Date": "Feb 06, 2025, 22:11"
 }

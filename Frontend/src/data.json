@@ -59,8 +59,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1769.6774618203792,
-            "LastGameUpdated": 16,
+            "Elo": 1781.542989149975,
+            "LastGameUpdated": 27,
             "Region": "BR"
         },
         {
@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1566.8651812971816,
-            "LastGameUpdated": 19,
+            "Elo": 1554.9996539675858,
+            "LastGameUpdated": 27,
             "Region": "EU"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 20:45"
+    "Date": "Feb 06, 2025, 22:11"
 }
