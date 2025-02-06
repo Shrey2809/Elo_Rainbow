@@ -220,8 +220,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1631.4739797610416,
-            "LastGameUpdated": 16,
+            "Elo": 1589.871754170832,
+            "LastGameUpdated": 20,
             "Region": "JAPAN"
         },
         {
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1490.891544804272,
-            "LastGameUpdated": 14,
+            "Elo": 1463.5140901792413,
+            "LastGameUpdated": 24,
             "Region": "JAPAN"
         },
         {
@@ -402,8 +402,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1492.4397959291166,
-            "LastGameUpdated": 13,
+            "Elo": 1519.8172505541472,
+            "LastGameUpdated": 24,
             "Region": "NORTH AMERICA"
         },
         {
@@ -416,8 +416,8 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1682.9347161212045,
-            "LastGameUpdated": 15,
+            "Elo": 1724.536941711414,
+            "LastGameUpdated": 20,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 05, 2025, 23:38"
+    "Date": "Feb 06, 2025, 01:14"
 }

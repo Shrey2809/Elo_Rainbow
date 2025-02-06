@@ -874,11 +874,11 @@
             "ID": 181,
             "TeamName": "CAG",
             "MapName": "CLUB",
-            "Elo": 1402.3586116867125,
+            "Elo": 1388.5004906094723,
             "Region": "JAPAN",
-            "LastGameUpdated": 1269,
+            "LastGameUpdated": 20,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 466,
@@ -914,11 +914,11 @@
             "ID": 773,
             "TeamName": "CAG",
             "MapName": "LAIR",
-            "Elo": 1364.861446185089,
+            "Elo": 1352.528974735311,
             "Region": "JAPAN",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 20,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 467,
@@ -5364,11 +5364,11 @@
             "ID": 323,
             "TeamName": "OXG",
             "MapName": "BORDER",
-            "Elo": 1458.7322034437966,
+            "Elo": 1484.3229093954026,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 24,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 341,
@@ -6174,11 +6174,11 @@
             "ID": 312,
             "TeamName": "SR",
             "MapName": "CLUB",
-            "Elo": 1611.3149812257557,
+            "Elo": 1625.1731023029959,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 20,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 327,
@@ -6214,11 +6214,11 @@
             "ID": 578,
             "TeamName": "SR",
             "MapName": "LAIR",
-            "Elo": 1534.0879104273968,
+            "Elo": 1546.4203818771748,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 20,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 319,
@@ -6434,11 +6434,11 @@
             "ID": 476,
             "TeamName": "SZ",
             "MapName": "BORDER",
-            "Elo": 1434.5712702206679,
+            "Elo": 1408.9805642690617,
             "Region": "JAPAN",
-            "LastGameUpdated": 1288,
+            "LastGameUpdated": 24,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 176,
@@ -7731,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 05, 2025, 23:38"
+    "Date": "Feb 06, 2025, 01:14"
 }
