@@ -45,8 +45,8 @@
         {
             "ID": 7,
             "TeamName": "JOEL",
-            "Elo": 1446.2333222365864,
-            "LastGameUpdated": 17,
+            "Elo": 1435.2223520937127,
+            "LastGameUpdated": 25,
             "Region": "SEA"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1665.880059834018,
-            "LastGameUpdated": 18,
+            "Elo": 1676.8910299768918,
+            "LastGameUpdated": 25,
             "Region": "EU"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 02:06"
+    "Date": "Feb 06, 2025, 15:53"
 }

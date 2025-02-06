@@ -2944,11 +2944,11 @@
             "ID": 149,
             "TeamName": "G2",
             "MapName": "KAFE",
-            "Elo": 1531.3457705410874,
+            "Elo": 1542.6238511247425,
             "Region": "EU",
-            "LastGameUpdated": 1378,
+            "LastGameUpdated": 25,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 465,
@@ -3524,11 +3524,11 @@
             "ID": 470,
             "TeamName": "JOEL",
             "MapName": "KAFE",
-            "Elo": 1317.0570971593831,
+            "Elo": 1305.779016575728,
             "Region": "SEA",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 25,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 42,
@@ -7731,5 +7731,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 02:06"
+    "Date": "Feb 06, 2025, 15:53"
 }
