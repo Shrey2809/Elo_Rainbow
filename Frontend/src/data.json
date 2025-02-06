@@ -45,7 +45,7 @@
         {
             "ID": 7,
             "TeamName": "JOEL",
-            "Elo": 1435.2223520937127,
+            "Elo": 1425.2611943712375,
             "LastGameUpdated": 25,
             "Region": "SEA"
         },
@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1676.8910299768918,
+            "Elo": 1686.852187699367,
             "LastGameUpdated": 25,
             "Region": "EU"
         },
@@ -395,8 +395,8 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1535.815861800898,
-            "LastGameUpdated": 9,
+            "Elo": 1565.2561363575155,
+            "LastGameUpdated": 26,
             "Region": "NORTH AMERICA"
         },
         {
@@ -423,8 +423,8 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1718.3378787563834,
-            "LastGameUpdated": 22,
+            "Elo": 1695.0939907608304,
+            "LastGameUpdated": 29,
             "Region": "NORTH AMERICA"
         },
         {
@@ -444,8 +444,8 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1646.5918323675012,
-            "LastGameUpdated": 17,
+            "Elo": 1617.1515578108836,
+            "LastGameUpdated": 26,
             "Region": "NORTH AMERICA"
         },
         {
@@ -507,8 +507,8 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1422.4637699804953,
-            "LastGameUpdated": 11,
+            "Elo": 1445.7076579760483,
+            "LastGameUpdated": 29,
             "Region": "KOREA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 15:53"
+    "Date": "Feb 06, 2025, 18:03"
 }

@@ -1764,21 +1764,21 @@
             "ID": 345,
             "TeamName": "DZ",
             "MapName": "CONS",
-            "Elo": 1591.1118833940864,
+            "Elo": 1558.0143415447114,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 29,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 320,
             "TeamName": "DZ",
             "MapName": "KAFE",
-            "Elo": 1547.8063304539846,
+            "Elo": 1561.305043172921,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 29,
             "MajorCount": 5,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 354,
@@ -2934,11 +2934,11 @@
             "ID": 136,
             "TeamName": "G2",
             "MapName": "CONS",
-            "Elo": 1578.0219130913745,
+            "Elo": 1588.1189020054785,
             "Region": "EU",
-            "LastGameUpdated": 1258,
+            "LastGameUpdated": 25,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 149,
@@ -3514,11 +3514,11 @@
             "ID": 41,
             "TeamName": "JOEL",
             "MapName": "CONS",
-            "Elo": 1339.2963973291814,
+            "Elo": 1329.1994084150774,
             "Region": "SEA",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 25,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 470,
@@ -4334,11 +4334,11 @@
             "ID": 344,
             "TeamName": "M80",
             "MapName": "CLUB",
-            "Elo": 1523.1712481889103,
+            "Elo": 1542.0934709841797,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1211,
+            "LastGameUpdated": 26,
             "MajorCount": 0,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 339,
@@ -5624,11 +5624,21 @@
             "ID": 441,
             "TeamName": "PSG",
             "MapName": "CONS",
-            "Elo": 1318.7951002876832,
+            "Elo": 1351.8926421370581,
             "Region": "KOREA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 29,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
+        },
+        {
+            "ID": 799,
+            "TeamName": "PSG",
+            "MapName": "KAFE",
+            "Elo": 1361.5012872810637,
+            "Region": "KOREA",
+            "LastGameUpdated": 29,
+            "MajorCount": 0,
+            "RegionalCount": 1
         },
         {
             "ID": 418,
@@ -6794,11 +6804,11 @@
             "ID": 316,
             "TeamName": "UW",
             "MapName": "CLUB",
-            "Elo": 1467.4518806128126,
+            "Elo": 1448.5296578175432,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1054,
+            "LastGameUpdated": 26,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 368,
@@ -7731,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 15:53"
+    "Date": "Feb 06, 2025, 18:03"
 }
