@@ -66,8 +66,8 @@
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1800.973738704289,
-            "LastGameUpdated": 23,
+            "Elo": 1813.4252433990885,
+            "LastGameUpdated": 32,
             "Region": "BR"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1634.050106878643,
-            "LastGameUpdated": 14,
+            "Elo": 1621.5986021838435,
+            "LastGameUpdated": 32,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 23:24"
+    "Date": "Feb 06, 2025, 23:48"
 }

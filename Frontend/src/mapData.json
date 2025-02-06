@@ -6324,11 +6324,11 @@
             "ID": 684,
             "TeamName": "SSG",
             "MapName": "LAIR",
-            "Elo": 1497.5,
+            "Elo": 1473.719168908125,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1071,
+            "LastGameUpdated": 32,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 343,
@@ -7694,11 +7694,11 @@
             "ID": 721,
             "TeamName": "w7m",
             "MapName": "LAIR",
-            "Elo": 1477.7005366448427,
+            "Elo": 1501.4813677367176,
             "Region": "BR",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 32,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 61,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 23:24"
+    "Date": "Feb 06, 2025, 23:48"
 }
