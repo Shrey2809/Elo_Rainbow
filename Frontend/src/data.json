@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1751.1764889118103,
-            "LastGameUpdated": 21,
+            "Elo": 1766.7862121817648,
+            "LastGameUpdated": 30,
             "Region": "EU"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1613.960302286833,
-            "LastGameUpdated": 22,
+            "Elo": 1598.3505790168786,
+            "LastGameUpdated": 30,
             "Region": "MENA"
         },
         {
@@ -395,7 +395,7 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1565.2561363575155,
+            "Elo": 1591.092122168813,
             "LastGameUpdated": 26,
             "Region": "NORTH AMERICA"
         },
@@ -444,7 +444,7 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1617.1515578108836,
+            "Elo": 1591.3155719995862,
             "LastGameUpdated": 26,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 06, 2025, 18:18"
+    "Date": "Feb 06, 2025, 19:42"
 }

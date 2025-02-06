@@ -614,11 +614,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1605.981470512156,
+            "Elo": 1616.472659547403,
             "Region": "EU",
-            "LastGameUpdated": 12,
+            "LastGameUpdated": 30,
             "MajorCount": 3,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 145,
@@ -2244,11 +2244,11 @@
             "ID": 293,
             "TeamName": "FLCS",
             "MapName": "CHALET",
-            "Elo": 1375.6337716449823,
+            "Elo": 1365.1425826097352,
             "Region": "MENA",
-            "LastGameUpdated": 3,
+            "LastGameUpdated": 30,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 304,
@@ -4364,11 +4364,11 @@
             "ID": 367,
             "TeamName": "M80",
             "MapName": "LABS",
-            "Elo": 1457.6777547750664,
+            "Elo": 1487.5861730996787,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1212,
+            "LastGameUpdated": 26,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 581,
@@ -6834,11 +6834,11 @@
             "ID": 335,
             "TeamName": "UW",
             "MapName": "LABS",
-            "Elo": 1576.5012299643013,
+            "Elo": 1546.592811639689,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1204,
+            "LastGameUpdated": 26,
             "MajorCount": 3,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 683,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 18:18"
+    "Date": "Feb 06, 2025, 19:42"
 }
