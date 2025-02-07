@@ -6274,11 +6274,11 @@
             "ID": 479,
             "TeamName": "SSG",
             "MapName": "CHALET",
-            "Elo": 1542.2242591672507,
+            "Elo": 1569.3413271234895,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 32,
             "MajorCount": 5,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 315,
@@ -7644,11 +7644,11 @@
             "ID": 54,
             "TeamName": "w7m",
             "MapName": "CHALET",
-            "Elo": 1614.5458604725686,
+            "Elo": 1587.4287925163298,
             "Region": "BR",
-            "LastGameUpdated": 1333,
+            "LastGameUpdated": 32,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 560,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 00:03"
+    "Date": "Feb 07, 2025, 01:09"
 }
