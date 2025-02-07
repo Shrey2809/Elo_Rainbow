@@ -654,11 +654,11 @@
             "ID": 559,
             "TeamName": "BDS",
             "MapName": "LABS",
-            "Elo": 1566.7120889047483,
+            "Elo": 1534.9061586929827,
             "Region": "EU",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 37,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 778,
@@ -5644,11 +5644,11 @@
             "ID": 418,
             "TeamName": "PSG",
             "MapName": "LABS",
-            "Elo": 1413.8603589868358,
+            "Elo": 1445.6662891986014,
             "Region": "KOREA",
-            "LastGameUpdated": 1146,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 630,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 17:20"
+    "Date": "Feb 07, 2025, 18:34"
 }
