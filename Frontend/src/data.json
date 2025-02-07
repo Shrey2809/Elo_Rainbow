@@ -115,7 +115,7 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1623.6624616363315,
+            "Elo": 1665.989636436703,
             "LastGameUpdated": 28,
             "Region": "BR"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1697.4887744027747,
+            "Elo": 1655.1615996024032,
             "LastGameUpdated": 28,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 01:17"
+    "Date": "Feb 07, 2025, 05:01"
 }

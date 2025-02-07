@@ -2554,11 +2554,11 @@
             "ID": 90,
             "TeamName": "FURIA",
             "MapName": "KAFE",
-            "Elo": 1457.1170327070115,
+            "Elo": 1502.8853280370704,
             "Region": "BR",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 28,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 87,
@@ -6204,11 +6204,11 @@
             "ID": 551,
             "TeamName": "SR",
             "MapName": "KAFE",
-            "Elo": 1567.5893406531181,
+            "Elo": 1521.8210453230593,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1319,
+            "LastGameUpdated": 28,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 336,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 01:17"
+    "Date": "Feb 07, 2025, 05:01"
 }
