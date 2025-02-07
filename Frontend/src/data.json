@@ -73,7 +73,7 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1545.196626082673,
+            "Elo": 1522.8846268794102,
             "LastGameUpdated": 33,
             "Region": "BR"
         },
@@ -395,7 +395,7 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1582.6978712960022,
+            "Elo": 1605.009870499265,
             "LastGameUpdated": 33,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 17:09"
+    "Date": "Feb 07, 2025, 17:20"
 }

@@ -4214,11 +4214,11 @@
             "ID": 58,
             "TeamName": "Liquid",
             "MapName": "BORDER",
-            "Elo": 1446.5214789472473,
+            "Elo": 1424.2294824432813,
             "Region": "BR",
-            "LastGameUpdated": 1312,
+            "LastGameUpdated": 33,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 91,
@@ -4314,11 +4314,11 @@
             "ID": 553,
             "TeamName": "M80",
             "MapName": "BORDER",
-            "Elo": 1484.3039859422054,
+            "Elo": 1506.5959824461713,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1073,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 309,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 17:09"
+    "Date": "Feb 07, 2025, 17:20"
 }
