@@ -94,8 +94,8 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1484.4820652919195,
-            "LastGameUpdated": 21,
+            "Elo": 1509.9449006458442,
+            "LastGameUpdated": 38,
             "Region": "BR"
         },
         {
@@ -164,8 +164,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1686.852187699367,
-            "LastGameUpdated": 25,
+            "Elo": 1725.8134619729099,
+            "LastGameUpdated": 34,
             "Region": "EU"
         },
         {
@@ -367,8 +367,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1581.8528863388133,
-            "LastGameUpdated": 30,
+            "Elo": 1556.3900509848886,
+            "LastGameUpdated": 38,
             "Region": "MENA"
         },
         {
@@ -444,8 +444,8 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1591.3155719995862,
-            "LastGameUpdated": 26,
+            "Elo": 1552.3542977260433,
+            "LastGameUpdated": 34,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 18:34"
+    "Date": "Feb 07, 2025, 20:12"
 }

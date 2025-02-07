@@ -2234,11 +2234,11 @@
             "ID": 772,
             "TeamName": "FLCS",
             "MapName": "BORDER",
-            "Elo": 1407.9462732274662,
+            "Elo": 1390.4277900854277,
             "Region": "MENA",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 38,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 293,
@@ -2894,21 +2894,21 @@
             "ID": 113,
             "TeamName": "G2",
             "MapName": "BANK",
-            "Elo": 1513.4546016498055,
+            "Elo": 1543.0070152996534,
             "Region": "EU",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 34,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 758,
             "TeamName": "G2",
             "MapName": "BORDER",
-            "Elo": 1518.1052663157916,
+            "Elo": 1550.081731775969,
             "Region": "EU",
-            "LastGameUpdated": 1210,
+            "LastGameUpdated": 34,
             "MajorCount": 0,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 120,
@@ -5804,11 +5804,11 @@
             "ID": 501,
             "TeamName": "RCAC",
             "MapName": "BORDER",
-            "Elo": 1451.2779175235535,
+            "Elo": 1468.796400665592,
             "Region": "BR",
-            "LastGameUpdated": 1365,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 79,
@@ -6774,21 +6774,21 @@
             "ID": 329,
             "TeamName": "UW",
             "MapName": "BANK",
-            "Elo": 1539.4331457764322,
+            "Elo": 1509.8807321265842,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 34,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 322,
             "TeamName": "UW",
             "MapName": "BORDER",
-            "Elo": 1541.0282847677868,
+            "Elo": 1509.0518193076093,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 34,
             "MajorCount": 2,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 340,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 18:34"
+    "Date": "Feb 07, 2025, 20:12"
 }
