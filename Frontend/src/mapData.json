@@ -664,11 +664,11 @@
             "ID": 778,
             "TeamName": "BDS",
             "MapName": "LAIR",
-            "Elo": 1473.383254372827,
+            "Elo": 1486.80196243782,
             "Region": "EU",
-            "LastGameUpdated": 1323,
+            "LastGameUpdated": 37,
             "MajorCount": 1,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 474,
@@ -4244,11 +4244,11 @@
             "ID": 471,
             "TeamName": "Liquid",
             "MapName": "CONS",
-            "Elo": 1575.1567038399835,
+            "Elo": 1546.288080811773,
             "Region": "BR",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 33,
             "MajorCount": 6,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 484,
@@ -4264,11 +4264,11 @@
             "ID": 464,
             "TeamName": "Liquid",
             "MapName": "LABS",
-            "Elo": 1467.8838417020308,
+            "Elo": 1502.2248743885743,
             "Region": "BR",
-            "LastGameUpdated": 1296,
+            "LastGameUpdated": 33,
             "MajorCount": 6,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 719,
@@ -4344,11 +4344,11 @@
             "ID": 339,
             "TeamName": "M80",
             "MapName": "CONS",
-            "Elo": 1557.8511941093557,
+            "Elo": 1586.7198171375662,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 33,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 365,
@@ -4364,11 +4364,11 @@
             "ID": 367,
             "TeamName": "M80",
             "MapName": "LABS",
-            "Elo": 1487.5861730996787,
+            "Elo": 1453.2451404131352,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 33,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 581,
@@ -5654,11 +5654,11 @@
             "ID": 630,
             "TeamName": "PSG",
             "MapName": "LAIR",
-            "Elo": 1354.637102114708,
+            "Elo": 1341.2183940497148,
             "Region": "KOREA",
-            "LastGameUpdated": 1159,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 431,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 05:01"
+    "Date": "Feb 07, 2025, 16:24"
 }

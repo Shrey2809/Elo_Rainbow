@@ -73,8 +73,8 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1536.8023752098622,
-            "LastGameUpdated": 18,
+            "Elo": 1545.196626082673,
+            "LastGameUpdated": 33,
             "Region": "BR"
         },
         {
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1783.28390485983,
-            "LastGameUpdated": 30,
+            "Elo": 1789.4065619970036,
+            "LastGameUpdated": 37,
             "Region": "EU"
         },
         {
@@ -395,8 +395,8 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1591.092122168813,
-            "LastGameUpdated": 26,
+            "Elo": 1582.6978712960022,
+            "LastGameUpdated": 33,
             "Region": "NORTH AMERICA"
         },
         {
@@ -507,8 +507,8 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1486.096145071673,
-            "LastGameUpdated": 29,
+            "Elo": 1479.9734879344994,
+            "LastGameUpdated": 37,
             "Region": "KOREA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 05:01"
+    "Date": "Feb 07, 2025, 16:24"
 }
