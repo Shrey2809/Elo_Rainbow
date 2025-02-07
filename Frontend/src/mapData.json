@@ -614,11 +614,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1616.472659547403,
+            "Elo": 1580.8956387035646,
             "Region": "EU",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 37,
             "MajorCount": 3,
-            "RegionalCount": 11
+            "RegionalCount": 12
         },
         {
             "ID": 145,
@@ -5604,11 +5604,11 @@
             "ID": 457,
             "TeamName": "PSG",
             "MapName": "CHALET",
-            "Elo": 1385.6801204368928,
+            "Elo": 1421.2571412807313,
             "Region": "KOREA",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 37,
             "MajorCount": 0,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 440,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 16:24"
+    "Date": "Feb 07, 2025, 17:09"
 }

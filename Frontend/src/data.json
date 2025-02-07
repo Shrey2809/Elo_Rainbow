@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1789.4065619970036,
+            "Elo": 1750.893316127559,
             "LastGameUpdated": 37,
             "Region": "EU"
         },
@@ -507,7 +507,7 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1479.9734879344994,
+            "Elo": 1518.486733803944,
             "LastGameUpdated": 37,
             "Region": "KOREA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 16:24"
+    "Date": "Feb 07, 2025, 17:09"
 }
