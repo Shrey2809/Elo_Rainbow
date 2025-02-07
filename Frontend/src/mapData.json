@@ -1724,11 +1724,11 @@
             "ID": 369,
             "TeamName": "DZ",
             "MapName": "BANK",
-            "Elo": 1521.1849555677231,
+            "Elo": 1487.871565209938,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 973,
+            "LastGameUpdated": 29,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 363,
@@ -2524,11 +2524,11 @@
             "ID": 51,
             "TeamName": "FURIA",
             "MapName": "CHALET",
-            "Elo": 1525.8763377506825,
+            "Elo": 1545.1676518198137,
             "Region": "BR",
-            "LastGameUpdated": 8,
+            "LastGameUpdated": 28,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 69,
@@ -2764,11 +2764,11 @@
             "ID": 86,
             "TeamName": "FaZe",
             "MapName": "LABS",
-            "Elo": 1457.917029348871,
+            "Elo": 1481.5681603954804,
             "Region": "BR",
-            "LastGameUpdated": 7,
+            "LastGameUpdated": 27,
             "MajorCount": 4,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 584,
@@ -5584,11 +5584,11 @@
             "ID": 482,
             "TeamName": "PSG",
             "MapName": "BANK",
-            "Elo": 1401.0846646126156,
+            "Elo": 1434.3980549704008,
             "Region": "KOREA",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 29,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 485,
@@ -6174,11 +6174,11 @@
             "ID": 342,
             "TeamName": "SR",
             "MapName": "CHALET",
-            "Elo": 1513.5600457213454,
+            "Elo": 1494.2687316522142,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1306,
+            "LastGameUpdated": 28,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 312,
@@ -6454,11 +6454,11 @@
             "ID": 176,
             "TeamName": "SZ",
             "MapName": "CHALET",
-            "Elo": 1467.2389787747968,
+            "Elo": 1444.8615442366397,
             "Region": "JAPAN",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 31,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 190,
@@ -6584,11 +6584,11 @@
             "ID": 510,
             "TeamName": "Secret",
             "MapName": "LABS",
-            "Elo": 1522.0627100468103,
+            "Elo": 1498.4115790002008,
             "Region": "EU",
-            "LastGameUpdated": 1128,
+            "LastGameUpdated": 27,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 572,
@@ -7124,11 +7124,11 @@
             "ID": 146,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1469.1316020730899,
+            "Elo": 1491.509036611247,
             "Region": "EU",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 31,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 123,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 01:09"
+    "Date": "Feb 07, 2025, 01:17"
 }

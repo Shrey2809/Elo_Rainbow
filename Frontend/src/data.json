@@ -59,7 +59,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1781.542989149975,
+            "Elo": 1790.0821000495334,
             "LastGameUpdated": 27,
             "Region": "BR"
         },
@@ -115,8 +115,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1596.614294327692,
-            "LastGameUpdated": 19,
+            "Elo": 1623.6624616363315,
+            "LastGameUpdated": 28,
             "Region": "BR"
         },
         {
@@ -136,7 +136,7 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1554.9996539675858,
+            "Elo": 1546.4605430680274,
             "LastGameUpdated": 27,
             "Region": "EU"
         },
@@ -185,7 +185,7 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1701.3414094625496,
+            "Elo": 1709.3267700735844,
             "LastGameUpdated": 31,
             "Region": "EU"
         },
@@ -234,7 +234,7 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1434.909813685101,
+            "Elo": 1426.9244530740662,
             "LastGameUpdated": 31,
             "Region": "JAPAN"
         },
@@ -416,14 +416,14 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1724.536941711414,
-            "LastGameUpdated": 20,
+            "Elo": 1697.4887744027747,
+            "LastGameUpdated": 28,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1695.0939907608304,
+            "Elo": 1654.7055036652057,
             "LastGameUpdated": 29,
             "Region": "NORTH AMERICA"
         },
@@ -507,7 +507,7 @@
         {
             "ID": 73,
             "TeamName": "PSG",
-            "Elo": 1445.7076579760483,
+            "Elo": 1486.096145071673,
             "LastGameUpdated": 29,
             "Region": "KOREA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 01:09"
+    "Date": "Feb 07, 2025, 01:17"
 }
