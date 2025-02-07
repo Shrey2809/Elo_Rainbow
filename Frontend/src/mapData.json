@@ -6304,11 +6304,11 @@
             "ID": 321,
             "TeamName": "SSG",
             "MapName": "KAFE",
-            "Elo": 1488.4465387940363,
+            "Elo": 1523.8648395793803,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 32,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 557,
@@ -7674,11 +7674,11 @@
             "ID": 44,
             "TeamName": "w7m",
             "MapName": "KAFE",
-            "Elo": 1591.397477403023,
+            "Elo": 1555.979176617679,
             "Region": "BR",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 32,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 102,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 06, 2025, 23:48"
+    "Date": "Feb 07, 2025, 00:03"
 }
