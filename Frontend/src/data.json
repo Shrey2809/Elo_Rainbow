@@ -94,7 +94,7 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1509.9449006458442,
+            "Elo": 1518.3606494211922,
             "LastGameUpdated": 38,
             "Region": "BR"
         },
@@ -367,7 +367,7 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1556.3900509848886,
+            "Elo": 1547.9743022095406,
             "LastGameUpdated": 38,
             "Region": "MENA"
         },
@@ -402,8 +402,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1538.7026326209964,
-            "LastGameUpdated": 24,
+            "Elo": 1588.3082178406794,
+            "LastGameUpdated": 39,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,8 +437,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1692.2550095597762,
-            "LastGameUpdated": 32,
+            "Elo": 1642.6494243400932,
+            "LastGameUpdated": 39,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 20:12"
+    "Date": "Feb 07, 2025, 23:08"
 }

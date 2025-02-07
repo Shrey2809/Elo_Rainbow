@@ -2294,11 +2294,11 @@
             "ID": 688,
             "TeamName": "FLCS",
             "MapName": "LAIR",
-            "Elo": 1388.4439194853726,
+            "Elo": 1421.0327992931332,
             "Region": "MENA",
-            "LastGameUpdated": 1303,
+            "LastGameUpdated": 38,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 535,
@@ -2314,11 +2314,11 @@
             "ID": 775,
             "TeamName": "FLCS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1417.519187982133,
+            "Elo": 1403.8122585930953,
             "Region": "MENA",
-            "LastGameUpdated": 1302,
+            "LastGameUpdated": 38,
             "MajorCount": 2,
-            "RegionalCount": 0
+            "RegionalCount": 1
         },
         {
             "ID": 112,
@@ -5354,11 +5354,11 @@
             "ID": 352,
             "TeamName": "OXG",
             "MapName": "BANK",
-            "Elo": 1521.8102361187157,
+            "Elo": 1548.1745270629588,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 323,
@@ -5394,11 +5394,11 @@
             "ID": 346,
             "TeamName": "OXG",
             "MapName": "CONS",
-            "Elo": 1446.2986203588634,
+            "Elo": 1473.872521789174,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1391,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 364,
@@ -5414,11 +5414,11 @@
             "ID": 366,
             "TeamName": "OXG",
             "MapName": "LABS",
-            "Elo": 1478.0602176026093,
+            "Elo": 1456.025334931966,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1212,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 579,
@@ -5864,11 +5864,11 @@
             "ID": 587,
             "TeamName": "RCAC",
             "MapName": "LAIR",
-            "Elo": 1556.1472999155112,
+            "Elo": 1523.5584201077506,
             "Region": "BR",
-            "LastGameUpdated": 1367,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 89,
@@ -5884,11 +5884,11 @@
             "ID": 68,
             "TeamName": "RCAC",
             "MapName": "SKYSCRAPER",
-            "Elo": 1560.922389806681,
+            "Elo": 1574.6293191957186,
             "Region": "BR",
-            "LastGameUpdated": 1354,
+            "LastGameUpdated": 38,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 543,
@@ -6254,11 +6254,11 @@
             "ID": 353,
             "TeamName": "SSG",
             "MapName": "BANK",
-            "Elo": 1540.7892202330684,
+            "Elo": 1514.4249292888253,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 39,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 358,
@@ -6294,11 +6294,11 @@
             "ID": 326,
             "TeamName": "SSG",
             "MapName": "CONS",
-            "Elo": 1482.1964171923216,
+            "Elo": 1454.622515762011,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 14,
+            "LastGameUpdated": 39,
             "MajorCount": 4,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 321,
@@ -6314,11 +6314,11 @@
             "ID": 557,
             "TeamName": "SSG",
             "MapName": "LABS",
-            "Elo": 1519.4625789694503,
+            "Elo": 1541.4974616400937,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1092,
+            "LastGameUpdated": 39,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 684,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 20:12"
+    "Date": "Feb 07, 2025, 23:08"
 }
