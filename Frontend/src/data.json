@@ -59,14 +59,14 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1790.0821000495334,
-            "LastGameUpdated": 27,
+            "Elo": 1727.3870702048873,
+            "LastGameUpdated": 36,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1749.053375669158,
+            "Elo": 1756.9246248684844,
             "LastGameUpdated": 40,
             "Region": "BR"
         },
@@ -115,8 +115,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1665.989636436703,
-            "LastGameUpdated": 28,
+            "Elo": 1728.684666281349,
+            "LastGameUpdated": 36,
             "Region": "BR"
         },
         {
@@ -234,7 +234,7 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1420.639913428064,
+            "Elo": 1412.7686642287374,
             "LastGameUpdated": 40,
             "Region": "JAPAN"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 08, 2025, 00:55"
+    "Date": "Feb 08, 2025, 03:23"
 }

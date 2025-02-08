@@ -2534,11 +2534,11 @@
             "ID": 69,
             "TeamName": "FURIA",
             "MapName": "CLUB",
-            "Elo": 1558.568005970455,
+            "Elo": 1583.4926015702406,
             "Region": "BR",
-            "LastGameUpdated": 19,
+            "LastGameUpdated": 36,
             "MajorCount": 2,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 481,
@@ -2594,11 +2594,11 @@
             "ID": 502,
             "TeamName": "FURIA",
             "MapName": "SKYSCRAPER",
-            "Elo": 1521.0075984907855,
+            "Elo": 1549.608589519659,
             "Region": "BR",
-            "LastGameUpdated": 1239,
+            "LastGameUpdated": 36,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 492,
@@ -2734,11 +2734,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1596.1535332272888,
+            "Elo": 1571.2289376275032,
             "Region": "BR",
-            "LastGameUpdated": 1291,
+            "LastGameUpdated": 36,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 105,
@@ -2794,11 +2794,11 @@
             "ID": 66,
             "TeamName": "FaZe",
             "MapName": "SKYSCRAPER",
-            "Elo": 1534.9249817576626,
+            "Elo": 1506.323990728789,
             "Region": "BR",
-            "LastGameUpdated": 1330,
+            "LastGameUpdated": 36,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 96,
@@ -6444,11 +6444,11 @@
             "ID": 476,
             "TeamName": "SZ",
             "MapName": "BORDER",
-            "Elo": 1408.9805642690617,
+            "Elo": 1390.620545376951,
             "Region": "JAPAN",
-            "LastGameUpdated": 24,
+            "LastGameUpdated": 40,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 176,
@@ -7634,11 +7634,11 @@
             "ID": 82,
             "TeamName": "w7m",
             "MapName": "BORDER",
-            "Elo": 1551.2355242900126,
+            "Elo": 1569.5955431821233,
             "Region": "BR",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 40,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 54,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 08, 2025, 00:55"
+    "Date": "Feb 08, 2025, 03:23"
 }
