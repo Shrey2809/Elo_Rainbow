@@ -136,8 +136,8 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1546.4605430680274,
-            "LastGameUpdated": 27,
+            "Elo": 1555.8706987052997,
+            "LastGameUpdated": 35,
             "Region": "EU"
         },
         {
@@ -220,8 +220,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1589.871754170832,
-            "LastGameUpdated": 20,
+            "Elo": 1580.4615985335597,
+            "LastGameUpdated": 35,
             "Region": "JAPAN"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 07, 2025, 23:08"
+    "Date": "Feb 08, 2025, 00:41"
 }

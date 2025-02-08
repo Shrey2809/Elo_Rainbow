@@ -884,11 +884,11 @@
             "ID": 466,
             "TeamName": "CAG",
             "MapName": "CONS",
-            "Elo": 1440.8860797039124,
+            "Elo": 1410.327965381994,
             "Region": "JAPAN",
-            "LastGameUpdated": 1346,
+            "LastGameUpdated": 35,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 184,
@@ -904,11 +904,11 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1434.405912399594,
+            "Elo": 1463.9600864302759,
             "Region": "JAPAN",
-            "LastGameUpdated": 1352,
+            "LastGameUpdated": 35,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 773,
@@ -6564,11 +6564,11 @@
             "ID": 137,
             "TeamName": "Secret",
             "MapName": "CONS",
-            "Elo": 1461.670227523406,
+            "Elo": 1492.2283418453244,
             "Region": "EU",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 777,
@@ -6584,11 +6584,11 @@
             "ID": 510,
             "TeamName": "Secret",
             "MapName": "LABS",
-            "Elo": 1498.4115790002008,
+            "Elo": 1468.857404969519,
             "Region": "EU",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 35,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 572,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 07, 2025, 23:08"
+    "Date": "Feb 08, 2025, 00:41"
 }
