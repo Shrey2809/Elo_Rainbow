@@ -66,8 +66,8 @@
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1742.7688360231557,
-            "LastGameUpdated": 32,
+            "Elo": 1749.053375669158,
+            "LastGameUpdated": 40,
             "Region": "BR"
         },
         {
@@ -136,7 +136,7 @@
         {
             "ID": 20,
             "TeamName": "Secret",
-            "Elo": 1555.8706987052997,
+            "Elo": 1530.31385822038,
             "LastGameUpdated": 35,
             "Region": "EU"
         },
@@ -220,7 +220,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1580.4615985335597,
+            "Elo": 1606.0184390184793,
             "LastGameUpdated": 35,
             "Region": "JAPAN"
         },
@@ -234,8 +234,8 @@
         {
             "ID": 34,
             "TeamName": "SZ",
-            "Elo": 1426.9244530740662,
-            "LastGameUpdated": 31,
+            "Elo": 1420.639913428064,
+            "LastGameUpdated": 40,
             "Region": "JAPAN"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 08, 2025, 00:41"
+    "Date": "Feb 08, 2025, 00:55"
 }

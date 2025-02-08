@@ -934,11 +934,11 @@
             "ID": 193,
             "TeamName": "CAG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1382.0439953896262,
+            "Elo": 1415.9075752568071,
             "Region": "JAPAN",
-            "LastGameUpdated": 1347,
+            "LastGameUpdated": 35,
             "MajorCount": 2,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 178,
@@ -6494,11 +6494,11 @@
             "ID": 475,
             "TeamName": "SZ",
             "MapName": "LABS",
-            "Elo": 1437.4417904976228,
+            "Elo": 1425.206837737181,
             "Region": "JAPAN",
-            "LastGameUpdated": 1300,
+            "LastGameUpdated": 40,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 196,
@@ -6604,11 +6604,11 @@
             "ID": 140,
             "TeamName": "Secret",
             "MapName": "SKYSCRAPER",
-            "Elo": 1463.9245691718922,
+            "Elo": 1430.0609893047113,
             "Region": "EU",
-            "LastGameUpdated": 1279,
+            "LastGameUpdated": 35,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 710,
@@ -7684,11 +7684,11 @@
             "ID": 102,
             "TeamName": "w7m",
             "MapName": "LABS",
-            "Elo": 1608.5651911289572,
+            "Elo": 1620.800143889399,
             "Region": "BR",
-            "LastGameUpdated": 1335,
+            "LastGameUpdated": 40,
             "MajorCount": 6,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 721,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 08, 2025, 00:41"
+    "Date": "Feb 08, 2025, 00:55"
 }
