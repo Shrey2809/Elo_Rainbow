@@ -94,7 +94,7 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1545.8523309767063,
+            "Elo": 1522.7892704069873,
             "LastGameUpdated": 43,
             "Region": "BR"
         },
@@ -416,7 +416,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1627.669918046889,
+            "Elo": 1650.732978616608,
             "LastGameUpdated": 43,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 09, 2025, 19:25"
+    "Date": "Feb 09, 2025, 19:52"
 }
