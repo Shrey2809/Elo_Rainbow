@@ -94,7 +94,7 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1522.7892704069873,
+            "Elo": 1556.6008067566484,
             "LastGameUpdated": 43,
             "Region": "BR"
         },
@@ -395,7 +395,7 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1610.0117470944704,
+            "Elo": 1587.8554468397654,
             "LastGameUpdated": 44,
             "Region": "NORTH AMERICA"
         },
@@ -416,14 +416,14 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1650.732978616608,
+            "Elo": 1616.921442266947,
             "LastGameUpdated": 43,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1649.7036270700003,
+            "Elo": 1671.8599273247053,
             "LastGameUpdated": 44,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 09, 2025, 19:52"
+    "Date": "Feb 09, 2025, 20:53"
 }

@@ -1724,11 +1724,11 @@
             "ID": 369,
             "TeamName": "DZ",
             "MapName": "BANK",
-            "Elo": 1487.871565209938,
+            "Elo": 1508.983100268702,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 29,
+            "LastGameUpdated": 44,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 363,
@@ -4304,11 +4304,11 @@
             "ID": 361,
             "TeamName": "M80",
             "MapName": "BANK",
-            "Elo": 1433.3897042682947,
+            "Elo": 1412.2781692095307,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 2,
+            "LastGameUpdated": 44,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 553,
@@ -5864,11 +5864,11 @@
             "ID": 587,
             "TeamName": "RCAC",
             "MapName": "LAIR",
-            "Elo": 1523.5584201077506,
+            "Elo": 1550.2011002951306,
             "Region": "BR",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 43,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 89,
@@ -6224,11 +6224,11 @@
             "ID": 578,
             "TeamName": "SR",
             "MapName": "LAIR",
-            "Elo": 1546.4203818771748,
+            "Elo": 1519.7777016897949,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 43,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 319,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 09, 2025, 19:52"
+    "Date": "Feb 09, 2025, 20:53"
 }
