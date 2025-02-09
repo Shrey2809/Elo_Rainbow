@@ -164,7 +164,7 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1692.9196233230211,
+            "Elo": 1717.4969654879994,
             "LastGameUpdated": 46,
             "Region": "EU"
         },
@@ -437,7 +437,7 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1725.0886851621544,
+            "Elo": 1700.5113429971761,
             "LastGameUpdated": 46,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 09, 2025, 21:59"
+    "Date": "Feb 09, 2025, 22:54"
 }

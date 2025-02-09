@@ -2894,11 +2894,11 @@
             "ID": 113,
             "TeamName": "G2",
             "MapName": "BANK",
-            "Elo": 1543.0070152996534,
+            "Elo": 1563.6601978682827,
             "Region": "EU",
-            "LastGameUpdated": 34,
+            "LastGameUpdated": 46,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 758,
@@ -6254,11 +6254,11 @@
             "ID": 353,
             "TeamName": "SSG",
             "MapName": "BANK",
-            "Elo": 1514.4249292888253,
+            "Elo": 1493.771746720196,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 46,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 358,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 09, 2025, 21:59"
+    "Date": "Feb 09, 2025, 22:54"
 }
