@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1739.1462390083884,
+            "Elo": 1707.9309814331832,
             "LastGameUpdated": 45,
             "Region": "EU"
         },
@@ -444,7 +444,7 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1597.1589320474077,
+            "Elo": 1628.374189622613,
             "LastGameUpdated": 45,
             "Region": "NORTH AMERICA"
         },
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 09, 2025, 22:54"
+    "Date": "Feb 09, 2025, 23:03"
 }
