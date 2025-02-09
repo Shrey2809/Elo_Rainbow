@@ -59,15 +59,15 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1727.3870702048873,
-            "LastGameUpdated": 36,
+            "Elo": 1677.8416480327148,
+            "LastGameUpdated": 42,
             "Region": "BR"
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1756.9246248684844,
-            "LastGameUpdated": 40,
+            "Elo": 1688.2210161648857,
+            "LastGameUpdated": 41,
             "Region": "BR"
         },
         {
@@ -94,8 +94,8 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1518.3606494211922,
-            "LastGameUpdated": 38,
+            "Elo": 1545.8523309767063,
+            "LastGameUpdated": 43,
             "Region": "BR"
         },
         {
@@ -395,8 +395,8 @@
         {
             "ID": 57,
             "TeamName": "M80",
-            "Elo": 1605.009870499265,
-            "LastGameUpdated": 33,
+            "Elo": 1610.0117470944704,
+            "LastGameUpdated": 44,
             "Region": "NORTH AMERICA"
         },
         {
@@ -416,15 +416,15 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1655.1615996024032,
-            "LastGameUpdated": 28,
+            "Elo": 1627.669918046889,
+            "LastGameUpdated": 43,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1654.7055036652057,
-            "LastGameUpdated": 29,
+            "Elo": 1649.7036270700003,
+            "LastGameUpdated": 44,
             "Region": "NORTH AMERICA"
         },
         {
@@ -437,15 +437,15 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1642.6494243400932,
-            "LastGameUpdated": 39,
+            "Elo": 1692.1948465122657,
+            "LastGameUpdated": 42,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1552.3542977260433,
-            "LastGameUpdated": 34,
+            "Elo": 1621.0579064296421,
+            "LastGameUpdated": 41,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 08, 2025, 03:23"
+    "Date": "Feb 09, 2025, 19:25"
 }

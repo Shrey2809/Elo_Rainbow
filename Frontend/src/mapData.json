@@ -1754,11 +1754,11 @@
             "ID": 313,
             "TeamName": "DZ",
             "MapName": "CLUB",
-            "Elo": 1547.6979690392398,
+            "Elo": 1577.2140797467162,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1298,
+            "LastGameUpdated": 44,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 345,
@@ -1814,11 +1814,11 @@
             "ID": 333,
             "TeamName": "DZ",
             "MapName": "SKYSCRAPER",
-            "Elo": 1495.1405719752622,
+            "Elo": 1463.3793243088746,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 742,
+            "LastGameUpdated": 44,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 717,
@@ -2744,11 +2744,11 @@
             "ID": 105,
             "TeamName": "FaZe",
             "MapName": "CONS",
-            "Elo": 1656.7374480149076,
+            "Elo": 1622.4491521847876,
             "Region": "BR",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 42,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 43,
@@ -2764,11 +2764,11 @@
             "ID": 86,
             "TeamName": "FaZe",
             "MapName": "LABS",
-            "Elo": 1481.5681603954804,
+            "Elo": 1464.9841566572356,
             "Region": "BR",
-            "LastGameUpdated": 27,
+            "LastGameUpdated": 42,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 584,
@@ -4334,11 +4334,11 @@
             "ID": 344,
             "TeamName": "M80",
             "MapName": "CLUB",
-            "Elo": 1542.0934709841797,
+            "Elo": 1512.5773602767033,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 44,
             "MajorCount": 0,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 339,
@@ -4394,11 +4394,11 @@
             "ID": 325,
             "TeamName": "M80",
             "MapName": "SKYSCRAPER",
-            "Elo": 1503.0394356511829,
+            "Elo": 1534.8006833175705,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 308,
+            "LastGameUpdated": 44,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 251,
@@ -5794,11 +5794,11 @@
             "ID": 48,
             "TeamName": "RCAC",
             "MapName": "BANK",
-            "Elo": 1498.0722050399365,
+            "Elo": 1513.6555968157516,
             "Region": "BR",
-            "LastGameUpdated": 21,
+            "LastGameUpdated": 43,
             "MajorCount": 1,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 501,
@@ -6154,11 +6154,11 @@
             "ID": 332,
             "TeamName": "SR",
             "MapName": "BANK",
-            "Elo": 1420.0628668114298,
+            "Elo": 1404.4794750356148,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 15,
+            "LastGameUpdated": 43,
             "MajorCount": 2,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 556,
@@ -6294,11 +6294,11 @@
             "ID": 326,
             "TeamName": "SSG",
             "MapName": "CONS",
-            "Elo": 1454.622515762011,
+            "Elo": 1488.910811592131,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 42,
             "MajorCount": 4,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 321,
@@ -6314,11 +6314,11 @@
             "ID": 557,
             "TeamName": "SSG",
             "MapName": "LABS",
-            "Elo": 1541.4974616400937,
+            "Elo": 1558.0814653783384,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 42,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 684,
@@ -6794,21 +6794,21 @@
             "ID": 340,
             "TeamName": "UW",
             "MapName": "CHALET",
-            "Elo": 1525.9058853130814,
+            "Elo": 1555.2871166871798,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 521,
+            "LastGameUpdated": 41,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 316,
             "TeamName": "UW",
             "MapName": "CLUB",
-            "Elo": 1448.5296578175432,
+            "Elo": 1480.1874586723393,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 41,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 368,
@@ -7644,21 +7644,21 @@
             "ID": 54,
             "TeamName": "w7m",
             "MapName": "CHALET",
-            "Elo": 1587.4287925163298,
+            "Elo": 1558.0475611422314,
             "Region": "BR",
-            "LastGameUpdated": 32,
+            "LastGameUpdated": 41,
             "MajorCount": 3,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 560,
             "TeamName": "w7m",
             "MapName": "CLUB",
-            "Elo": 1598.6309874910546,
+            "Elo": 1566.9731866362586,
             "Region": "BR",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 41,
             "MajorCount": 4,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 558,
@@ -7741,5 +7741,5 @@
             "RegionalCount": 1
         }
     ],
-    "Date": "Feb 08, 2025, 03:23"
+    "Date": "Feb 09, 2025, 19:25"
 }
