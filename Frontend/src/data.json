@@ -164,15 +164,15 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1725.8134619729099,
-            "LastGameUpdated": 34,
+            "Elo": 1692.9196233230211,
+            "LastGameUpdated": 46,
             "Region": "EU"
         },
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1715.247264626154,
-            "LastGameUpdated": 37,
+            "Elo": 1739.1462390083884,
+            "LastGameUpdated": 45,
             "Region": "EU"
         },
         {
@@ -437,15 +437,15 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1692.1948465122657,
-            "LastGameUpdated": 42,
+            "Elo": 1725.0886851621544,
+            "LastGameUpdated": 46,
             "Region": "NORTH AMERICA"
         },
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1621.0579064296421,
-            "LastGameUpdated": 41,
+            "Elo": 1597.1589320474077,
+            "LastGameUpdated": 45,
             "Region": "NORTH AMERICA"
         },
         {
@@ -715,5 +715,5 @@
             "Region": "NORTH AMERICA"
         }
     ],
-    "Date": "Feb 09, 2025, 20:53"
+    "Date": "Feb 09, 2025, 21:59"
 }
