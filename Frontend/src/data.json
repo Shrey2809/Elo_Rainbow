@@ -163,8 +163,8 @@
         {
             "ID": 24,
             "TeamName": "G2",
-            "Elo": 1716.275724506105,
-            "LastGameUpdated": 46,
+            "Elo": 1688.392186452009,
+            "LastGameUpdated": 55,
             "Region": "EU",
             "IsActive": 1
         },
@@ -203,7 +203,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1605.5657320396149,
+            "Elo": 1642.1303086471366,
             "LastGameUpdated": 56,
             "Region": "JAPAN",
             "IsActive": 1
@@ -283,8 +283,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1631.5021723880946,
-            "LastGameUpdated": 51,
+            "Elo": 1659.3857104421907,
+            "LastGameUpdated": 55,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -331,7 +331,7 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1649.246071978207,
+            "Elo": 1612.6814953706853,
             "LastGameUpdated": 56,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 21:42"
+    "Date": "Feb 10, 2025, 22:27"
 }

@@ -344,11 +344,11 @@
             "ID": 466,
             "TeamName": "CAG",
             "MapName": "CONS",
-            "Elo": 1410.327965381994,
+            "Elo": 1452.0862554078958,
             "Region": "JAPAN",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 56,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 184,
@@ -1794,11 +1794,11 @@
             "ID": 113,
             "TeamName": "G2",
             "MapName": "BANK",
-            "Elo": 1563.6601978682827,
+            "Elo": 1540.1580062058974,
             "Region": "EU",
-            "LastGameUpdated": 46,
+            "LastGameUpdated": 55,
             "MajorCount": 3,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 758,
@@ -3164,11 +3164,11 @@
             "ID": 352,
             "TeamName": "OXG",
             "MapName": "BANK",
-            "Elo": 1548.1745270629588,
+            "Elo": 1571.676718725344,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 55,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 323,
@@ -3884,11 +3884,11 @@
             "ID": 368,
             "TeamName": "UW",
             "MapName": "CONS",
-            "Elo": 1512.1178169130278,
+            "Elo": 1470.359526887126,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 45,
+            "LastGameUpdated": 56,
             "MajorCount": 1,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 348,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 10, 2025, 21:42"
+    "Date": "Feb 10, 2025, 22:27"
 }
