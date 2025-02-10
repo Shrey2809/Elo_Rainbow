@@ -1214,11 +1214,11 @@
             "ID": 775,
             "TeamName": "FLCS",
             "MapName": "SKYSCRAPER",
-            "Elo": 1403.8122585930953,
+            "Elo": 1432.0172813748584,
             "Region": "MENA",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 49,
             "MajorCount": 2,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 112,
@@ -1644,11 +1644,11 @@
             "ID": 105,
             "TeamName": "FaZe",
             "MapName": "CONS",
-            "Elo": 1622.4491521847876,
+            "Elo": 1582.9368159913724,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 50,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 43,
@@ -2774,11 +2774,11 @@
             "ID": 471,
             "TeamName": "Liquid",
             "MapName": "CONS",
-            "Elo": 1546.288080811773,
+            "Elo": 1585.8004170051881,
             "Region": "BR",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 50,
             "MajorCount": 6,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 484,
@@ -4374,12 +4374,12 @@
             "ID": 101,
             "TeamName": "w7m",
             "MapName": "SKYSCRAPER",
-            "Elo": 1493.8710729035695,
+            "Elo": 1465.6660501218064,
             "Region": "BR",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 49,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         }
     ],
-    "Date": "Feb 10, 2025, 20:08"
+    "Date": "Feb 10, 2025, 20:58"
 }
