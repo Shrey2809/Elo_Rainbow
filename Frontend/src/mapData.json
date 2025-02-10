@@ -1154,21 +1154,21 @@
             "ID": 304,
             "TeamName": "FLCS",
             "MapName": "CLUB",
-            "Elo": 1325.102804725953,
+            "Elo": 1361.1460954116678,
             "Region": "MENA",
-            "LastGameUpdated": 1291,
+            "LastGameUpdated": 49,
             "MajorCount": 1,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 796,
             "TeamName": "FLCS",
             "MapName": "CONS",
-            "Elo": 1362.7583504047043,
+            "Elo": 1344.5812057823057,
             "Region": "MENA",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 49,
             "MajorCount": 0,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 296,
@@ -1664,11 +1664,11 @@
             "ID": 86,
             "TeamName": "FaZe",
             "MapName": "LABS",
-            "Elo": 1464.9841566572356,
+            "Elo": 1495.420573180263,
             "Region": "BR",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 50,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 584,
@@ -2794,11 +2794,11 @@
             "ID": 464,
             "TeamName": "Liquid",
             "MapName": "LABS",
-            "Elo": 1502.2248743885743,
+            "Elo": 1471.788457865547,
             "Region": "BR",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 50,
             "MajorCount": 6,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 719,
@@ -3194,11 +3194,11 @@
             "ID": 334,
             "TeamName": "OXG",
             "MapName": "CLUB",
-            "Elo": 1500.3096347554251,
+            "Elo": 1527.2030956849642,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 13,
+            "LastGameUpdated": 51,
             "MajorCount": 0,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 346,
@@ -3494,11 +3494,11 @@
             "ID": 312,
             "TeamName": "SR",
             "MapName": "CLUB",
-            "Elo": 1625.1731023029959,
+            "Elo": 1598.2796413734568,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 51,
             "MajorCount": 2,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 327,
@@ -4314,21 +4314,21 @@
             "ID": 560,
             "TeamName": "w7m",
             "MapName": "CLUB",
-            "Elo": 1566.9731866362586,
+            "Elo": 1530.9298959505436,
             "Region": "BR",
-            "LastGameUpdated": 41,
+            "LastGameUpdated": 49,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 558,
             "TeamName": "w7m",
             "MapName": "CONS",
-            "Elo": 1460.043743410874,
+            "Elo": 1478.2208880332726,
             "Region": "BR",
-            "LastGameUpdated": 1334,
+            "LastGameUpdated": 49,
             "MajorCount": 3,
-            "RegionalCount": 1
+            "RegionalCount": 2
         },
         {
             "ID": 44,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 5
         }
     ],
-    "Date": "Feb 10, 2025, 17:14"
+    "Date": "Feb 10, 2025, 19:36"
 }

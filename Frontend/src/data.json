@@ -43,24 +43,24 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1677.8416480327148,
-            "LastGameUpdated": 42,
+            "Elo": 1693.8299489284677,
+            "LastGameUpdated": 50,
             "Region": "BR",
             "IsActive": 1
         },
         {
             "ID": 10,
             "TeamName": "w7m",
-            "Elo": 1688.2210161648857,
-            "LastGameUpdated": 41,
+            "Elo": 1676.581071473227,
+            "LastGameUpdated": 49,
             "Region": "BR",
             "IsActive": 1
         },
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1522.8846268794102,
-            "LastGameUpdated": 33,
+            "Elo": 1506.8963259836573,
+            "LastGameUpdated": 50,
             "Region": "BR",
             "IsActive": 1
         },
@@ -259,8 +259,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1547.9743022095406,
-            "LastGameUpdated": 38,
+            "Elo": 1559.6142469011993,
+            "LastGameUpdated": 49,
             "Region": "MENA",
             "IsActive": 1
         },
@@ -283,7 +283,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1612.6570382016255,
+            "Elo": 1631.5021723880946,
             "LastGameUpdated": 51,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -299,7 +299,7 @@
         {
             "ID": 60,
             "TeamName": "SR",
-            "Elo": 1592.572621906001,
+            "Elo": 1573.7274877195318,
             "LastGameUpdated": 51,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 17:14"
+    "Date": "Feb 10, 2025, 19:36"
 }
