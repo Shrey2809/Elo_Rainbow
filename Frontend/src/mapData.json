@@ -374,11 +374,11 @@
             "ID": 773,
             "TeamName": "CAG",
             "MapName": "LAIR",
-            "Elo": 1381.9785951205915,
+            "Elo": 1368.4898326611376,
             "Region": "JAPAN",
-            "LastGameUpdated": 52,
+            "LastGameUpdated": 56,
             "MajorCount": 2,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 467,
@@ -1854,11 +1854,11 @@
             "ID": 465,
             "TeamName": "G2",
             "MapName": "LABS",
-            "Elo": 1479.3191469852031,
+            "Elo": 1457.9802528972357,
             "Region": "EU",
-            "LastGameUpdated": 1369,
+            "LastGameUpdated": 55,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 574,
@@ -3224,11 +3224,11 @@
             "ID": 366,
             "TeamName": "OXG",
             "MapName": "LABS",
-            "Elo": 1456.025334931966,
+            "Elo": 1477.3642290199334,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 55,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 579,
@@ -3914,11 +3914,11 @@
             "ID": 683,
             "TeamName": "UW",
             "MapName": "LAIR",
-            "Elo": 1529.375936261266,
+            "Elo": 1542.8646987207198,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 10,
+            "LastGameUpdated": 56,
             "MajorCount": 0,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 349,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 10, 2025, 22:27"
+    "Date": "Feb 10, 2025, 23:32"
 }
