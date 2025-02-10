@@ -684,11 +684,11 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1501.1951597802433,
+            "Elo": 1482.2307493331152,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 48,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 337,
@@ -1234,11 +1234,11 @@
             "ID": 104,
             "TeamName": "FURIA",
             "MapName": "BORDER",
-            "Elo": 1612.7120739587524,
+            "Elo": 1631.6764844058805,
             "Region": "BR",
-            "LastGameUpdated": 1059,
+            "LastGameUpdated": 48,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 51,
@@ -3244,11 +3244,11 @@
             "ID": 48,
             "TeamName": "RCAC",
             "MapName": "BANK",
-            "Elo": 1513.6555968157516,
+            "Elo": 1538.2908144786422,
             "Region": "BR",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 47,
             "MajorCount": 1,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 501,
@@ -3284,11 +3284,11 @@
             "ID": 73,
             "TeamName": "RCAC",
             "MapName": "CONS",
-            "Elo": 1480.253002822544,
+            "Elo": 1461.7495037744163,
             "Region": "BR",
-            "LastGameUpdated": 4,
+            "LastGameUpdated": 47,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 97,
@@ -3824,11 +3824,11 @@
             "ID": 150,
             "TeamName": "VP",
             "MapName": "BANK",
-            "Elo": 1595.6675934320901,
+            "Elo": 1571.0323757691995,
             "Region": "EU",
-            "LastGameUpdated": 5,
+            "LastGameUpdated": 47,
             "MajorCount": 1,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 135,
@@ -3864,11 +3864,11 @@
             "ID": 568,
             "TeamName": "VP",
             "MapName": "CONS",
-            "Elo": 1542.6268684187469,
+            "Elo": 1561.1303674668745,
             "Region": "EU",
-            "LastGameUpdated": 1127,
+            "LastGameUpdated": 47,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 508,
@@ -4261,5 +4261,5 @@
             "RegionalCount": 5
         }
     ],
-    "Date": "Feb 10, 2025, 01:24"
+    "Date": "Feb 10, 2025, 02:59"
 }
