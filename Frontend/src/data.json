@@ -43,7 +43,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1693.8299489284677,
+            "Elo": 1660.27116441134,
             "LastGameUpdated": 50,
             "Region": "BR",
             "IsActive": 1
@@ -59,7 +59,7 @@
         {
             "ID": 11,
             "TeamName": "Liquid",
-            "Elo": 1506.8963259836573,
+            "Elo": 1540.4551105007852,
             "LastGameUpdated": 50,
             "Region": "BR",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 19:36"
+    "Date": "Feb 10, 2025, 20:08"
 }

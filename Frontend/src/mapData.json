@@ -1654,11 +1654,11 @@
             "ID": 43,
             "TeamName": "FaZe",
             "MapName": "KAFE",
-            "Elo": 1528.0118807726435,
+            "Elo": 1503.9011861177346,
             "Region": "BR",
-            "LastGameUpdated": 1294,
+            "LastGameUpdated": 50,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 86,
@@ -2784,11 +2784,11 @@
             "ID": 484,
             "TeamName": "Liquid",
             "MapName": "KAFE",
-            "Elo": 1503.0975908145779,
+            "Elo": 1527.2082854694868,
             "Region": "BR",
-            "LastGameUpdated": 1,
+            "LastGameUpdated": 50,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 464,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 5
         }
     ],
-    "Date": "Feb 10, 2025, 19:36"
+    "Date": "Feb 10, 2025, 20:08"
 }
