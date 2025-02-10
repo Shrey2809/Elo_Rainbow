@@ -364,21 +364,21 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1463.9600864302759,
+            "Elo": 1485.7664042307758,
             "Region": "JAPAN",
-            "LastGameUpdated": 35,
+            "LastGameUpdated": 52,
             "MajorCount": 3,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 773,
             "TeamName": "CAG",
             "MapName": "LAIR",
-            "Elo": 1352.528974735311,
+            "Elo": 1381.9785951205915,
             "Region": "JAPAN",
-            "LastGameUpdated": 20,
+            "LastGameUpdated": 52,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 467,
@@ -2894,21 +2894,21 @@
             "ID": 367,
             "TeamName": "M80",
             "MapName": "LABS",
-            "Elo": 1453.2451404131352,
+            "Elo": 1431.4388226126352,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 33,
+            "LastGameUpdated": 52,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 581,
             "TeamName": "M80",
             "MapName": "LAIR",
-            "Elo": 1530.8536205921735,
+            "Elo": 1501.404000206893,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 9,
+            "LastGameUpdated": 52,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 318,
@@ -3234,11 +3234,11 @@
             "ID": 579,
             "TeamName": "OXG",
             "MapName": "LAIR",
-            "Elo": 1513.4250130289906,
+            "Elo": 1536.3363686127827,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 6,
+            "LastGameUpdated": 51,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 310,
@@ -3534,11 +3534,11 @@
             "ID": 578,
             "TeamName": "SR",
             "MapName": "LAIR",
-            "Elo": 1519.7777016897949,
+            "Elo": 1496.8663461060028,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 51,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 319,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 5
         }
     ],
-    "Date": "Feb 10, 2025, 04:33"
+    "Date": "Feb 10, 2025, 17:14"
 }
