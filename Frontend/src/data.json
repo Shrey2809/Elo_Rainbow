@@ -203,8 +203,8 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1643.8736980414849,
-            "LastGameUpdated": 52,
+            "Elo": 1605.5657320396149,
+            "LastGameUpdated": 56,
             "Region": "JAPAN",
             "IsActive": 1
         },
@@ -331,8 +331,8 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1610.938105976337,
-            "LastGameUpdated": 45,
+            "Elo": 1649.246071978207,
+            "LastGameUpdated": 56,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 20:58"
+    "Date": "Feb 10, 2025, 21:42"
 }

@@ -364,11 +364,11 @@
             "ID": 160,
             "TeamName": "CAG",
             "MapName": "LABS",
-            "Elo": 1485.7664042307758,
+            "Elo": 1456.8320951797843,
             "Region": "JAPAN",
-            "LastGameUpdated": 52,
+            "LastGameUpdated": 56,
             "MajorCount": 3,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 773,
@@ -3904,11 +3904,11 @@
             "ID": 335,
             "TeamName": "UW",
             "MapName": "LABS",
-            "Elo": 1546.592811639689,
+            "Elo": 1575.5271206906805,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 26,
+            "LastGameUpdated": 56,
             "MajorCount": 3,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 683,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 10, 2025, 20:58"
+    "Date": "Feb 10, 2025, 21:42"
 }
