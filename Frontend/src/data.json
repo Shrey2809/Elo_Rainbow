@@ -33,26 +33,10 @@
             "IsActive": 1
         },
         {
-            "ID": 6,
-            "TeamName": "KNOCK",
-            "Elo": 1207.645767402967,
-            "LastGameUpdated": 846,
-            "Region": "SEA",
-            "IsActive": 1
-        },
-        {
             "ID": 7,
             "TeamName": "JOEL",
             "Elo": 1425.2611943712375,
             "LastGameUpdated": 25,
-            "Region": "SEA",
-            "IsActive": 1
-        },
-        {
-            "ID": 8,
-            "TeamName": "HW",
-            "Elo": 1224.3014987694078,
-            "LastGameUpdated": 845,
             "Region": "SEA",
             "IsActive": 1
         },
@@ -249,6 +233,22 @@
             "IsActive": 1
         },
         {
+            "ID": 38,
+            "TeamName": "ALPHA",
+            "Elo": 1388.4291823172912,
+            "LastGameUpdated": 1263,
+            "Region": "LATAM",
+            "IsActive": 1
+        },
+        {
+            "ID": 44,
+            "TeamName": "CTY",
+            "Elo": 1477.8105539121873,
+            "LastGameUpdated": 1391,
+            "Region": "LATAM",
+            "IsActive": 1
+        },
+        {
             "ID": 50,
             "TeamName": "GK",
             "Elo": 1450.094576232259,
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 02:59"
+    "Date": "Feb 10, 2025, 03:29"
 }
