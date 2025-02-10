@@ -267,7 +267,7 @@
         {
             "ID": 56,
             "TeamName": "WCG",
-            "Elo": 11460.684355032197,
+            "Elo": 1460.684355032197,
             "LastGameUpdated": 1393,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -339,7 +339,7 @@
         {
             "ID": 71,
             "TeamName": "GG",
-            "Elo": 1507.23816441713,
+            "Elo": 1457.23816441713,
             "LastGameUpdated": 1136,
             "Region": "OCE",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 01:23"
+    "Date": "Feb 10, 2025, 01:24"
 }
