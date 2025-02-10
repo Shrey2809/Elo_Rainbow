@@ -3384,11 +3384,11 @@
             "ID": 79,
             "TeamName": "RCAC",
             "MapName": "CHALET",
-            "Elo": 1444.2769169125827,
+            "Elo": 1466.9791898220365,
             "Region": "BR",
-            "LastGameUpdated": 11,
+            "LastGameUpdated": 47,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 694,
@@ -3964,11 +3964,11 @@
             "ID": 146,
             "TeamName": "VP",
             "MapName": "CHALET",
-            "Elo": 1491.509036611247,
+            "Elo": 1468.8067637017932,
             "Region": "EU",
-            "LastGameUpdated": 31,
+            "LastGameUpdated": 47,
             "MajorCount": 3,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 123,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 5
         }
     ],
-    "Date": "Feb 10, 2025, 03:29"
+    "Date": "Feb 10, 2025, 04:33"
 }
