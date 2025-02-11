@@ -1154,11 +1154,11 @@
             "ID": 304,
             "TeamName": "FLCS",
             "MapName": "CLUB",
-            "Elo": 1361.1460954116678,
+            "Elo": 1396.55362841468,
             "Region": "MENA",
-            "LastGameUpdated": 49,
+            "LastGameUpdated": 60,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 796,
@@ -1194,11 +1194,11 @@
             "ID": 688,
             "TeamName": "FLCS",
             "MapName": "LAIR",
-            "Elo": 1421.0327992931332,
+            "Elo": 1406.6174815382512,
             "Region": "MENA",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 60,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 535,
@@ -1634,11 +1634,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1588.0122373908025,
+            "Elo": 1552.6047043877904,
             "Region": "BR",
-            "LastGameUpdated": 54,
+            "LastGameUpdated": 60,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 105,
@@ -1674,11 +1674,11 @@
             "ID": 584,
             "TeamName": "FaZe",
             "MapName": "LAIR",
-            "Elo": 1551.704700452085,
+            "Elo": 1566.120018206967,
             "Region": "BR",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 60,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 92,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 21:12"
+    "Date": "Feb 11, 2025, 22:59"
 }
