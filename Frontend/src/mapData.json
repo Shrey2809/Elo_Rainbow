@@ -864,11 +864,11 @@
             "ID": 363,
             "TeamName": "DZ",
             "MapName": "BORDER",
-            "Elo": 1482.2307493331152,
+            "Elo": 1447.6289330163263,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 48,
+            "LastGameUpdated": 53,
             "MajorCount": 3,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 337,
@@ -1134,11 +1134,11 @@
             "ID": 772,
             "TeamName": "FLCS",
             "MapName": "BORDER",
-            "Elo": 1390.4277900854277,
+            "Elo": 1425.0296064022166,
             "Region": "MENA",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 53,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 293,
@@ -1604,11 +1604,11 @@
             "ID": 80,
             "TeamName": "FaZe",
             "MapName": "BANK",
-            "Elo": 1590.256407678115,
+            "Elo": 1566.5127243542113,
             "Region": "BR",
-            "LastGameUpdated": 16,
+            "LastGameUpdated": 54,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 797,
@@ -3944,11 +3944,11 @@
             "ID": 150,
             "TeamName": "VP",
             "MapName": "BANK",
-            "Elo": 1571.0323757691995,
+            "Elo": 1594.7760590931032,
             "Region": "EU",
-            "LastGameUpdated": 47,
+            "LastGameUpdated": 54,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 135,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 10, 2025, 23:32"
+    "Date": "Feb 11, 2025, 01:03"
 }

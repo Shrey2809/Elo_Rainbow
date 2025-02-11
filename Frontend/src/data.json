@@ -43,8 +43,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1616.987411498487,
-            "LastGameUpdated": 50,
+            "Elo": 1597.665249796729,
+            "LastGameUpdated": 54,
             "Region": "BR",
             "IsActive": 1
         },
@@ -187,8 +187,8 @@
         {
             "ID": 27,
             "TeamName": "VP",
-            "Elo": 1666.3885104418055,
-            "LastGameUpdated": 47,
+            "Elo": 1685.7106721435634,
+            "LastGameUpdated": 54,
             "Region": "EU",
             "IsActive": 1
         },
@@ -259,8 +259,8 @@
         {
             "ID": 53,
             "TeamName": "FLCS",
-            "Elo": 1589.4152756159617,
-            "LastGameUpdated": 49,
+            "Elo": 1619.7727728960517,
+            "LastGameUpdated": 53,
             "Region": "MENA",
             "IsActive": 1
         },
@@ -307,8 +307,8 @@
         {
             "ID": 61,
             "TeamName": "DZ",
-            "Elo": 1625.6477362624332,
-            "LastGameUpdated": 48,
+            "Elo": 1595.2902389823432,
+            "LastGameUpdated": 53,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 10, 2025, 23:32"
+    "Date": "Feb 11, 2025, 01:03"
 }
