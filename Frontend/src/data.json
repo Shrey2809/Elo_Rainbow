@@ -203,7 +203,7 @@
         {
             "ID": 32,
             "TeamName": "CAG",
-            "Elo": 1617.7277514669834,
+            "Elo": 1623.7277514669834,
             "LastGameUpdated": 56,
             "Region": "JAPAN",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 11, 2025, 23:58"
+    "Date": "Feb 11, 2025, 23:59"
 }
