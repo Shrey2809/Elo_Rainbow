@@ -83,8 +83,8 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1599.5390663884273,
-            "LastGameUpdated": 47,
+            "Elo": 1587.5200459639893,
+            "LastGameUpdated": 58,
             "Region": "BR",
             "IsActive": 1
         },
@@ -107,8 +107,8 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1774.8968573436211,
-            "LastGameUpdated": 48,
+            "Elo": 1786.915877768059,
+            "LastGameUpdated": 58,
             "Region": "BR",
             "IsActive": 1
         },
@@ -171,8 +171,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1725.367065079459,
-            "LastGameUpdated": 45,
+            "Elo": 1698.6690458284263,
+            "LastGameUpdated": 57,
             "Region": "EU",
             "IsActive": 1
         },
@@ -323,8 +323,8 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1701.7325839790706,
-            "LastGameUpdated": 46,
+            "Elo": 1728.4306032301033,
+            "LastGameUpdated": 57,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 11, 2025, 03:22"
+    "Date": "Feb 11, 2025, 18:15"
 }

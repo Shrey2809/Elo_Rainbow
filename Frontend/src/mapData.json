@@ -214,11 +214,11 @@
             "ID": 124,
             "TeamName": "BDS",
             "MapName": "BORDER",
-            "Elo": 1514.5007919053944,
+            "Elo": 1492.1836838066984,
             "Region": "EU",
-            "LastGameUpdated": 45,
+            "LastGameUpdated": 57,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 119,
@@ -1414,11 +1414,11 @@
             "ID": 104,
             "TeamName": "FURIA",
             "MapName": "BORDER",
-            "Elo": 1631.6764844058805,
+            "Elo": 1644.338707294399,
             "Region": "BR",
-            "LastGameUpdated": 48,
+            "LastGameUpdated": 58,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 51,
@@ -3374,11 +3374,11 @@
             "ID": 501,
             "TeamName": "RCAC",
             "MapName": "BORDER",
-            "Elo": 1468.796400665592,
+            "Elo": 1456.1341777770735,
             "Region": "BR",
-            "LastGameUpdated": 38,
+            "LastGameUpdated": 58,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 79,
@@ -3574,11 +3574,11 @@
             "ID": 358,
             "TeamName": "SSG",
             "MapName": "BORDER",
-            "Elo": 1551.9302078262706,
+            "Elo": 1574.2473159249666,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1316,
+            "LastGameUpdated": 57,
             "MajorCount": 5,
-            "RegionalCount": 3
+            "RegionalCount": 4
         },
         {
             "ID": 479,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 03:22"
+    "Date": "Feb 11, 2025, 18:15"
 }
