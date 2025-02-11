@@ -1634,11 +1634,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1571.2289376275032,
+            "Elo": 1588.0122373908025,
             "Region": "BR",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 54,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 105,
@@ -3974,11 +3974,11 @@
             "ID": 123,
             "TeamName": "VP",
             "MapName": "CLUB",
-            "Elo": 1480.9773884585566,
+            "Elo": 1464.1940886952573,
             "Region": "EU",
-            "LastGameUpdated": 23,
+            "LastGameUpdated": 54,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 568,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 01:58"
+    "Date": "Feb 11, 2025, 03:22"
 }
