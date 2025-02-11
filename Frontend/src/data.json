@@ -283,7 +283,7 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1650.0899575174305,
+            "Elo": 1619.26808761811,
             "LastGameUpdated": 59,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -331,7 +331,7 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1668.045683787491,
+            "Elo": 1698.8675536868116,
             "LastGameUpdated": 59,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 11, 2025, 20:32"
+    "Date": "Feb 11, 2025, 21:12"
 }

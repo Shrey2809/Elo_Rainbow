@@ -3204,11 +3204,11 @@
             "ID": 346,
             "TeamName": "OXG",
             "MapName": "CONS",
-            "Elo": 1473.872521789174,
+            "Elo": 1441.0439185937362,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 39,
+            "LastGameUpdated": 59,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 364,
@@ -3884,11 +3884,11 @@
             "ID": 368,
             "TeamName": "UW",
             "MapName": "CONS",
-            "Elo": 1470.359526887126,
+            "Elo": 1503.188130082564,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 56,
+            "LastGameUpdated": 59,
             "MajorCount": 1,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 348,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 20:32"
+    "Date": "Feb 11, 2025, 21:12"
 }
