@@ -1184,11 +1184,11 @@
             "ID": 274,
             "TeamName": "FLCS",
             "MapName": "LABS",
-            "Elo": 1460.085539637975,
+            "Elo": 1437.619369582069,
             "Region": "MENA",
-            "LastGameUpdated": 22,
+            "LastGameUpdated": 60,
             "MajorCount": 1,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 688,
@@ -1664,11 +1664,11 @@
             "ID": 86,
             "TeamName": "FaZe",
             "MapName": "LABS",
-            "Elo": 1495.420573180263,
+            "Elo": 1517.886743236169,
             "Region": "BR",
-            "LastGameUpdated": 50,
+            "LastGameUpdated": 60,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 584,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 22:59"
+    "Date": "Feb 11, 2025, 23:58"
 }
