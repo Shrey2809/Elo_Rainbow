@@ -264,11 +264,11 @@
             "ID": 559,
             "TeamName": "BDS",
             "MapName": "LABS",
-            "Elo": 1534.9061586929827,
+            "Elo": 1569.5708257234578,
             "Region": "EU",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 57,
             "MajorCount": 4,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 778,
@@ -3224,11 +3224,11 @@
             "ID": 366,
             "TeamName": "OXG",
             "MapName": "LABS",
-            "Elo": 1477.3642290199334,
+            "Elo": 1457.4336075606384,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 55,
+            "LastGameUpdated": 59,
             "MajorCount": 0,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 579,
@@ -3624,11 +3624,11 @@
             "ID": 557,
             "TeamName": "SSG",
             "MapName": "LABS",
-            "Elo": 1558.0814653783384,
+            "Elo": 1523.4167983478633,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 42,
+            "LastGameUpdated": 57,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 684,
@@ -3904,11 +3904,11 @@
             "ID": 335,
             "TeamName": "UW",
             "MapName": "LABS",
-            "Elo": 1575.5271206906805,
+            "Elo": 1595.4577421499755,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 56,
+            "LastGameUpdated": 59,
             "MajorCount": 3,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 683,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 19:24"
+    "Date": "Feb 11, 2025, 20:32"
 }

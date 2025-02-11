@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1725.805339389642,
+            "Elo": 1756.0163122131603,
             "LastGameUpdated": 57,
             "Region": "EU",
             "IsActive": 1
@@ -283,8 +283,8 @@
         {
             "ID": 58,
             "TeamName": "OXG",
-            "Elo": 1681.051588754083,
-            "LastGameUpdated": 55,
+            "Elo": 1650.0899575174305,
+            "LastGameUpdated": 59,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -323,7 +323,7 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1701.2943096688875,
+            "Elo": 1671.0833368453693,
             "LastGameUpdated": 57,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -331,8 +331,8 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1637.0840525508386,
-            "LastGameUpdated": 56,
+            "Elo": 1668.045683787491,
+            "LastGameUpdated": 59,
             "Region": "NORTH AMERICA",
             "IsActive": 1
         },
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 11, 2025, 19:24"
+    "Date": "Feb 11, 2025, 20:32"
 }
