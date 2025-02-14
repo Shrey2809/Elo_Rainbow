@@ -254,11 +254,11 @@
             "ID": 114,
             "TeamName": "BDS",
             "MapName": "KAFE",
-            "Elo": 1503.8737304481392,
+            "Elo": 1531.2954972615855,
             "Region": "EU",
-            "LastGameUpdated": 30,
+            "LastGameUpdated": 63,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 559,
@@ -1454,11 +1454,11 @@
             "ID": 90,
             "TeamName": "FURIA",
             "MapName": "KAFE",
-            "Elo": 1502.8853280370704,
+            "Elo": 1475.463561223624,
             "Region": "BR",
-            "LastGameUpdated": 28,
+            "LastGameUpdated": 63,
             "MajorCount": 1,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 87,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 14, 2025, 21:02"
+    "Date": "Feb 14, 2025, 22:26"
 }
