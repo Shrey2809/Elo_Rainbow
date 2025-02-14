@@ -194,11 +194,11 @@
             "ID": 483,
             "TeamName": "BDS",
             "MapName": "BANK",
-            "Elo": 1680.666182887276,
+            "Elo": 1694.2618248202934,
             "Region": "EU",
-            "LastGameUpdated": 57,
+            "LastGameUpdated": 63,
             "MajorCount": 5,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 779,
@@ -1404,11 +1404,11 @@
             "ID": 67,
             "TeamName": "FURIA",
             "MapName": "BANK",
-            "Elo": 1535.2301019387146,
+            "Elo": 1521.634460005697,
             "Region": "BR",
-            "LastGameUpdated": 58,
+            "LastGameUpdated": 63,
             "MajorCount": 1,
-            "RegionalCount": 8
+            "RegionalCount": 9
         },
         {
             "ID": 104,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 14, 2025, 22:26"
+    "Date": "Feb 14, 2025, 23:55"
 }

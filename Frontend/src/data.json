@@ -107,7 +107,7 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1769.1890219735558,
+            "Elo": 1747.8409406731578,
             "LastGameUpdated": 63,
             "Region": "BR",
             "IsActive": 1
@@ -171,7 +171,7 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1786.9920337456458,
+            "Elo": 1808.3401150460438,
             "LastGameUpdated": 63,
             "Region": "EU",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 14, 2025, 22:26"
+    "Date": "Feb 14, 2025, 23:55"
 }
