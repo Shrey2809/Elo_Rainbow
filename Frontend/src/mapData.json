@@ -3424,11 +3424,11 @@
             "ID": 100,
             "TeamName": "RCAC",
             "MapName": "LABS",
-            "Elo": 1415.925479463061,
+            "Elo": 1401.4928318546572,
             "Region": "BR",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 62,
             "MajorCount": 1,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 587,
@@ -3904,11 +3904,11 @@
             "ID": 335,
             "TeamName": "UW",
             "MapName": "LABS",
-            "Elo": 1595.4577421499755,
+            "Elo": 1609.8903897583793,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 59,
+            "LastGameUpdated": 62,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 683,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 11, 2025, 23:59"
+    "Date": "Feb 14, 2025, 17:03"
 }
