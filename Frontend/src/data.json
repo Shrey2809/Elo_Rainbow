@@ -83,7 +83,7 @@
         {
             "ID": 14,
             "TeamName": "RCAC",
-            "Elo": 1556.2310547332565,
+            "Elo": 1540.6135494302891,
             "LastGameUpdated": 62,
             "Region": "BR",
             "IsActive": 1
@@ -331,7 +331,7 @@
         {
             "ID": 64,
             "TeamName": "UW",
-            "Elo": 1716.9076791795621,
+            "Elo": 1732.5251844825295,
             "LastGameUpdated": 62,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 14, 2025, 17:03"
+    "Date": "Feb 14, 2025, 18:11"
 }

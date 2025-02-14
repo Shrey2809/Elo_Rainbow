@@ -3434,11 +3434,11 @@
             "ID": 587,
             "TeamName": "RCAC",
             "MapName": "LAIR",
-            "Elo": 1550.2011002951306,
+            "Elo": 1522.1205004041253,
             "Region": "BR",
-            "LastGameUpdated": 43,
+            "LastGameUpdated": 62,
             "MajorCount": 0,
-            "RegionalCount": 5
+            "RegionalCount": 6
         },
         {
             "ID": 89,
@@ -3914,11 +3914,11 @@
             "ID": 683,
             "TeamName": "UW",
             "MapName": "LAIR",
-            "Elo": 1542.8646987207198,
+            "Elo": 1570.945298611725,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 56,
+            "LastGameUpdated": 62,
             "MajorCount": 0,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 349,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 14, 2025, 17:03"
+    "Date": "Feb 14, 2025, 18:11"
 }
