@@ -43,7 +43,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1701.081275883721,
+            "Elo": 1717.8133456812052,
             "LastGameUpdated": 61,
             "Region": "BR",
             "IsActive": 1
@@ -323,7 +323,7 @@
         {
             "ID": 63,
             "TeamName": "SSG",
-            "Elo": 1643.7980419638432,
+            "Elo": 1627.065972166359,
             "LastGameUpdated": 61,
             "Region": "NORTH AMERICA",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 14, 2025, 19:44"
+    "Date": "Feb 14, 2025, 21:02"
 }

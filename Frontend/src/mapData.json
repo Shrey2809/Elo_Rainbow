@@ -1694,11 +1694,11 @@
             "ID": 66,
             "TeamName": "FaZe",
             "MapName": "SKYSCRAPER",
-            "Elo": 1524.8472606692205,
+            "Elo": 1544.5441733181958,
             "Region": "BR",
-            "LastGameUpdated": 54,
+            "LastGameUpdated": 61,
             "MajorCount": 4,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 96,
@@ -3654,11 +3654,11 @@
             "ID": 360,
             "TeamName": "SSG",
             "MapName": "SKYSCRAPER",
-            "Elo": 1519.5816909932626,
+            "Elo": 1499.8847783442873,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 1317,
+            "LastGameUpdated": 61,
             "MajorCount": 1,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 162,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 14, 2025, 19:44"
+    "Date": "Feb 14, 2025, 21:02"
 }
