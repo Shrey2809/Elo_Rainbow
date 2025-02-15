@@ -43,7 +43,7 @@ type EloData = {
 
 type RankName = "S-Tier" | "A-Tier" | "B-Tier" | "C-Tier" | "D-Tier" | "F-Tier";
 
-const regions = ["ALL REGIONS", "NORTH AMERICA", "BR", "EU", "JAPAN", "KOREA", "LATAM", "MENA", "OCE", "SEA"];
+const regions = ["ALL REGIONS", "NAL", "SAL", "EML", "APL"];
 // Create a dict for ranks based on elo ranges
 const rank: { [key in RankName]: [number, number] } = {
   "S-Tier" : [1675, 9999],
@@ -352,7 +352,15 @@ export default function EloTable() {
                           onClick={() => handleRegionSelect(region)}
                           className="py-2 text-white text-lg hover:bg-myColor rounded-xl"
                         >
-                          {region}
+                          <img 
+                            src={`/regions/${region.toLowerCase()}.png`}
+                            alt={region}
+                            className="w-14 h-fit mx-auto drop-shadow-xl"
+                            loading="lazy"
+                            onError={(e) => {
+                              e.currentTarget.src = "/regions/world.png";
+                            }}
+                          />
                         </button>
                       ))}
                     </div>
@@ -400,13 +408,12 @@ export default function EloTable() {
                   <img 
                     src={`/regions/${data.region.toLowerCase()}.png`}
                     alt={data.region}
-                    className="w-10 h-10 mx-auto drop-shadow-xl"
+                    className="w-10 h-fit mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
-                      e.currentTarget.src = "/team_logos/no_org.png";
+                      e.currentTarget.src = "/regions/world.png";
                     }}
                   />
-                  {data.region}
                 </TableCell>
               </TableRow>
             ))}
