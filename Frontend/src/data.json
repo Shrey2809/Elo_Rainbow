@@ -5,7 +5,7 @@
             "TeamName": "FURY",
             "Elo": 1458.4526304760009,
             "LastGameUpdated": 1018,
-            "Region": "SEA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -13,7 +13,7 @@
             "TeamName": "ELV",
             "Elo": 1479.114272467858,
             "LastGameUpdated": 1306,
-            "Region": "SEA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -21,7 +21,7 @@
             "TeamName": "JOEL",
             "Elo": 1425.2611943712375,
             "LastGameUpdated": 25,
-            "Region": "SEA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -29,7 +29,7 @@
             "TeamName": "FaZe",
             "Elo": 1812.3266544999021,
             "LastGameUpdated": 65,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -37,7 +37,7 @@
             "TeamName": "w7m",
             "Elo": 1646.7800427584646,
             "LastGameUpdated": 49,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -45,7 +45,7 @@
             "TeamName": "Liquid",
             "Elo": 1583.738863413638,
             "LastGameUpdated": 50,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -53,7 +53,7 @@
             "TeamName": "NIP",
             "Elo": 1422.69167346055,
             "LastGameUpdated": 1227,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -61,7 +61,7 @@
             "TeamName": "BD",
             "Elo": 1487.4570269310402,
             "LastGameUpdated": 1367,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -69,7 +69,7 @@
             "TeamName": "RCAC",
             "Elo": 1540.6135494302891,
             "LastGameUpdated": 62,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -77,7 +77,7 @@
             "TeamName": "FURIA",
             "Elo": 1701.745354896151,
             "LastGameUpdated": 65,
-            "Region": "BR",
+            "Region": "SAL",
             "IsActive": 1
         },
         {
@@ -85,7 +85,7 @@
             "TeamName": "ENCE",
             "Elo": 1436.2284078936777,
             "LastGameUpdated": 1210,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -93,7 +93,7 @@
             "TeamName": "Secret",
             "Elo": 1530.31385822038,
             "LastGameUpdated": 35,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -101,7 +101,7 @@
             "TeamName": "WOL",
             "Elo": 1457.1560015397463,
             "LastGameUpdated": 1185,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -109,7 +109,7 @@
             "TeamName": "FNC",
             "Elo": 1420.647191640452,
             "LastGameUpdated": 1203,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -117,7 +117,7 @@
             "TeamName": "G2",
             "Elo": 1666.7263081401165,
             "LastGameUpdated": 55,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -125,7 +125,7 @@
             "TeamName": "BDS",
             "Elo": 1808.3401150460438,
             "LastGameUpdated": 63,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -133,7 +133,7 @@
             "TeamName": "VP",
             "Elo": 1630.3501302502823,
             "LastGameUpdated": 54,
-            "Region": "EU",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -141,7 +141,7 @@
             "TeamName": "CAG",
             "Elo": 1623.7277514669834,
             "LastGameUpdated": 56,
-            "Region": "JAPAN",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -149,7 +149,7 @@
             "TeamName": "SZ",
             "Elo": 1412.7686642287374,
             "LastGameUpdated": 40,
-            "Region": "JAPAN",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -157,7 +157,7 @@
             "TeamName": "KNT",
             "Elo": 1439.812353748721,
             "LastGameUpdated": 1171,
-            "Region": "JAPAN",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -181,7 +181,7 @@
             "TeamName": "GK",
             "Elo": 1450.094576232259,
             "LastGameUpdated": 1031,
-            "Region": "MENA",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -189,7 +189,7 @@
             "TeamName": "FLCS",
             "Elo": 1622.2438337266083,
             "LastGameUpdated": 60,
-            "Region": "MENA",
+            "Region": "EML",
             "IsActive": 1
         },
         {
@@ -197,7 +197,7 @@
             "TeamName": "WCG",
             "Elo": 1460.684355032197,
             "LastGameUpdated": 1393,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -205,7 +205,7 @@
             "TeamName": "M80",
             "Elo": 1550.0001878167598,
             "LastGameUpdated": 52,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -213,7 +213,7 @@
             "TeamName": "OXG",
             "Elo": 1619.26808761811,
             "LastGameUpdated": 59,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -221,7 +221,7 @@
             "TeamName": "SR",
             "Elo": 1573.7274877195318,
             "LastGameUpdated": 51,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -229,7 +229,7 @@
             "TeamName": "DZ",
             "Elo": 1572.048988839602,
             "LastGameUpdated": 53,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -237,7 +237,7 @@
             "TeamName": "LG",
             "Elo": 1426.245493709768,
             "LastGameUpdated": 1193,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -245,7 +245,7 @@
             "TeamName": "SSG",
             "Elo": 1627.065972166359,
             "LastGameUpdated": 61,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -253,7 +253,7 @@
             "TeamName": "UW",
             "Elo": 1684.1074614408394,
             "LastGameUpdated": 64,
-            "Region": "NORTH AMERICA",
+            "Region": "NAL",
             "IsActive": 1
         },
         {
@@ -261,7 +261,7 @@
             "TeamName": "GG",
             "Elo": 1457.23816441713,
             "LastGameUpdated": 1136,
-            "Region": "OCE",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -269,7 +269,7 @@
             "TeamName": "PSG",
             "Elo": 1554.132785305349,
             "LastGameUpdated": 37,
-            "Region": "KOREA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -277,7 +277,7 @@
             "TeamName": "FOX",
             "Elo": 1468.6450158944256,
             "LastGameUpdated": 1353,
-            "Region": "KOREA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -285,7 +285,7 @@
             "TeamName": "DK",
             "Elo": 1449.4958893262606,
             "LastGameUpdated": 1298,
-            "Region": "KOREA",
+            "Region": "APL",
             "IsActive": 1
         },
         {
@@ -293,9 +293,9 @@
             "TeamName": "CHIEFS",
             "Elo": 1427.3367277333248,
             "LastGameUpdated": 1351,
-            "Region": "OCE",
+            "Region": "APL",
             "IsActive": 1
         }
     ],
-    "Date": "Feb 15, 2025, 20:56"
+    "Date": "Feb 15, 2025, 21:03"
 }

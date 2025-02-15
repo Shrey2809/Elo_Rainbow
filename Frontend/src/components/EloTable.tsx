@@ -53,6 +53,8 @@ const rank: { [key in RankName]: [number, number] } = {
   "D-Tier" : [1175, 1299.99],
   "F-Tier" : [0, 1174.99],
 }
+
+
 const getRank = (elo: number): string => {
   for (const [rankName, [minElo, maxElo]] of Object.entries(rank)) {
     if (elo >= minElo && elo <= maxElo) {
@@ -395,6 +397,15 @@ export default function EloTable() {
                   {Math.round(data.elo)}
                 </TableCell>
                 <TableCell className="w-[22.5%] text-center font-semibold">
+                  <img 
+                    src={`/team_logo/${newRegion[data.region]}APL.png`}
+                    alt={data.region}
+                    className="w-10 h-10 mx-auto drop-shadow-xl"
+                    loading="lazy"
+                    onError={(e) => {
+                      e.currentTarget.src = "/team_logos/no_org.png";
+                    }}
+                  />
                   {data.region}
                 </TableCell>
               </TableRow>
