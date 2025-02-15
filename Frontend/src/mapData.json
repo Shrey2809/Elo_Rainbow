@@ -1654,11 +1654,11 @@
             "ID": 43,
             "TeamName": "FaZe",
             "MapName": "KAFE",
-            "Elo": 1533.0859602316034,
+            "Elo": 1561.8688590088734,
             "Region": "BR",
-            "LastGameUpdated": 61,
+            "LastGameUpdated": 64,
             "MajorCount": 4,
-            "RegionalCount": 4
+            "RegionalCount": 5
         },
         {
             "ID": 86,
@@ -3894,11 +3894,11 @@
             "ID": 348,
             "TeamName": "UW",
             "MapName": "KAFE",
-            "Elo": 1549.3059040402704,
+            "Elo": 1520.5230052630004,
             "Region": "NORTH AMERICA",
-            "LastGameUpdated": 17,
+            "LastGameUpdated": 64,
             "MajorCount": 3,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 335,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 14, 2025, 23:55"
+    "Date": "Feb 15, 2025, 16:54"
 }
