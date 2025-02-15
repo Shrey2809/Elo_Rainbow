@@ -43,7 +43,7 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1787.541231226704,
+            "Elo": 1812.3266544999021,
             "LastGameUpdated": 65,
             "Region": "BR",
             "IsActive": 1
@@ -107,7 +107,7 @@
         {
             "ID": 17,
             "TeamName": "FURIA",
-            "Elo": 1726.530778169349,
+            "Elo": 1701.745354896151,
             "LastGameUpdated": 65,
             "Region": "BR",
             "IsActive": 1
@@ -377,5 +377,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 15, 2025, 19:46"
+    "Date": "Feb 15, 2025, 20:45"
 }
