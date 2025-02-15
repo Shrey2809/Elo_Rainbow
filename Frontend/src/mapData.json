@@ -1434,11 +1434,11 @@
             "ID": 69,
             "TeamName": "FURIA",
             "MapName": "CLUB",
-            "Elo": 1583.4926015702406,
+            "Elo": 1560.049576467139,
             "Region": "BR",
-            "LastGameUpdated": 36,
+            "LastGameUpdated": 65,
             "MajorCount": 2,
-            "RegionalCount": 11
+            "RegionalCount": 12
         },
         {
             "ID": 481,
@@ -1634,11 +1634,11 @@
             "ID": 60,
             "TeamName": "FaZe",
             "MapName": "CLUB",
-            "Elo": 1568.9222669242645,
+            "Elo": 1592.365292027366,
             "Region": "BR",
-            "LastGameUpdated": 64,
+            "LastGameUpdated": 65,
             "MajorCount": 1,
-            "RegionalCount": 10
+            "RegionalCount": 11
         },
         {
             "ID": 105,
@@ -4381,5 +4381,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 15, 2025, 17:53"
+    "Date": "Feb 15, 2025, 19:46"
 }
