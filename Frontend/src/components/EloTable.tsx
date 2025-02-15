@@ -398,7 +398,7 @@ export default function EloTable() {
                 </TableCell>
                 <TableCell className="w-[22.5%] text-center font-semibold">
                   <img 
-                    src={`/team_logo/${newRegion[data.region]}APL.png`}
+                    src={`/regions/${data.region.toLowerCase()}.png`}
                     alt={data.region}
                     className="w-10 h-10 mx-auto drop-shadow-xl"
                     loading="lazy"

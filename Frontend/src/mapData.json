@@ -5,7 +5,7 @@
             "TeamName": "ALPHA",
             "MapName": "BANK",
             "Elo": 1291.046941529541,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1263,
             "MajorCount": 2,
             "RegionalCount": 2
@@ -15,7 +15,7 @@
             "TeamName": "ALPHA",
             "MapName": "BORDER",
             "Elo": 1395.6385626321962,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1165,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -25,7 +25,7 @@
             "TeamName": "ALPHA",
             "MapName": "CHALET",
             "Elo": 1373.022889553734,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1246,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -35,7 +35,7 @@
             "TeamName": "ALPHA",
             "MapName": "CLUB",
             "Elo": 1349.8054169128052,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1245,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -45,7 +45,7 @@
             "TeamName": "ALPHA",
             "MapName": "CONS",
             "Elo": 1320.5041563216107,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1262,
             "MajorCount": 1,
             "RegionalCount": 1
@@ -55,7 +55,7 @@
             "TeamName": "ALPHA",
             "MapName": "KAFE",
             "Elo": 1341.3344355220797,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1254,
             "MajorCount": 1,
             "RegionalCount": 4
@@ -65,7 +65,7 @@
             "TeamName": "ALPHA",
             "MapName": "LABS",
             "Elo": 1282.0157973586017,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 1255,
             "MajorCount": 1,
             "RegionalCount": 1
@@ -75,7 +75,7 @@
             "TeamName": "ALPHA",
             "MapName": "OREGON",
             "Elo": 1352.0127906989762,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 251,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -85,7 +85,7 @@
             "TeamName": "ALPHA",
             "MapName": "SKYSCRAPER",
             "Elo": 1322.8777091994323,
-            "Region": "LATAM",
+            "Region": "SAL",
             "LastGameUpdated": 236,
             "MajorCount": 0,
             "RegionalCount": 2
@@ -495,7 +495,7 @@
             "TeamName": "CTY",
             "MapName": "BANK",
             "Elo": 1339.4660077205936,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1390,
             "MajorCount": 2,
             "RegionalCount": 7
@@ -505,7 +505,7 @@
             "TeamName": "CTY",
             "MapName": "BORDER",
             "Elo": 1400.4055257632751,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1386,
             "MajorCount": 1,
             "RegionalCount": 6
@@ -515,7 +515,7 @@
             "TeamName": "CTY",
             "MapName": "CHALET",
             "Elo": 1340.2137793916427,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1246,
             "MajorCount": 0,
             "RegionalCount": 5
@@ -525,7 +525,7 @@
             "TeamName": "CTY",
             "MapName": "CLUB",
             "Elo": 1344.775122715726,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1245,
             "MajorCount": 1,
             "RegionalCount": 4
@@ -535,7 +535,7 @@
             "TeamName": "CTY",
             "MapName": "CONS",
             "Elo": 1376.150049435716,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1391,
             "MajorCount": 2,
             "RegionalCount": 7
@@ -545,7 +545,7 @@
             "TeamName": "CTY",
             "MapName": "KAFE",
             "Elo": 1366.5872379571936,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1380,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -555,7 +555,7 @@
             "TeamName": "CTY",
             "MapName": "LABS",
             "Elo": 1347.0215087708834,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1384,
             "MajorCount": 0,
             "RegionalCount": 3
@@ -565,7 +565,7 @@
             "TeamName": "CTY",
             "MapName": "OREGON",
             "Elo": 1296.3620628743595,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 621,
             "MajorCount": 1,
             "RegionalCount": 2
@@ -575,7 +575,7 @@
             "TeamName": "CTY",
             "MapName": "SKYSCRAPER",
             "Elo": 1393.5883314959922,
-            "Region": "LATAM",
+            "Region": "NAL",
             "LastGameUpdated": 1385,
             "MajorCount": 0,
             "RegionalCount": 4
@@ -3521,5 +3521,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 15, 2025, 21:03"
+    "Date": "Feb 15, 2025, 21:06"
 }
