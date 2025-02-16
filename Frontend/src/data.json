@@ -27,8 +27,8 @@
         {
             "ID": 9,
             "TeamName": "FaZe",
-            "Elo": 1812.3266544999021,
-            "LastGameUpdated": 65,
+            "Elo": 1814.7452372885841,
+            "LastGameUpdated": 66,
             "Region": "SAL",
             "IsActive": 1
         },
@@ -123,8 +123,8 @@
         {
             "ID": 25,
             "TeamName": "BDS",
-            "Elo": 1808.3401150460438,
-            "LastGameUpdated": 63,
+            "Elo": 1805.9215322573618,
+            "LastGameUpdated": 66,
             "Region": "EML",
             "IsActive": 1
         },
@@ -297,5 +297,5 @@
             "IsActive": 1
         }
     ],
-    "Date": "Feb 16, 2025, 19:09"
+    "Date": "Feb 16, 2025, 22:58"
 }

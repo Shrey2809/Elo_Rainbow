@@ -214,11 +214,11 @@
             "ID": 119,
             "TeamName": "BDS",
             "MapName": "CHALET",
-            "Elo": 1580.8956387035646,
+            "Elo": 1595.0767995078677,
             "Region": "EML",
-            "LastGameUpdated": 37,
+            "LastGameUpdated": 66,
             "MajorCount": 3,
-            "RegionalCount": 12
+            "RegionalCount": 13
         },
         {
             "ID": 145,
@@ -234,11 +234,11 @@
             "ID": 487,
             "TeamName": "BDS",
             "MapName": "CONS",
-            "Elo": 1549.527684947273,
+            "Elo": 1529.1846231316854,
             "Region": "EML",
-            "LastGameUpdated": 45,
+            "LastGameUpdated": 66,
             "MajorCount": 4,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 114,
@@ -1434,11 +1434,11 @@
             "ID": 477,
             "TeamName": "FaZe",
             "MapName": "CHALET",
-            "Elo": 1446.053840636502,
+            "Elo": 1431.8726798321989,
             "Region": "SAL",
-            "LastGameUpdated": 685,
+            "LastGameUpdated": 66,
             "MajorCount": 2,
-            "RegionalCount": 2
+            "RegionalCount": 3
         },
         {
             "ID": 60,
@@ -1454,11 +1454,11 @@
             "ID": 105,
             "TeamName": "FaZe",
             "MapName": "CONS",
-            "Elo": 1582.9368159913724,
+            "Elo": 1603.27987780696,
             "Region": "SAL",
-            "LastGameUpdated": 50,
+            "LastGameUpdated": 66,
             "MajorCount": 3,
-            "RegionalCount": 9
+            "RegionalCount": 10
         },
         {
             "ID": 43,
@@ -3501,5 +3501,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 16, 2025, 19:09"
+    "Date": "Feb 16, 2025, 22:58"
 }
