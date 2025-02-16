@@ -201,16 +201,6 @@
             "RegionalCount": 7
         },
         {
-            "ID": 779,
-            "TeamName": "BDS",
-            "MapName": "BDS",
-            "Elo": 1522.5,
-            "Region": "EML",
-            "LastGameUpdated": 1324,
-            "MajorCount": 1,
-            "RegionalCount": 0
-        },
-        {
             "ID": 124,
             "TeamName": "BDS",
             "MapName": "BORDER",
@@ -2961,16 +2951,6 @@
             "RegionalCount": 6
         },
         {
-            "ID": 780,
-            "TeamName": "Secret",
-            "MapName": "BDS",
-            "Elo": 1477.5,
-            "Region": "EML",
-            "LastGameUpdated": 1324,
-            "MajorCount": 1,
-            "RegionalCount": 0
-        },
-        {
             "ID": 155,
             "TeamName": "Secret",
             "MapName": "BORDER",
@@ -3521,5 +3501,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 16, 2025, 00:32"
+    "Date": "Feb 16, 2025, 19:09"
 }
