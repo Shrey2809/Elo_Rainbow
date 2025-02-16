@@ -342,7 +342,7 @@ export default function EloTable() {
               <TableHead className="w-[22.5%] text-white text-center font-bold">
                 <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
                   <PopoverTrigger className="w-full cursor-pointer flex flex-row items-center justify-center pl-6">
-                    Region <img src={`/dropdown.svg`} className="w-5 h-5 mx-2" />
+                    Region <img src={`/dropdown.png`} className="w-4 h-4 mx-2" />
                   </PopoverTrigger>
                   <PopoverContent className="mt-2 bg-myDarkColor border-none rounded-xl drop-shadow-2xl">
                     <div className="flex flex-col">
@@ -375,7 +375,7 @@ export default function EloTable() {
                   key={data.id}
                   className="odd:bg-myColor even:bg-mySecondCellColor even:hover:bg-mySecondCellColor border-none hover:bg-none"
                 >
-                <TableCell className="w-[10%] text-center font-semibold">
+                <TableCell className="w-[10%] text-center font-bold text-2xl">
                   {data.rank}
                 </TableCell>
                 <TableCell className="w-[22.5%] text-center font-semibold">
@@ -393,15 +393,15 @@ export default function EloTable() {
                   <img
                     src={`/team_logos/${data.team.toLowerCase()}.png`}
                     alt={data.team}
-                    className="w-10 h-10 mx-auto drop-shadow-xl"
+                    className="w-12 h-12 md:w-14 md:h-14 mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
                       e.currentTarget.src = "/team_logos/no_org.png";
                     }}
                   />
-                  <span>{data.team}</span>
+                  {/* <span>{data.team}</span> */}
                 </TableCell>
-                <TableCell className="w-[22.5%] text-center font-semibold">
+                <TableCell className="w-[22.5%] text-center font-bold text-2xl">
                   {Math.round(data.elo)}
                 </TableCell>
                 <TableCell className="w-[22.5%] text-center font-semibold">
