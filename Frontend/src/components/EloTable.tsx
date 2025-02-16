@@ -382,7 +382,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-10 h-10 mx-auto drop-shadow-xl"
+                      className="w-8 h-8 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
@@ -408,7 +408,7 @@ export default function EloTable() {
                   <img 
                     src={`/regions/${data.region.toLowerCase()}.png`}
                     alt={data.region}
-                    className="w-10 h-fit mx-auto drop-shadow-xl"
+                    className="w-12 h-12 mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
                       e.currentTarget.src = "/regions/world.png";
