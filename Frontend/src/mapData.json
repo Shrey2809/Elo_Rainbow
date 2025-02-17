@@ -254,11 +254,11 @@
             "ID": 559,
             "TeamName": "BDS",
             "MapName": "LABS",
-            "Elo": 1569.5708257234578,
+            "Elo": 1543.748226608106,
             "Region": "EML",
-            "LastGameUpdated": 57,
+            "LastGameUpdated": 66,
             "MajorCount": 4,
-            "RegionalCount": 6
+            "RegionalCount": 7
         },
         {
             "ID": 778,
@@ -1474,11 +1474,11 @@
             "ID": 86,
             "TeamName": "FaZe",
             "MapName": "LABS",
-            "Elo": 1517.886743236169,
+            "Elo": 1543.7093423515207,
             "Region": "SAL",
-            "LastGameUpdated": 60,
+            "LastGameUpdated": 66,
             "MajorCount": 4,
-            "RegionalCount": 7
+            "RegionalCount": 8
         },
         {
             "ID": 584,
@@ -3501,5 +3501,5 @@
             "RegionalCount": 6
         }
     ],
-    "Date": "Feb 16, 2025, 22:58"
+    "Date": "Feb 17, 2025, 00:05"
 }
