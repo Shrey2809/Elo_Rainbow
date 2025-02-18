@@ -41,7 +41,7 @@ const TopBar = () => {
     : "elo";
 
   return (
-    <div className="flex flex-col items-center justify-center bg-myColor text-white font-sans pb-6">
+    <div className="flex flex-col items-center justify-center bg-myColor text-white font-sans">
       <div className="w-full max-w-7xl pt-4 gap-4">
         <h1 className="pt-6 md:pt-10 lg:pt-30 text-white text-xl md:text-3xl lg:text-6xl text-center py-8">
           <img
@@ -54,7 +54,7 @@ const TopBar = () => {
         {/* Dropdown for mobile */}
         <div className="md:hidden">
           <DropdownMenu>
-            <DropdownMenuTrigger className="w-fit bg-myDarkColor px-4 py-4 text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center font-sans font-semibold flex items-center justify-center drop-shadow-2xl">
+            <DropdownMenuTrigger className="w-fit h-fit bg-myDarkColor px-4 py-4 text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center font-sans font-semibold flex items-center justify-center drop-shadow-2xl">
               <span>
                 {currentTab === "elo" ? "Elo Rankings" :
                 currentTab === "map-elo" ? "Map Elo Rankings" : "Page"}
@@ -97,24 +97,6 @@ const TopBar = () => {
             >
               Map Elo Rankings
             </TabsTrigger>
-            {/* <TabsTrigger
-              value="si-probabilities"
-              className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-probabilities" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
-            >
-              SI Teams
-            </TabsTrigger> */}
-            {/* <TabsTrigger
-              value="si-picker"
-              className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "si-picker" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
-            >
-              SI Picker
-            </TabsTrigger>
-            <TabsTrigger
-              value="pickems"
-              className={`flex items-center justify-center px-2 md:px-4 py-2 rounded transition-colors text-sm md:text-xl ${currentTab === "pickems" ? "bg-myDarkColor text-white border-solid border-b-8 border-myThirdColor" : "bg-myColor text-gray-400"}`}
-            >
-              Pickems
-            </TabsTrigger> */}
           </TabsList>
         </Tabs>
       </div>

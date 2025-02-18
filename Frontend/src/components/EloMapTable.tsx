@@ -201,50 +201,61 @@ export default function EloTable() {
 
   const currentRows = filteredData.slice(startIndex, endIndex);
   const totalPages = Math.ceil(filteredData.length / rowsPerPage);
+  const [isVisible, setIsVisible] = useState(false);
 
   return (
-    <div className="w-full">
-      <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
-        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
-          <HoverCard openDelay={0} closeDelay={0}>
-            <HoverCardTrigger asChild>
-              <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
-              <u>Ranking breakdown</u>
-              </Button>
-            </HoverCardTrigger>
-            <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
-              <div className="flex justify-between space-x-4">
-                <div className="space-y-1">
-                  <div className="flex flex-col">
-                    {Object.keys(rank).map((rankName) => (
-                      <div
-                        key={rankName}
-                        className="font-semibold flex flex-row items-center justify-start mb-4"
-                      >
-                        <img
-                          src={`/ranks/${rankName.toLowerCase()}.png`}
-                          className="w-10 h-10 mr-4 drop-shadow-xl"
-                          loading="lazy"
-                          onError={(e) => {
-                            e.currentTarget.src = "/team_logos/no_org.png";
-                          }}
-                        />
-                        <span>
-                          {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
-                        </span>
-                      </div>
-                    ))}
+    <div className="w-screen md:w-full">
+      <div className="items-center flex flex-row justify-center font-normal font-sans pb-2">
+        <div className="flex flex-col items-center justify-center gap-2">
+          <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center ">
+            Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
+            <HoverCard openDelay={0} closeDelay={0}>
+              <HoverCardTrigger asChild>
+                <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
+                <u>Ranking breakdown</u>
+                </Button>
+              </HoverCardTrigger>
+              <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
+                <div className="flex justify-between space-x-4">
+                  <div className="space-y-1">
+                    <div className="flex flex-col">
+                      {Object.keys(rank).map((rankName) => (
+                        <div
+                          key={rankName}
+                          className="font-semibold flex flex-row items-center justify-start mb-4"
+                        >
+                          <img
+                            src={`/ranks/${rankName.toLowerCase()}.png`}
+                            className="w-10 h-10 mr-4 drop-shadow-xl"
+                            loading="lazy"
+                            onError={(e) => {
+                              e.currentTarget.src = "/team_logos/no_org.png";
+                            }}
+                          />
+                          <span>
+                            {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
                   </div>
                 </div>
-              </div>
-            </HoverCardContent>
-          </HoverCard>
-        </b>
+              </HoverCardContent>
+            </HoverCard>
+          </b>
+          </div>
+          <div className="w-fit">
+              <Button
+                onClick={() => setIsVisible(!isVisible)}
+                className="bg-mySecondaryColor text-black font-bold rounded justify-center hover:bg-mySecondaryColor"
+              >
+                {isVisible ? "Hide Filters" : "Show Filters"}
+              </Button>
+          </div>
         </div>
       </div>
         
-      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
+      {isVisible && <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
         <input
           type="text"
           placeholder="Search Team Name"
@@ -270,11 +281,12 @@ export default function EloTable() {
                 className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center hover:bg-myFifthColor">
           Clear
         </button>
-      </div>
+      </div>}
+
       <div className="overflow-x-auto">
-        <Table className="text-sm md:text-lg table-auto w-full">
+        <Table className="text-sm md:text-lg table-auto w-full m-0">
           <TableCaption className="text-white text-sm md:text-lg">
-          Matchups data and logos provided by Liquipedia. Created by {""}
+          {/* Matchups data and logos provided by Liquipedia. Created by {""}
           <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
             <div className="pagination p-4 flex items-center justify-center">
               <button
@@ -294,7 +306,8 @@ export default function EloTable() {
               >
                 Next
               </button>
-            </div>
+            </div> */}
+
           </TableCaption>
           <TableHeader className="bg-myDarkColor">
             <TableRow>
@@ -367,7 +380,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-10 h-10 mx-auto drop-shadow-xl"
+                      className="w-8 h-8 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
@@ -378,7 +391,7 @@ export default function EloTable() {
                   <img
                     src={`/team_logos/${data.team.toLowerCase()}.png`}
                     alt={data.team}
-                    className="w-12 h-12 md:w-14 md:h-14 mx-auto drop-shadow-xl"
+                    className="w-10 h-10 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
                       e.currentTarget.src = "/team_logos/no_org.png";
@@ -420,7 +433,7 @@ export default function EloTable() {
                   <img 
                       src={`/regions/${data.region.toLowerCase()}.png`}
                       alt={data.region}
-                      className="w-12 h-12 mx-auto drop-shadow-xl"
+                      className="w-10 h-10 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/regions/world.png";
@@ -431,6 +444,32 @@ export default function EloTable() {
             ))}
           </TableBody>
         </Table>
+      </div>
+
+      <div className="flex flex-col justify-between items-center ">
+        <div className="text-center">
+          Matchups data and logos provided by Liquipedia. Created by {" "}
+          <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
+        </div>
+        <div className="pagination p-4 flex flex-row items-center justify-center gap-8">
+          <button
+            onClick={() => handlePageChange(currentPage - 1)}
+            disabled={currentPage === 1}
+            className="px-4 py-2 bg-myDarkColor text-white rounded"
+          >
+            Previous
+          </button>
+          <span className="my-4">
+            Page {currentPage} of {totalPages}
+          </span>
+          <button
+            onClick={() => handlePageChange(currentPage + 1)}
+            disabled={currentPage === totalPages}
+            className="px-4 py-2 bg-myDarkColor text-white rounded"
+          >
+            Next
+          </button>
+        </div>
       </div>
     </div>
   );

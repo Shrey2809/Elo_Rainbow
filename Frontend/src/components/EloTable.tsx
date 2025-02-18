@@ -171,7 +171,7 @@ export default function EloTable() {
 
   const currentRows = filteredData.slice(startIndex, endIndex);
   const totalPages = Math.ceil(filteredData.length / rowsPerPage);
-  const is_display = false;
+  const [isVisible, setIsVisible] = useState(false);
 
   const CustomBar = (props: { x: number; y: number; width: number; height: number; logo: string }) => {
     const { x, y, width, height, logo } = props;
@@ -203,82 +203,81 @@ export default function EloTable() {
   };
 
   return (
-    <div className="w-full">
-      <div className="items-center flex flex-row justify-center font-normal font-sans md:gap-4 lg:gap-6 xl:gap-8">
-        <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  ">
-          Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
-          <HoverCard openDelay={0} closeDelay={0}>
-            <HoverCardTrigger asChild>
-              <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
-              <u>Ranking breakdown</u>
-              </Button>
-            </HoverCardTrigger>
-            <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
-              {/* <div className="text-center font-bold mb-4">Ranking Breakdown</div> */}
-              <div className="flex flex-row items-center gap-4">
-                <div className="flex justify-between space-x-4">
-                  <div className="space-y-1">
-                    <div className="flex flex-col">
-                      
-                        {Object.keys(rank).map((rankName) => (
-                        <div
-                          key={rankName}
-                          className="font-semibold flex flex-row items-start justify-start mb-2"
-                        >
-                          <img
-                            src={`/ranks/${rankName.toLowerCase()}.png`}
-                            className="w-12 h-12 mr-4 drop-shadow-xl"
-                            loading="lazy"
-                            onError={(e) => {
-                              e.currentTarget.src = "/team_logos/no_org.png";
-                            }}
-                          />
-                          <div className="items-center">
-                            {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
+    <div className="w-screen md:w-full">
+      
+      <div className="items-center flex flex-row justify-center font-normal font-sans pb-2">
+        <div className="flex flex-col items-center justify-center">
+          <div className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center pb-2">
+            Last updated <br/><b>{formattedDate} {timezoneAbbreviation}<br/>
+            <HoverCard openDelay={0} closeDelay={0}>
+              <HoverCardTrigger asChild>
+                <Button variant="link" className="text-myThirdColor text-2xl md:text-xl lg:text-2xl text-center  p-2  font-bold">
+                <u>Ranking breakdown</u>
+                </Button>
+              </HoverCardTrigger>
+              <HoverCardContent className="w-fit bg-myDarkColor text-white rounded-xl border-0 drop-shadow-2xl">
+                {/* <div className="text-center font-bold mb-4">Ranking Breakdown</div> */}
+                <div className="flex flex-row items-center gap-4">
+                  <div className="flex justify-between space-x-4">
+                    <div className="space-y-1">
+                      <div className="flex flex-col">
+                        
+                          {Object.keys(rank).map((rankName) => (
+                          <div
+                            key={rankName}
+                            className="font-semibold flex flex-row items-start justify-start mb-2"
+                          >
+                            <img
+                              src={`/ranks/${rankName.toLowerCase()}.png`}
+                              className="w-12 h-12 mr-4 drop-shadow-xl"
+                              loading="lazy"
+                              onError={(e) => {
+                                e.currentTarget.src = "/team_logos/no_org.png";
+                              }}
+                            />
+                            <div className="items-center">
+                              {Math.floor(rank[rankName as keyof typeof rank][0])} - {Math.floor(rank[rankName as keyof typeof rank][1])}
+                            </div>
                           </div>
-                        </div>
-                        ))}
+                          ))}
+                      </div>
                     </div>
                   </div>
+                  <div style={{ width: 600, height: 350}}>
+                    <ResponsiveContainer width="100%" height="100%">
+                      <BarChart data={rankCounts} barSize={100}>
+                        <Bar
+                          dataKey="count"
+                          fill="none"
+                          shape={(props: any) => (
+                            <CustomBar {...props} logo={rankCounts[props.index]?.logo} />
+                          )}
+                          isAnimationActive={false}
+                        />
+                      </BarChart>
+                    </ResponsiveContainer>
+                  </div>
                 </div>
-                <div style={{ width: 600, height: 350}}>
-                  <ResponsiveContainer width="100%" height="100%">
-                    <BarChart data={rankCounts} barSize={100}>
-                      <Bar
-                        dataKey="count"
-                        fill="none"
-                        shape={(props: any) => (
-                          <CustomBar {...props} logo={rankCounts[props.index]?.logo} />
-                        )}
-                        isAnimationActive={false}
-                      />
-                    </BarChart>
-                  </ResponsiveContainer>
-                </div>
-              </div>
-            </HoverCardContent>
-          </HoverCard>
-        </b>
-        </div>
+              </HoverCardContent>
+            </HoverCard></b>
+          
+          </div>
+          <div className="w-fit">
+            <Button
+              onClick={() => setIsVisible(!isVisible)}
+              className="bg-mySecondaryColor text-black font-bold rounded justify-center hover:bg-mySecondaryColor"
+            >
+              {isVisible ? "Hide Filters" : "Show Filters"}
+            </Button>
+          </div>
+        </div>               
       </div>
       
-      { is_display && <div style={{ width: "100%", height: 500}}>
-      <ResponsiveContainer width="100%" height="100%">
-        <BarChart data={rankCounts} barSize={100}>
-          <Tooltip />
-          <Bar
-            dataKey="count"
-            fill="none"
-            shape={(props: any) => (
-              <CustomBar {...props} logo={rankCounts[props.index]?.logo} />
-            )}
-          />
-        </BarChart>
-      </ResponsiveContainer>
-      </div> }
 
 
-      <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
+
+      { isVisible && <div className="p-4 flex flex-col md:flex-row gap-4 font-sans items-center">
+        
         <input
           type="text"
           placeholder="Search Team Name"
@@ -297,13 +296,13 @@ export default function EloTable() {
                 className="w-32 py-2 mb-2 bg-myFourthColor text-black font-bold rounded justify-center hover:bg-myFifthColor">
           Clear
         </button>
-      </div>
+      </div>}
 
-      <div className="overflow-x-auto justify-center items-center align-middle">
+      <div className="overflow-x-auto justify-center items-center align-middle sm:m-0 ">
         <div className="items-center">
         <Table className="text-sm md:text-lg table-auto w-full justify-between">
           <TableCaption className="text-white text-sm md:text-lg">
-          Matchups data and logos provided by Liquipedia. Created by {""}
+          Matchups data and logos provided by Liquipedia. Created by {" "}
           <a href="https://x.com/ItzAxon" className="text-myFourthColor underline">Axon</a>
             <div className="pagination p-4 flex items-center justify-center">
               <button
@@ -382,7 +381,7 @@ export default function EloTable() {
                   <img
                       src={`/ranks/${data.rankName.toLowerCase()}.png`}
                       alt={data.team}
-                      className="w-8 h-8 mx-auto drop-shadow-xl"
+                      className="w-8 h-8 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                       loading="lazy"
                       onError={(e) => {
                         e.currentTarget.src = "/team_logos/no_org.png";
@@ -393,13 +392,12 @@ export default function EloTable() {
                   <img
                     src={`/team_logos/${data.team.toLowerCase()}.png`}
                     alt={data.team}
-                    className="w-12 h-12 md:w-14 md:h-14 mx-auto drop-shadow-xl"
+                    className="w-10 h-10 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
                       e.currentTarget.src = "/team_logos/no_org.png";
                     }}
                   />
-                  {/* <span>{data.team}</span> */}
                 </TableCell>
                 <TableCell className="w-[22.5%] text-center font-bold text-2xl">
                   {Math.round(data.elo)}
@@ -408,7 +406,7 @@ export default function EloTable() {
                   <img 
                     src={`/regions/${data.region.toLowerCase()}.png`}
                     alt={data.region}
-                    className="w-12 h-12 mx-auto drop-shadow-xl"
+                    className="w-10 h-10 md:w-12 md:h-12 mx-auto drop-shadow-xl"
                     loading="lazy"
                     onError={(e) => {
                       e.currentTarget.src = "/regions/world.png";
@@ -420,7 +418,10 @@ export default function EloTable() {
           </TableBody>
         </Table>
         </div>
+
+
       </div>
+
     </div>
   );
 }
