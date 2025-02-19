@@ -353,7 +353,7 @@ export default function EloTable() {
                           <img 
                             src={`/regions/${region.toLowerCase()}.png`}
                             alt={region}
-                            className="w-14 h-fit mx-auto drop-shadow-xl"
+                            className="w-14 h-14 mx-auto drop-shadow-xl"
                             loading="lazy"
                             onError={(e) => {
                               e.currentTarget.src = "/regions/world.png";
